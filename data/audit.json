@@ -1,0 +1,4611 @@
+[
+  {
+    "id": "acting-proverbs",
+    "title": "Acting Proverbs",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "acting-rhymes",
+    "title": "Acting Rhymes",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "adjectives",
+    "title": "Adjectives",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "paper",
+      "pencils"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "the-adventurers",
+    "title": "The Adventurers",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "aesop-s-mission",
+    "title": "Aesop's Mission",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "alphabet-games",
+    "title": "Alphabet Games",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "the-artists-menagerie",
+    "title": "The Artists' Menagerie",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "paper",
+      "pencils"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "blind-man-s-buff",
+    "title": "Blind Man's Buff",
+    "category": "physical-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "blindfold"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Game formation illustration would help"
+  },
+  {
+    "id": "blind-postman",
+    "title": "Blind Postman",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "chairs"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "blowing-out-the-candle",
+    "title": "Blowing Out the Candle",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "blindfold",
+      "candle"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "bouts-rim-s",
+    "title": "Bouts Rim\u00e9s",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "paper",
+      "pencils"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "buff-says-baff",
+    "title": "Buff Says Baff",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "stick or staff"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "capping-verses",
+    "title": "Capping Verses",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "paper",
+      "pencils"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "charades",
+    "title": "Charades",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "optional costumes"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "clairvoyant",
+    "title": "Clairvoyant",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-comic-concert",
+    "title": "The Comic Concert",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "consequences",
+    "title": "Consequences",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "paper",
+      "pencils"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "conveyances",
+    "title": "Conveyances",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "crambo",
+    "title": "Crambo",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "cross-questions-and-crooked-answers",
+    "title": "Cross Questions and Crooked Answers",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "cupid-is-coming",
+    "title": "Cupid Is Coming",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "the-cushion-dance",
+    "title": "The Cushion Dance",
+    "category": "physical-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "cushion or hassock"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Dance formation diagram would help"
+  },
+  {
+    "id": "definitions",
+    "title": "Definitions",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "paper",
+      "pencils"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "dumb-crambo",
+    "title": "Dumb Crambo",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-elements",
+    "title": "The Elements",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "soft ball or knotted handkerchief"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-farmyard",
+    "title": "The Farmyard",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-feather",
+    "title": "The Feather",
+    "category": "physical-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "large feather"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "finding-the-ring",
+    "title": "Finding the Ring",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "flying",
+    "title": "Flying",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "forfeits",
+    "title": "Forfeits",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-grand-mufti",
+    "title": "The Grand Mufti",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "hot-boiled-beans",
+    "title": "Hot Boiled Beans",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "small object"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "hot-cockles",
+    "title": "Hot Cockles",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "how-do-you-like-your-neighbour",
+    "title": "How Do You Like Your Neighbour?",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "chairs"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "how-when-and-where",
+    "title": "How, When, and Where?",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "hunt-the-ring",
+    "title": "Hunt the Ring",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "long cord",
+      "ring or thimble"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "hunt-the-slipper",
+    "title": "Hunt the Slipper",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "slipper"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "hunt-the-whistle",
+    "title": "Hunt the Whistle",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "small whistle"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Small whistle \u2014 available from toy/craft stores",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "i-apprenticed-my-son",
+    "title": "I Apprenticed My Son",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "i-love-my-love",
+    "title": "I Love My Love",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "jack-s-alive",
+    "title": "Jack's Alive",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "thin stick or taper"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-jolly-miller",
+    "title": "The Jolly Miller",
+    "category": "physical-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "magical-music",
+    "title": "Magical Music",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "piano or instrument"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-magic-answer",
+    "title": "The Magic Answer",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-magic-wand",
+    "title": "The Magic Wand",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "stick or wand"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-minister-s-cat",
+    "title": "The Minister's Cat",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "mixed-up-poetry",
+    "title": "Mixed-Up Poetry",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "paper",
+      "pencils"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "musical-chairs",
+    "title": "Musical Chairs",
+    "category": "physical-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "chairs",
+      "music"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Game formation illustration would help"
+  },
+  {
+    "id": "the-object-game",
+    "title": "The Object Game",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-old-soldier",
+    "title": "The Old Soldier",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "oranges-and-lemons",
+    "title": "Oranges and Lemons",
+    "category": "physical-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "pairs",
+    "title": "Pairs",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-pork-butcher",
+    "title": "The Pork Butcher",
+    "category": "physical-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "postman-s-knock",
+    "title": "Postman's Knock",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "proverbs",
+    "title": "Proverbs",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "russian-gossip",
+    "title": "Russian Gossip",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-schoolmaster",
+    "title": "The Schoolmaster",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "shadow-buff",
+    "title": "Shadow Buff",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "lamp",
+      "white sheet"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Shadow/silhouette setup needs a diagram"
+  },
+  {
+    "id": "simon-says",
+    "title": "Simon Says",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "spelling-bee",
+    "title": "Spelling Bee",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "the-stage-coach",
+    "title": "The Stage Coach",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "chairs"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "tableau-vivant",
+    "title": "Tableau Vivant",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "costumes",
+      "props"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "telegrams",
+    "title": "Telegrams",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "paper",
+      "pencils"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "throwing-the-smile",
+    "title": "Throwing the Smile",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-travelling-alphabet",
+    "title": "The Travelling Alphabet",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "twirl-the-trencher",
+    "title": "Twirl the Trencher",
+    "category": "physical-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "small plate or disc"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Physical game formation and positions would benefit from illustration"
+  },
+  {
+    "id": "buzz",
+    "title": "Buzz",
+    "category": "word-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "the-sea-king",
+    "title": "The Sea King",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "the-family-coach",
+    "title": "The Family Coach",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "drop-the-handkerchief",
+    "title": "Drop the Handkerchief",
+    "category": "physical-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "handkerchief"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Physical game formation and positions would benefit from illustration"
+  },
+  {
+    "id": "cat-and-mouse",
+    "title": "Cat and Mouse",
+    "category": "physical-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "blindfold"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Physical game formation and positions would benefit from illustration"
+  },
+  {
+    "id": "magic-music",
+    "title": "Magic Music",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "piano"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Parlor game rules are conveyed well in text alone"
+  },
+  {
+    "id": "puss-in-the-corner",
+    "title": "Puss in the Corner",
+    "category": "physical-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Physical game formation and positions would benefit from illustration"
+  },
+  {
+    "id": "going-to-jerusalem",
+    "title": "Going to Jerusalem",
+    "category": "physical-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "chairs",
+      "music"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Game formation illustration would help"
+  },
+  {
+    "id": "mr-o-callaghan-s-party",
+    "title": "Mr. O'Callaghan's Party",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Parlor game rules are conveyed well in text alone"
+  },
+  {
+    "id": "the-witch-s-spell",
+    "title": "The Witch's Spell",
+    "category": "word-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "spinning-the-plate",
+    "title": "Spinning the Plate",
+    "category": "physical-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "metal plate or coin"
+    ],
+    "playability": "playable_now",
+    "playability_note": "Minor equipment needed: metal plate or coin",
+    "illustration": "needs_generated",
+    "illustration_note": "Physical game formation and positions would benefit from illustration"
+  },
+  {
+    "id": "twenty-questions",
+    "title": "Twenty Questions",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "winking",
+    "title": "Winking",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "chairs"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "trades",
+    "title": "Trades",
+    "category": "word-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "blind-man-s-wand",
+    "title": "Blind Man's Wand",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "stick or wand"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "the-memory-game",
+    "title": "The Memory Game",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "tray",
+      "20+ small objects",
+      "cloth"
+    ],
+    "playability": "playable_now",
+    "playability_note": "Minor equipment needed: 20+ small objects",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "the-sculptor",
+    "title": "The Sculptor",
+    "category": "physical-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Physical game formation and positions would benefit from illustration"
+  },
+  {
+    "id": "the-newspaper-game",
+    "title": "The Newspaper Game",
+    "category": "word-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "newspaper"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "the-interrupted-letters",
+    "title": "The Interrupted Letters",
+    "category": "word-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "paper",
+      "pencils"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "odd-man-out",
+    "title": "Odd Man Out",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "famous-people",
+    "title": "Famous People",
+    "category": "word-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "dumb-motions",
+    "title": "Dumb Motions",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "the-game-of-animals",
+    "title": "The Game of Animals",
+    "category": "physical-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Physical game formation and positions would benefit from illustration"
+  },
+  {
+    "id": "the-game-of-proverbs",
+    "title": "The Game of Proverbs",
+    "category": "word-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "bob-cherry",
+    "title": "Bob Cherry",
+    "category": "physical-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "cherry on string"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "battledore-and-shuttlecock",
+    "title": "Battledore and Shuttlecock",
+    "category": "physical-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "battledore paddles",
+      "shuttlecock"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Battledore and shuttlecock \u2014 available from sports/toy stores",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "cup-and-ball",
+    "title": "Cup and Ball",
+    "category": "physical-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "cup and ball toy"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Cup and ball toy \u2014 available from magic/toy suppliers",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "fox-and-geese",
+    "title": "Fox and Geese",
+    "category": "board-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "fox and geese board",
+      "pieces"
+    ],
+    "playability": "craftable",
+    "playability_note": "Fox and geese board \u2014 draw on paper or cardboard",
+    "illustration": "has_original",
+    "illustration_note": "Board game layout illustrated in source book"
+  },
+  {
+    "id": "knucklebones",
+    "title": "Knucklebones",
+    "category": "physical-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "5 knucklebones or jacks"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Jacks set \u2014 available from toy stores; traditional knucklebones from butcher",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "nine-men-s-morris",
+    "title": "Nine Men's Morris",
+    "category": "board-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "morris board",
+      "9 pieces each"
+    ],
+    "playability": "craftable",
+    "playability_note": "Nine Men's Morris board \u2014 draw on paper or cardboard",
+    "illustration": "has_original",
+    "illustration_note": "Board game layout illustrated in source book"
+  },
+  {
+    "id": "frog-in-the-middle",
+    "title": "Frog in the Middle",
+    "category": "physical-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "hand-coddem",
+    "title": "Hand (Coddem)",
+    "category": "parlor-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "small coin or pebble"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "red-cap-and-black-cap",
+    "title": "Red-Cap and Black-Cap",
+    "category": "parlor-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "trussed-fowls",
+    "title": "Trussed Fowls",
+    "category": "physical-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "broomstick"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "how-where-and-when",
+    "title": "How Where and When",
+    "category": "word-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "the-four-elements",
+    "title": "The Four Elements",
+    "category": "parlor-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "knotted handkerchief"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "punch-and-judy",
+    "title": "Punch and Judy",
+    "category": "parlor-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "Punch and Judy puppets"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Punch and Judy puppet set \u2014 specialist theatrical puppets; purchasable from puppet suppliers",
+    "illustration": "has_original",
+    "illustration_note": "Puppet show illustrated in source book"
+  },
+  {
+    "id": "the-flying-shilling",
+    "title": "The Flying Shilling",
+    "category": "magic-trick",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "shilling",
+      "table"
+    ],
+    "playability": "playable_now",
+    "playability_note": "Minor equipment needed: shilling",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-cut-string-restored",
+    "title": "The Cut String Restored",
+    "category": "magic-trick",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "string",
+      "scissors"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-magic-rings",
+    "title": "The Magic Rings",
+    "category": "magic-trick",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "linking rings"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Linking rings \u2014 magic trick apparatus; available from magic suppliers",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-three-cups",
+    "title": "The Three Cups",
+    "category": "magic-trick",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "3 cups",
+      "small balls"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-divided-garden",
+    "title": "The Divided Garden",
+    "category": "puzzle",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "paper",
+      "pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Puzzle diagram illustrated in source book"
+  },
+  {
+    "id": "the-nuns-puzzle",
+    "title": "The Nuns Puzzle",
+    "category": "puzzle",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "20 tokens"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Puzzle diagram illustrated in source book"
+  },
+  {
+    "id": "the-fountain-puzzle",
+    "title": "The Fountain Puzzle",
+    "category": "puzzle",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "paper",
+      "pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Puzzle diagram illustrated in source book"
+  },
+  {
+    "id": "the-row-of-halfpence",
+    "title": "The Row of Halfpence",
+    "category": "puzzle",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "10 coins"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Puzzle diagram illustrated in source book"
+  },
+  {
+    "id": "the-cardboard-puzzle",
+    "title": "The Cardboard Puzzle",
+    "category": "puzzle",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "stiff paper or card",
+      "scissors"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Puzzle diagram illustrated in source book"
+  },
+  {
+    "id": "the-handcuffs",
+    "title": "The Handcuffs",
+    "category": "magic-trick",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "two loops of string"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "fire-eating",
+    "title": "Fire Eating",
+    "category": "magic-trick",
+    "source_book": "Every Boy's Book",
+    "equipment": [],
+    "playability": "dangerous",
+    "playability_note": "Fire eating with burning alcohol on tongue \u2014 serious burn/fire risk, do not attempt",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "spelicans",
+    "title": "Spelicans",
+    "category": "physical-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "set of spelicans"
+    ],
+    "playability": "extinct_equipment",
+    "playability_note": "Spelican set \u2014 Victorian ivory/bone stick game requiring precision manufacture; straws are a rough modern substitute but authentic spelicans are extinct",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "schimmel",
+    "title": "Schimmel",
+    "category": "card-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "standard deck",
+      "dice",
+      "tokens"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Card game illustrated in source book"
+  },
+  {
+    "id": "a-post-office-perplexity",
+    "title": "A Post-Office Perplexity",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-cyclists-feast",
+    "title": "The Cyclists' Feast",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-widow-s-legacy",
+    "title": "The Widow's Legacy",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "indiscriminate-charity",
+    "title": "Indiscriminate Charity",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "a-deal-in-apples",
+    "title": "A Deal in Apples",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-two-aeroplanes",
+    "title": "The Two Aeroplanes",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "buying-presents",
+    "title": "Buying Presents",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-junior-clerk-s-puzzle",
+    "title": "The Junior Clerk's Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-millionaire-s-perplexity",
+    "title": "The Millionaire's Perplexity",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Puzzle diagram or arrangement illustration would help"
+  },
+  {
+    "id": "the-christmas-boxes",
+    "title": "The Christmas Boxes",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "square-money",
+    "title": "Square Money",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-puzzling-money-boxes",
+    "title": "The Puzzling Money-Boxes",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-pigs-of-widow-green",
+    "title": "The Pigs of Widow Green",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "paper",
+      "pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-squire-s-puzzle",
+    "title": "The Squire's Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "chessboard or paper grid"
+    ],
+    "playability": "craftable",
+    "playability_note": "Grid \u2014 draw on paper",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-garden-puzzle",
+    "title": "The Garden Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "paper",
+      "pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-broken-chessboard",
+    "title": "The Broken Chessboard",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "paper grid",
+      "scissors"
+    ],
+    "playability": "craftable",
+    "playability_note": "paper grid \u2014 draw on paper",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-patchwork-quilt",
+    "title": "The Patchwork Quilt",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "a-puzzling-legacy",
+    "title": "A Puzzling Legacy",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-skipper-and-the-sea-serpent",
+    "title": "The Skipper and the Sea-serpent",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-merchant-s-puzzle",
+    "title": "The Merchant's Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-barrel-of-beer",
+    "title": "The Barrel of Beer",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "paper to track amounts"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-hat-peg-puzzle",
+    "title": "The Hat-peg Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "8 tokens"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-rook-s-tour",
+    "title": "The Rook's Tour",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "chessboard or paper grid"
+    ],
+    "playability": "craftable",
+    "playability_note": "Grid \u2014 draw on paper",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-dorcas-society-puzzle",
+    "title": "The Dorcas Society Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-nine-counters",
+    "title": "The Nine Counters",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "9 numbered counters"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-dissection-of-viereck-s-square",
+    "title": "The Dissection of Viereck's Square",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "paper",
+      "scissors"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-archery-puzzle",
+    "title": "The Archery Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-fare-box-puzzle",
+    "title": "The Fare Box Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-lost-number",
+    "title": "The Lost Number",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-fishing-puzzle",
+    "title": "The Fishing Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-staircase-puzzle",
+    "title": "The Staircase Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-three-prisoners",
+    "title": "The Three Prisoners",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Puzzle diagram or arrangement illustration would help"
+  },
+  {
+    "id": "the-flower-beds-puzzle",
+    "title": "The Flower Beds Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "paper",
+      "pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-snail-puzzle",
+    "title": "The Snail Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Puzzle diagram or arrangement illustration would help"
+  },
+  {
+    "id": "the-perplexed-cellarman",
+    "title": "The Perplexed Cellarman",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "24 tokens"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-buried-treasure",
+    "title": "The Buried Treasure",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-monk-and-the-pilgrim",
+    "title": "The Monk and the Pilgrim",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "digital-roots",
+    "title": "Digital Roots",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-farmer-s-fence",
+    "title": "The Farmer's Fence",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-puzzles-of-domenico-rosario",
+    "title": "The Puzzles of Domenico Rosario",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "paper",
+      "pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "bishops-on-a-chessboard",
+    "title": "Bishops on a Chessboard",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "chessboard or paper grid"
+    ],
+    "playability": "craftable",
+    "playability_note": "Grid \u2014 draw on paper",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-puzzlists-holiday",
+    "title": "The Puzzlists' Holiday",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "paper",
+      "pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-curious-housekeeper-s-puzzle",
+    "title": "The Curious Housekeeper's Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-see-saw-puzzle",
+    "title": "The See-Saw Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-spider-and-the-fly",
+    "title": "The Spider and the Fly",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "paper",
+      "pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "towers-of-hanoi",
+    "title": "Towers of Hanoi",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "3 pegs",
+      "stacked discs"
+    ],
+    "playability": "craftable",
+    "playability_note": "Stacked discs \u2014 make from paper/cardboard",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-eight-queens",
+    "title": "The Eight Queens",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "chessboard or paper grid"
+    ],
+    "playability": "craftable",
+    "playability_note": "Grid \u2014 draw on paper",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-mouse-and-the-cat",
+    "title": "The Mouse and the Cat",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "13 tokens"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-miser-s-puzzle",
+    "title": "The Miser's Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-card-puzzle",
+    "title": "The Card Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "standard deck (Ace to 9)"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-farmer-s-sheep",
+    "title": "The Farmer's Sheep",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-fly-s-tour",
+    "title": "The Fly's Tour",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "paper",
+      "pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-reve-s-puzzle",
+    "title": "The Reve's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "stacked tokens"
+    ],
+    "playability": "craftable",
+    "playability_note": "Stacked tokens \u2014 make from paper/cardboard",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-pardoner-s-puzzle",
+    "title": "The Pardoner's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "paper",
+      "pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-clerk-of-oxenford-s-puzzle",
+    "title": "The Clerk of Oxenford's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "paper",
+      "scissors"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-host-s-puzzle",
+    "title": "The Host's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Puzzle diagram or arrangement illustration would help"
+  },
+  {
+    "id": "the-tapiser-s-puzzle",
+    "title": "The Tapiser's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "paper",
+      "scissors"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-carpenter-s-puzzle",
+    "title": "The Carpenter's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-miller-s-puzzle",
+    "title": "The Miller's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "9 tokens"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-knight-s-puzzle",
+    "title": "The Knight's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-wife-of-bath-s-riddles",
+    "title": "The Wife of Bath's Riddles",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-puzzle-of-the-squire-s-yeoman",
+    "title": "The Puzzle of the Squire's Yeoman",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "9 arrows or tokens"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-man-of-law-s-puzzle",
+    "title": "The Man of Law's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "8 numbered tokens",
+      "3\u00d73 grid"
+    ],
+    "playability": "craftable",
+    "playability_note": "Grid \u2014 draw on paper",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-monk-s-puzzle",
+    "title": "The Monk's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "8 tokens"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-shipman-s-puzzle",
+    "title": "The Shipman's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-haberdasher-s-puzzle",
+    "title": "The Haberdasher's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "paper",
+      "scissors"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-friar-s-puzzle",
+    "title": "The Friar's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "8 tokens"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-puzzle-of-the-doctor-of-physic",
+    "title": "The Puzzle of the Doctor of Physic",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "balance scales",
+      "small weights"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Balance scales \u2014 available from educational/kitchen suppliers",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-nun-s-puzzle",
+    "title": "The Nun's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "18 labeled cards"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Puzzle diagram or arrangement illustration would help"
+  },
+  {
+    "id": "the-ploughman-s-puzzle",
+    "title": "The Ploughman's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "paper",
+      "pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-weaver-s-puzzle",
+    "title": "The Weaver's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "paper",
+      "scissors"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-minstrel-s-puzzle",
+    "title": "The Minstrel's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-cook-s-puzzle",
+    "title": "The Cook's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-puzzles-of-the-black-knight",
+    "title": "The Puzzles of the Black Knight",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "small chessboard or paper grid"
+    ],
+    "playability": "craftable",
+    "playability_note": "Grid \u2014 draw on paper",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-sompnour-s-puzzle",
+    "title": "The Sompnour's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "10 tokens"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-problem-of-the-governor-s-wife",
+    "title": "The Problem of the Governor's Wife",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Puzzle diagram or arrangement illustration would help"
+  },
+  {
+    "id": "the-compasses-puzzle",
+    "title": "The Compasses Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "compass",
+      "ruler",
+      "paper"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Drawing compass \u2014 available from stationery shops",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-dutchmens-wives",
+    "title": "The Dutchmen's Wives",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-four-frogs",
+    "title": "The Four Frogs",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "4 counters",
+      "paper grid"
+    ],
+    "playability": "craftable",
+    "playability_note": "paper grid \u2014 draw on paper",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-mutilated-chessboard",
+    "title": "The Mutilated Chessboard",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "chessboard",
+      "dominoes"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Chess set \u2014 widely available",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-prisoners-escape",
+    "title": "The Prisoner's Escape",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "pencil",
+      "paper"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-converted-miser",
+    "title": "The Converted Miser",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-fifteen-puzzle",
+    "title": "The Fifteen Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "15-tile sliding puzzle"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "15-tile sliding puzzle \u2014 still widely available as a toy/novelty",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-landlords-puzzle",
+    "title": "The Landlord's Puzzle",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "10 tokens"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "finding-a-chosen-card-by-mathematics",
+    "title": "Finding a Chosen Card by Mathematics",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "standard deck of cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-four-kings-together-by-cut",
+    "title": "The Four Kings Together by Cut",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "standard deck of cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "forcing-a-card",
+    "title": "Forcing a Card",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "standard deck of cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "guess-four-thought-of-cards",
+    "title": "Guess Four Thought-of Cards",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "standard deck of cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "coin-through-the-handkerchief",
+    "title": "Coin Through the Handkerchief",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "coin",
+      "handkerchief"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-vanishing-knot",
+    "title": "The Vanishing Knot",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "handkerchief"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-mysterious-addition-of-coins",
+    "title": "The Mysterious Addition of Coins",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "coins"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-cups-and-balls",
+    "title": "The Cups and Balls",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "3 cups",
+      "4 small balls",
+      "2 large final loads"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Magic \"loads\" (hidden bundles) \u2014 sleight of hand apparatus; available from magic suppliers",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "telling-the-hour-on-a-pocket-watch",
+    "title": "Telling the Hour on a Pocket Watch",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "pocket watch"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Pocket watch \u2014 antique/specialist item; less common today",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-domino-trick",
+    "title": "The Domino Trick",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "standard domino set"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Domino set \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-ascending-card",
+    "title": "The Ascending Card",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "deck of cards",
+      "wine glass",
+      "fine thread"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard card deck \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-dancing-sailor-figure",
+    "title": "The Dancing Sailor Figure",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "stiff paper",
+      "fine thread",
+      "button"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "second-sight-act",
+    "title": "Second Sight Act",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-linking-rings",
+    "title": "The Linking Rings",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "set of 8 metal rings"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Set of 8 metal linking rings \u2014 magic trick apparatus; available from magic suppliers",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-inexhaustible-bottle",
+    "title": "The Inexhaustible Bottle",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "specially divided bottle"
+    ],
+    "playability": "extinct_equipment",
+    "playability_note": "Specially divided bottle \u2014 Victorian magic apparatus with internal chambers, no modern equivalent",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-egg-bag",
+    "title": "The Egg Bag",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "cloth bag",
+      "eggs"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "ring-through-the-handkerchief",
+    "title": "Ring Through the Handkerchief",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "ring",
+      "handkerchief"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-magic-wand-coin-vanish",
+    "title": "The Magic Wand Coin Vanish",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "coin",
+      "magic wand or pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-butterfly-trick",
+    "title": "The Butterfly Trick",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "tissue paper",
+      "fine wire"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Fine wire \u2014 hardware/craft store item",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "invisible-writing-revealed",
+    "title": "Invisible Writing Revealed",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "lemon juice",
+      "paper",
+      "candle heat"
+    ],
+    "playability": "playable_now",
+    "playability_note": "Classic lemon juice invisible ink \u2014 household materials; use candle with normal fire safety",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-torn-and-restored-card",
+    "title": "The Torn and Restored Card",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "standard deck",
+      "duplicate card"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-indian-sand-trick",
+    "title": "The Indian Sand Trick",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "treated sand",
+      "water",
+      "bowl"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Chemically treated sand \u2014 prepared magic prop; available from magic suppliers or DIY",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-obedient-ball",
+    "title": "The Obedient Ball",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "rubber ball",
+      "dark thread"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "carrying-fire-in-the-hands",
+    "title": "Carrying Fire in the Hands",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "surgical spirit",
+      "damp hands"
+    ],
+    "playability": "dangerous",
+    "playability_note": "Burning surgical spirit (alcohol) on hands \u2014 fire hazard; requires expert fire safety measures",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-three-card-trick",
+    "title": "The Three-Card Trick",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "3 playing cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard playing cards \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-passe-passe-bottle-and-glass",
+    "title": "The Passe-Passe Bottle and Glass",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "2 cardboard tubes",
+      "special bottle and glass"
+    ],
+    "playability": "extinct_equipment",
+    "playability_note": "Special bottle and glass set \u2014 Victorian magic apparatus, custom-made for the trick",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-bleeding-thumb",
+    "title": "The Bleeding Thumb",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "red vegetable juice or dye"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-hat-trick-production",
+    "title": "The Hat Trick Production",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "top hat",
+      "various small objects"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Top hat \u2014 theatrical/costume item; rentable or purchasable from costume shops",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-rising-cards-hair-method",
+    "title": "The Rising Cards (Hair Method)",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "deck of cards",
+      "wine glass",
+      "fine thread"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard card deck \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-magic-sword-card-catch",
+    "title": "The Magic Sword Card Catch",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "deck of cards",
+      "prop sword or letter knife"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Prop sword / letter knife \u2014 theatrical prop or novelty item",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-whist-trick-with-prepared-pack",
+    "title": "The Whist Trick with Prepared Pack",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "arranged deck of cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard card deck \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-magic-cover-vanish",
+    "title": "The Magic Cover Vanish",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "coin",
+      "cup or cover",
+      "handkerchief"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "ring-through-the-table",
+    "title": "Ring Through the Table",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "finger ring"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-egg-and-handkerchief",
+    "title": "The Egg and Handkerchief",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "blown egg",
+      "handkerchief"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "coin-to-orange",
+    "title": "Coin to Orange",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "marked coin",
+      "orange",
+      "knife"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Any coin marked with a scratch \u2014 household",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-magic-mill",
+    "title": "The Magic Mill",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "small magic mill toy"
+    ],
+    "playability": "extinct_equipment",
+    "playability_note": "The Magic Mill toy \u2014 specific Victorian manufactured mechanical toy, extinct",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-mysterious-funnel",
+    "title": "The Mysterious Funnel",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "metal funnel",
+      "water"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Metal funnel \u2014 hardware/kitchen store item",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-electric-bell",
+    "title": "The Electric Bell",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "bell",
+      "hidden battery circuit"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Concealed battery circuit \u2014 Victorian electrical apparatus; modern equivalent needs basic electronics knowledge",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "bottle-imps",
+    "title": "Bottle Imps",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "weighted bottles"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-grandmothers-necklace",
+    "title": "The Grandmother's Necklace",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "beaded necklace",
+      "string"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "chinese-pictures-water-trick",
+    "title": "Chinese Pictures (Water Trick)",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "rice paper",
+      "chemical solutions"
+    ],
+    "playability": "craftable",
+    "playability_note": "Wax-resist watercolor technique \u2014 materials from art/craft stores; original may have used more dangerous chemicals",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-paper-pellet-mind-reading",
+    "title": "The Paper Pellet Mind-Reading",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "paper pellets",
+      "pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "whist",
+    "title": "Whist",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "bridge",
+    "title": "Bridge",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "score pad"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "euchre",
+    "title": "Euchre",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "24-card euchre deck (9 through Ace, 4 suits)"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Euchre deck \u2014 configure from standard deck or buy",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "cribbage",
+    "title": "Cribbage",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "cribbage board with pegs"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "piquet",
+    "title": "Piquet",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "32-card Piquet deck (7 through Ace in 4 suits)"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Piquet deck \u2014 configure from standard deck or buy",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "bezique",
+    "title": "Bezique",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "64-card double Piquet deck"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Piquet deck \u2014 configure from standard deck or buy",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "cassino",
+    "title": "Cassino",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "ecarte",
+    "title": "Ecarte",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "32-card Piquet deck"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Piquet deck \u2014 configure from standard deck or buy",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "loo",
+    "title": "Loo",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "chips or counters"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "vingt-et-un-twenty-one",
+    "title": "Vingt-et-Un (Twenty-One)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "chips"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "patience-klondike-solitaire",
+    "title": "Patience (Klondike Solitaire)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "snap",
+    "title": "Snap",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck or snap deck"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "old-maid",
+    "title": "Old Maid",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck with one Queen removed"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "happy-families",
+    "title": "Happy Families",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "Happy Families illustrated card set"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Happy Families card set \u2014 available from game stores",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "dominoes-block-game",
+    "title": "Dominoes (Block Game)",
+    "category": "board-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "28-tile double-six domino set"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "28-tile double-six domino set \u2014 widely available",
+    "illustration": "needs_generated",
+    "illustration_note": "Board layout and setup needs illustration"
+  },
+  {
+    "id": "draughts-checkers",
+    "title": "Draughts (Checkers)",
+    "category": "board-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "draughts board",
+      "24 pieces in two colors"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Draughts/checkers set \u2014 widely available",
+    "illustration": "needs_generated",
+    "illustration_note": "Board layout and setup needs illustration"
+  },
+  {
+    "id": "chess",
+    "title": "Chess",
+    "category": "board-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "chess board",
+      "chess pieces",
+      "chess clock (optional)"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Chess set \u2014 widely available",
+    "illustration": "needs_generated",
+    "illustration_note": "Board layout and setup needs illustration"
+  },
+  {
+    "id": "backgammon",
+    "title": "Backgammon",
+    "category": "board-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "backgammon board",
+      "30 pieces (15 per player)",
+      "4 dice",
+      "2 dice cups"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Backgammon set \u2014 widely available",
+    "illustration": "needs_generated",
+    "illustration_note": "Board layout and setup needs illustration"
+  },
+  {
+    "id": "halma",
+    "title": "Halma",
+    "category": "board-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "16x16 Halma board",
+      "pieces in up to 4 colors"
+    ],
+    "playability": "craftable",
+    "playability_note": "Halma board \u2014 draw on large paper or cardboard",
+    "illustration": "needs_generated",
+    "illustration_note": "Board layout and setup needs illustration"
+  },
+  {
+    "id": "lotto-bingo",
+    "title": "Lotto (Bingo)",
+    "category": "board-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "lotto cards",
+      "numbered tokens",
+      "draw bag"
+    ],
+    "playability": "craftable",
+    "playability_note": "Lotto/bingo cards \u2014 make from paper",
+    "illustration": "needs_generated",
+    "illustration_note": "Board layout and setup needs illustration"
+  },
+  {
+    "id": "napoleon-nap",
+    "title": "Napoleon (Nap)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "chips"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "all-fours-seven-up",
+    "title": "All Fours (Seven Up)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "hearts",
+    "title": "Hearts",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "conquian-coon-can",
+    "title": "Conquian (Coon Can)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "40-card Spanish deck (remove 8s, 9s, 10s from standard deck)"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "draughts-checkers-variants",
+    "title": "Draughts (Checkers) Variants",
+    "category": "board-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "draughts board",
+      "pieces"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Draughts/checkers set \u2014 widely available",
+    "illustration": "needs_generated",
+    "illustration_note": "Board layout and setup needs illustration"
+  },
+  {
+    "id": "cribbage-four-hand",
+    "title": "Cribbage (Four-Hand)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "cribbage board"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "reversi-othello",
+    "title": "Reversi (Othello)",
+    "category": "board-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "8x8 board",
+      "64 two-sided discs in black and white"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "8x8 board with two-sided discs \u2014 Othello/Reversi sets widely available; or make from cardboard",
+    "illustration": "needs_generated",
+    "illustration_note": "Board layout and setup needs illustration"
+  },
+  {
+    "id": "centennial-dice-racing",
+    "title": "Centennial (Dice Racing)",
+    "category": "board-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "3 dice",
+      "score track 1-100 (or paper)"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Dice \u2014 widely available",
+    "illustration": "needs_generated",
+    "illustration_note": "Board layout and setup needs illustration"
+  },
+  {
+    "id": "authors",
+    "title": "Authors",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "Authors illustrated card set"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Authors card set \u2014 available from game stores",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "faro",
+    "title": "Faro",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "faro layout board",
+      "standard deck",
+      "betting chips"
+    ],
+    "playability": "extinct_equipment",
+    "playability_note": "Faro layout board and dealing box \u2014 specific Victorian casino gambling apparatus, obsolete",
+    "illustration": "needs_generated",
+    "illustration_note": "Faro layout board and dealing box would benefit from historical illustration"
+  },
+  {
+    "id": "poker-draw",
+    "title": "Poker (Draw)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck",
+      "poker chips"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "rummy-basic",
+    "title": "Rummy (Basic)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "auction-bridge",
+    "title": "Auction Bridge",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "score pad"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "the-travelers-alphabet",
+    "title": "The Traveler's Alphabet",
+    "category": "word-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "animal-vegetable-or-mineral",
+    "title": "Animal Vegetable or Mineral",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "beggar-my-neighbor",
+    "title": "Beggar My Neighbor",
+    "category": "card-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "standard deck of 52 cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "snip-snap-snorum",
+    "title": "Snip Snap Snorum",
+    "category": "card-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "standard deck of 52 cards",
+      "chips"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "pope-joan",
+    "title": "Pope Joan",
+    "category": "card-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "standard deck minus one card",
+      "chips",
+      "Pope Joan board"
+    ],
+    "playability": "extinct_equipment",
+    "playability_note": "Pope Joan board \u2014 circular compartmentalized Victorian board game, no longer manufactured",
+    "illustration": "needs_generated",
+    "illustration_note": "Pope Joan board layout needs illustration to show the compartment structure"
+  },
+  {
+    "id": "speculation",
+    "title": "Speculation",
+    "category": "card-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "standard deck of 52 cards",
+      "chips"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "noughts-and-crosses-tic-tac-toe",
+    "title": "Noughts and Crosses (Tic-Tac-Toe)",
+    "category": "board-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "pencil",
+      "paper"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Board layout and setup needs illustration"
+  },
+  {
+    "id": "riddles-competition",
+    "title": "Riddles Competition",
+    "category": "word-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "green-gravel",
+    "title": "Green Gravel",
+    "category": "physical-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Physical game formation and positions would benefit from illustration"
+  },
+  {
+    "id": "french-roll",
+    "title": "French Roll",
+    "category": "word-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "the-forbidden-letter",
+    "title": "The Forbidden Letter",
+    "category": "word-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "the-game-of-conversation",
+    "title": "The Game of Conversation",
+    "category": "word-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "honey-pots",
+    "title": "Honey Pots",
+    "category": "physical-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Physical game formation and positions would benefit from illustration"
+  },
+  {
+    "id": "cats-cradle",
+    "title": "Cat's Cradle",
+    "category": "physical-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "loop of string about 1m long"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Physical game formation and positions would benefit from illustration"
+  },
+  {
+    "id": "birds-fly",
+    "title": "Birds Fly",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "lost-and-found",
+    "title": "Lost and Found",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "small hidden object"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "the-gallery-of-statues",
+    "title": "The Gallery of Statues",
+    "category": "physical-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Physical game formation and positions would benefit from illustration"
+  },
+  {
+    "id": "the-huntsman",
+    "title": "The Huntsman",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "huckle-buckle-beanstalk",
+    "title": "Huckle Buckle Beanstalk",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "small hidden object"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "personations",
+    "title": "Personations",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "thought-reading",
+    "title": "Thought Reading",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "magic-writing",
+    "title": "Magic Writing",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "chalk or charcoal",
+      "cloth"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Social/acting parlor game; description is sufficient"
+  },
+  {
+    "id": "the-farmers-puzzle",
+    "title": "The Farmer's Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "pencil",
+      "paper"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-clock-puzzle",
+    "title": "The Clock Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-magic-square-order-3",
+    "title": "The Magic Square (Order 3)",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "paper",
+      "pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-river-crossing-problem",
+    "title": "The River Crossing Problem",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-spiders-web-puzzle",
+    "title": "The Spider's Web Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "pencil",
+      "paper"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-shunting-puzzle",
+    "title": "The Shunting Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "matchsticks or counters",
+      "drawn track"
+    ],
+    "playability": "craftable",
+    "playability_note": "Game track \u2014 draw on paper",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-dissected-square",
+    "title": "The Dissected Square",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "paper",
+      "scissors"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-prisoners-in-a-row",
+    "title": "The Prisoners in a Row",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-obedient-coin-heads-and-tails",
+    "title": "The Obedient Coin (Heads and Tails)",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "special double-faced coin"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Double-faced coin \u2014 magic trick prop; available from magic suppliers",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-magic-rings-of-paper",
+    "title": "The Magic Rings of Paper",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "paper strips",
+      "scissors",
+      "glue"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-coin-in-the-bread",
+    "title": "The Coin in the Bread",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "marked coin",
+      "small bread roll",
+      "knife"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Any coin marked with a scratch \u2014 household",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-vanishing-glass-of-water",
+    "title": "The Vanishing Glass of Water",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "glass of water",
+      "cloth tube"
+    ],
+    "playability": "playable_now",
+    "playability_note": "Minor equipment needed: cloth tube",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "string-through-the-neck",
+    "title": "String Through the Neck",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "long string or cord"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "whist-solo-whist",
+    "title": "Whist (Solo Whist)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "score pad"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "gin-rummy",
+    "title": "Gin Rummy",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "score pad"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "knaves-polignac",
+    "title": "Knaves (Polignac)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "32-card Piquet deck"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Piquet deck \u2014 configure from standard deck or buy",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "commerce",
+    "title": "Commerce",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "chips"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "vingt-et-un-pontoon",
+    "title": "Vingt-et-Un (Pontoon)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "chips"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "slate-games-birds-beasts-fishes",
+    "title": "Slate Games (Birds Beasts Fishes)",
+    "category": "word-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "slate or paper",
+      "chalk or pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "fox-and-geese-board",
+    "title": "Fox and Geese (Board)",
+    "category": "board-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "Fox and Geese board",
+      "1 fox piece",
+      "13 geese pieces"
+    ],
+    "playability": "craftable",
+    "playability_note": "Fox and geese board \u2014 draw on paper or cardboard",
+    "illustration": "has_original",
+    "illustration_note": "Board game layout illustrated in source book"
+  },
+  {
+    "id": "the-paper-dart-competition",
+    "title": "The Paper Dart Competition",
+    "category": "physical-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "paper sheets"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "cup-and-ball-bilboquet",
+    "title": "Cup and Ball (Bilboquet)",
+    "category": "physical-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "cup-and-ball toy"
+    ],
+    "playability": "specialty_needed",
+    "playability_note": "Cup-and-ball (bilboquet) \u2014 available from toy and magic suppliers",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "the-popgun",
+    "title": "The Popgun",
+    "category": "physical-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "elder branch",
+      "wooden dowel",
+      "knife"
+    ],
+    "playability": "playable_now",
+    "playability_note": "Minor equipment needed: elder branch, wooden dowel",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "knucklebones-jacks",
+    "title": "Knucklebones (Jacks)",
+    "category": "physical-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "5 knucklebones or modern jacks"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Jacks set \u2014 available from toy stores; traditional knucklebones from butcher",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "spelicans-pick-up-sticks",
+    "title": "Spelicans (Pick-up Sticks)",
+    "category": "physical-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "spelican set or straws"
+    ],
+    "playability": "extinct_equipment",
+    "playability_note": "Spelican set \u2014 Victorian ivory/bone stick game; straws are a rough substitute but authentic spelicans are extinct",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "the-quakers-meeting",
+    "title": "The Quaker's Meeting",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-resting-wand",
+    "title": "The Resting Wand",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "stick or wand"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "shouting-proverbs",
+    "title": "Shouting Proverbs",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "the-beanfeast-puzzle",
+    "title": "The Beanfeast Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-square-puzzle",
+    "title": "The Square Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [
+      "paper",
+      "scissors",
+      "ruler"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Spatial/arrangement puzzle would benefit from a diagram"
+  },
+  {
+    "id": "the-magic-wand-production",
+    "title": "The Magic Wand Production",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "magic wand or pencil"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-coin-and-tumbler-trick",
+    "title": "The Coin and Tumbler Trick",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "coin",
+      "playing card",
+      "empty glass"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard playing cards \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "egg-through-table",
+    "title": "Egg Through Table",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "blown egg",
+      "table"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "canfield-klondike-solitaire-variant",
+    "title": "Canfield (Klondike Solitaire Variant)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "spoil-five-five-fingers",
+    "title": "Spoil Five (Five Fingers)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "chips"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "baccarat",
+    "title": "Baccarat",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "chips"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "commit-stops",
+    "title": "Commit (Stops)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck minus one card",
+      "chips"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "bezique-rubicon",
+    "title": "Bezique (Rubicon)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "128-card quad Piquet deck (4 x 32 cards)"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Piquet deck \u2014 configure from standard deck or buy",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "the-farmyard-concert",
+    "title": "The Farmyard Concert",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-spanish-nobleman",
+    "title": "The Spanish Nobleman",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-gallery-of-animals",
+    "title": "The Gallery of Animals",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Parlor game rules are conveyed well in text alone"
+  },
+  {
+    "id": "the-spelling-game",
+    "title": "The Spelling Game",
+    "category": "word-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "i-suspect-you",
+    "title": "I Suspect You",
+    "category": "parlor-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Parlor game rules are conveyed well in text alone"
+  },
+  {
+    "id": "consequences-extended",
+    "title": "Consequences (Extended)",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "paper",
+      "pencils"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "telegrammes",
+    "title": "Telegrammes",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "paper",
+      "pencils"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "my-master-bids-you-do-as-i-do",
+    "title": "My Master Bids You Do As I Do",
+    "category": "physical-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "the-magic-music-box",
+    "title": "The Magic Music Box",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "pianist or musician"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-travellers-rhyme",
+    "title": "The Traveller's Rhyme",
+    "category": "word-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Verbal/written word game; no visual diagram needed"
+  },
+  {
+    "id": "merry-thought",
+    "title": "Merry Thought",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "dried wishbone from poultry"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "earth-air-fire-water",
+    "title": "Earth Air Fire Water",
+    "category": "parlor-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "knotted handkerchief"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-four-elements-cassells",
+    "title": "The Four Elements (Cassells)",
+    "category": "parlor-game",
+    "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+    "equipment": [
+      "ball or knotted cloth"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Parlor game illustrated in source book"
+  },
+  {
+    "id": "the-button-puzzle",
+    "title": "The Button Puzzle",
+    "category": "puzzle",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "leather strip with slits",
+      "button"
+    ],
+    "playability": "craftable",
+    "playability_note": "Leather strip with slits \u2014 simple craft from any strip of card/leather",
+    "illustration": "has_original",
+    "illustration_note": "Puzzle diagram illustrated in source book"
+  },
+  {
+    "id": "the-cylinder-puzzle",
+    "title": "The Cylinder Puzzle",
+    "category": "puzzle",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "paper cylinder",
+      "cord"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Puzzle diagram illustrated in source book"
+  },
+  {
+    "id": "the-circle-puzzle",
+    "title": "The Circle Puzzle",
+    "category": "puzzle",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "paper disc with holes",
+      "scissors"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Puzzle diagram illustrated in source book"
+  },
+  {
+    "id": "the-noughts-and-crosses-tournament",
+    "title": "The Noughts and Crosses Tournament",
+    "category": "board-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "paper",
+      "pencils"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "needs_generated",
+    "illustration_note": "Board layout and setup needs illustration"
+  },
+  {
+    "id": "pope-joan-full-rules",
+    "title": "Pope Joan (Full Rules)",
+    "category": "card-game",
+    "source_book": "My Book of Indoor Games",
+    "equipment": [
+      "48-card deck (remove 8 of diamonds)",
+      "Pope Joan board",
+      "chips"
+    ],
+    "playability": "extinct_equipment",
+    "playability_note": "Pope Joan board \u2014 circular compartmentalized Victorian board game, no longer manufactured",
+    "illustration": "needs_generated",
+    "illustration_note": "Pope Joan board layout needs illustration to show the compartment structure"
+  },
+  {
+    "id": "the-magic-mill-trick",
+    "title": "The Magic Mill Trick",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "paper strip",
+      "scissors"
+    ],
+    "playability": "playable_now",
+    "playability_note": "Paper strip folding trick \u2014 common household materials only",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "the-torn-card-restored-simple",
+    "title": "The Torn Card Restored (Simple)",
+    "category": "magic-trick",
+    "source_book": "Modern Magic",
+    "equipment": [
+      "two identical playing cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard playing cards \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Magic trick apparatus and hand positions illustrated in source book"
+  },
+  {
+    "id": "dice-chuck-a-luck",
+    "title": "Dice (Chuck-a-Luck)",
+    "category": "board-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "3 dice",
+      "birdcage or cup",
+      "betting layout"
+    ],
+    "playability": "extinct_equipment",
+    "playability_note": "Chuck-a-Luck birdcage and betting layout \u2014 specific Victorian casino gambling apparatus",
+    "illustration": "needs_generated",
+    "illustration_note": "Board layout and setup needs illustration"
+  },
+  {
+    "id": "the-age-puzzle",
+    "title": "The Age Puzzle",
+    "category": "puzzle",
+    "source_book": "Amusements in Mathematics",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "the-squires-puzzle-word-arithmetic",
+    "title": "The Squire's Puzzle (Word Arithmetic)",
+    "category": "puzzle",
+    "source_book": "The Canterbury Puzzles",
+    "equipment": [
+      "pencil",
+      "paper"
+    ],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "text_sufficient",
+    "illustration_note": "Arithmetic/logic puzzle; no diagram needed"
+  },
+  {
+    "id": "cribbage-three-hand",
+    "title": "Cribbage (Three-Hand)",
+    "category": "card-game",
+    "source_book": "Foster's Complete Hoyle",
+    "equipment": [
+      "standard deck of 52 cards",
+      "cribbage board"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "text_sufficient",
+    "illustration_note": "Card game rules are conveyed well in text alone"
+  },
+  {
+    "id": "beggar-your-neighbor-extended",
+    "title": "Beggar Your Neighbor Extended",
+    "category": "card-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "standard deck of 52 cards"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Standard 52-card deck \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Card game illustrated in source book"
+  },
+  {
+    "id": "fox-and-geese-outdoor-snowy",
+    "title": "Fox and Geese (Outdoor, Snowy)",
+    "category": "physical-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [],
+    "playability": "playable_now",
+    "playability_note": "",
+    "illustration": "has_original",
+    "illustration_note": "Physical game formation/positions illustrated in source book"
+  },
+  {
+    "id": "postal-chess-correspondence-chess",
+    "title": "Postal Chess (Correspondence Chess)",
+    "category": "board-game",
+    "source_book": "Every Boy's Book",
+    "equipment": [
+      "chess board",
+      "chess notation",
+      "paper",
+      "stamps"
+    ],
+    "playability": "easy_to_source",
+    "playability_note": "Chess set \u2014 widely available",
+    "illustration": "has_original",
+    "illustration_note": "Board game layout illustrated in source book"
+  }
+]

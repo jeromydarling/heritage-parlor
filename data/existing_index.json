@@ -1,0 +1,2174 @@
+[
+ {
+  "id": "acting-proverbs",
+  "title": "Acting Proverbs",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "acting-rhymes",
+  "title": "Acting Rhymes",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "adjectives",
+  "title": "Adjectives",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "the-adventurers",
+  "title": "The Adventurers",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "aesop-s-mission",
+  "title": "Aesop's Mission",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "alphabet-games",
+  "title": "Alphabet Games",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "the-artists-menagerie",
+  "title": "The Artists' Menagerie",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "blind-man-s-buff",
+  "title": "Blind Man's Buff",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "physical-game"
+ },
+ {
+  "id": "blind-postman",
+  "title": "Blind Postman",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "blowing-out-the-candle",
+  "title": "Blowing Out the Candle",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "bouts-rim-s",
+  "title": "Bouts Rim\u00e9s",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "buff-says-baff",
+  "title": "Buff Says Baff",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "capping-verses",
+  "title": "Capping Verses",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "charades",
+  "title": "Charades",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "clairvoyant",
+  "title": "Clairvoyant",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-comic-concert",
+  "title": "The Comic Concert",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "consequences",
+  "title": "Consequences",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "conveyances",
+  "title": "Conveyances",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "crambo",
+  "title": "Crambo",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "cross-questions-and-crooked-answers",
+  "title": "Cross Questions and Crooked Answers",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "cupid-is-coming",
+  "title": "Cupid Is Coming",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "the-cushion-dance",
+  "title": "The Cushion Dance",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "physical-game"
+ },
+ {
+  "id": "definitions",
+  "title": "Definitions",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "dumb-crambo",
+  "title": "Dumb Crambo",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-elements",
+  "title": "The Elements",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-farmyard",
+  "title": "The Farmyard",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-feather",
+  "title": "The Feather",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "physical-game"
+ },
+ {
+  "id": "finding-the-ring",
+  "title": "Finding the Ring",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "flying",
+  "title": "Flying",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "forfeits",
+  "title": "Forfeits",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-grand-mufti",
+  "title": "The Grand Mufti",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "hot-boiled-beans",
+  "title": "Hot Boiled Beans",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "hot-cockles",
+  "title": "Hot Cockles",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "how-do-you-like-your-neighbour",
+  "title": "How Do You Like Your Neighbour?",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "how-when-and-where",
+  "title": "How, When, and Where?",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "hunt-the-ring",
+  "title": "Hunt the Ring",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "hunt-the-slipper",
+  "title": "Hunt the Slipper",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "hunt-the-whistle",
+  "title": "Hunt the Whistle",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "i-apprenticed-my-son",
+  "title": "I Apprenticed My Son",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "i-love-my-love",
+  "title": "I Love My Love",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "jack-s-alive",
+  "title": "Jack's Alive",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-jolly-miller",
+  "title": "The Jolly Miller",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "physical-game"
+ },
+ {
+  "id": "magical-music",
+  "title": "Magical Music",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-magic-answer",
+  "title": "The Magic Answer",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-magic-wand",
+  "title": "The Magic Wand",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-minister-s-cat",
+  "title": "The Minister's Cat",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "mixed-up-poetry",
+  "title": "Mixed-Up Poetry",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "musical-chairs",
+  "title": "Musical Chairs",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "physical-game"
+ },
+ {
+  "id": "the-object-game",
+  "title": "The Object Game",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-old-soldier",
+  "title": "The Old Soldier",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "oranges-and-lemons",
+  "title": "Oranges and Lemons",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "physical-game"
+ },
+ {
+  "id": "pairs",
+  "title": "Pairs",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-pork-butcher",
+  "title": "The Pork Butcher",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "physical-game"
+ },
+ {
+  "id": "postman-s-knock",
+  "title": "Postman's Knock",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "proverbs",
+  "title": "Proverbs",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "russian-gossip",
+  "title": "Russian Gossip",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-schoolmaster",
+  "title": "The Schoolmaster",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "shadow-buff",
+  "title": "Shadow Buff",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "simon-says",
+  "title": "Simon Says",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "spelling-bee",
+  "title": "Spelling Bee",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "the-stage-coach",
+  "title": "The Stage Coach",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "tableau-vivant",
+  "title": "Tableau Vivant",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "telegrams",
+  "title": "Telegrams",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "throwing-the-smile",
+  "title": "Throwing the Smile",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-travelling-alphabet",
+  "title": "The Travelling Alphabet",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "twirl-the-trencher",
+  "title": "Twirl the Trencher",
+  "source_book": "My Book of Indoor Games",
+  "category": "physical-game"
+ },
+ {
+  "id": "buzz",
+  "title": "Buzz",
+  "source_book": "My Book of Indoor Games",
+  "category": "word-game"
+ },
+ {
+  "id": "the-sea-king",
+  "title": "The Sea King",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-family-coach",
+  "title": "The Family Coach",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "drop-the-handkerchief",
+  "title": "Drop the Handkerchief",
+  "source_book": "My Book of Indoor Games",
+  "category": "physical-game"
+ },
+ {
+  "id": "cat-and-mouse",
+  "title": "Cat and Mouse",
+  "source_book": "My Book of Indoor Games",
+  "category": "physical-game"
+ },
+ {
+  "id": "magic-music",
+  "title": "Magic Music",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "puss-in-the-corner",
+  "title": "Puss in the Corner",
+  "source_book": "My Book of Indoor Games",
+  "category": "physical-game"
+ },
+ {
+  "id": "going-to-jerusalem",
+  "title": "Going to Jerusalem",
+  "source_book": "My Book of Indoor Games",
+  "category": "physical-game"
+ },
+ {
+  "id": "mr-o-callaghan-s-party",
+  "title": "Mr. O'Callaghan's Party",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-witch-s-spell",
+  "title": "The Witch's Spell",
+  "source_book": "My Book of Indoor Games",
+  "category": "word-game"
+ },
+ {
+  "id": "spinning-the-plate",
+  "title": "Spinning the Plate",
+  "source_book": "My Book of Indoor Games",
+  "category": "physical-game"
+ },
+ {
+  "id": "twenty-questions",
+  "title": "Twenty Questions",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "winking",
+  "title": "Winking",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "trades",
+  "title": "Trades",
+  "source_book": "My Book of Indoor Games",
+  "category": "word-game"
+ },
+ {
+  "id": "blind-man-s-wand",
+  "title": "Blind Man's Wand",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-memory-game",
+  "title": "The Memory Game",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-sculptor",
+  "title": "The Sculptor",
+  "source_book": "My Book of Indoor Games",
+  "category": "physical-game"
+ },
+ {
+  "id": "the-newspaper-game",
+  "title": "The Newspaper Game",
+  "source_book": "My Book of Indoor Games",
+  "category": "word-game"
+ },
+ {
+  "id": "the-interrupted-letters",
+  "title": "The Interrupted Letters",
+  "source_book": "My Book of Indoor Games",
+  "category": "word-game"
+ },
+ {
+  "id": "odd-man-out",
+  "title": "Odd Man Out",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "famous-people",
+  "title": "Famous People",
+  "source_book": "My Book of Indoor Games",
+  "category": "word-game"
+ },
+ {
+  "id": "dumb-motions",
+  "title": "Dumb Motions",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-game-of-animals",
+  "title": "The Game of Animals",
+  "source_book": "My Book of Indoor Games",
+  "category": "physical-game"
+ },
+ {
+  "id": "the-game-of-proverbs",
+  "title": "The Game of Proverbs",
+  "source_book": "My Book of Indoor Games",
+  "category": "word-game"
+ },
+ {
+  "id": "bob-cherry",
+  "title": "Bob Cherry",
+  "source_book": "Every Boy's Book",
+  "category": "physical-game"
+ },
+ {
+  "id": "battledore-and-shuttlecock",
+  "title": "Battledore and Shuttlecock",
+  "source_book": "Every Boy's Book",
+  "category": "physical-game"
+ },
+ {
+  "id": "cup-and-ball",
+  "title": "Cup and Ball",
+  "source_book": "Every Boy's Book",
+  "category": "physical-game"
+ },
+ {
+  "id": "fox-and-geese",
+  "title": "Fox and Geese",
+  "source_book": "Every Boy's Book",
+  "category": "board-game"
+ },
+ {
+  "id": "knucklebones",
+  "title": "Knucklebones",
+  "source_book": "Every Boy's Book",
+  "category": "physical-game"
+ },
+ {
+  "id": "nine-men-s-morris",
+  "title": "Nine Men's Morris",
+  "source_book": "Every Boy's Book",
+  "category": "board-game"
+ },
+ {
+  "id": "frog-in-the-middle",
+  "title": "Frog in the Middle",
+  "source_book": "Every Boy's Book",
+  "category": "physical-game"
+ },
+ {
+  "id": "hand-coddem",
+  "title": "Hand (Coddem)",
+  "source_book": "Every Boy's Book",
+  "category": "parlor-game"
+ },
+ {
+  "id": "red-cap-and-black-cap",
+  "title": "Red-Cap and Black-Cap",
+  "source_book": "Every Boy's Book",
+  "category": "parlor-game"
+ },
+ {
+  "id": "trussed-fowls",
+  "title": "Trussed Fowls",
+  "source_book": "Every Boy's Book",
+  "category": "physical-game"
+ },
+ {
+  "id": "how-where-and-when",
+  "title": "How Where and When",
+  "source_book": "Every Boy's Book",
+  "category": "word-game"
+ },
+ {
+  "id": "the-four-elements",
+  "title": "The Four Elements",
+  "source_book": "Every Boy's Book",
+  "category": "parlor-game"
+ },
+ {
+  "id": "punch-and-judy",
+  "title": "Punch and Judy",
+  "source_book": "Every Boy's Book",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-flying-shilling",
+  "title": "The Flying Shilling",
+  "source_book": "Every Boy's Book",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-cut-string-restored",
+  "title": "The Cut String Restored",
+  "source_book": "Every Boy's Book",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-magic-rings",
+  "title": "The Magic Rings",
+  "source_book": "Every Boy's Book",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-three-cups",
+  "title": "The Three Cups",
+  "source_book": "Every Boy's Book",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-divided-garden",
+  "title": "The Divided Garden",
+  "source_book": "Every Boy's Book",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-nuns-puzzle",
+  "title": "The Nuns Puzzle",
+  "source_book": "Every Boy's Book",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-fountain-puzzle",
+  "title": "The Fountain Puzzle",
+  "source_book": "Every Boy's Book",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-row-of-halfpence",
+  "title": "The Row of Halfpence",
+  "source_book": "Every Boy's Book",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-cardboard-puzzle",
+  "title": "The Cardboard Puzzle",
+  "source_book": "Every Boy's Book",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-handcuffs",
+  "title": "The Handcuffs",
+  "source_book": "Every Boy's Book",
+  "category": "magic-trick"
+ },
+ {
+  "id": "fire-eating",
+  "title": "Fire Eating",
+  "source_book": "Every Boy's Book",
+  "category": "magic-trick"
+ },
+ {
+  "id": "spelicans",
+  "title": "Spelicans",
+  "source_book": "Every Boy's Book",
+  "category": "physical-game"
+ },
+ {
+  "id": "schimmel",
+  "title": "Schimmel",
+  "source_book": "Every Boy's Book",
+  "category": "card-game"
+ },
+ {
+  "id": "a-post-office-perplexity",
+  "title": "A Post-Office Perplexity",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-cyclists-feast",
+  "title": "The Cyclists' Feast",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-widow-s-legacy",
+  "title": "The Widow's Legacy",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "indiscriminate-charity",
+  "title": "Indiscriminate Charity",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "a-deal-in-apples",
+  "title": "A Deal in Apples",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-two-aeroplanes",
+  "title": "The Two Aeroplanes",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "buying-presents",
+  "title": "Buying Presents",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-junior-clerk-s-puzzle",
+  "title": "The Junior Clerk's Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-millionaire-s-perplexity",
+  "title": "The Millionaire's Perplexity",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-christmas-boxes",
+  "title": "The Christmas Boxes",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "square-money",
+  "title": "Square Money",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-puzzling-money-boxes",
+  "title": "The Puzzling Money-Boxes",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-pigs-of-widow-green",
+  "title": "The Pigs of Widow Green",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-squire-s-puzzle",
+  "title": "The Squire's Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-garden-puzzle",
+  "title": "The Garden Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-broken-chessboard",
+  "title": "The Broken Chessboard",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-patchwork-quilt",
+  "title": "The Patchwork Quilt",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "a-puzzling-legacy",
+  "title": "A Puzzling Legacy",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-skipper-and-the-sea-serpent",
+  "title": "The Skipper and the Sea-serpent",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-merchant-s-puzzle",
+  "title": "The Merchant's Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-barrel-of-beer",
+  "title": "The Barrel of Beer",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-hat-peg-puzzle",
+  "title": "The Hat-peg Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-rook-s-tour",
+  "title": "The Rook's Tour",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-dorcas-society-puzzle",
+  "title": "The Dorcas Society Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-nine-counters",
+  "title": "The Nine Counters",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-dissection-of-viereck-s-square",
+  "title": "The Dissection of Viereck's Square",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-archery-puzzle",
+  "title": "The Archery Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-fare-box-puzzle",
+  "title": "The Fare Box Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-lost-number",
+  "title": "The Lost Number",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-fishing-puzzle",
+  "title": "The Fishing Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-staircase-puzzle",
+  "title": "The Staircase Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-three-prisoners",
+  "title": "The Three Prisoners",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-flower-beds-puzzle",
+  "title": "The Flower Beds Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-snail-puzzle",
+  "title": "The Snail Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-perplexed-cellarman",
+  "title": "The Perplexed Cellarman",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-buried-treasure",
+  "title": "The Buried Treasure",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-monk-and-the-pilgrim",
+  "title": "The Monk and the Pilgrim",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "digital-roots",
+  "title": "Digital Roots",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-farmer-s-fence",
+  "title": "The Farmer's Fence",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-puzzles-of-domenico-rosario",
+  "title": "The Puzzles of Domenico Rosario",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "bishops-on-a-chessboard",
+  "title": "Bishops on a Chessboard",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-puzzlists-holiday",
+  "title": "The Puzzlists' Holiday",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-curious-housekeeper-s-puzzle",
+  "title": "The Curious Housekeeper's Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-see-saw-puzzle",
+  "title": "The See-Saw Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-spider-and-the-fly",
+  "title": "The Spider and the Fly",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "towers-of-hanoi",
+  "title": "Towers of Hanoi",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-eight-queens",
+  "title": "The Eight Queens",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-mouse-and-the-cat",
+  "title": "The Mouse and the Cat",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-miser-s-puzzle",
+  "title": "The Miser's Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-card-puzzle",
+  "title": "The Card Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-farmer-s-sheep",
+  "title": "The Farmer's Sheep",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-fly-s-tour",
+  "title": "The Fly's Tour",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-reve-s-puzzle",
+  "title": "The Reve's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-pardoner-s-puzzle",
+  "title": "The Pardoner's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-clerk-of-oxenford-s-puzzle",
+  "title": "The Clerk of Oxenford's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-host-s-puzzle",
+  "title": "The Host's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-tapiser-s-puzzle",
+  "title": "The Tapiser's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-carpenter-s-puzzle",
+  "title": "The Carpenter's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-miller-s-puzzle",
+  "title": "The Miller's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-knight-s-puzzle",
+  "title": "The Knight's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-wife-of-bath-s-riddles",
+  "title": "The Wife of Bath's Riddles",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-puzzle-of-the-squire-s-yeoman",
+  "title": "The Puzzle of the Squire's Yeoman",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-man-of-law-s-puzzle",
+  "title": "The Man of Law's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-monk-s-puzzle",
+  "title": "The Monk's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-shipman-s-puzzle",
+  "title": "The Shipman's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-haberdasher-s-puzzle",
+  "title": "The Haberdasher's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-friar-s-puzzle",
+  "title": "The Friar's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-puzzle-of-the-doctor-of-physic",
+  "title": "The Puzzle of the Doctor of Physic",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-nun-s-puzzle",
+  "title": "The Nun's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-ploughman-s-puzzle",
+  "title": "The Ploughman's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-weaver-s-puzzle",
+  "title": "The Weaver's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-minstrel-s-puzzle",
+  "title": "The Minstrel's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-cook-s-puzzle",
+  "title": "The Cook's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-puzzles-of-the-black-knight",
+  "title": "The Puzzles of the Black Knight",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-sompnour-s-puzzle",
+  "title": "The Sompnour's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-problem-of-the-governor-s-wife",
+  "title": "The Problem of the Governor's Wife",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-compasses-puzzle",
+  "title": "The Compasses Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-dutchmens-wives",
+  "title": "The Dutchmen's Wives",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-four-frogs",
+  "title": "The Four Frogs",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-mutilated-chessboard",
+  "title": "The Mutilated Chessboard",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-prisoners-escape",
+  "title": "The Prisoner's Escape",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-converted-miser",
+  "title": "The Converted Miser",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-fifteen-puzzle",
+  "title": "The Fifteen Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-landlords-puzzle",
+  "title": "The Landlord's Puzzle",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "finding-a-chosen-card-by-mathematics",
+  "title": "Finding a Chosen Card by Mathematics",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-four-kings-together-by-cut",
+  "title": "The Four Kings Together by Cut",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "forcing-a-card",
+  "title": "Forcing a Card",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "guess-four-thought-of-cards",
+  "title": "Guess Four Thought-of Cards",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "coin-through-the-handkerchief",
+  "title": "Coin Through the Handkerchief",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-vanishing-knot",
+  "title": "The Vanishing Knot",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-mysterious-addition-of-coins",
+  "title": "The Mysterious Addition of Coins",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-cups-and-balls",
+  "title": "The Cups and Balls",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "telling-the-hour-on-a-pocket-watch",
+  "title": "Telling the Hour on a Pocket Watch",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-domino-trick",
+  "title": "The Domino Trick",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-ascending-card",
+  "title": "The Ascending Card",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-dancing-sailor-figure",
+  "title": "The Dancing Sailor Figure",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "second-sight-act",
+  "title": "Second Sight Act",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-linking-rings",
+  "title": "The Linking Rings",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-inexhaustible-bottle",
+  "title": "The Inexhaustible Bottle",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-egg-bag",
+  "title": "The Egg Bag",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "ring-through-the-handkerchief",
+  "title": "Ring Through the Handkerchief",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-magic-wand-coin-vanish",
+  "title": "The Magic Wand Coin Vanish",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-butterfly-trick",
+  "title": "The Butterfly Trick",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "invisible-writing-revealed",
+  "title": "Invisible Writing Revealed",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-torn-and-restored-card",
+  "title": "The Torn and Restored Card",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-indian-sand-trick",
+  "title": "The Indian Sand Trick",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-obedient-ball",
+  "title": "The Obedient Ball",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "carrying-fire-in-the-hands",
+  "title": "Carrying Fire in the Hands",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-three-card-trick",
+  "title": "The Three-Card Trick",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-passe-passe-bottle-and-glass",
+  "title": "The Passe-Passe Bottle and Glass",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-bleeding-thumb",
+  "title": "The Bleeding Thumb",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-hat-trick-production",
+  "title": "The Hat Trick Production",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-rising-cards-hair-method",
+  "title": "The Rising Cards (Hair Method)",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-magic-sword-card-catch",
+  "title": "The Magic Sword Card Catch",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-whist-trick-with-prepared-pack",
+  "title": "The Whist Trick with Prepared Pack",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-magic-cover-vanish",
+  "title": "The Magic Cover Vanish",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "ring-through-the-table",
+  "title": "Ring Through the Table",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-egg-and-handkerchief",
+  "title": "The Egg and Handkerchief",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "coin-to-orange",
+  "title": "Coin to Orange",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-magic-mill",
+  "title": "The Magic Mill",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-mysterious-funnel",
+  "title": "The Mysterious Funnel",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-electric-bell",
+  "title": "The Electric Bell",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "bottle-imps",
+  "title": "Bottle Imps",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-grandmothers-necklace",
+  "title": "The Grandmother's Necklace",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "chinese-pictures-water-trick",
+  "title": "Chinese Pictures (Water Trick)",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-paper-pellet-mind-reading",
+  "title": "The Paper Pellet Mind-Reading",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "whist",
+  "title": "Whist",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "bridge",
+  "title": "Bridge",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "euchre",
+  "title": "Euchre",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "cribbage",
+  "title": "Cribbage",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "piquet",
+  "title": "Piquet",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "bezique",
+  "title": "Bezique",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "cassino",
+  "title": "Cassino",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "ecarte",
+  "title": "Ecarte",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "loo",
+  "title": "Loo",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "vingt-et-un-twenty-one",
+  "title": "Vingt-et-Un (Twenty-One)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "patience-klondike-solitaire",
+  "title": "Patience (Klondike Solitaire)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "snap",
+  "title": "Snap",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "old-maid",
+  "title": "Old Maid",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "happy-families",
+  "title": "Happy Families",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "dominoes-block-game",
+  "title": "Dominoes (Block Game)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "board-game"
+ },
+ {
+  "id": "draughts-checkers",
+  "title": "Draughts (Checkers)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "board-game"
+ },
+ {
+  "id": "chess",
+  "title": "Chess",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "board-game"
+ },
+ {
+  "id": "backgammon",
+  "title": "Backgammon",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "board-game"
+ },
+ {
+  "id": "halma",
+  "title": "Halma",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "board-game"
+ },
+ {
+  "id": "lotto-bingo",
+  "title": "Lotto (Bingo)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "board-game"
+ },
+ {
+  "id": "napoleon-nap",
+  "title": "Napoleon (Nap)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "all-fours-seven-up",
+  "title": "All Fours (Seven Up)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "hearts",
+  "title": "Hearts",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "conquian-coon-can",
+  "title": "Conquian (Coon Can)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "draughts-checkers-variants",
+  "title": "Draughts (Checkers) Variants",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "board-game"
+ },
+ {
+  "id": "cribbage-four-hand",
+  "title": "Cribbage (Four-Hand)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "reversi-othello",
+  "title": "Reversi (Othello)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "board-game"
+ },
+ {
+  "id": "centennial-dice-racing",
+  "title": "Centennial (Dice Racing)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "board-game"
+ },
+ {
+  "id": "authors",
+  "title": "Authors",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "faro",
+  "title": "Faro",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "poker-draw",
+  "title": "Poker (Draw)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "rummy-basic",
+  "title": "Rummy (Basic)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "auction-bridge",
+  "title": "Auction Bridge",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "the-travelers-alphabet",
+  "title": "The Traveler's Alphabet",
+  "source_book": "My Book of Indoor Games",
+  "category": "word-game"
+ },
+ {
+  "id": "animal-vegetable-or-mineral",
+  "title": "Animal Vegetable or Mineral",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "beggar-my-neighbor",
+  "title": "Beggar My Neighbor",
+  "source_book": "My Book of Indoor Games",
+  "category": "card-game"
+ },
+ {
+  "id": "snip-snap-snorum",
+  "title": "Snip Snap Snorum",
+  "source_book": "My Book of Indoor Games",
+  "category": "card-game"
+ },
+ {
+  "id": "pope-joan",
+  "title": "Pope Joan",
+  "source_book": "My Book of Indoor Games",
+  "category": "card-game"
+ },
+ {
+  "id": "speculation",
+  "title": "Speculation",
+  "source_book": "My Book of Indoor Games",
+  "category": "card-game"
+ },
+ {
+  "id": "noughts-and-crosses-tic-tac-toe",
+  "title": "Noughts and Crosses (Tic-Tac-Toe)",
+  "source_book": "My Book of Indoor Games",
+  "category": "board-game"
+ },
+ {
+  "id": "riddles-competition",
+  "title": "Riddles Competition",
+  "source_book": "My Book of Indoor Games",
+  "category": "word-game"
+ },
+ {
+  "id": "green-gravel",
+  "title": "Green Gravel",
+  "source_book": "My Book of Indoor Games",
+  "category": "physical-game"
+ },
+ {
+  "id": "french-roll",
+  "title": "French Roll",
+  "source_book": "My Book of Indoor Games",
+  "category": "word-game"
+ },
+ {
+  "id": "the-forbidden-letter",
+  "title": "The Forbidden Letter",
+  "source_book": "My Book of Indoor Games",
+  "category": "word-game"
+ },
+ {
+  "id": "the-game-of-conversation",
+  "title": "The Game of Conversation",
+  "source_book": "My Book of Indoor Games",
+  "category": "word-game"
+ },
+ {
+  "id": "honey-pots",
+  "title": "Honey Pots",
+  "source_book": "My Book of Indoor Games",
+  "category": "physical-game"
+ },
+ {
+  "id": "cats-cradle",
+  "title": "Cat's Cradle",
+  "source_book": "My Book of Indoor Games",
+  "category": "physical-game"
+ },
+ {
+  "id": "birds-fly",
+  "title": "Birds Fly",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "lost-and-found",
+  "title": "Lost and Found",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-gallery-of-statues",
+  "title": "The Gallery of Statues",
+  "source_book": "My Book of Indoor Games",
+  "category": "physical-game"
+ },
+ {
+  "id": "the-huntsman",
+  "title": "The Huntsman",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "huckle-buckle-beanstalk",
+  "title": "Huckle Buckle Beanstalk",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "personations",
+  "title": "Personations",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "thought-reading",
+  "title": "Thought Reading",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "magic-writing",
+  "title": "Magic Writing",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-farmers-puzzle",
+  "title": "The Farmer's Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-clock-puzzle",
+  "title": "The Clock Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-magic-square-order-3",
+  "title": "The Magic Square (Order 3)",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-river-crossing-problem",
+  "title": "The River Crossing Problem",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-spiders-web-puzzle",
+  "title": "The Spider's Web Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-shunting-puzzle",
+  "title": "The Shunting Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-dissected-square",
+  "title": "The Dissected Square",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-prisoners-in-a-row",
+  "title": "The Prisoners in a Row",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-obedient-coin-heads-and-tails",
+  "title": "The Obedient Coin (Heads and Tails)",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-magic-rings-of-paper",
+  "title": "The Magic Rings of Paper",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-coin-in-the-bread",
+  "title": "The Coin in the Bread",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-vanishing-glass-of-water",
+  "title": "The Vanishing Glass of Water",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "string-through-the-neck",
+  "title": "String Through the Neck",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "whist-solo-whist",
+  "title": "Whist (Solo Whist)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "gin-rummy",
+  "title": "Gin Rummy",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "knaves-polignac",
+  "title": "Knaves (Polignac)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "commerce",
+  "title": "Commerce",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "vingt-et-un-pontoon",
+  "title": "Vingt-et-Un (Pontoon)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "slate-games-birds-beasts-fishes",
+  "title": "Slate Games (Birds Beasts Fishes)",
+  "source_book": "Every Boy's Book",
+  "category": "word-game"
+ },
+ {
+  "id": "fox-and-geese-board",
+  "title": "Fox and Geese (Board)",
+  "source_book": "Every Boy's Book",
+  "category": "board-game"
+ },
+ {
+  "id": "the-paper-dart-competition",
+  "title": "The Paper Dart Competition",
+  "source_book": "Every Boy's Book",
+  "category": "physical-game"
+ },
+ {
+  "id": "cup-and-ball-bilboquet",
+  "title": "Cup and Ball (Bilboquet)",
+  "source_book": "Every Boy's Book",
+  "category": "physical-game"
+ },
+ {
+  "id": "the-popgun",
+  "title": "The Popgun",
+  "source_book": "Every Boy's Book",
+  "category": "physical-game"
+ },
+ {
+  "id": "knucklebones-jacks",
+  "title": "Knucklebones (Jacks)",
+  "source_book": "Every Boy's Book",
+  "category": "physical-game"
+ },
+ {
+  "id": "spelicans-pick-up-sticks",
+  "title": "Spelicans (Pick-up Sticks)",
+  "source_book": "Every Boy's Book",
+  "category": "physical-game"
+ },
+ {
+  "id": "the-quakers-meeting",
+  "title": "The Quaker's Meeting",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-resting-wand",
+  "title": "The Resting Wand",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "shouting-proverbs",
+  "title": "Shouting Proverbs",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "the-beanfeast-puzzle",
+  "title": "The Beanfeast Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-square-puzzle",
+  "title": "The Square Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-magic-wand-production",
+  "title": "The Magic Wand Production",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-coin-and-tumbler-trick",
+  "title": "The Coin and Tumbler Trick",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "egg-through-table",
+  "title": "Egg Through Table",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "canfield-klondike-solitaire-variant",
+  "title": "Canfield (Klondike Solitaire Variant)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "spoil-five-five-fingers",
+  "title": "Spoil Five (Five Fingers)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "baccarat",
+  "title": "Baccarat",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "commit-stops",
+  "title": "Commit (Stops)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "bezique-rubicon",
+  "title": "Bezique (Rubicon)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "the-farmyard-concert",
+  "title": "The Farmyard Concert",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-spanish-nobleman",
+  "title": "The Spanish Nobleman",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-gallery-of-animals",
+  "title": "The Gallery of Animals",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-spelling-game",
+  "title": "The Spelling Game",
+  "source_book": "My Book of Indoor Games",
+  "category": "word-game"
+ },
+ {
+  "id": "i-suspect-you",
+  "title": "I Suspect You",
+  "source_book": "My Book of Indoor Games",
+  "category": "parlor-game"
+ },
+ {
+  "id": "consequences-extended",
+  "title": "Consequences (Extended)",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "telegrammes",
+  "title": "Telegrammes",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "my-master-bids-you-do-as-i-do",
+  "title": "My Master Bids You Do As I Do",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "physical-game"
+ },
+ {
+  "id": "the-magic-music-box",
+  "title": "The Magic Music Box",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-travellers-rhyme",
+  "title": "The Traveller's Rhyme",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "word-game"
+ },
+ {
+  "id": "merry-thought",
+  "title": "Merry Thought",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "earth-air-fire-water",
+  "title": "Earth Air Fire Water",
+  "source_book": "Every Boy's Book",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-four-elements-cassells",
+  "title": "The Four Elements (Cassells)",
+  "source_book": "Cassell's Book of In-door Amusements, Card Games, and Fireside Fun",
+  "category": "parlor-game"
+ },
+ {
+  "id": "the-button-puzzle",
+  "title": "The Button Puzzle",
+  "source_book": "Every Boy's Book",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-cylinder-puzzle",
+  "title": "The Cylinder Puzzle",
+  "source_book": "Every Boy's Book",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-circle-puzzle",
+  "title": "The Circle Puzzle",
+  "source_book": "Every Boy's Book",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-noughts-and-crosses-tournament",
+  "title": "The Noughts and Crosses Tournament",
+  "source_book": "My Book of Indoor Games",
+  "category": "board-game"
+ },
+ {
+  "id": "pope-joan-full-rules",
+  "title": "Pope Joan (Full Rules)",
+  "source_book": "My Book of Indoor Games",
+  "category": "card-game"
+ },
+ {
+  "id": "the-magic-mill-trick",
+  "title": "The Magic Mill Trick",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "the-torn-card-restored-simple",
+  "title": "The Torn Card Restored (Simple)",
+  "source_book": "Modern Magic",
+  "category": "magic-trick"
+ },
+ {
+  "id": "dice-chuck-a-luck",
+  "title": "Dice (Chuck-a-Luck)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "board-game"
+ },
+ {
+  "id": "the-age-puzzle",
+  "title": "The Age Puzzle",
+  "source_book": "Amusements in Mathematics",
+  "category": "puzzle"
+ },
+ {
+  "id": "the-squires-puzzle-word-arithmetic",
+  "title": "The Squire's Puzzle (Word Arithmetic)",
+  "source_book": "The Canterbury Puzzles",
+  "category": "puzzle"
+ },
+ {
+  "id": "cribbage-three-hand",
+  "title": "Cribbage (Three-Hand)",
+  "source_book": "Foster's Complete Hoyle",
+  "category": "card-game"
+ },
+ {
+  "id": "beggar-your-neighbor-extended",
+  "title": "Beggar Your Neighbor Extended",
+  "source_book": "Every Boy's Book",
+  "category": "card-game"
+ },
+ {
+  "id": "fox-and-geese-outdoor-snowy",
+  "title": "Fox and Geese (Outdoor, Snowy)",
+  "source_book": "Every Boy's Book",
+  "category": "physical-game"
+ },
+ {
+  "id": "postal-chess-correspondence-chess",
+  "title": "Postal Chess (Correspondence Chess)",
+  "source_book": "Every Boy's Book",
+  "category": "board-game"
+ }
+]

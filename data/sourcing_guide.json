@@ -1,0 +1,196 @@
+{
+  "board_games": {
+    "nine_mens_morris": {
+      "game_ids": [
+        "nine-mens-morris"
+      ],
+      "status": "widely_available",
+      "buy_links": [
+        {
+          "name": "Etsy Handmade",
+          "url": "https://www.etsy.com/search?q=nine+mens+morris+board",
+          "price_range": "$20-60"
+        },
+        {
+          "name": "Maple Landmark",
+          "url": "https://www.maplelandmark.com",
+          "price_range": "$25-40"
+        }
+      ],
+      "build_links": [
+        {
+          "name": "Instructables DIY Guide",
+          "url": "https://www.instructables.com/Nine-Mens-Morris-Board-Game/"
+        },
+        {
+          "name": "Old Sturbridge Village PDF",
+          "url": "https://www.osv.org"
+        }
+      ],
+      "notes": "One of the most widely reproduced historical board games. Available in wood, leather, and stone."
+    },
+    "fox_and_geese": {
+      "game_ids": [
+        "fox-and-geese"
+      ],
+      "status": "widely_available",
+      "buy_links": [
+        {
+          "name": "Maple Landmark",
+          "url": "https://www.maplelandmark.com",
+          "price_range": "$22-30"
+        },
+        {
+          "name": "Colonial Williamsburg",
+          "url": "https://www.colonialwilliamsburg.org",
+          "price_range": "$25-35"
+        }
+      ],
+      "build_links": [
+        {
+          "name": "YouTube DIY tutorials",
+          "url": "https://www.youtube.com/results?search_query=fox+and+geese+board+game+diy"
+        }
+      ],
+      "notes": "Popular colonial-era reproduction. Many museum gift shops carry them."
+    },
+    "solitaire_board": {
+      "game_ids": [
+        "solitaire"
+      ],
+      "status": "widely_available",
+      "buy_links": [
+        {
+          "name": "Etsy (wide range)",
+          "url": "https://www.etsy.com/search?q=peg+solitaire+board",
+          "price_range": "$20-525"
+        },
+        {
+          "name": "Brass Monkey",
+          "url": "https://brassmonkey.co",
+          "price_range": "$25-35"
+        }
+      ],
+      "build_links": [],
+      "notes": "Ranges from mass-produced to fine antique marble boards. Very easy to find."
+    },
+    "reversi": {
+      "game_ids": [
+        "reversi-othello"
+      ],
+      "status": "widely_available",
+      "buy_links": [
+        {
+          "name": "Amazon (Othello)",
+          "url": "https://www.amazon.com/s?k=othello+board+game",
+          "price_range": "$15-30"
+        }
+      ],
+      "build_links": [],
+      "notes": "Sold worldwide as Othello. Identical to Victorian Reversi."
+    },
+    "pope_joan": {
+      "game_ids": [
+        "pope-joan",
+        "pope-joan-full-rules"
+      ],
+      "status": "rare_but_findable",
+      "buy_links": [
+        {
+          "name": "Etsy Vintage/Antique",
+          "url": "https://www.etsy.com/search?q=pope+joan+board+game",
+          "price_range": "$50-200+"
+        }
+      ],
+      "build_links": [],
+      "notes": "Marked as extinct_equipment in audit. However, vintage boards DO appear on Etsy/eBay occasionally. A round board with labeled compartments could be DIY'd."
+    },
+    "faro": {
+      "game_ids": [
+        "faro"
+      ],
+      "status": "collector_only",
+      "buy_links": [],
+      "build_links": [],
+      "notes": "Faro dealing boxes and layouts are extremely rare antiques. Layout could be printed; dealing box would need custom fabrication."
+    }
+  },
+  "dexterity_puzzles": {
+    "hoffmann_puzzles": {
+      "game_ids": [],
+      "status": "rare_collector",
+      "buy_links": [
+        {
+          "name": "Puzzle Museum (Rob's Puzzles)",
+          "url": "https://www.puzzlemuseum.com",
+          "price_range": "\u00a340-350"
+        },
+        {
+          "name": "Ruby Lane Antiques",
+          "url": "https://www.rubylane.com",
+          "price_range": "varies"
+        }
+      ],
+      "build_links": [],
+      "notes": "Victorian brass dexterity puzzles are rare collector items. The Puzzle Museum (puzzlemuseum.com) is the primary specialist dealer."
+    }
+  },
+  "magic_apparatus": {
+    "cups_and_balls": {
+      "game_ids": [
+        "cups-and-balls",
+        "the-cups-and-balls"
+      ],
+      "status": "available",
+      "buy_links": [
+        {
+          "name": "Penguin Magic (brass set)",
+          "url": "https://www.penguinmagic.com",
+          "price_range": "$68-180"
+        },
+        {
+          "name": "Etsy Vintage/Handmade",
+          "url": "https://www.etsy.com/search?q=cups+and+balls+magic",
+          "price_range": "$30-100"
+        }
+      ],
+      "build_links": [],
+      "notes": "Professional magic suppliers stock brass cups. Wooden versions available too."
+    },
+    "general_magic": {
+      "game_ids": [],
+      "status": "mostly_available",
+      "buy_links": [
+        {
+          "name": "Penguin Magic",
+          "url": "https://www.penguinmagic.com",
+          "price_range": "varies"
+        },
+        {
+          "name": "Murphy's Magic",
+          "url": "https://www.murphysmagic.com",
+          "price_range": "varies"
+        }
+      ],
+      "build_links": [],
+      "notes": "Most basic magic apparatus (cards, coins, cups, linking rings) still manufactured. Some Victorian specialty items (inexhaustible bottle, passe-passe) are extinct."
+    }
+  },
+  "lewis_carroll": {
+    "game_of_logic": {
+      "game_ids": [
+        "game-of-logic"
+      ],
+      "status": "trivially_reproducible",
+      "buy_links": [
+        {
+          "name": "V&A Museum (original)",
+          "url": "https://www.vam.ac.uk",
+          "price_range": "museum piece"
+        }
+      ],
+      "build_links": [],
+      "notes": "The board is just a printed diagram (two overlapping squares). Needs 9 counters (coins, buttons, anything). Trivially reproducible by printing the diagram from the public domain book."
+    }
+  }
+}
