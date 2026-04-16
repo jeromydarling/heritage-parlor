@@ -32,7 +32,8 @@ KITS = [
         "id": "rainy-day",
         "prompt": (
             "Victorian parlor interior illustration, warm sepia and brown ink-and-watercolor style on aged cream paper. "
-            "A family gathered around a round table by a tall rain-streaked window, oil lamp glowing, playing a card game. "
+            "A family of four — a father, mother, and two children — gathered around a round table by a tall rain-streaked window, "
+            "oil lamp glowing, playing a card game together. "
             "Patterned wallpaper, heavy curtains, potted fern. Cozy and intimate atmosphere. "
             "Style of 1880s book illustration. Ornate decorative border with corner flourishes. No text or letters."
         ),
@@ -41,8 +42,8 @@ KITS = [
         "id": "restaurant",
         "prompt": (
             "Victorian restaurant illustration, warm sepia and brown ink-and-watercolor style on aged cream paper. "
-            "Two elegantly dressed figures seated at a small round table with white tablecloth, candle, and teacups, "
-            "playing a word game while waiting for dinner. Tiled floor, arched window, potted palm. "
+            "A family — father, mother, and a young child — seated at a round table with white tablecloth, candle, and teacups, "
+            "playing a word game together while waiting for dinner. Tiled floor, arched window, potted palm. "
             "Style of 1890s magazine illustration. Ornate decorative border with corner flourishes. No text or letters."
         ),
     },
@@ -60,7 +61,8 @@ KITS = [
         "prompt": (
             "Victorian Christmas parlor illustration, warm sepia and brown ink-and-watercolor style on aged cream paper. "
             "Grand parlor with roaring fireplace, evergreen garlands and wreath, candles on mantelpiece. "
-            "Large group of adults and children in festive dress playing parlor games, laughing. Christmas tree in corner. "
+            "A large multigenerational family — grandparents, parents, and children of various ages — in festive dress "
+            "playing parlor games together, laughing warmly. Christmas tree in corner. "
             "Style of 1880s holiday book illustration. Ornate decorative border with corner flourishes. No text or letters."
         ),
     },
