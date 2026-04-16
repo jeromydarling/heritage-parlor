@@ -45,8 +45,11 @@ def thumbnail_shell(size=400):
 
 def page1_shell(entry, W=816, H=1056):
     """Start a page 1 SVG with title, subtitle, border."""
+    heading = "&apos;Playfair Display&apos;, Georgia, serif"
+    body = "&apos;Source Sans 3&apos;, Georgia, sans-serif"
     parts = [f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="{ink}" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -54,20 +57,19 @@ def page1_shell(entry, W=816, H=1056):
   <rect width="{W}" height="{H}" fill="{bg}"/>
   <rect width="{W}" height="{H}" fill="url(#ph)"/>
   <rect x="24" y="24" width="{W-48}" height="{H-48}" rx="2" fill="none" stroke="{ink}" stroke-width="0.75" opacity="0.2"/>''']
-    
+
     # Title
     title = entry['title'].upper()
-    # Truncate very long titles
     if len(title) > 40:
         title = title[:37] + '...'
-    parts.append(f'  <text x="{W//2}" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-weight="bold" fill="{ink}" letter-spacing="2">{esc(title)}</text>')
-    
+    parts.append(f'  <text x="{W//2}" y="82" text-anchor="middle" font-family="{heading}" font-size="34" font-weight="bold" fill="{ink}" letter-spacing="2">{esc(title)}</text>')
+
     cat = entry['category'].replace('-', ' ').title()
     players = entry.get('players', '?')
     diff = entry.get('difficulty', '').title()
-    parts.append(f'  <text x="{W//2}" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="{light}">{cat}  ·  {players} players  ·  {diff}</text>')
+    parts.append(f'  <text x="{W//2}" y="110" text-anchor="middle" font-family="{body}" font-size="14" fill="{light}">{cat}  ·  {players} players  ·  {diff}</text>')
     parts.append(f'  <line x1="220" y1="126" x2="{W-220}" y2="126" stroke="{rule}" stroke-width="0.75"/>')
-    
+
     return parts
 
 def page2_content(entry, W=816, H=1056):
@@ -222,10 +224,10 @@ def nxn_page1(entry, params):
     first_sentence = brief.split('.')[0] + '.' if '.' in brief else brief[:120]
     if len(first_sentence) > 100:
         first_sentence = first_sentence[:97] + '...'
-    parts.append(f'  <text x="{W//2}" y="780" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="{light}">{esc(first_sentence)}</text>')
-    parts.append(f'  <text x="{W//2}" y="804" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="{light}">See page 2 for full instructions.</text>')
+    parts.append(f'  <text x="{W//2}" y="780" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="15" fill="{light}">{esc(first_sentence)}</text>')
+    parts.append(f'  <text x="{W//2}" y="804" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" fill="{light}">See page 2 for full instructions.</text>')
     
-    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
+    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
     parts.append('</svg>')
     return '\n'.join(parts)
 
@@ -307,8 +309,8 @@ def morris_page1(entry, params):
     variant = params.get('variant', 'nine_mens')
     draw_morris(parts, W//2, 420, 220, variant, mode='print')
     
-    parts.append(f'  <text x="{W//2}" y="780" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="{light}">Place pieces on any intersection point. See page 2 for rules.</text>')
-    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
+    parts.append(f'  <text x="{W//2}" y="780" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="15" fill="{light}">Place pieces on any intersection point. See page 2 for rules.</text>')
+    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
     parts.append('</svg>')
     return '\n'.join(parts)
 
@@ -380,8 +382,8 @@ def star_page1(entry, params):
     parts = page1_shell(entry)
     draw_star_polygon(parts, W//2, 420, 230, points, star=is_star, mode='print')
     
-    parts.append(f'  <text x="{W//2}" y="780" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="{light}">Place numbers or counters at each position. See page 2 for rules.</text>')
-    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
+    parts.append(f'  <text x="{W//2}" y="780" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="15" fill="{light}">Place numbers or counters at each position. See page 2 for rules.</text>')
+    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
     parts.append('</svg>')
     return '\n'.join(parts)
 
@@ -427,8 +429,8 @@ def circle_page1(entry, params):
     parts = page1_shell(entry)
     draw_circle(parts, W//2, 430, 220, positions, mode='print')
     
-    parts.append(f'  <text x="{W//2}" y="780" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="{light}">Arrange counters at the numbered positions. See page 2 for the puzzle.</text>')
-    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
+    parts.append(f'  <text x="{W//2}" y="780" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="15" fill="{light}">Arrange counters at the numbered positions. See page 2 for the puzzle.</text>')
+    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
     parts.append('</svg>')
     return '\n'.join(parts)
 
@@ -501,8 +503,8 @@ def chess_page1(entry, params):
     parts = page1_shell(entry)
     draw_chessboard(parts, W//2, 420, cell, size, mode='print', pieces=params.get('pieces', []))
     
-    parts.append(f'  <text x="{W//2}" y="800" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="{light}">Use the board above with your own pieces. See page 2 for rules.</text>')
-    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
+    parts.append(f'  <text x="{W//2}" y="800" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="15" fill="{light}">Use the board above with your own pieces. See page 2 for rules.</text>')
+    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
     parts.append('</svg>')
     return '\n'.join(parts)
 
@@ -551,8 +553,8 @@ def graph_page1(entry, params):
     parts = page1_shell(entry)
     draw_graph(parts, W//2, 420, 200, mode='print')
     
-    parts.append(f'  <text x="{W//2}" y="780" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="{light}">Trace paths between nodes. See page 2 for the challenge.</text>')
-    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
+    parts.append(f'  <text x="{W//2}" y="780" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="15" fill="{light}">Trace paths between nodes. See page 2 for the challenge.</text>')
+    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
     parts.append('</svg>')
     return '\n'.join(parts)
 
@@ -600,7 +602,7 @@ def draw_dissection(parts, cx, cy, size, mode='thumb', dtype='tangram'):
             for lx, ly, label in labels:
                 parts.append(f'  <text x="{lx:.0f}" y="{ly:.0f}" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="{accent}" font-weight="bold">{label}</text>')
             # Scissors icon hint
-            parts.append(f'  <text x="{cx}" y="{y0 + sq + 30}" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="{light}">✂ Cut along the lines to make 7 pieces</text>')
+            parts.append(f'  <text x="{cx}" y="{y0 + sq + 30}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" fill="{light}">✂ Cut along the lines to make 7 pieces</text>')
     else:
         # Generic dissection: a shape with cut lines
         # Draw a rectangle with diagonal and perpendicular cuts
@@ -613,7 +615,7 @@ def draw_dissection(parts, cx, cy, size, mode='thumb', dtype='tangram'):
         parts.append(f'  <line x1="{x0+w*2//3}" y1="{y0}" x2="{x0+w*2//3}" y2="{y0+h:.0f}" stroke="{ink}" stroke-width="{1.5 if mode=="print" else 1}" stroke-dasharray="8,4"/>')
         
         if mode == 'print':
-            parts.append(f'  <text x="{cx}" y="{y0 + h + 30:.0f}" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="{light}">✂ Cut along the dashed lines, then reassemble</text>')
+            parts.append(f'  <text x="{cx}" y="{y0 + h + 30:.0f}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" fill="{light}">✂ Cut along the dashed lines, then reassemble</text>')
 
 def dissection_thumbnail(entry, params):
     S = 400
@@ -629,8 +631,8 @@ def dissection_page1(entry, params):
     parts = page1_shell(entry)
     draw_dissection(parts, W//2, 420, 400, mode='print', dtype=dtype)
     
-    parts.append(f'  <text x="{W//2}" y="800" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="{light}">Cut this page along the marked lines. See page 2 for the challenge.</text>')
-    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
+    parts.append(f'  <text x="{W//2}" y="800" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="15" fill="{light}">Cut this page along the marked lines. See page 2 for the challenge.</text>')
+    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
     parts.append('</svg>')
     return '\n'.join(parts)
 
@@ -716,7 +718,7 @@ def make_title_page1(entry):
     y = 500
     for s in sentences:
         for line in wrap_text(s + '.', max_chars=70):
-            parts.append(f'  <text x="{W//2}" y="{y}" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="{ink}">{esc(line)}</text>')
+            parts.append(f'  <text x="{W//2}" y="{y}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="16" fill="{ink}">{esc(line)}</text>')
             y += 24
         y += 8
     
@@ -724,13 +726,13 @@ def make_title_page1(entry):
     equip = entry.get('equipment_needed', [])
     if equip:
         y += 20
-        parts.append(f'  <text x="{W//2}" y="{y}" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="{accent}">You will need:</text>')
+        parts.append(f'  <text x="{W//2}" y="{y}" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="14" font-weight="bold" fill="{accent}">You will need:</text>')
         y += 24
         for item in equip[:6]:
-            parts.append(f'  <text x="{W//2}" y="{y}" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="{light}">{esc(item)}</text>')
+            parts.append(f'  <text x="{W//2}" y="{y}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="{light}">{esc(item)}</text>')
             y += 22
     
-    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
+    parts.append(f'  <text x="{W//2}" y="{H - 42}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="{rule}">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>')
     parts.append('</svg>')
     return '\n'.join(parts)
 
