@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -7,29 +8,29 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">POPE JOAN (FULL RULES)</text>
-  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">POPE JOAN (FULL RULES)</text>
+  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
   <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  48-card deck (remove 8 of diamonds)</text>
-  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  Pope Joan board</text>
-  <text x="126" y="290" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  chips</text>
-  <text x="110" y="330" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="356" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Use a 48-card deck (remove the 8 of Diamonds). You need a Pope Joan</text>
-  <text x="110" y="377" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">board — a round board with labeled compartment pockets. Players</text>
-  <text x="110" y="398" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">ante chips to eight pockets: Ace, King, Queen, Jack, Matrimony (K+Q</text>
-  <text x="110" y="419" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">of trumps), Intrigue (Q+J of trumps), Game (goes to hand-emptier),</text>
-  <text x="110" y="440" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Pope Joan (the 9 of Diamonds). Play sequences in suit; collect from</text>
-  <text x="110" y="461" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the matching pocket when you play those special cards. Empty your</text>
-  <text x="110" y="482" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">hand first to win the Game pocket.</text>
-  <text x="110" y="523" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="547" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Pope Joan boards were elaborately decorated and sold as luxury</text>
-  <text x="110" y="565" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">parlor games. The 9 of diamonds was called Pope Joan because an</text>
-  <text x="110" y="583" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">anti-Catholic English tradition held that the playing-card depicted</text>
-  <text x="110" y="601" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">a legendary female pope.</text>
-  <text x="110" y="635" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="659" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">An old English card game played on a decorated board with pools for</text>
-  <text x="110" y="677" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">King, Queen, Jack, and Pope Joan.</text>
+  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  48-card deck (remove 8 of diamonds)</text>
+  <text x="126" y="268" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  Pope Joan board</text>
+  <text x="126" y="290" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  chips</text>
+  <text x="110" y="330" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="356" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Use a 48-card deck (remove the 8 of Diamonds). You need a Pope Joan</text>
+  <text x="110" y="377" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">board — a round board with labeled compartment pockets. Players</text>
+  <text x="110" y="398" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">ante chips to eight pockets: Ace, King, Queen, Jack, Matrimony (K+Q</text>
+  <text x="110" y="419" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">of trumps), Intrigue (Q+J of trumps), Game (goes to hand-emptier),</text>
+  <text x="110" y="440" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Pope Joan (the 9 of Diamonds). Play sequences in suit; collect from</text>
+  <text x="110" y="461" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">the matching pocket when you play those special cards. Empty your</text>
+  <text x="110" y="482" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">hand first to win the Game pocket.</text>
+  <text x="110" y="523" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="547" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Pope Joan boards were elaborately decorated and sold as luxury</text>
+  <text x="110" y="565" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">parlor games. The 9 of diamonds was called Pope Joan because an</text>
+  <text x="110" y="583" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">anti-Catholic English tradition held that the playing-card depicted</text>
+  <text x="110" y="601" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">a legendary female pope.</text>
+  <text x="110" y="635" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="659" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">An old English card game played on a decorated board with pools for</text>
+  <text x="110" y="677" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">King, Queen, Jack, and Pope Joan.</text>
   <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: My Book of Indoor Games (1916)  ·  Heritage Parlor</text>
+  <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: My Book of Indoor Games (1916)  ·  Heritage Parlor</text>
 </svg>

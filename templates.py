@@ -74,8 +74,11 @@ def page2_content(entry, W=816, H=1056):
     """Generate page 2 instructions. Returns SVG string."""
     m = 110
     content_w = W - 2 * m
+    heading = "&apos;Playfair Display&apos;, Georgia, serif"
+    body = "&apos;Source Sans 3&apos;, Georgia, sans-serif"
     parts = [f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="{ink}" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -88,64 +91,64 @@ def page2_content(entry, W=816, H=1056):
     title = entry['title'].upper()
     if len(title) > 40:
         title = title[:37] + '...'
-    parts.append(f'  <text x="{W//2}" y="{y}" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="{ink}" letter-spacing="2">{esc(title)}</text>')
-    parts.append(f'  <text x="{W//2}" y="{y + 22}" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="{light}">Instructions</text>')
+    parts.append(f'  <text x="{W//2}" y="{y}" text-anchor="middle" font-family="{heading}" font-size="22" font-weight="bold" fill="{ink}" letter-spacing="2">{esc(title)}</text>')
+    parts.append(f'  <text x="{W//2}" y="{y + 22}" text-anchor="middle" font-family="{body}" font-size="12" fill="{light}">Instructions</text>')
     y += 42
     parts.append(f'  <line x1="220" y1="{y}" x2="{W-220}" y2="{y}" stroke="{rule}" stroke-width="0.75"/>')
     y += 32
     
     # What You Need
-    parts.append(f'  <text x="{m}" y="{y}" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="{ink}">What You Need</text>')
+    parts.append(f'  <text x="{m}" y="{y}" font-family="{heading}" font-size="17" font-weight="bold" fill="{ink}">What You Need</text>')
     y += 26
     equip = entry.get('equipment_needed', [])
     if equip:
         for item in equip:
-            parts.append(f'  <text x="{m + 16}" y="{y}" font-family="Georgia, serif" font-size="14" fill="{ink}">·  {esc(item)}</text>')
+            parts.append(f'  <text x="{m + 16}" y="{y}" font-family="{body}" font-size="14" fill="{ink}">·  {esc(item)}</text>')
             y += 22
     else:
-        parts.append(f'  <text x="{m + 16}" y="{y}" font-family="Georgia, serif" font-size="14" fill="{ink}">Nothing special — just the game board on page 1.</text>')
+        parts.append(f'  <text x="{m + 16}" y="{y}" font-family="{body}" font-size="14" fill="{ink}">Nothing special — just the game board on page 1.</text>')
         y += 22
     y += 18
-    
+
     # How to Play
-    parts.append(f'  <text x="{m}" y="{y}" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="{ink}">How to Play</text>')
+    parts.append(f'  <text x="{m}" y="{y}" font-family="{heading}" font-size="17" font-weight="bold" fill="{ink}">How to Play</text>')
     y += 26
     explanation = entry.get('modern_explanation', 'No modern explanation available.')
     for line in wrap_text(explanation):
         if y > H - 180:  # don't overflow
-            parts.append(f'  <text x="{m}" y="{y}" font-family="Georgia, serif" font-size="14" fill="{light}">[continued...]</text>')
+            parts.append(f'  <text x="{m}" y="{y}" font-family="{body}" font-size="14" fill="{light}">[continued...]</text>')
             break
-        parts.append(f'  <text x="{m}" y="{y}" font-family="Georgia, serif" font-size="14" fill="{ink}">{esc(line)}</text>')
+        parts.append(f'  <text x="{m}" y="{y}" font-family="{body}" font-size="14" fill="{ink}">{esc(line)}</text>')
         y += 21
     y += 20
-    
+
     # Fun Fact
     fun = entry.get('fun_fact', '')
     if fun and y < H - 140:
-        parts.append(f'  <text x="{m}" y="{y}" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="{accent}">Did You Know?</text>')
+        parts.append(f'  <text x="{m}" y="{y}" font-family="{heading}" font-size="17" font-weight="bold" fill="{accent}">Did You Know?</text>')
         y += 24
         for line in wrap_text(fun):
             if y > H - 100:
                 break
-            parts.append(f'  <text x="{m}" y="{y}" font-family="Georgia, serif" font-size="13" font-style="italic" fill="{light}">{esc(line)}</text>')
+            parts.append(f'  <text x="{m}" y="{y}" font-family="{body}" font-size="13" font-style="italic" fill="{light}">{esc(line)}</text>')
             y += 18
         y += 16
-    
+
     # Original Description
     orig = entry.get('original_description', '')
     if orig and y < H - 100:
-        parts.append(f'  <text x="{m}" y="{y}" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="{ink}">Original Victorian Description</text>')
+        parts.append(f'  <text x="{m}" y="{y}" font-family="{heading}" font-size="17" font-weight="bold" fill="{ink}">Original Victorian Description</text>')
         y += 24
         for line in wrap_text(orig):
             if y > H - 80:
                 break
-            parts.append(f'  <text x="{m}" y="{y}" font-family="Georgia, serif" font-size="13" font-style="italic" fill="{light}">{esc(line)}</text>')
+            parts.append(f'  <text x="{m}" y="{y}" font-family="{body}" font-size="13" font-style="italic" fill="{light}">{esc(line)}</text>')
             y += 18
-    
+
     # Footer
     source = f"{entry.get('source_book', 'Unknown')} ({entry.get('source_year', '')})"
     parts.append(f'  <line x1="{m}" y1="{H - 64}" x2="{W - m}" y2="{H - 64}" stroke="{rule}" stroke-width="0.5"/>')
-    parts.append(f'  <text x="{W // 2}" y="{H - 44}" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="{light}">Source: {esc(source)}  ·  Heritage Parlor</text>')
+    parts.append(f'  <text x="{W // 2}" y="{H - 44}" text-anchor="middle" font-family="{body}" font-size="11" fill="{light}">Source: {esc(source)}  ·  Heritage Parlor</text>')
     
     parts.append('</svg>')
     return '\n'.join(parts)

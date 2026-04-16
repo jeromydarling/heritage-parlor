@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -7,29 +8,29 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MAGIC WAND COIN VANISH</text>
-  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MAGIC WAND COIN VANISH</text>
+  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
   <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  coin</text>
-  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  magic wand or pencil</text>
-  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: A coin balanced on the back of your hand vanishes when</text>
-  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">tapped with a wand. Method: Balance a coin on the back of your left</text>
-  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">hand. Hold the wand (or a pencil) in your right. Raise the wand</text>
-  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">above the coin — but on the upswing, let it slip back over your</text>
-  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">right shoulder. Tap the empty spot where the coin was with your</text>
-  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">empty right hand. When the audience looks and finds the coin gone,</text>
-  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">they look at your hands — not your shoulder where the coin is</text>
-  <text x="110" y="481" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">resting. That moment of misdirection is everything.</text>
-  <text x="110" y="522" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="546" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This is one of the most elegant misdirection principles in magic:</text>
-  <text x="110" y="564" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the audience watches where the action SHOULD happen (the tap) not</text>
-  <text x="110" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">where the secret happens (the shoulder load). Hoffmann called</text>
-  <text x="110" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">misdirection &apos;the entire art of conjuring in miniature.&apos;</text>
-  <text x="110" y="634" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="658" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A coin placed on the back of the hand vanishes when the wand taps</text>
-  <text x="110" y="676" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">it.</text>
+  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  coin</text>
+  <text x="126" y="268" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  magic wand or pencil</text>
+  <text x="110" y="308" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Effect: A coin balanced on the back of your hand vanishes when</text>
+  <text x="110" y="355" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">tapped with a wand. Method: Balance a coin on the back of your left</text>
+  <text x="110" y="376" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">hand. Hold the wand (or a pencil) in your right. Raise the wand</text>
+  <text x="110" y="397" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">above the coin — but on the upswing, let it slip back over your</text>
+  <text x="110" y="418" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">right shoulder. Tap the empty spot where the coin was with your</text>
+  <text x="110" y="439" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">empty right hand. When the audience looks and finds the coin gone,</text>
+  <text x="110" y="460" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">they look at your hands — not your shoulder where the coin is</text>
+  <text x="110" y="481" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">resting. That moment of misdirection is everything.</text>
+  <text x="110" y="522" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="546" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">This is one of the most elegant misdirection principles in magic:</text>
+  <text x="110" y="564" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">the audience watches where the action SHOULD happen (the tap) not</text>
+  <text x="110" y="582" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">where the secret happens (the shoulder load). Hoffmann called</text>
+  <text x="110" y="600" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">misdirection &apos;the entire art of conjuring in miniature.&apos;</text>
+  <text x="110" y="634" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="658" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">A coin placed on the back of the hand vanishes when the wand taps</text>
+  <text x="110" y="676" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">it.</text>
   <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)  ·  Heritage Parlor</text>
+  <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: Modern Magic (1876)  ·  Heritage Parlor</text>
 </svg>

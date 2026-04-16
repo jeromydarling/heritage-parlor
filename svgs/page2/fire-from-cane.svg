@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -7,32 +8,32 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">FIRE FROM A CANE</text>
-  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">FIRE FROM A CANE</text>
+  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
   <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  two rattan canes</text>
-  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">A historical demonstration of friction fire-starting: hold one dry</text>
-  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">rattan cane firmly and strike the other against it rapidly at a</text>
-  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">sharp angle, applying pressure. Sustained rapid friction heats the</text>
-  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">contact point until the dry plant fibers begin to smolder. This is</text>
-  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the original human fire-making method, still used by traditional</text>
-  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">communities worldwide today. Adult supervision required. Perform</text>
-  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">outdoors or over a non-flammable surface. Modern fire-by-friction</text>
-  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">tools (bow-drills, fire pistons) are available for safe</text>
-  <text x="110" y="480" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">demonstrations.</text>
-  <text x="110" y="521" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="545" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This experiment was included in Victorian parlor books as a link to</text>
-  <text x="110" y="563" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">primitive human history — Victorian readers were fascinated by how</text>
-  <text x="110" y="581" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">their scientifically advanced society had emerged from ancestors</text>
-  <text x="110" y="599" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">who made fire by rubbing sticks.</text>
-  <text x="110" y="633" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="657" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Two rattan canes are struck against each other rapidly. If struck</text>
-  <text x="110" y="675" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">at the right angle and speed, friction ignites the rattan fibers</text>
-  <text x="110" y="693" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">and a genuine spark or small flame can be produced — demonstrating</text>
-  <text x="110" y="711" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the primitive method of fire-starting used for thousands of years</text>
-  <text x="110" y="729" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">before matches.</text>
+  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  two rattan canes</text>
+  <text x="110" y="286" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">A historical demonstration of friction fire-starting: hold one dry</text>
+  <text x="110" y="333" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">rattan cane firmly and strike the other against it rapidly at a</text>
+  <text x="110" y="354" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">sharp angle, applying pressure. Sustained rapid friction heats the</text>
+  <text x="110" y="375" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">contact point until the dry plant fibers begin to smolder. This is</text>
+  <text x="110" y="396" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">the original human fire-making method, still used by traditional</text>
+  <text x="110" y="417" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">communities worldwide today. Adult supervision required. Perform</text>
+  <text x="110" y="438" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">outdoors or over a non-flammable surface. Modern fire-by-friction</text>
+  <text x="110" y="459" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">tools (bow-drills, fire pistons) are available for safe</text>
+  <text x="110" y="480" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">demonstrations.</text>
+  <text x="110" y="521" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="545" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">This experiment was included in Victorian parlor books as a link to</text>
+  <text x="110" y="563" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">primitive human history — Victorian readers were fascinated by how</text>
+  <text x="110" y="581" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">their scientifically advanced society had emerged from ancestors</text>
+  <text x="110" y="599" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">who made fire by rubbing sticks.</text>
+  <text x="110" y="633" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="657" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Two rattan canes are struck against each other rapidly. If struck</text>
+  <text x="110" y="675" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">at the right angle and speed, friction ignites the rattan fibers</text>
+  <text x="110" y="693" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">and a genuine spark or small flame can be produced — demonstrating</text>
+  <text x="110" y="711" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">the primitive method of fire-starting used for thousands of years</text>
+  <text x="110" y="729" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">before matches.</text>
   <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)  ·  Heritage Parlor</text>
+  <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)  ·  Heritage Parlor</text>
 </svg>

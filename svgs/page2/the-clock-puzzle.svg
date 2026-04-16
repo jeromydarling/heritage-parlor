@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -7,29 +8,29 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE CLOCK PUZZLE</text>
-  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE CLOCK PUZZLE</text>
+  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
   <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
-  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The puzzle: the minute and hour hands of a clock are exactly</text>
-  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">opposite each other (180 degrees apart) at 6:00. Between 12:00 and</text>
-  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">1:00, there is exactly one time when they are opposite again. Find</text>
-  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">that exact time in hours, minutes, and seconds. To solve it: the</text>
-  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">minute hand moves 360 degrees per hour; the hour hand moves 30</text>
-  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">degrees per hour. They are opposite when the minute hand is exactly</text>
-  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">180 degrees ahead of the hour hand. Set up the equation and solve</text>
-  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">for the time. Answer: approximately 12:32 and 43.6 seconds.</text>
-  <text x="110" y="500" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Clock puzzles were a Victorian favorite because every household had</text>
-  <text x="110" y="542" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">a clock visible during parlor gatherings, making the puzzle</text>
-  <text x="110" y="560" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">immediately demonstrable. Dudeney published numerous clock-related</text>
-  <text x="110" y="578" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">puzzles, noting that &apos;the clock is the most mathematical of</text>
-  <text x="110" y="596" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">household objects.&apos;</text>
-  <text x="110" y="630" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="654" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Find the times when the clock&apos;s minute hand exactly bisects the</text>
-  <text x="110" y="672" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">angle made by the hour and twelve.</text>
+  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="110" y="286" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">The puzzle: the minute and hour hands of a clock are exactly</text>
+  <text x="110" y="333" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">opposite each other (180 degrees apart) at 6:00. Between 12:00 and</text>
+  <text x="110" y="354" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">1:00, there is exactly one time when they are opposite again. Find</text>
+  <text x="110" y="375" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">that exact time in hours, minutes, and seconds. To solve it: the</text>
+  <text x="110" y="396" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">minute hand moves 360 degrees per hour; the hour hand moves 30</text>
+  <text x="110" y="417" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">degrees per hour. They are opposite when the minute hand is exactly</text>
+  <text x="110" y="438" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">180 degrees ahead of the hour hand. Set up the equation and solve</text>
+  <text x="110" y="459" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">for the time. Answer: approximately 12:32 and 43.6 seconds.</text>
+  <text x="110" y="500" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="524" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Clock puzzles were a Victorian favorite because every household had</text>
+  <text x="110" y="542" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">a clock visible during parlor gatherings, making the puzzle</text>
+  <text x="110" y="560" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">immediately demonstrable. Dudeney published numerous clock-related</text>
+  <text x="110" y="578" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">puzzles, noting that &apos;the clock is the most mathematical of</text>
+  <text x="110" y="596" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">household objects.&apos;</text>
+  <text x="110" y="630" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="654" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Find the times when the clock&apos;s minute hand exactly bisects the</text>
+  <text x="110" y="672" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">angle made by the hour and twelve.</text>
   <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Amusements in Mathematics (1917)  ·  Heritage Parlor</text>
+  <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: Amusements in Mathematics (1917)  ·  Heritage Parlor</text>
 </svg>

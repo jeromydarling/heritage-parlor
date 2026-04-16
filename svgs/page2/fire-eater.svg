@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -7,36 +8,36 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE FIRE EATER</text>
-  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE FIRE EATER</text>
+  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
   <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  flax tow</text>
-  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  potassium nitrate (niter) solution</text>
-  <text x="126" y="290" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  candle</text>
-  <text x="110" y="330" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="356" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: A performer appears to eat glowing fire, placing burning</text>
-  <text x="110" y="377" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">material in their mouth. Method: tow (flax fiber) soaked in</text>
-  <text x="110" y="398" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">potassium nitrate smolders at a manageable temperature when the</text>
-  <text x="110" y="419" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">mouth&apos;s warm moisture controls the oxygen supply — closing the</text>
-  <text x="110" y="440" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">mouth extinguishes it. This is a genuine performance art requiring</text>
-  <text x="110" y="461" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">professional training, mentorship, and extensive practice. The</text>
-  <text x="110" y="482" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">original book itself warned it was &apos;not recommended for amateurs.&apos;</text>
-  <text x="110" y="503" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Never attempt without expert supervision. Modern fire performers</text>
-  <text x="110" y="524" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">train for months under mentors before their first live act.</text>
-  <text x="110" y="565" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="589" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Fire eating is one of the oldest performance arts in recorded</text>
-  <text x="110" y="607" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">history, practiced at ancient Roman circus events and throughout</text>
-  <text x="110" y="625" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the medieval period by itinerant showmen. The fire eating scene in</text>
-  <text x="110" y="643" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the 1862 book specifically notes it was &apos;not recommended for</text>
-  <text x="110" y="661" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">amateurs,&apos; making it one of the earliest printed safety warnings in</text>
-  <text x="110" y="679" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">a magic book.</text>
-  <text x="110" y="713" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="737" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The performer appears to eat burning tow (flax fiber), placing</text>
-  <text x="110" y="755" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">glowing material in their mouth and quenching it. The method: tow</text>
-  <text x="110" y="773" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">soaked in niter (potassium nitrate) ignites easily in the presence</text>
-  <text x="110" y="791" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">of the mouth&apos;s warmth but can be extinguished safely by closing the</text>
-  <text x="110" y="809" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">mouth and excluding oxygen.</text>
+  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  flax tow</text>
+  <text x="126" y="268" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  potassium nitrate (niter) solution</text>
+  <text x="126" y="290" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  candle</text>
+  <text x="110" y="330" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="356" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Effect: A performer appears to eat glowing fire, placing burning</text>
+  <text x="110" y="377" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">material in their mouth. Method: tow (flax fiber) soaked in</text>
+  <text x="110" y="398" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">potassium nitrate smolders at a manageable temperature when the</text>
+  <text x="110" y="419" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">mouth&apos;s warm moisture controls the oxygen supply — closing the</text>
+  <text x="110" y="440" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">mouth extinguishes it. This is a genuine performance art requiring</text>
+  <text x="110" y="461" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">professional training, mentorship, and extensive practice. The</text>
+  <text x="110" y="482" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">original book itself warned it was &apos;not recommended for amateurs.&apos;</text>
+  <text x="110" y="503" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Never attempt without expert supervision. Modern fire performers</text>
+  <text x="110" y="524" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">train for months under mentors before their first live act.</text>
+  <text x="110" y="565" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="589" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Fire eating is one of the oldest performance arts in recorded</text>
+  <text x="110" y="607" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">history, practiced at ancient Roman circus events and throughout</text>
+  <text x="110" y="625" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">the medieval period by itinerant showmen. The fire eating scene in</text>
+  <text x="110" y="643" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">the 1862 book specifically notes it was &apos;not recommended for</text>
+  <text x="110" y="661" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">amateurs,&apos; making it one of the earliest printed safety warnings in</text>
+  <text x="110" y="679" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">a magic book.</text>
+  <text x="110" y="713" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="737" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">The performer appears to eat burning tow (flax fiber), placing</text>
+  <text x="110" y="755" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">glowing material in their mouth and quenching it. The method: tow</text>
+  <text x="110" y="773" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">soaked in niter (potassium nitrate) ignites easily in the presence</text>
+  <text x="110" y="791" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">of the mouth&apos;s warmth but can be extinguished safely by closing the</text>
+  <text x="110" y="809" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">mouth and excluding oxygen.</text>
   <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Magician&apos;s Own Book (1862)  ·  Heritage Parlor</text>
+  <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: The Magician&apos;s Own Book (1862)  ·  Heritage Parlor</text>
 </svg>

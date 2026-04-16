@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -7,31 +8,31 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">PADDY FROM HOME</text>
-  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">PADDY FROM HOME</text>
+  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
   <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  string</text>
-  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  small ring</text>
-  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Thread a small ring on a long loop of string that all players hold</text>
-  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">with both hands forming a circle. Players pass the ring secretly</text>
-  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">from hand to hand under their fingers while singing. The player in</text>
-  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the center watches carefully and tries to spot whose hands</text>
-  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">currently hide the ring. A correct guess means the holder steps</text>
-  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">into the center. An incorrect guess means the guesser stays in for</text>
-  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">another round.</text>
-  <text x="110" y="501" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="525" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Ring-passing guessing games were played across medieval Europe</text>
-  <text x="110" y="543" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">under names like &apos;Hunt the Ring&apos; and &apos;Find the Ring&apos; — Gomme&apos;s</text>
-  <text x="110" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">version adds the distinctly Victorian detail of a railway journey</text>
-  <text x="110" y="579" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">in the accompanying song.</text>
-  <text x="110" y="613" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="637" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Players in a ring hold a long loop of string with a small ring</text>
-  <text x="110" y="655" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">threaded on it. They pass the ring from hand to hand, concealing</text>
-  <text x="110" y="673" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">it, while singing &apos;Paddy from home has never been... travels along</text>
-  <text x="110" y="691" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the railway.&apos; The center child must guess which hand currently</text>
-  <text x="110" y="709" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">holds the ring.</text>
+  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  string</text>
+  <text x="126" y="268" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  small ring</text>
+  <text x="110" y="308" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Thread a small ring on a long loop of string that all players hold</text>
+  <text x="110" y="355" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">with both hands forming a circle. Players pass the ring secretly</text>
+  <text x="110" y="376" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">from hand to hand under their fingers while singing. The player in</text>
+  <text x="110" y="397" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">the center watches carefully and tries to spot whose hands</text>
+  <text x="110" y="418" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">currently hide the ring. A correct guess means the holder steps</text>
+  <text x="110" y="439" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">into the center. An incorrect guess means the guesser stays in for</text>
+  <text x="110" y="460" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">another round.</text>
+  <text x="110" y="501" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="525" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Ring-passing guessing games were played across medieval Europe</text>
+  <text x="110" y="543" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">under names like &apos;Hunt the Ring&apos; and &apos;Find the Ring&apos; — Gomme&apos;s</text>
+  <text x="110" y="561" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">version adds the distinctly Victorian detail of a railway journey</text>
+  <text x="110" y="579" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">in the accompanying song.</text>
+  <text x="110" y="613" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="637" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Players in a ring hold a long loop of string with a small ring</text>
+  <text x="110" y="655" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">threaded on it. They pass the ring from hand to hand, concealing</text>
+  <text x="110" y="673" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">it, while singing &apos;Paddy from home has never been... travels along</text>
+  <text x="110" y="691" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">the railway.&apos; The center child must guess which hand currently</text>
+  <text x="110" y="709" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">holds the ring.</text>
   <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. II (1898)  ·  Heritage Parlor</text>
+  <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. II (1898)  ·  Heritage Parlor</text>
 </svg>

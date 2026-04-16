@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -7,31 +8,31 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">CLEOPATRA&apos;S PEARLS</text>
-  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">CLEOPATRA&apos;S PEARLS</text>
+  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
   <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  small chalk or calcium carbonate pellet</text>
-  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  glass of vinegar</text>
-  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Drop a piece of chalk (calcium carbonate — the same material as a</text>
-  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pearl) into a glass of white vinegar. Bubbles form immediately and</text>
-  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the chalk gradually dissolves: CaCO₃ + 2CH₃COOH → Ca(CH₃COO)₂ + H₂O</text>
-  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">+ CO₂. The bubbles are carbon dioxide gas. With a real pearl, the</text>
-  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">same reaction would occur — but much more slowly, since wine</text>
-  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">vinegar is far weaker than pure acetic acid. A simple, safe, and</text>
-  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">dramatic demonstration of acid-base chemistry that any kitchen can</text>
-  <text x="110" y="481" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">produce.</text>
-  <text x="110" y="522" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="546" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Whether Cleopatra actually dissolved a pearl in wine vinegar is</text>
-  <text x="110" y="564" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">historically debated — the story comes from Pliny the Elder. Modern</text>
-  <text x="110" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">chemists calculate that at wine&apos;s acid concentration, dissolution</text>
-  <text x="110" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">would take days, not the dramatic moment the story describes.</text>
-  <text x="110" y="634" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="658" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A pearl (or chalk) dropped into vinegar dissolves — demonstrating</text>
-  <text x="110" y="676" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the chemical principle by which Cleopatra supposedly dissolved her</text>
-  <text x="110" y="694" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">famous pearl earring in wine vinegar and drank it to win a wager</text>
-  <text x="110" y="712" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">with Mark Antony over who could throw the most lavish feast.</text>
+  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  small chalk or calcium carbonate pellet</text>
+  <text x="126" y="268" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  glass of vinegar</text>
+  <text x="110" y="308" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Drop a piece of chalk (calcium carbonate — the same material as a</text>
+  <text x="110" y="355" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">pearl) into a glass of white vinegar. Bubbles form immediately and</text>
+  <text x="110" y="376" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">the chalk gradually dissolves: CaCO₃ + 2CH₃COOH → Ca(CH₃COO)₂ + H₂O</text>
+  <text x="110" y="397" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">+ CO₂. The bubbles are carbon dioxide gas. With a real pearl, the</text>
+  <text x="110" y="418" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">same reaction would occur — but much more slowly, since wine</text>
+  <text x="110" y="439" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">vinegar is far weaker than pure acetic acid. A simple, safe, and</text>
+  <text x="110" y="460" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">dramatic demonstration of acid-base chemistry that any kitchen can</text>
+  <text x="110" y="481" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">produce.</text>
+  <text x="110" y="522" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="546" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Whether Cleopatra actually dissolved a pearl in wine vinegar is</text>
+  <text x="110" y="564" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">historically debated — the story comes from Pliny the Elder. Modern</text>
+  <text x="110" y="582" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">chemists calculate that at wine&apos;s acid concentration, dissolution</text>
+  <text x="110" y="600" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">would take days, not the dramatic moment the story describes.</text>
+  <text x="110" y="634" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="658" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">A pearl (or chalk) dropped into vinegar dissolves — demonstrating</text>
+  <text x="110" y="676" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">the chemical principle by which Cleopatra supposedly dissolved her</text>
+  <text x="110" y="694" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">famous pearl earring in wine vinegar and drank it to win a wager</text>
+  <text x="110" y="712" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">with Mark Antony over who could throw the most lavish feast.</text>
   <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Magician&apos;s Own Book (1862)  ·  Heritage Parlor</text>
+  <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: The Magician&apos;s Own Book (1862)  ·  Heritage Parlor</text>
 </svg>

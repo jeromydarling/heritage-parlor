@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -7,32 +8,32 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MAZE PUZZLE</text>
-  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MAZE PUZZLE</text>
+  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
   <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  enclosed box with maze pattern</text>
-  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  5 pellets</text>
-  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Tilt and rotate the enclosed box to roll the five pellets through</text>
-  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the internal passages you cannot see. You must learn the invisible</text>
-  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">maze layout purely through the feel and sound of the pellets moving</text>
-  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">— there is no visual guide. The challenge: route all five pellets</text>
-  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">to the center simultaneously. Developing a mental map of the</text>
-  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">interior through trial and error is the only approach. A rare form</text>
-  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">of spatial reasoning puzzle still made by puzzle artisans today.</text>
-  <text x="110" y="501" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="525" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Enclosed maze puzzles requiring the manipulation of a hidden</text>
-  <text x="110" y="543" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">interior were a direct outgrowth of Victorian confidence in</text>
-  <text x="110" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">mechanical precision engineering — only industrial-era</text>
-  <text x="110" y="579" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">craftsmanship could produce the consistent internal tolerances</text>
-  <text x="110" y="597" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">needed for these puzzles to work reliably.</text>
-  <text x="110" y="631" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="655" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">An enclosed box contains a maze pattern on its floor with a series</text>
-  <text x="110" y="673" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">of walls and passages. Five pellets must all be maneuvered into the</text>
-  <text x="110" y="691" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">central compartment by tilting and turning the box, navigating the</text>
-  <text x="110" y="709" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">pellets through the maze passages without the ability to see them</text>
-  <text x="110" y="727" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">directly.</text>
+  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  enclosed box with maze pattern</text>
+  <text x="126" y="268" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  5 pellets</text>
+  <text x="110" y="308" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Tilt and rotate the enclosed box to roll the five pellets through</text>
+  <text x="110" y="355" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">the internal passages you cannot see. You must learn the invisible</text>
+  <text x="110" y="376" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">maze layout purely through the feel and sound of the pellets moving</text>
+  <text x="110" y="397" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">— there is no visual guide. The challenge: route all five pellets</text>
+  <text x="110" y="418" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">to the center simultaneously. Developing a mental map of the</text>
+  <text x="110" y="439" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">interior through trial and error is the only approach. A rare form</text>
+  <text x="110" y="460" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">of spatial reasoning puzzle still made by puzzle artisans today.</text>
+  <text x="110" y="501" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="525" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Enclosed maze puzzles requiring the manipulation of a hidden</text>
+  <text x="110" y="543" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">interior were a direct outgrowth of Victorian confidence in</text>
+  <text x="110" y="561" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">mechanical precision engineering — only industrial-era</text>
+  <text x="110" y="579" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">craftsmanship could produce the consistent internal tolerances</text>
+  <text x="110" y="597" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">needed for these puzzles to work reliably.</text>
+  <text x="110" y="631" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="655" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">An enclosed box contains a maze pattern on its floor with a series</text>
+  <text x="110" y="673" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">of walls and passages. Five pellets must all be maneuvered into the</text>
+  <text x="110" y="691" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">central compartment by tilting and turning the box, navigating the</text>
+  <text x="110" y="709" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">pellets through the maze passages without the ability to see them</text>
+  <text x="110" y="727" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">directly.</text>
   <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Puzzles Old and New (1893)  ·  Heritage Parlor</text>
+  <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: Puzzles Old and New (1893)  ·  Heritage Parlor</text>
 </svg>

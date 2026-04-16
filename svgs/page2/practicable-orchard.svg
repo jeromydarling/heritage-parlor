@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -7,32 +8,32 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE PRACTICABLE ORCHARD</text>
-  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE PRACTICABLE ORCHARD</text>
+  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
   <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  paper</text>
-  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  pencil</text>
-  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The puzzle: draw exactly 16 dots on paper (the &apos;trees&apos;) so that you</text>
-  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">can find 10 straight lines, each passing through exactly 4 dots.</text>
-  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">This seems impossible — 10 rows of 4 would need 40 dots if no dot</text>
-  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">was shared. The secret is that a single dot can lie on multiple</text>
-  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">lines simultaneously, so each dot counts in every row that passes</text>
-  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">through it. The solution involves a specific star-shaped or</text>
-  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">diamond-lattice arrangement. Start by drawing the lines first and</text>
-  <text x="110" y="481" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">placing trees at their intersections.</text>
-  <text x="110" y="522" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="546" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The orchard planting puzzle type dates back to at least the 17th</text>
-  <text x="110" y="564" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">century and was a staple of Victorian puzzle books. The &apos;ten rows</text>
-  <text x="110" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">of four from sixteen trees&apos; problem was considered a particularly</text>
-  <text x="110" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">elegant version because the solution is so unexpected.</text>
-  <text x="110" y="634" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="658" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Plant sixteen trees in an orchard so that they form ten rows of</text>
-  <text x="110" y="676" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">four trees each. At first this seems impossible — sixteen trees</text>
-  <text x="110" y="694" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">making ten rows of four would require forty positions. The solution</text>
-  <text x="110" y="712" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">uses the diagonal and overlapping intersections of a clever</text>
-  <text x="110" y="730" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">geometric arrangement.</text>
+  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  paper</text>
+  <text x="126" y="268" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  pencil</text>
+  <text x="110" y="308" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">The puzzle: draw exactly 16 dots on paper (the &apos;trees&apos;) so that you</text>
+  <text x="110" y="355" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">can find 10 straight lines, each passing through exactly 4 dots.</text>
+  <text x="110" y="376" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">This seems impossible — 10 rows of 4 would need 40 dots if no dot</text>
+  <text x="110" y="397" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">was shared. The secret is that a single dot can lie on multiple</text>
+  <text x="110" y="418" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">lines simultaneously, so each dot counts in every row that passes</text>
+  <text x="110" y="439" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">through it. The solution involves a specific star-shaped or</text>
+  <text x="110" y="460" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">diamond-lattice arrangement. Start by drawing the lines first and</text>
+  <text x="110" y="481" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">placing trees at their intersections.</text>
+  <text x="110" y="522" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="546" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">The orchard planting puzzle type dates back to at least the 17th</text>
+  <text x="110" y="564" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">century and was a staple of Victorian puzzle books. The &apos;ten rows</text>
+  <text x="110" y="582" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">of four from sixteen trees&apos; problem was considered a particularly</text>
+  <text x="110" y="600" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">elegant version because the solution is so unexpected.</text>
+  <text x="110" y="634" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="658" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Plant sixteen trees in an orchard so that they form ten rows of</text>
+  <text x="110" y="676" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">four trees each. At first this seems impossible — sixteen trees</text>
+  <text x="110" y="694" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">making ten rows of four would require forty positions. The solution</text>
+  <text x="110" y="712" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">uses the diagonal and overlapping intersections of a clever</text>
+  <text x="110" y="730" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">geometric arrangement.</text>
   <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)  ·  Heritage Parlor</text>
+  <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)  ·  Heritage Parlor</text>
 </svg>

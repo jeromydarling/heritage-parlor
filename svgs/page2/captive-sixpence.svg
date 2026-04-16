@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -7,30 +8,30 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE CAPTIVE SIXPENCE</text>
-  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE CAPTIVE SIXPENCE</text>
+  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
   <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  special brass box with depressible top and internal ball</text>
-  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The brass box contains a coin under a spring-loaded lid. Pressing</text>
-  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the lid releases it slightly, but not far enough for the coin to</text>
-  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">escape. Try as you might, it won&apos;t come out right-side-up. The</text>
-  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">solution: turn the box completely upside-down. An internal</text>
-  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">ball-bearing rolls to a new position, changing how far the</text>
-  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">mechanism can travel. Now press the lid (which is now facing down)</text>
-  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">and the coin drops free into your waiting palm. A gravity-dependent</text>
-  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">puzzle that changes behavior when inverted.</text>
-  <text x="110" y="500" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This puzzle exemplifies the principle that gravity-dependent</text>
-  <text x="110" y="542" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">mechanisms create puzzles that solve differently when inverted — a</text>
-  <text x="110" y="560" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">principle used in countless Victorian puzzle boxes and which</text>
-  <text x="110" y="578" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">continues to inspire puzzle designers today.</text>
-  <text x="110" y="612" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="636" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A box contains a sixpence trapped under a top that can be depressed</text>
-  <text x="110" y="654" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">but springs back. The coin cannot be shaken out. Solution: invert</text>
-  <text x="110" y="672" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the box — a hidden ball shifts to allow the top to be depressed far</text>
-  <text x="110" y="690" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">enough to release the coin.</text>
+  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  special brass box with depressible top and internal ball</text>
+  <text x="110" y="286" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">The brass box contains a coin under a spring-loaded lid. Pressing</text>
+  <text x="110" y="333" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">the lid releases it slightly, but not far enough for the coin to</text>
+  <text x="110" y="354" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">escape. Try as you might, it won&apos;t come out right-side-up. The</text>
+  <text x="110" y="375" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">solution: turn the box completely upside-down. An internal</text>
+  <text x="110" y="396" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">ball-bearing rolls to a new position, changing how far the</text>
+  <text x="110" y="417" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">mechanism can travel. Now press the lid (which is now facing down)</text>
+  <text x="110" y="438" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">and the coin drops free into your waiting palm. A gravity-dependent</text>
+  <text x="110" y="459" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">puzzle that changes behavior when inverted.</text>
+  <text x="110" y="500" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="524" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">This puzzle exemplifies the principle that gravity-dependent</text>
+  <text x="110" y="542" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">mechanisms create puzzles that solve differently when inverted — a</text>
+  <text x="110" y="560" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">principle used in countless Victorian puzzle boxes and which</text>
+  <text x="110" y="578" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">continues to inspire puzzle designers today.</text>
+  <text x="110" y="612" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="636" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">A box contains a sixpence trapped under a top that can be depressed</text>
+  <text x="110" y="654" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">but springs back. The coin cannot be shaken out. Solution: invert</text>
+  <text x="110" y="672" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">the box — a hidden ball shifts to allow the top to be depressed far</text>
+  <text x="110" y="690" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">enough to release the coin.</text>
   <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Puzzles Old and New (1893)  ·  Heritage Parlor</text>
+  <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: Puzzles Old and New (1893)  ·  Heritage Parlor</text>
 </svg>

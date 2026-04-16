@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -7,30 +8,30 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE DRY SAND TRICK</text>
-  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE DRY SAND TRICK</text>
+  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
   <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  treated sand</text>
-  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  water</text>
-  <text x="126" y="290" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  bowl</text>
-  <text x="110" y="330" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="356" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: Sand plunged into a bowl of water comes back out completely</text>
-  <text x="110" y="377" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">dry — a seemingly impossible result. Method: Treat ordinary sand</text>
-  <text x="110" y="398" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">with a waterproofing agent (beeswax dissolved in alcohol, then</text>
-  <text x="110" y="419" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">dried — or modern silicone waterproofing spray). The coating makes</text>
-  <text x="110" y="440" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the sand hydrophobic, meaning water molecules can&apos;t stick to it.</text>
-  <text x="110" y="461" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Plunge a handful into a bowl of water: it sinks inside a silvery</text>
-  <text x="110" y="482" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">air bubble and comes out dry when you lift your hand. No special</text>
-  <text x="110" y="503" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">apparatus needed beyond the treated sand.</text>
-  <text x="110" y="544" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="568" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The Dry Sand Trick fascinated Victorian scientists as much as</text>
-  <text x="110" y="586" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">audiences. The principle — hydrophobic surfaces — now underlies</text>
-  <text x="110" y="604" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">industrial waterproofing, stain-resistant fabrics, self-cleaning</text>
-  <text x="110" y="622" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">glass, and the lotus-leaf effect in nanotechnology.</text>
-  <text x="110" y="656" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="680" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Sand plunged into a bowl of water comes up perfectly dry - a</text>
-  <text x="110" y="698" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">seeming impossibility.</text>
+  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  treated sand</text>
+  <text x="126" y="268" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  water</text>
+  <text x="126" y="290" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  bowl</text>
+  <text x="110" y="330" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="356" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Effect: Sand plunged into a bowl of water comes back out completely</text>
+  <text x="110" y="377" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">dry — a seemingly impossible result. Method: Treat ordinary sand</text>
+  <text x="110" y="398" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">with a waterproofing agent (beeswax dissolved in alcohol, then</text>
+  <text x="110" y="419" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">dried — or modern silicone waterproofing spray). The coating makes</text>
+  <text x="110" y="440" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">the sand hydrophobic, meaning water molecules can&apos;t stick to it.</text>
+  <text x="110" y="461" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Plunge a handful into a bowl of water: it sinks inside a silvery</text>
+  <text x="110" y="482" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">air bubble and comes out dry when you lift your hand. No special</text>
+  <text x="110" y="503" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">apparatus needed beyond the treated sand.</text>
+  <text x="110" y="544" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="568" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">The Dry Sand Trick fascinated Victorian scientists as much as</text>
+  <text x="110" y="586" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">audiences. The principle — hydrophobic surfaces — now underlies</text>
+  <text x="110" y="604" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">industrial waterproofing, stain-resistant fabrics, self-cleaning</text>
+  <text x="110" y="622" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">glass, and the lotus-leaf effect in nanotechnology.</text>
+  <text x="110" y="656" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="680" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Sand plunged into a bowl of water comes up perfectly dry - a</text>
+  <text x="110" y="698" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">seeming impossibility.</text>
   <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)  ·  Heritage Parlor</text>
+  <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: Modern Magic (1876)  ·  Heritage Parlor</text>
 </svg>

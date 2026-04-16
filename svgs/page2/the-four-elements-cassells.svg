@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -7,28 +8,28 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE FOUR ELEMENTS (CASSELLS)</text>
-  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE FOUR ELEMENTS (CASSELLS)</text>
+  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
   <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  ball or knotted cloth</text>
-  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Players stand in a circle. The center player throws a ball to any</text>
-  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">player while calling &apos;Earth,&apos; &apos;Air,&apos; or &apos;Water.&apos; The catching</text>
-  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">player must name a real creature from that element before the</text>
-  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">thrower counts to ten. Earth = land animals, Air = birds or flying</text>
-  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">insects, Water = fish or sea creatures. If &apos;Fire&apos; is called, stay</text>
-  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">completely silent. Any mistake earns a silly challenge penalty —</text>
-  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">tell a joke, do an impression, or sing a line.</text>
-  <text x="110" y="479" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="503" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Natural history classification games were woven into Victorian</text>
-  <text x="110" y="521" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">parlor entertainment because natural history was a respected hobby</text>
-  <text x="110" y="539" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">and academic subject. Charles Darwin&apos;s &apos;On the Origin of Species&apos;</text>
-  <text x="110" y="557" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">(1859) had made animal classification a topic of national</text>
-  <text x="110" y="575" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">conversation.</text>
-  <text x="110" y="609" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="633" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Name a creature belonging to the called element before the count of</text>
-  <text x="110" y="651" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">ten is reached.</text>
+  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  ball or knotted cloth</text>
+  <text x="110" y="286" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Players stand in a circle. The center player throws a ball to any</text>
+  <text x="110" y="333" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">player while calling &apos;Earth,&apos; &apos;Air,&apos; or &apos;Water.&apos; The catching</text>
+  <text x="110" y="354" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">player must name a real creature from that element before the</text>
+  <text x="110" y="375" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">thrower counts to ten. Earth = land animals, Air = birds or flying</text>
+  <text x="110" y="396" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">insects, Water = fish or sea creatures. If &apos;Fire&apos; is called, stay</text>
+  <text x="110" y="417" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">completely silent. Any mistake earns a silly challenge penalty —</text>
+  <text x="110" y="438" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">tell a joke, do an impression, or sing a line.</text>
+  <text x="110" y="479" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="503" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Natural history classification games were woven into Victorian</text>
+  <text x="110" y="521" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">parlor entertainment because natural history was a respected hobby</text>
+  <text x="110" y="539" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">and academic subject. Charles Darwin&apos;s &apos;On the Origin of Species&apos;</text>
+  <text x="110" y="557" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">(1859) had made animal classification a topic of national</text>
+  <text x="110" y="575" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">conversation.</text>
+  <text x="110" y="609" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="633" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Name a creature belonging to the called element before the count of</text>
+  <text x="110" y="651" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">ten is reached.</text>
   <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)  ·  Heritage Parlor</text>
+  <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)  ·  Heritage Parlor</text>
 </svg>

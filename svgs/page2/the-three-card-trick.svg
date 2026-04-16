@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
   <defs>
+    <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
     </pattern>
@@ -7,31 +8,31 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE THREE-CARD TRICK</text>
-  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE THREE-CARD TRICK</text>
+  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
   <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  3 playing cards</text>
-  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: Three cards are laid out — two plain cards and one Queen.</text>
-  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">You mix them and invite someone to track the Queen. They always</text>
-  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">lose. Method: A specific throw movement secretly switches which</text>
-  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">card is the Queen during the mix. The slight bend on the Queen can</text>
-  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">also be transferred to a different card during the throw.</text>
-  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Spectators follow the bend, not the actual Queen. Hoffmann</text>
-  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">described this to EXPOSE street swindles — understanding how the</text>
-  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">trick works helps you avoid being fooled in real life. Note:</text>
-  <text x="110" y="480" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">historically used to cheat people out of money; presented here as</text>
-  <text x="110" y="501" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">an educational exposure.</text>
-  <text x="110" y="542" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="566" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Three-card monte was one of the most widespread street gambling</text>
-  <text x="110" y="584" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">swindles of the Victorian era. Hoffmann described it to expose how</text>
-  <text x="110" y="602" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">spectators were cheated, calling it &apos;the most dangerous of all card</text>
-  <text x="110" y="620" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">games.&apos; Modern versions are still found on tourist streets</text>
-  <text x="110" y="638" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">worldwide.</text>
-  <text x="110" y="672" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="696" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The classic three-card monte - follow the Queen through the</text>
-  <text x="110" y="714" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">shuffle; it seems impossible to lose.</text>
+  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  3 playing cards</text>
+  <text x="110" y="286" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Effect: Three cards are laid out — two plain cards and one Queen.</text>
+  <text x="110" y="333" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">You mix them and invite someone to track the Queen. They always</text>
+  <text x="110" y="354" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">lose. Method: A specific throw movement secretly switches which</text>
+  <text x="110" y="375" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">card is the Queen during the mix. The slight bend on the Queen can</text>
+  <text x="110" y="396" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">also be transferred to a different card during the throw.</text>
+  <text x="110" y="417" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Spectators follow the bend, not the actual Queen. Hoffmann</text>
+  <text x="110" y="438" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">described this to EXPOSE street swindles — understanding how the</text>
+  <text x="110" y="459" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">trick works helps you avoid being fooled in real life. Note:</text>
+  <text x="110" y="480" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">historically used to cheat people out of money; presented here as</text>
+  <text x="110" y="501" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">an educational exposure.</text>
+  <text x="110" y="542" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="566" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Three-card monte was one of the most widespread street gambling</text>
+  <text x="110" y="584" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">swindles of the Victorian era. Hoffmann described it to expose how</text>
+  <text x="110" y="602" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">spectators were cheated, calling it &apos;the most dangerous of all card</text>
+  <text x="110" y="620" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">games.&apos; Modern versions are still found on tourist streets</text>
+  <text x="110" y="638" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">worldwide.</text>
+  <text x="110" y="672" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="696" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">The classic three-card monte - follow the Queen through the</text>
+  <text x="110" y="714" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">shuffle; it seems impossible to lose.</text>
   <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)  ·  Heritage Parlor</text>
+  <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: Modern Magic (1876)  ·  Heritage Parlor</text>
 </svg>
