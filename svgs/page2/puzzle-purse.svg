@@ -8,36 +8,14 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="256" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE PUZZLE PURSE</text>
-  <text x="408" y="278" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="298" x2="596" y2="298" stroke="#ccc" stroke-width="0.75"/>
-  <text x="220" y="330" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="236" y="356" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  fabric purse threaded with rings on a cord</text>
-  <text x="220" y="396" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="220" y="422" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">The purse is secured by a cord threaded through</text>
-  <text x="220" y="443" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">several rings in a specific interlocked pattern.</text>
-  <text x="220" y="464" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Your challenge: open the purse and separate the</text>
-  <text x="220" y="485" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">rings from the cord entirely — without cutting</text>
-  <text x="220" y="506" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">anything or untying any knot. The solution</text>
-  <text x="220" y="527" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">requires routing the cord through specific ring</text>
-  <text x="220" y="548" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">combinations in the right order. Think of it as a</text>
-  <text x="220" y="569" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">3D disentanglement puzzle made of fabric and</text>
-  <text x="220" y="590" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">metal. These puzzle purses can still be bought as</text>
-  <text x="220" y="611" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">novelty items or made at home with cord and</text>
-  <text x="220" y="632" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">curtain rings.</text>
-  <text x="220" y="673" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="220" y="697" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">The Puzzle Purse was a popular Victorian novelty</text>
-  <text x="220" y="715" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">gift, often given as a Valentine&apos;s Day present</text>
-  <text x="220" y="733" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">with a love note hidden inside. The recipient had</text>
-  <text x="220" y="751" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">to solve the puzzle to access the message —</text>
-  <text x="220" y="769" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">making the gift both sentimental and</text>
-  <text x="220" y="787" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">intellectually challenging.</text>
-  <text x="220" y="821" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="220" y="845" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">A fabric purse is closed and secured with a cord</text>
-  <text x="220" y="863" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">threaded through rings. The puzzle is to open the</text>
-  <text x="220" y="881" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">purse and remove the rings without untying the</text>
-  <text x="220" y="899" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">cord — a feat that seems impossible but has an</text>
-  <text x="220" y="917" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">elegant mechanical solution.</text>
+  <text x="408" y="80" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE PUZZLE PURSE</text>
+  <text x="408" y="102" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="128" x2="596" y2="128" stroke="#ccc" stroke-width="0.75"/>
+  <foreignObject x="220" y="144" width="376" height="838">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:'Source Sans 3', Georgia, sans-serif;font-size:14px;color:#1a1a1a;line-height:1.55;overflow:hidden;height:100%;">
+      <div style="display:flex;flex-direction:column;gap:18px;"><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">What You Need</div><div style="padding-left:16px;">·  fabric purse threaded with rings on a cord</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">How to Play</div><div style="text-align:justify;font-size:14px;line-height:1.55;color:#1a1a1a;">The purse is secured by a cord threaded through several rings in a specific interlocked pattern. Your challenge: open the purse and separate the rings from the cord entirely — without cutting anything or untying any knot. The solution requires routing the cord through specific ring combinations in the right order. Think of it as a 3D disentanglement puzzle made of fabric and metal. These puzzle purses can still be bought as novelty items or made at home with cord and curtain rings.</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#8b4513;margin-bottom:8px;">Did You Know?</div><div style="text-align:justify;font-size:13px;line-height:1.5;font-style:italic;color:#555;">The Puzzle Purse was a popular Victorian novelty gift, often given as a Valentine&apos;s Day present with a love note hidden inside. The recipient had to solve the puzzle to access the message — making the gift both sentimental and intellectually challenging.</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">Original Victorian Description</div><div style="text-align:justify;font-size:13px;line-height:1.5;font-style:italic;color:#555;">A fabric purse is closed and secured with a cord threaded through rings. The puzzle is to open the purse and remove the rings without untying the cord — a feat that seems impossible but has an elegant mechanical solution.</div></div></div>
+    </div>
+  </foreignObject>
   <line x1="220" y1="992" x2="596" y2="992" stroke="#ccc" stroke-width="0.5"/>
   <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)  ·  Heritage Parlor</text>
 </svg>

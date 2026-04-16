@@ -8,33 +8,14 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="256" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">EARTH AIR FIRE WATER</text>
-  <text x="408" y="278" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="298" x2="596" y2="298" stroke="#ccc" stroke-width="0.75"/>
-  <text x="220" y="330" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="236" y="356" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  knotted handkerchief</text>
-  <text x="220" y="396" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="220" y="422" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Players sit in a circle. The center player throws</text>
-  <text x="220" y="443" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">a knotted handkerchief to any player while</text>
-  <text x="220" y="464" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">calling &apos;Earth,&apos; &apos;Air,&apos; or &apos;Water.&apos; The catcher</text>
-  <text x="220" y="485" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">must name an animal from that element before the</text>
-  <text x="220" y="506" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">thrower counts to ten. Land animals for Earth,</text>
-  <text x="220" y="527" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">birds or insects for Air, sea creatures for</text>
-  <text x="220" y="548" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Water. If the caller shouts &apos;Fire,&apos; the catcher</text>
-  <text x="220" y="569" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">must stay completely silent — Fire has no</text>
-  <text x="220" y="590" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">animals. Hesitate or name a wrong animal and pay</text>
-  <text x="220" y="611" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">a silly penalty.</text>
-  <text x="220" y="652" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="220" y="676" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">The four classical elements (Earth, Air, Fire,</text>
-  <text x="220" y="694" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Water) were still a genuine intellectual</text>
-  <text x="220" y="712" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">framework in the early Victorian period, derived</text>
-  <text x="220" y="730" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">from Aristotelian philosophy. This game was both</text>
-  <text x="220" y="748" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">entertaining and an implicit natural history</text>
-  <text x="220" y="766" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">lesson.</text>
-  <text x="220" y="800" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="220" y="824" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Catch the knotted handkerchief and name the</text>
-  <text x="220" y="842" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">appropriate creature before the thrower counts to</text>
-  <text x="220" y="860" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">ten.</text>
+  <text x="408" y="80" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">EARTH AIR FIRE WATER</text>
+  <text x="408" y="102" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="128" x2="596" y2="128" stroke="#ccc" stroke-width="0.75"/>
+  <foreignObject x="220" y="144" width="376" height="838">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:'Source Sans 3', Georgia, sans-serif;font-size:14px;color:#1a1a1a;line-height:1.55;overflow:hidden;height:100%;">
+      <div style="display:flex;flex-direction:column;gap:18px;"><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">What You Need</div><div style="padding-left:16px;">·  knotted handkerchief</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">How to Play</div><div style="text-align:justify;font-size:14px;line-height:1.55;color:#1a1a1a;">Players sit in a circle. The center player throws a knotted handkerchief to any player while calling &apos;Earth,&apos; &apos;Air,&apos; or &apos;Water.&apos; The catcher must name an animal from that element before the thrower counts to ten. Land animals for Earth, birds or insects for Air, sea creatures for Water. If the caller shouts &apos;Fire,&apos; the catcher must stay completely silent — Fire has no animals. Hesitate or name a wrong animal and pay a silly penalty.</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#8b4513;margin-bottom:8px;">Did You Know?</div><div style="text-align:justify;font-size:13px;line-height:1.5;font-style:italic;color:#555;">The four classical elements (Earth, Air, Fire, Water) were still a genuine intellectual framework in the early Victorian period, derived from Aristotelian philosophy. This game was both entertaining and an implicit natural history lesson.</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">Original Victorian Description</div><div style="text-align:justify;font-size:13px;line-height:1.5;font-style:italic;color:#555;">Catch the knotted handkerchief and name the appropriate creature before the thrower counts to ten.</div></div></div>
+    </div>
+  </foreignObject>
   <line x1="220" y1="992" x2="596" y2="992" stroke="#ccc" stroke-width="0.5"/>
   <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: Every Boy&apos;s Book (1869)  ·  Heritage Parlor</text>
 </svg>

@@ -8,37 +8,14 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="256" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE GORDIAN KNOT (WIRE PUZZLE)</text>
-  <text x="408" y="278" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="298" x2="596" y2="298" stroke="#ccc" stroke-width="0.75"/>
-  <text x="220" y="330" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="236" y="356" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  wire puzzle in Gordian Knot configuration</text>
-  <text x="220" y="396" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="220" y="422" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Study the wire structure before making any move —</text>
-  <text x="220" y="443" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">rushing creates new tangles. Wire disentanglement</text>
-  <text x="220" y="464" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">puzzles have one correct path. Identify which</text>
-  <text x="220" y="485" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">loops can physically pass through which gaps, and</text>
-  <text x="220" y="506" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">trace the continuous wire from end to end. Work</text>
-  <text x="220" y="527" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">methodically from the most mobile end inward.</text>
-  <text x="220" y="548" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Never force anything — if a move needs force,</text>
-  <text x="220" y="569" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">it&apos;s wrong. Take it one loop at a time. Wire</text>
-  <text x="220" y="590" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">disentanglement puzzles are still widely sold in</text>
-  <text x="220" y="611" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">puzzle and game shops, in dozens of designs.</text>
-  <text x="220" y="652" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="220" y="676" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Wire puzzle disentanglement became one of the</text>
-  <text x="220" y="694" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">most popular puzzle categories in the Victorian</text>
-  <text x="220" y="712" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">era, with thousands of designs sold. They were</text>
-  <text x="220" y="730" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">called &apos;patience puzzles&apos; because rushing</text>
-  <text x="220" y="748" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">invariably made them worse — a useful life lesson</text>
-  <text x="220" y="766" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">packaged as entertainment.</text>
-  <text x="220" y="800" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="220" y="824" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">A complex wire configuration forms a seemingly</text>
-  <text x="220" y="842" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">insoluble tangle. The puzzle is to separate the</text>
-  <text x="220" y="860" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">interlocking wire elements without cutting or</text>
-  <text x="220" y="878" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">bending them. Unlike the mythological Gordian</text>
-  <text x="220" y="896" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Knot, this one has an elegant solution — but it</text>
-  <text x="220" y="914" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">requires understanding the topology of the wire</text>
-  <text x="220" y="932" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">loops.</text>
+  <text x="408" y="80" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE GORDIAN KNOT (WIRE PUZZLE)</text>
+  <text x="408" y="102" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="128" x2="596" y2="128" stroke="#ccc" stroke-width="0.75"/>
+  <foreignObject x="220" y="144" width="376" height="838">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:'Source Sans 3', Georgia, sans-serif;font-size:14px;color:#1a1a1a;line-height:1.55;overflow:hidden;height:100%;">
+      <div style="display:flex;flex-direction:column;gap:18px;"><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">What You Need</div><div style="padding-left:16px;">·  wire puzzle in Gordian Knot configuration</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">How to Play</div><div style="text-align:justify;font-size:14px;line-height:1.55;color:#1a1a1a;">Study the wire structure before making any move — rushing creates new tangles. Wire disentanglement puzzles have one correct path. Identify which loops can physically pass through which gaps, and trace the continuous wire from end to end. Work methodically from the most mobile end inward. Never force anything — if a move needs force, it&apos;s wrong. Take it one loop at a time. Wire disentanglement puzzles are still widely sold in puzzle and game shops, in dozens of designs.</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#8b4513;margin-bottom:8px;">Did You Know?</div><div style="text-align:justify;font-size:13px;line-height:1.5;font-style:italic;color:#555;">Wire puzzle disentanglement became one of the most popular puzzle categories in the Victorian era, with thousands of designs sold. They were called &apos;patience puzzles&apos; because rushing invariably made them worse — a useful life lesson packaged as entertainment.</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">Original Victorian Description</div><div style="text-align:justify;font-size:13px;line-height:1.5;font-style:italic;color:#555;">A complex wire configuration forms a seemingly insoluble tangle. The puzzle is to separate the interlocking wire elements without cutting or bending them. Unlike the mythological Gordian Knot, this one has an elegant solution — but it requires understanding the topology of the wire loops.</div></div></div>
+    </div>
+  </foreignObject>
   <line x1="220" y1="992" x2="596" y2="992" stroke="#ccc" stroke-width="0.5"/>
   <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: Puzzles Old and New (1893)  ·  Heritage Parlor</text>
 </svg>

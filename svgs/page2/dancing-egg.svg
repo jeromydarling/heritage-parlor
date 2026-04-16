@@ -8,38 +8,14 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="256" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE DANCING EGG</text>
-  <text x="408" y="278" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="298" x2="596" y2="298" stroke="#ccc" stroke-width="0.75"/>
-  <text x="220" y="330" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="236" y="356" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  egg</text>
-  <text x="236" y="378" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  top hat</text>
-  <text x="236" y="400" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  fine hair or thread attached from egg to coat</text>
-  <text x="220" y="440" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="220" y="466" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Effect: An egg resting on a hat brim dances and</text>
-  <text x="220" y="487" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">bobs in time to music — appearing genuinely</text>
-  <text x="220" y="508" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">alive. Method: attach a fine hair or thin</text>
-  <text x="220" y="529" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">monofilament thread from the egg to a pin or</text>
-  <text x="220" y="550" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">button on your coat lapel. When music plays, sway</text>
-  <text x="220" y="571" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">gently in time — the movement transmits through</text>
-  <text x="220" y="592" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">the thread and makes the egg bob and rotate</text>
-  <text x="220" y="613" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">convincingly. Stop swaying and the egg stops. The</text>
-  <text x="220" y="634" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">synchronization with music makes the effect</text>
-  <text x="220" y="655" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">appear genuinely animated. Practice with a piece</text>
-  <text x="220" y="676" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">of masking tape and thread before graduating to a</text>
-  <text x="220" y="697" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">proper thread setup.</text>
-  <text x="220" y="738" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="220" y="762" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Animated-object magic was one of the most beloved</text>
-  <text x="220" y="780" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">categories of Victorian performance, reflecting</text>
-  <text x="220" y="798" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">the era&apos;s fascination with clockwork automata.</text>
-  <text x="220" y="816" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">When synchronizing with a live musician, the</text>
-  <text x="220" y="834" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Dancing Egg could be performed with apparent</text>
-  <text x="220" y="852" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">spontaneity.</text>
-  <text x="220" y="886" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="220" y="910" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">An egg placed on top of a hat appears to dance</text>
-  <text x="220" y="928" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">and bob in time to music. A nearly invisible hair</text>
-  <text x="220" y="946" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">runs from the egg to the performer&apos;s coat — small</text>
-  <text x="220" y="964" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">movements of the body cause the egg to animate</text>
+  <text x="408" y="80" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE DANCING EGG</text>
+  <text x="408" y="102" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="128" x2="596" y2="128" stroke="#ccc" stroke-width="0.75"/>
+  <foreignObject x="220" y="144" width="376" height="838">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:'Source Sans 3', Georgia, sans-serif;font-size:14px;color:#1a1a1a;line-height:1.55;overflow:hidden;height:100%;">
+      <div style="display:flex;flex-direction:column;gap:18px;"><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">What You Need</div><div style="padding-left:16px;">·  egg</div><div style="padding-left:16px;">·  top hat</div><div style="padding-left:16px;">·  fine hair or thread attached from egg to coat</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">How to Play</div><div style="text-align:justify;font-size:14px;line-height:1.55;color:#1a1a1a;">Effect: An egg resting on a hat brim dances and bobs in time to music — appearing genuinely alive. Method: attach a fine hair or thin monofilament thread from the egg to a pin or button on your coat lapel. When music plays, sway gently in time — the movement transmits through the thread and makes the egg bob and rotate convincingly. Stop swaying and the egg stops. The synchronization with music makes the effect appear genuinely animated. Practice with a piece of masking tape and thread before graduating to a proper thread setup.</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#8b4513;margin-bottom:8px;">Did You Know?</div><div style="text-align:justify;font-size:13px;line-height:1.5;font-style:italic;color:#555;">Animated-object magic was one of the most beloved categories of Victorian performance, reflecting the era&apos;s fascination with clockwork automata. When synchronizing with a live musician, the Dancing Egg could be performed with apparent spontaneity.</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">Original Victorian Description</div><div style="text-align:justify;font-size:13px;line-height:1.5;font-style:italic;color:#555;">An egg placed on top of a hat appears to dance and bob in time to music. A nearly invisible hair runs from the egg to the performer&apos;s coat — small movements of the body cause the egg to animate convincingly, responding to music as if alive.</div></div></div>
+    </div>
+  </foreignObject>
   <line x1="220" y1="992" x2="596" y2="992" stroke="#ccc" stroke-width="0.5"/>
   <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: The Magician&apos;s Own Book (1862)  ·  Heritage Parlor</text>
 </svg>

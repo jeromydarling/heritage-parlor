@@ -8,35 +8,14 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="256" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">CHESS</text>
-  <text x="408" y="278" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="298" x2="596" y2="298" stroke="#ccc" stroke-width="0.75"/>
-  <text x="220" y="330" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="236" y="356" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  chess board</text>
-  <text x="236" y="378" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  chess pieces</text>
-  <text x="236" y="400" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  chess clock (optional)</text>
-  <text x="220" y="440" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="220" y="466" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Each player controls 16 pieces with different</text>
-  <text x="220" y="487" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">abilities on an 8×8 board. Goal: checkmate your</text>
-  <text x="220" y="508" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">opponent&apos;s King — put it under attack with no</text>
-  <text x="220" y="529" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">escape. Piece movements: Pawns advance forward 1</text>
-  <text x="220" y="550" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">square (2 on first move), capture diagonally.</text>
-  <text x="220" y="571" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Rooks move any distance straight. Bishops move</text>
-  <text x="220" y="592" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">diagonally. Knights jump in an L-shape. Queens</text>
-  <text x="220" y="613" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">move any direction any distance. Kings move one</text>
-  <text x="220" y="634" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">square any direction. Special rules: castling</text>
-  <text x="220" y="655" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">(King and Rook swap), en passant pawn capture,</text>
-  <text x="220" y="676" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">and pawn promotion when reaching the far end.</text>
-  <text x="220" y="697" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">White always moves first.</text>
-  <text x="220" y="738" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="220" y="762" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Chess originated in India as Chaturanga around</text>
-  <text x="220" y="780" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">600 AD, evolved through Persia and the Arab</text>
-  <text x="220" y="798" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">world, and reached Europe by 900 AD. The modern</text>
-  <text x="220" y="816" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">rules were standardized around 1475 when the</text>
-  <text x="220" y="834" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Queen gained her current powerful movement.</text>
-  <text x="220" y="868" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="220" y="892" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">The royal game of strategy - command 16 pieces</text>
-  <text x="220" y="910" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">with different powers on 64 squares.</text>
+  <text x="408" y="80" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">CHESS</text>
+  <text x="408" y="102" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="128" x2="596" y2="128" stroke="#ccc" stroke-width="0.75"/>
+  <foreignObject x="220" y="144" width="376" height="838">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:'Source Sans 3', Georgia, sans-serif;font-size:14px;color:#1a1a1a;line-height:1.55;overflow:hidden;height:100%;">
+      <div style="display:flex;flex-direction:column;gap:18px;"><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">What You Need</div><div style="padding-left:16px;">·  chess board</div><div style="padding-left:16px;">·  chess pieces</div><div style="padding-left:16px;">·  chess clock (optional)</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">How to Play</div><div style="text-align:justify;font-size:14px;line-height:1.55;color:#1a1a1a;">Each player controls 16 pieces with different abilities on an 8×8 board. Goal: checkmate your opponent&apos;s King — put it under attack with no escape. Piece movements: Pawns advance forward 1 square (2 on first move), capture diagonally. Rooks move any distance straight. Bishops move diagonally. Knights jump in an L-shape. Queens move any direction any distance. Kings move one square any direction. Special rules: castling (King and Rook swap), en passant pawn capture, and pawn promotion when reaching the far end. White always moves first.</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#8b4513;margin-bottom:8px;">Did You Know?</div><div style="text-align:justify;font-size:13px;line-height:1.5;font-style:italic;color:#555;">Chess originated in India as Chaturanga around 600 AD, evolved through Persia and the Arab world, and reached Europe by 900 AD. The modern rules were standardized around 1475 when the Queen gained her current powerful movement.</div></div><div><div style="font-family:'Playfair Display', Georgia, serif;font-size:17px;font-weight:bold;color:#1a1a1a;margin-bottom:8px;">Original Victorian Description</div><div style="text-align:justify;font-size:13px;line-height:1.5;font-style:italic;color:#555;">The royal game of strategy - command 16 pieces with different powers on 64 squares.</div></div></div>
+    </div>
+  </foreignObject>
   <line x1="220" y1="992" x2="596" y2="992" stroke="#ccc" stroke-width="0.5"/>
   <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)  ·  Heritage Parlor</text>
 </svg>

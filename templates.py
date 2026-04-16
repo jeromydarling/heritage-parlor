@@ -75,9 +75,50 @@ def page1_shell(entry, W=816, H=1056):
 def page2_content(entry, W=816, H=1056):
     """Generate page 2 instructions. Returns SVG string."""
     m = 220
-    heading = "&apos;Playfair Display&apos;, Georgia, serif"
-    body = "&apos;Source Sans 3&apos;, Georgia, sans-serif"
-    parts = [f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">
+    content_w = W - 2 * m
+    heading_font = "'Playfair Display', Georgia, serif"
+    body_font = "'Source Sans 3', Georgia, sans-serif"
+
+    title = entry['title'].upper()
+    if len(title) > 40:
+        title = title[:37] + '...'
+
+    # Build HTML content sections
+    sections = []
+
+    # What You Need
+    equip = entry.get('equipment_needed', [])
+    if equip:
+        equip_html = ''.join(f'<div style="padding-left:16px;">·  {esc(item)}</div>' for item in equip)
+    else:
+        equip_html = '<div style="padding-left:16px;">Nothing special — just the game board on page 1.</div>'
+    sections.append(f'<div style="font-family:{heading_font};font-size:17px;font-weight:bold;color:{ink};margin-bottom:8px;">What You Need</div>{equip_html}')
+
+    # How to Play
+    explanation = esc(entry.get('modern_explanation', 'No modern explanation available.'))
+    sections.append(f'<div style="font-family:{heading_font};font-size:17px;font-weight:bold;color:{ink};margin-bottom:8px;">How to Play</div><div style="text-align:justify;font-size:14px;line-height:1.55;color:{ink};">{explanation}</div>')
+
+    # Did You Know?
+    fun = entry.get('fun_fact', '')
+    if fun:
+        sections.append(f'<div style="font-family:{heading_font};font-size:17px;font-weight:bold;color:{accent};margin-bottom:8px;">Did You Know?</div><div style="text-align:justify;font-size:13px;line-height:1.5;font-style:italic;color:{light};">{esc(fun)}</div>')
+
+    # Original Victorian Description
+    orig = entry.get('original_description', '')
+    if orig:
+        sections.append(f'<div style="font-family:{heading_font};font-size:17px;font-weight:bold;color:{ink};margin-bottom:8px;">Original Victorian Description</div><div style="text-align:justify;font-size:13px;line-height:1.5;font-style:italic;color:{light};">{esc(orig)}</div>')
+
+    body_html = '<div style="display:flex;flex-direction:column;gap:18px;">' + ''.join(f'<div>{s}</div>' for s in sections) + '</div>'
+
+    # Footer
+    source = f"{entry.get('source_book', 'Unknown')} ({entry.get('source_year', '')})"
+
+    title_y = 80
+    rule_y = title_y + 48
+    content_y = rule_y + 16
+    footer_y = H - 64
+
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">
   <defs>
     <style>@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&amp;family=Source+Sans+3:wght@300;400;600&amp;display=swap");</style>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
@@ -86,73 +127,19 @@ def page2_content(entry, W=816, H=1056):
   </defs>
   <rect width="{W}" height="{H}" fill="{bg}"/>
   <rect width="{W}" height="{H}" fill="url(#ph2)"/>
-  <rect x="24" y="24" width="{W-48}" height="{H-48}" rx="2" fill="none" stroke="{ink}" stroke-width="0.75" opacity="0.2"/>''']
-    
-    y = m + 36
-    title = entry['title'].upper()
-    if len(title) > 40:
-        title = title[:37] + '...'
-    parts.append(f'  <text x="{W//2}" y="{y}" text-anchor="middle" font-family="{heading}" font-size="22" font-weight="bold" fill="{ink}" letter-spacing="2">{esc(title)}</text>')
-    parts.append(f'  <text x="{W//2}" y="{y + 22}" text-anchor="middle" font-family="{body}" font-size="12" fill="{light}">Instructions</text>')
-    y += 42
-    parts.append(f'  <line x1="{m}" y1="{y}" x2="{W-m}" y2="{y}" stroke="{rule}" stroke-width="0.75"/>')
-    y += 32
-    
-    # What You Need
-    parts.append(f'  <text x="{m}" y="{y}" font-family="{heading}" font-size="17" font-weight="bold" fill="{ink}">What You Need</text>')
-    y += 26
-    equip = entry.get('equipment_needed', [])
-    if equip:
-        for item in equip:
-            parts.append(f'  <text x="{m + 16}" y="{y}" font-family="{body}" font-size="14" fill="{ink}">·  {esc(item)}</text>')
-            y += 22
-    else:
-        parts.append(f'  <text x="{m + 16}" y="{y}" font-family="{body}" font-size="14" fill="{ink}">Nothing special — just the game board on page 1.</text>')
-        y += 22
-    y += 18
-
-    # How to Play
-    parts.append(f'  <text x="{m}" y="{y}" font-family="{heading}" font-size="17" font-weight="bold" fill="{ink}">How to Play</text>')
-    y += 26
-    explanation = entry.get('modern_explanation', 'No modern explanation available.')
-    for line in wrap_text(explanation):
-        if y > H - 180:  # don't overflow
-            parts.append(f'  <text x="{m}" y="{y}" font-family="{body}" font-size="14" fill="{light}">[continued...]</text>')
-            break
-        parts.append(f'  <text x="{m}" y="{y}" font-family="{body}" font-size="14" fill="{ink}">{esc(line)}</text>')
-        y += 21
-    y += 20
-
-    # Fun Fact
-    fun = entry.get('fun_fact', '')
-    if fun and y < H - 140:
-        parts.append(f'  <text x="{m}" y="{y}" font-family="{heading}" font-size="17" font-weight="bold" fill="{accent}">Did You Know?</text>')
-        y += 24
-        for line in wrap_text(fun):
-            if y > H - 100:
-                break
-            parts.append(f'  <text x="{m}" y="{y}" font-family="{body}" font-size="13" font-style="italic" fill="{light}">{esc(line)}</text>')
-            y += 18
-        y += 16
-
-    # Original Description
-    orig = entry.get('original_description', '')
-    if orig and y < H - 100:
-        parts.append(f'  <text x="{m}" y="{y}" font-family="{heading}" font-size="17" font-weight="bold" fill="{ink}">Original Victorian Description</text>')
-        y += 24
-        for line in wrap_text(orig):
-            if y > H - 80:
-                break
-            parts.append(f'  <text x="{m}" y="{y}" font-family="{body}" font-size="13" font-style="italic" fill="{light}">{esc(line)}</text>')
-            y += 18
-
-    # Footer
-    source = f"{entry.get('source_book', 'Unknown')} ({entry.get('source_year', '')})"
-    parts.append(f'  <line x1="{m}" y1="{H - 64}" x2="{W - m}" y2="{H - 64}" stroke="{rule}" stroke-width="0.5"/>')
-    parts.append(f'  <text x="{W // 2}" y="{H - 44}" text-anchor="middle" font-family="{body}" font-size="11" fill="{light}">Source: {esc(source)}  ·  Heritage Parlor</text>')
-    
-    parts.append('</svg>')
-    return '\n'.join(parts)
+  <rect x="24" y="24" width="{W-48}" height="{H-48}" rx="2" fill="none" stroke="{ink}" stroke-width="0.75" opacity="0.2"/>
+  <text x="{W//2}" y="{title_y}" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="{ink}" letter-spacing="2">{esc(title)}</text>
+  <text x="{W//2}" y="{title_y + 22}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="{light}">Instructions</text>
+  <line x1="{m}" y1="{rule_y}" x2="{W-m}" y2="{rule_y}" stroke="{rule}" stroke-width="0.75"/>
+  <foreignObject x="{m}" y="{content_y}" width="{content_w}" height="{footer_y - content_y - 10}">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:{body_font};font-size:14px;color:{ink};line-height:1.55;overflow:hidden;height:100%;">
+      {body_html}
+    </div>
+  </foreignObject>
+  <line x1="{m}" y1="{footer_y}" x2="{W-m}" y2="{footer_y}" stroke="{rule}" stroke-width="0.5"/>
+  <text x="{W//2}" y="{footer_y + 20}" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="{light}">Source: {esc(source)}  ·  Heritage Parlor</text>
+</svg>'''
+    return svg
 
 
 # ═══════════════════════════════════════════
