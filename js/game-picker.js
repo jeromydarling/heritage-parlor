@@ -130,15 +130,19 @@ window.pickGame = function() {
     var selected = [];
     var usedCategories = {};
     var shuffled = weighted.sort(function() { return Math.random() - 0.5; });
-    var target = 4;
-    // Try to get variety
+    var target = Math.min(4, pool.length);
+    // First pass: unique categories only
     for (var i = 0; i < shuffled.length && selected.length < target; i++) {
       var game = shuffled[i];
-      if (!usedCategories[game.category] || selected.length >= 2) {
-        if (selected.indexOf(game) === -1) {
-          selected.push(game);
-          usedCategories[game.category] = true;
-        }
+      if (!usedCategories[game.category] && selected.indexOf(game) === -1) {
+        selected.push(game);
+        usedCategories[game.category] = true;
+      }
+    }
+    // Second pass: fill remaining slots if not enough unique categories
+    for (var j = 0; j < shuffled.length && selected.length < target; j++) {
+      if (selected.indexOf(shuffled[j]) === -1) {
+        selected.push(shuffled[j]);
       }
     }
     renderPickResult(selected, resultEl);

@@ -68,10 +68,8 @@ window.renderCards = function() {
   origRenderCards();
   // Add heart buttons to each card
   document.querySelectorAll('.card').forEach(function(card) {
-    var onclickAttr = card.getAttribute('onclick') || '';
-    var match = onclickAttr.match(/openDetail\('([^']+)'\)/);
-    if (!match) return;
-    var gameId = match[1];
+    var gameId = card.dataset.gameId;
+    if (!gameId) return;
     if (card.querySelector('.fav-btn')) return;
 
     var btn = document.createElement('button');

@@ -1884,6 +1884,50 @@
 }
 @media (max-width: 480px) { .event-form__row { grid-template-columns: 1fr; } }
 .event-form__actions { display: flex; gap: var(--space-3); }
+.event-form__submit {
+  font: 600 var(--text-sm) var(--font-body);
+  background: var(--color-primary);
+  color: #fff;
+  border: none;
+  padding: 10px 24px;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: background var(--transition-interactive);
+}
+.event-form__submit:hover { background: var(--color-primary-hover); }
+.event-form__cancel {
+  font: 600 var(--text-sm) var(--font-body);
+  background: var(--color-surface-offset);
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+  padding: 10px 24px;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: background var(--transition-interactive);
+}
+.event-form__cancel:hover { background: var(--color-surface); }
+
+/* ═══════════════ TOAST NOTIFICATION ═══════════════ */
+.toast {
+  position: fixed;
+  bottom: 80px;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  background: var(--color-text);
+  color: var(--color-bg);
+  padding: 12px 24px;
+  border-radius: var(--radius-lg);
+  font: var(--text-sm) var(--font-body);
+  z-index: 9999;
+  opacity: 0;
+  transition: opacity 0.3s, transform 0.3s;
+  pointer-events: none;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+.toast--visible {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
 
 /* ═══════════════ ADMIN DASHBOARD ═══════════════ */
 

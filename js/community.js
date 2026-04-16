@@ -117,6 +117,8 @@ window.voteGame = function(gameId, vote) {
       vote: vote
     }, { onConflict: 'game_id,user_id' }).then(function() {
       loadRatings(gameId);
+    }).catch(function(err) {
+      console.error('Vote failed:', err);
     });
   } else {
     // Demo: just increment locally
@@ -154,22 +156,23 @@ function submitTip(gameId) {
 var origOpenDetail = window.openDetail;
 window.openDetail = function(id) {
   origOpenDetail(id);
+  try {
+    var body = document.querySelector('.detail__body');
+    if (!body) return;
 
-  var body = document.querySelector('.detail__body');
-  if (!body) return;
-
-  // Insert community section before the suggestion form
-  var suggestionSection = body.querySelector('.detail__suggestion');
-  if (suggestionSection && !document.getElementById('community-ratings')) {
-    var communityHtml =
-      '<div class="detail__section detail__section--community">' +
-        '<h3 class="detail__section-title">\ud83d\udc4d Community Rating</h3>' +
-        '<div id="community-ratings"></div>' +
-        '<div id="community-tips"></div>' +
-      '</div>';
-    suggestionSection.insertAdjacentHTML('beforebegin', communityHtml);
-    loadRatings(id);
-  }
+    // Insert community section before the suggestion form
+    var suggestionSection = body.querySelector('.detail__suggestion');
+    if (suggestionSection && !document.getElementById('community-ratings')) {
+      var communityHtml =
+        '<div class="detail__section detail__section--community">' +
+          '<h3 class="detail__section-title">\ud83d\udc4d Community Rating</h3>' +
+          '<div id="community-ratings"></div>' +
+          '<div id="community-tips"></div>' +
+        '</div>';
+      suggestionSection.insertAdjacentHTML('beforebegin', communityHtml);
+      loadRatings(id);
+    }
+  } catch(err) { console.error('Community section injection failed:', err); }
 };
 
 })();

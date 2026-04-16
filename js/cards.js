@@ -23,7 +23,7 @@ window.renderCards = function() {
   grid.innerHTML = showing.map(function(e, i) {
     var cfg = window.CAT_CONFIG[e.category] || { icon: '\ud83d\udccb', label: e.category };
     var pcfg = window.PLAY_CONFIG[e.playability] || { icon: '\u2705', label: 'Unknown', color: '#888' };
-    return '<article class="card" onclick="openDetail(\'' + e.id + '\')" tabindex="0" role="button" aria-label="View ' + e.title.replace(/'/g, '&#39;') + '" style="animation-delay:' + Math.min(i, 5) * 0.05 + 's">' +
+    return '<article class="card" data-game-id="' + e.id + '" onclick="openDetail(\'' + e.id + '\')" tabindex="0" role="button" aria-label="View ' + e.title.replace(/'/g, '&#39;') + '" style="animation-delay:' + Math.min(i, 5) * 0.05 + 's">' +
       '<div class="card__thumb">' +
         '<img src="svgs/thumbnails/' + e.id + '.svg" alt="" class="card__thumb-img" loading="lazy" />' +
       '</div>' +

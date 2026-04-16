@@ -75,7 +75,11 @@ window.rsvpEvent = function(eventId, status) {
       event_id: eventId,
       user_id: window.currentUser.id,
       status: status
-    }, { onConflict: 'event_id,user_id' }).then(function() { loadEvents(); });
+    }, { onConflict: 'event_id,user_id' }).then(function() {
+      loadEvents();
+    }).catch(function(err) {
+      console.error('RSVP failed:', err);
+    });
   }
 };
 
@@ -119,8 +123,8 @@ window.showCreateEventForm = function() {
         '</div>' +
       '</div>' +
       '<div class="event-form__actions">' +
-        '<button type="submit" class="log-form__submit">Create Event</button>' +
-        '<button type="button" class="log-form__cancel" onclick="hideCreateEventForm()">Cancel</button>' +
+        '<button type="submit" class="event-form__submit">Create Event</button>' +
+        '<button type="button" class="event-form__cancel" onclick="hideCreateEventForm()">Cancel</button>' +
       '</div>' +
     '</form>';
 

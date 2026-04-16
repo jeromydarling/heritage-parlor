@@ -19,10 +19,10 @@ function renderAdminDashboard() {
     '<div class="container admin">' +
       '<h2 class="admin__heading">Admin Dashboard</h2>' +
       '<div class="admin__tabs">' +
-        '<button class="admin__tab admin__tab--active" onclick="switchAdminTab(\'moderation\')">Moderation</button>' +
-        '<button class="admin__tab" onclick="switchAdminTab(\'challenges\')">Challenges</button>' +
-        '<button class="admin__tab" onclick="switchAdminTab(\'analytics\')">Analytics</button>' +
-        '<button class="admin__tab" onclick="switchAdminTab(\'commerce\')">Commerce</button>' +
+        '<button class="admin__tab admin__tab--active" data-tab="moderation" onclick="switchAdminTab(\'moderation\')">Moderation</button>' +
+        '<button class="admin__tab" data-tab="challenges" onclick="switchAdminTab(\'challenges\')">Challenges</button>' +
+        '<button class="admin__tab" data-tab="analytics" onclick="switchAdminTab(\'analytics\')">Analytics</button>' +
+        '<button class="admin__tab" data-tab="commerce" onclick="switchAdminTab(\'commerce\')">Commerce</button>' +
       '</div>' +
       '<div class="admin__content" id="admin-content"></div>' +
     '</div>';
@@ -32,7 +32,7 @@ function renderAdminDashboard() {
 
 window.switchAdminTab = function(tab) {
   document.querySelectorAll('.admin__tab').forEach(function(t) {
-    t.classList.toggle('admin__tab--active', t.textContent.toLowerCase() === tab);
+    t.classList.toggle('admin__tab--active', t.dataset.tab === tab);
   });
 
   var content = document.getElementById('admin-content');
@@ -122,29 +122,71 @@ function renderChallengesTab(el) {
         '<button class="log-form__submit" style="padding:8px 16px;font-size:var(--text-sm);" onclick="showCreateChallengeForm()">+ New Challenge</button>' +
       '</div>' +
       '<div id="admin-challenges-list">' +
-        '<p class="admin__empty">Connect Supabase to manage challenges.</p>' +
+        '<p class="admin__empty">Loading challenges\u2026</p>' +
       '</div>' +
       '<div id="admin-challenge-form" style="display:none;"></div>' +
     '</div>';
+
+  if (window.isSupabaseReady()) {
+    window.sb.from('seasonal_challenges').select('*')
+      .order('starts_at', { ascending: false }).limit(20)
+      .then(function(res) {
+        var data = res.data || [];
+        var list = document.getElementById('admin-challenges-list');
+        if (!list) return;
+        if (data.length === 0) {
+          list.innerHTML = '<p class="admin__empty">No challenges yet. Create one above!</p>';
+          return;
+        }
+        list.innerHTML = data.map(function(ch) {
+          var status = ch.is_active ? '\u2705 Active' : '\u23f8 Inactive';
+          return '<div class="admin__queue-item">' +
+            '<div class="admin__queue-item-info">' +
+              '<strong>' + ch.title + '</strong> \u2014 ' + status +
+              '<br><span style="font-size:var(--text-xs);color:var(--color-text-muted);">' +
+                ch.theme + ' \u00b7 ' + (ch.game_ids || []).length + ' games \u00b7 ' +
+                new Date(ch.starts_at).toLocaleDateString() + ' \u2013 ' + new Date(ch.ends_at).toLocaleDateString() +
+              '</span>' +
+            '</div>' +
+            '<div class="admin__queue-item-actions">' +
+              '<button class="admin__' + (ch.is_active ? 'reject' : 'approve') + '-btn" onclick="toggleChallenge(\'' + ch.id + '\', ' + !ch.is_active + ')">' +
+                (ch.is_active ? 'Deactivate' : 'Activate') +
+              '</button>' +
+            '</div>' +
+          '</div>';
+        }).join('');
+      }).catch(function() {
+        var list = document.getElementById('admin-challenges-list');
+        if (list) list.innerHTML = '<p class="admin__empty">Failed to load challenges.</p>';
+      });
+  } else {
+    var list = document.getElementById('admin-challenges-list');
+    if (list) list.innerHTML = '<p class="admin__empty">Connect Supabase to manage challenges.</p>';
+  }
 }
 
 function renderAnalyticsTab(el) {
+  var entries = window.ENTRIES || [];
+  var catCount = Object.keys(window.CAT_CONFIG || {}).length;
+  var buildCount = entries.filter(function(e) { return e.build_guide && e.build_guide.available; }).length;
+  var svgCount = entries.length * 3;
+
   el.innerHTML =
     '<div class="admin__analytics">' +
       '<div class="admin__stat-card">' +
-        '<div class="admin__stat-card-value">' + window.ENTRIES.length + '</div>' +
+        '<div class="admin__stat-card-value">' + entries.length + '</div>' +
         '<div class="admin__stat-card-label">Total Games</div>' +
       '</div>' +
       '<div class="admin__stat-card">' +
-        '<div class="admin__stat-card-value">9</div>' +
+        '<div class="admin__stat-card-value">' + catCount + '</div>' +
         '<div class="admin__stat-card-label">Categories</div>' +
       '</div>' +
       '<div class="admin__stat-card">' +
-        '<div class="admin__stat-card-value">36</div>' +
+        '<div class="admin__stat-card-value">' + buildCount + '</div>' +
         '<div class="admin__stat-card-label">Build Guides</div>' +
       '</div>' +
       '<div class="admin__stat-card">' +
-        '<div class="admin__stat-card-value">1,506</div>' +
+        '<div class="admin__stat-card-value">' + svgCount.toLocaleString() + '</div>' +
         '<div class="admin__stat-card-label">SVG Assets</div>' +
       '</div>' +
     '</div>' +
@@ -152,19 +194,45 @@ function renderAnalyticsTab(el) {
 }
 
 function renderCommerceTab(el) {
+  var stages = ['pending', 'paid', 'in_progress', 'shipped', 'completed'];
+  var labels = { pending: 'Pending', paid: 'Paid', in_progress: 'In Progress', shipped: 'Shipped', completed: 'Completed' };
+
   el.innerHTML =
     '<div class="admin__section">' +
       '<h3>Commission Pipeline</h3>' +
-      '<div class="admin__pipeline">' +
-        '<div class="admin__pipeline-stage"><div class="admin__pipeline-count">0</div><div class="admin__pipeline-label">Pending</div></div>' +
-        '<div class="admin__pipeline-stage"><div class="admin__pipeline-count">0</div><div class="admin__pipeline-label">Paid</div></div>' +
-        '<div class="admin__pipeline-stage"><div class="admin__pipeline-count">0</div><div class="admin__pipeline-label">In Progress</div></div>' +
-        '<div class="admin__pipeline-stage"><div class="admin__pipeline-count">0</div><div class="admin__pipeline-label">Shipped</div></div>' +
-        '<div class="admin__pipeline-stage"><div class="admin__pipeline-count">0</div><div class="admin__pipeline-label">Completed</div></div>' +
+      '<div class="admin__pipeline" id="admin-pipeline">' +
+        stages.map(function(s) {
+          return '<div class="admin__pipeline-stage"><div class="admin__pipeline-count" id="pipeline-' + s + '">0</div><div class="admin__pipeline-label">' + labels[s] + '</div></div>';
+        }).join('') +
       '</div>' +
-      '<p class="admin__empty">Commerce tracking requires Stripe Connect and Supabase.</p>' +
+      '<p class="admin__empty" id="commerce-status">Commerce tracking requires Stripe Connect and Supabase.</p>' +
     '</div>';
+
+  if (window.isSupabaseReady()) {
+    document.getElementById('commerce-status').textContent = 'Loading commission data\u2026';
+    window.sb.from('commissions').select('status').then(function(res) {
+      var data = res.data || [];
+      var counts = {};
+      data.forEach(function(c) { counts[c.status] = (counts[c.status] || 0) + 1; });
+      stages.forEach(function(s) {
+        var countEl = document.getElementById('pipeline-' + s);
+        if (countEl) countEl.textContent = counts[s] || 0;
+      });
+      document.getElementById('commerce-status').textContent = data.length > 0
+        ? data.length + ' total commissions'
+        : 'No commissions yet.';
+    }).catch(function() {
+      document.getElementById('commerce-status').textContent = 'Failed to load commerce data.';
+    });
+  }
 }
+
+window.toggleChallenge = function(id, active) {
+  if (window.isSupabaseReady()) {
+    window.sb.from('seasonal_challenges').update({ is_active: active }).eq('id', id)
+      .then(function() { switchAdminTab('challenges'); });
+  }
+};
 
 window.moderateSuggestion = function(id, status) {
   if (window.isSupabaseReady()) {

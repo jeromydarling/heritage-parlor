@@ -4,7 +4,15 @@
 
 window.printGame = function(id) {
   var w = window.open('', '_blank');
-  if (!w) { alert('Please allow pop-ups to print.'); return; }
+  if (!w) {
+    var toast = document.createElement('div');
+    toast.className = 'toast';
+    toast.textContent = 'Please allow pop-ups to print game sheets.';
+    document.body.appendChild(toast);
+    setTimeout(function() { toast.classList.add('toast--visible'); }, 10);
+    setTimeout(function() { toast.classList.remove('toast--visible'); setTimeout(function() { toast.remove(); }, 300); }, 4000);
+    return;
+  }
   var e = window.ENTRIES.find(function(x) { return x.id === id; });
   var base = location.href.replace(/\/[^/]*$/, '/');
   w.document.write('<!DOCTYPE html>' +

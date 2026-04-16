@@ -81,7 +81,32 @@ function renderLeaderboard() {
 
 window.setLeaderboardTab = function(tab) {
   activeTab = tab;
-  renderLeaderboard();
+  if (tab === 'monthly' && window.isSupabaseReady()) {
+    // Reload with monthly filter
+    var now = new Date();
+    var monthStart = new Date(now.getFullYear(), now.getMonth(), 1).toISOString();
+    window.sb.from('profiles').select('id, display_name, contribution_count, games_logged')
+      .gte('joined_at', monthStart)
+      .order('contribution_count', { ascending: false })
+      .limit(50)
+      .then(function(res) {
+        leaderboardData = (res.data || []).map(function(p, i) {
+          return {
+            rank: i + 1,
+            name: p.display_name || 'Anonymous',
+            initial: (p.display_name || 'A').charAt(0).toUpperCase(),
+            points: (p.contribution_count || 0) + (p.games_logged || 0),
+            contributions: p.contribution_count || 0,
+            gamesLogged: p.games_logged || 0
+          };
+        });
+        renderLeaderboard();
+      });
+  } else if (tab === 'all-time') {
+    loadLeaderboard();
+  } else {
+    renderLeaderboard();
+  }
 };
 
 // Add leaderboard nav item

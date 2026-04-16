@@ -36,9 +36,15 @@ if (SUPABASE_URL && SUPABASE_ANON_KEY && window.supabase) {
 } else {
   // No Supabase configured — fire event with null user so UI initializes correctly
   window.sb = null;
-  document.addEventListener('DOMContentLoaded', function() {
+  console.info('[Heritage Parlor] Supabase not configured. Running in demo mode with localStorage fallback. Set SUPABASE_URL and SUPABASE_ANON_KEY to connect.');
+  function fireAuthNull() {
     document.dispatchEvent(new CustomEvent('auth-changed', { detail: { user: null, profile: null } }));
-  });
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', fireAuthNull);
+  } else {
+    fireAuthNull();
+  }
 }
 
 })();

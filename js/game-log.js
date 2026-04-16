@@ -133,10 +133,11 @@ window.showLogForm = function(gameId) {
     var current = this.dataset.value === 'true';
     this.dataset.value = (!current).toString();
     this.classList.toggle('log-form__toggle--on', !current);
-    this.querySelector('span:last-child') || null;
-    // Update text
-    var text = this.childNodes[this.childNodes.length - 1];
-    text.textContent = !current ? ' Yes' : ' No';
+    // Update label text
+    var label = !current ? ' Yes' : ' No';
+    // Replace the text node after the toggle track span
+    var track = this.querySelector('.log-form__toggle-track');
+    if (track && track.nextSibling) track.nextSibling.textContent = label;
   });
   toggleBtn.classList.add('log-form__toggle--on');
 
@@ -177,9 +178,10 @@ function renderGameLogPage() {
   var totalGames = logEntries.length;
   var totalMinutes = logEntries.reduce(function(sum, e) { return sum + (e.duration_minutes || 0); }, 0);
   var totalHours = Math.round(totalMinutes / 60 * 10) / 10;
-  var avgRating = totalGames > 0
-    ? (logEntries.reduce(function(sum, e) { return sum + (e.rating || 0); }, 0) / logEntries.filter(function(e) { return e.rating; }).length).toFixed(1)
-    : '0';
+  var ratedEntries = logEntries.filter(function(e) { return e.rating; });
+  var avgRating = ratedEntries.length > 0
+    ? (ratedEntries.reduce(function(sum, e) { return sum + e.rating; }, 0) / ratedEntries.length).toFixed(1)
+    : '\u2014';
 
   // Find most played game
   var gameCounts = {};
@@ -263,6 +265,7 @@ window.deleteGameLogEntry = function(id) {
 var origOpenDetail = window.openDetail;
 window.openDetail = function(id) {
   origOpenDetail(id);
+  try {
   // Inject log button after the print button
   var actions = document.querySelector('.detail__actions');
   if (actions && !document.getElementById('log-form-container')) {
@@ -279,6 +282,7 @@ window.openDetail = function(id) {
     container.style.display = 'none';
     actions.parentNode.insertBefore(container, actions.nextSibling);
   }
+  } catch(err) { console.error('Game log injection failed:', err); }
 };
 
 // ─── Initialize ───
