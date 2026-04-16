@@ -7,32 +7,33 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE EGG AND CARD PUZZLE</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  wine glass half-filled with water</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  playing card</text>
-  <text x="72" y="236" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  cardboard ring</text>
-  <text x="72" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  raw egg</text>
-  <text x="56" y="298" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="324" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Set up the tower: glass half-full of water, playing card flat on top, a</text>
-  <text x="56" y="345" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">cardboard ring placed on the card directly above the glass opening, raw egg</text>
-  <text x="56" y="366" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">balanced in the ring. When the card is flicked sharply sideways by a</text>
-  <text x="56" y="387" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">horizontal snap of the finger, inertia prevents the ring and egg from moving</text>
-  <text x="56" y="408" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">horizontally — they drop straight down instead. The ring falls to the side</text>
-  <text x="56" y="429" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">and the egg drops into the water. Spectacular when it works, messy when it</text>
-  <text x="56" y="450" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">doesn&apos;t. Practice over a sink first.</text>
-  <text x="56" y="491" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="515" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This three-object inertia demonstration was a standard Victorian table magic</text>
-  <text x="56" y="533" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">trick. President John Tyler reportedly performed it for guests at the White</text>
-  <text x="56" y="551" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">House in the 1840s — though whether successfully is not recorded.</text>
-  <text x="56" y="585" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="609" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Balance a playing card on a wine glass half-full of water. Place a cardboard</text>
-  <text x="56" y="627" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">ring on the card, directly over the glass rim. Balance a raw egg in the ring.</text>
-  <text x="56" y="645" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Then remove the card with a single sharp flick — the egg drops perfectly into</text>
-  <text x="56" y="663" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the glass of water, unbroken.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Puzzles Old and New (1893)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE EGG AND CARD PUZZLE</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  wine glass half-filled with water</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  playing card</text>
+  <text x="126" y="290" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  cardboard ring</text>
+  <text x="126" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  raw egg</text>
+  <text x="110" y="352" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="378" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Set up the tower: glass half-full of water, playing card flat on</text>
+  <text x="110" y="399" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">top, a cardboard ring placed on the card directly above the glass</text>
+  <text x="110" y="420" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">opening, raw egg balanced in the ring. When the card is flicked</text>
+  <text x="110" y="441" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">sharply sideways by a horizontal snap of the finger, inertia</text>
+  <text x="110" y="462" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">prevents the ring and egg from moving horizontally — they drop</text>
+  <text x="110" y="483" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">straight down instead. The ring falls to the side and the egg drops</text>
+  <text x="110" y="504" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">into the water. Spectacular when it works, messy when it doesn&apos;t.</text>
+  <text x="110" y="525" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Practice over a sink first.</text>
+  <text x="110" y="566" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="590" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This three-object inertia demonstration was a standard Victorian</text>
+  <text x="110" y="608" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">table magic trick. President John Tyler reportedly performed it for</text>
+  <text x="110" y="626" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">guests at the White House in the 1840s — though whether</text>
+  <text x="110" y="644" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">successfully is not recorded.</text>
+  <text x="110" y="678" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="702" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Balance a playing card on a wine glass half-full of water. Place a</text>
+  <text x="110" y="720" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">cardboard ring on the card, directly over the glass rim. Balance a</text>
+  <text x="110" y="738" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">raw egg in the ring. Then remove the card with a single sharp flick</text>
+  <text x="110" y="756" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">— the egg drops perfectly into the glass of water, unbroken.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Puzzles Old and New (1893)  ·  Heritage Parlor</text>
 </svg>

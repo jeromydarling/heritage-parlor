@@ -7,30 +7,32 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE HAT TRICK PRODUCTION</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  top hat</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  various small objects</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: An empty hat produces an endless stream of objects — eggs, fruit,</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">flowers. Method: Wear a jacket or vest with large hidden interior pockets</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">loaded with items before you perform. When producing from a hat, angle it so</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the hat covers your other hand as it reaches into your pocket. Deposit the</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">item inside the hat, then tilt it upward to reveal the &apos;production.&apos; Practice</text>
-  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the load-and-tilt until it&apos;s completely smooth. The key is keeping the hat at</text>
-  <text x="56" y="406" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the right angle so the loading hand is never seen. You need: a top hat (or</text>
-  <text x="56" y="427" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">any deep-brimmed hat) and a jacket with large pockets.</text>
-  <text x="56" y="468" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="492" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Hat productions were a standard feature of Victorian magic shows. The phrase</text>
-  <text x="56" y="510" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">&apos;pulling a rabbit from a hat&apos; became a cultural shorthand for magic - though</text>
-  <text x="56" y="528" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">rabbits were just one of dozens of items magicians produced. Top hats were</text>
-  <text x="56" y="546" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">borrowed from audience members for extra credibility.</text>
-  <text x="56" y="580" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="604" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">An empty borrowed top hat produces an endless stream of unexpected objects:</text>
-  <text x="56" y="622" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">eggs, fruit, and flowers.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE HAT TRICK PRODUCTION</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  top hat</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  various small objects</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: An empty hat produces an endless stream of objects — eggs,</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">fruit, flowers. Method: Wear a jacket or vest with large hidden</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">interior pockets loaded with items before you perform. When</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">producing from a hat, angle it so the hat covers your other hand as</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">it reaches into your pocket. Deposit the item inside the hat, then</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">tilt it upward to reveal the &apos;production.&apos; Practice the</text>
+  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">load-and-tilt until it&apos;s completely smooth. The key is keeping the</text>
+  <text x="110" y="481" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">hat at the right angle so the loading hand is never seen. You need:</text>
+  <text x="110" y="502" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">a top hat (or any deep-brimmed hat) and a jacket with large</text>
+  <text x="110" y="523" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pockets.</text>
+  <text x="110" y="564" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="588" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Hat productions were a standard feature of Victorian magic shows.</text>
+  <text x="110" y="606" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The phrase &apos;pulling a rabbit from a hat&apos; became a cultural</text>
+  <text x="110" y="624" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">shorthand for magic - though rabbits were just one of dozens of</text>
+  <text x="110" y="642" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">items magicians produced. Top hats were borrowed from audience</text>
+  <text x="110" y="660" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">members for extra credibility.</text>
+  <text x="110" y="694" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="718" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">An empty borrowed top hat produces an endless stream of unexpected</text>
+  <text x="110" y="736" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">objects: eggs, fruit, and flowers.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)  ·  Heritage Parlor</text>
 </svg>

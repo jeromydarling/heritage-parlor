@@ -7,33 +7,34 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE THAUMATROPE</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  card disc</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  two strings</text>
-  <text x="72" y="236" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  drawings on both sides</text>
-  <text x="56" y="276" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="302" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Cut a circle from stiff card. Draw a bird on one side; draw an empty birdcage</text>
-  <text x="56" y="323" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">on the other side (oriented upside-down relative to the bird). Pierce holes</text>
-  <text x="56" y="344" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">on opposite sides and thread strings through. Hold both strings, swing the</text>
-  <text x="56" y="365" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">disc to wind them up, then pull both ends taut to make it spin. As it spins,</text>
-  <text x="56" y="386" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">your eyes blend the two images and you see a bird sitting inside the cage.</text>
-  <text x="56" y="407" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">This works because your brain holds each image for a fraction of a second —</text>
-  <text x="56" y="428" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the same principle behind movies. Make your own with any two images you want</text>
-  <text x="56" y="449" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">to combine.</text>
-  <text x="56" y="490" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="514" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The thaumatrope was invented in 1826 and became a beloved scientific toy</text>
-  <text x="56" y="532" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">throughout the Victorian era. Its principle of persistence of vision directly</text>
-  <text x="56" y="550" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">led to the invention of cinema — the thaumatrope is a direct ancestor of the</text>
-  <text x="56" y="568" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">motion picture.</text>
-  <text x="56" y="602" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="626" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A card disc with a bird drawn on one side and a cage drawn on the other is</text>
-  <text x="56" y="644" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">attached to two strings. Twisting and releasing the strings makes the disc</text>
-  <text x="56" y="662" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">spin rapidly — and the two images appear to merge into one picture of a bird</text>
-  <text x="56" y="680" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">inside the cage, demonstrating persistence of vision.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE THAUMATROPE</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  card disc</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  two strings</text>
+  <text x="126" y="290" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  drawings on both sides</text>
+  <text x="110" y="330" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="356" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Cut a circle from stiff card. Draw a bird on one side; draw an</text>
+  <text x="110" y="377" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">empty birdcage on the other side (oriented upside-down relative to</text>
+  <text x="110" y="398" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the bird). Pierce holes on opposite sides and thread strings</text>
+  <text x="110" y="419" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">through. Hold both strings, swing the disc to wind them up, then</text>
+  <text x="110" y="440" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pull both ends taut to make it spin. As it spins, your eyes blend</text>
+  <text x="110" y="461" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the two images and you see a bird sitting inside the cage. This</text>
+  <text x="110" y="482" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">works because your brain holds each image for a fraction of a</text>
+  <text x="110" y="503" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">second — the same principle behind movies. Make your own with any</text>
+  <text x="110" y="524" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">two images you want to combine.</text>
+  <text x="110" y="565" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="589" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The thaumatrope was invented in 1826 and became a beloved</text>
+  <text x="110" y="607" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">scientific toy throughout the Victorian era. Its principle of</text>
+  <text x="110" y="625" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">persistence of vision directly led to the invention of cinema — the</text>
+  <text x="110" y="643" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">thaumatrope is a direct ancestor of the motion picture.</text>
+  <text x="110" y="677" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="701" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A card disc with a bird drawn on one side and a cage drawn on the</text>
+  <text x="110" y="719" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">other is attached to two strings. Twisting and releasing the</text>
+  <text x="110" y="737" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">strings makes the disc spin rapidly — and the two images appear to</text>
+  <text x="110" y="755" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">merge into one picture of a bird inside the cage, demonstrating</text>
+  <text x="110" y="773" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">persistence of vision.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)  ·  Heritage Parlor</text>
 </svg>

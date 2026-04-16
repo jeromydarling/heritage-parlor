@@ -7,31 +7,31 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">I LOVE MY LOVE WITH AN A</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Players sit in a circle. The first player fills in this sentence using words</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">starting with A: &apos;I love my love with an A because they are [Amusing]; I took</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">them to the sign of the [Anchor] and treated them to [Apricots]; their name</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">is [Agnes] and they come from [Aberdeen].&apos; Player two uses B, player three</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">uses C, and so on through the alphabet. Anyone who hesitates too long,</text>
-  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">repeats a word already used, or uses the wrong letter is out or must do a</text>
-  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">quick penalty. Q, X, and Z are the real tests.</text>
-  <text x="56" y="425" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="449" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">I Love My Love is mentioned in Lewis Carroll&apos;s Alice Through the</text>
-  <text x="56" y="467" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Looking-Glass, where the White Queen plays it using the letter &apos;M&apos; — its</text>
-  <text x="56" y="485" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">inclusion in one of the most beloved Victorian novels made it a must-know</text>
-  <text x="56" y="503" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">parlor game for the era.</text>
-  <text x="56" y="537" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Each player in turn must complete the sentence &apos;I love my love with an [A]</text>
-  <text x="56" y="579" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">because she is [Adorable]; I took her to the sign of [the Anchor] and treated</text>
-  <text x="56" y="597" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">her to [Almonds]; her name is [Alice] and she comes from [Aberdeen]&apos; — using</text>
-  <text x="56" y="615" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">a new letter of the alphabet for each round, supplying all words with the</text>
-  <text x="56" y="633" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">same letter.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">I LOVE MY LOVE WITH AN A</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Players sit in a circle. The first player fills in this sentence</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">using words starting with A: &apos;I love my love with an A because they</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">are [Amusing]; I took them to the sign of the [Anchor] and treated</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">them to [Apricots]; their name is [Agnes] and they come from</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">[Aberdeen].&apos; Player two uses B, player three uses C, and so on</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">through the alphabet. Anyone who hesitates too long, repeats a word</text>
+  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">already used, or uses the wrong letter is out or must do a quick</text>
+  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">penalty. Q, X, and Z are the real tests.</text>
+  <text x="110" y="500" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">I Love My Love is mentioned in Lewis Carroll&apos;s Alice Through the</text>
+  <text x="110" y="542" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Looking-Glass, where the White Queen plays it using the letter &apos;M&apos;</text>
+  <text x="110" y="560" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">— its inclusion in one of the most beloved Victorian novels made it</text>
+  <text x="110" y="578" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">a must-know parlor game for the era.</text>
+  <text x="110" y="612" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="636" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Each player in turn must complete the sentence &apos;I love my love with</text>
+  <text x="110" y="654" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">an [A] because she is [Adorable]; I took her to the sign of [the</text>
+  <text x="110" y="672" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Anchor] and treated her to [Almonds]; her name is [Alice] and she</text>
+  <text x="110" y="690" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">comes from [Aberdeen]&apos; — using a new letter of the alphabet for</text>
+  <text x="110" y="708" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">each round, supplying all words with the same letter.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)  ·  Heritage Parlor</text>
 </svg>

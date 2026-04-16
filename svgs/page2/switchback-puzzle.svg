@@ -7,33 +7,33 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE SWITCHBACK</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  bent tube with three depressions</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  three ball-bearings or shot</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The tube curves back and forth with three small depressions at specific</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">points. Three ball-bearings must simultaneously rest in all three</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">depressions. Moving the tube to seat one ball almost always dislodges</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">another. The counterintuitive solution: invert the tube, seat the two easier</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">depressions first while inverted, then slowly rotate the tube back to upright</text>
-  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">while carefully guiding the third ball-bearing into its depression last.</text>
-  <text x="56" y="406" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Patience and small incremental movements are the only tools.</text>
-  <text x="56" y="447" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="471" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The switchback design takes its name from the zigzag mountain railways</text>
-  <text x="56" y="489" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">popular in Victorian Switzerland — the tube&apos;s multiple bends and the</text>
-  <text x="56" y="507" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">counter-directional solving method deliberately mirror the railways&apos;</text>
-  <text x="56" y="525" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">back-and-forth climbing technique.</text>
-  <text x="56" y="559" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="583" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A bent tube has three depressions along its length, and three shots</text>
-  <text x="56" y="601" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">(ball-bearings) must be positioned exactly one in each depression</text>
-  <text x="56" y="619" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">simultaneously. The difficulty: moving the tube to position one shot disturbs</text>
-  <text x="56" y="637" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the others. Solution: invert the tube, position shot in the two larger</text>
-  <text x="56" y="655" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">depressions, then gradually turn the tube right-way up while guiding the</text>
-  <text x="56" y="673" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">third.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Puzzles Old and New (1893)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE SWITCHBACK</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  bent tube with three depressions</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  three ball-bearings or shot</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The tube curves back and forth with three small depressions at</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">specific points. Three ball-bearings must simultaneously rest in</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">all three depressions. Moving the tube to seat one ball almost</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">always dislodges another. The counterintuitive solution: invert the</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">tube, seat the two easier depressions first while inverted, then</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">slowly rotate the tube back to upright while carefully guiding the</text>
+  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">third ball-bearing into its depression last. Patience and small</text>
+  <text x="110" y="481" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">incremental movements are the only tools.</text>
+  <text x="110" y="522" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="546" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The switchback design takes its name from the zigzag mountain</text>
+  <text x="110" y="564" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">railways popular in Victorian Switzerland — the tube&apos;s multiple</text>
+  <text x="110" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">bends and the counter-directional solving method deliberately</text>
+  <text x="110" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">mirror the railways&apos; back-and-forth climbing technique.</text>
+  <text x="110" y="634" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="658" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A bent tube has three depressions along its length, and three shots</text>
+  <text x="110" y="676" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">(ball-bearings) must be positioned exactly one in each depression</text>
+  <text x="110" y="694" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">simultaneously. The difficulty: moving the tube to position one</text>
+  <text x="110" y="712" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">shot disturbs the others. Solution: invert the tube, position shot</text>
+  <text x="110" y="730" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">in the two larger depressions, then gradually turn the tube</text>
+  <text x="110" y="748" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">right-way up while guiding the third.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Puzzles Old and New (1893)  ·  Heritage Parlor</text>
 </svg>

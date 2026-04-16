@@ -7,25 +7,25 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE SCULPTOR</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The Sculptor takes a player, spins them gently a few times, and releases</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">them. The player must INSTANTLY freeze in whatever position they land — no</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">adjusting, no matter how awkward! The Sculptor works around the room creating</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">a gallery of frozen poses. After everyone is &apos;sculpted,&apos; the group votes:</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">best pose, funniest pose, most dramatic pose.</text>
-  <text x="56" y="383" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="407" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The game plays on Victorian respect for fine sculpture — the Elgin Marbles</text>
-  <text x="56" y="425" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">had recently arrived at the British Museum and classical sculpture was the</text>
-  <text x="56" y="443" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">highest art form.</text>
-  <text x="56" y="477" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="501" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">One player spins others and then releases them; they must freeze in whatever</text>
-  <text x="56" y="519" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">position the spin leaves them in.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: My Book of Indoor Games (1916)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE SCULPTOR</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The Sculptor takes a player, spins them gently a few times, and</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">releases them. The player must INSTANTLY freeze in whatever</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">position they land — no adjusting, no matter how awkward! The</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Sculptor works around the room creating a gallery of frozen poses.</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">After everyone is &apos;sculpted,&apos; the group votes: best pose, funniest</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pose, most dramatic pose.</text>
+  <text x="110" y="458" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="482" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The game plays on Victorian respect for fine sculpture — the Elgin</text>
+  <text x="110" y="500" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Marbles had recently arrived at the British Museum and classical</text>
+  <text x="110" y="518" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">sculpture was the highest art form.</text>
+  <text x="110" y="552" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="576" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">One player spins others and then releases them; they must freeze in</text>
+  <text x="110" y="594" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">whatever position the spin leaves them in.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: My Book of Indoor Games (1916)  ·  Heritage Parlor</text>
 </svg>

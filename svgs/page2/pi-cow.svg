@@ -7,29 +7,31 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">PI-COW</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Split into two teams: Defenders guard the Castle (a marked central area), and</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Foragers start scattered around the edges. The Defenders&apos; sentry calls</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">&apos;Pee-ku!&apos; whenever a Forager gets close. Foragers try to sneak or dash into</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the Castle without being tagged. A Forager who makes it in shouts &apos;The hole&apos;s</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">won!&apos; — earning a point and forcing a role swap. Tagged Foragers switch to</text>
-  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the defending team. Play until all Foragers have been caught or an agreed</text>
-  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">score is reached.</text>
-  <text x="56" y="425" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="449" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Pi-Cow combines elements of castle-storming, hide-and-seek, and territory</text>
-  <text x="56" y="467" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">games in a way that suggests it developed in communities where real castle</text>
-  <text x="56" y="485" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">sieges were a living memory — possibly dating to the medieval period.</text>
-  <text x="56" y="519" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="543" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Half the players keep a &apos;castle&apos; (a central spot) while others forage nearby.</text>
-  <text x="56" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A sentry cries &apos;Pee-ku&apos; as a warning. Foragers try to reach the castle; if</text>
-  <text x="56" y="579" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">one enters without being captured, they cry &apos;The hole&apos;s won!&apos; and the guards</text>
-  <text x="56" y="597" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">must yield. Captured foragers switch to the guarding side.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. II (1898)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">PI-COW</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Split into two teams: Defenders guard the Castle (a marked central</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">area), and Foragers start scattered around the edges. The</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Defenders&apos; sentry calls &apos;Pee-ku!&apos; whenever a Forager gets close.</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Foragers try to sneak or dash into the Castle without being tagged.</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">A Forager who makes it in shouts &apos;The hole&apos;s won!&apos; — earning a</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">point and forcing a role swap. Tagged Foragers switch to the</text>
+  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">defending team. Play until all Foragers have been caught or an</text>
+  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">agreed score is reached.</text>
+  <text x="110" y="500" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Pi-Cow combines elements of castle-storming, hide-and-seek, and</text>
+  <text x="110" y="542" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">territory games in a way that suggests it developed in communities</text>
+  <text x="110" y="560" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">where real castle sieges were a living memory — possibly dating to</text>
+  <text x="110" y="578" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the medieval period.</text>
+  <text x="110" y="612" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="636" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Half the players keep a &apos;castle&apos; (a central spot) while others</text>
+  <text x="110" y="654" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">forage nearby. A sentry cries &apos;Pee-ku&apos; as a warning. Foragers try</text>
+  <text x="110" y="672" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">to reach the castle; if one enters without being captured, they cry</text>
+  <text x="110" y="690" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">&apos;The hole&apos;s won!&apos; and the guards must yield. Captured foragers</text>
+  <text x="110" y="708" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">switch to the guarding side.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. II (1898)  ·  Heritage Parlor</text>
 </svg>

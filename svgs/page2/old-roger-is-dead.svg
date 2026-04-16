@@ -7,29 +7,30 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">OLD ROGER IS DEAD</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">One player lies still as Old Roger, head covered. The circle sings about his</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">death and the apple tree above his grave. One player stands with arms raised</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">as the apple tree; another creeps in as the old woman stealing apples. At the</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">climax, Old Roger suddenly springs up and gives chase. Whoever is caught</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">becomes the next Old Roger. A dramatic mime-and-chase game full of theatrical</text>
-  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">suspense.</text>
-  <text x="56" y="404" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="428" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Old Roger Is Dead is thought to be connected to ancient harvest-time rituals</text>
-  <text x="56" y="446" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">about the spirit of the grain dying and rising — &apos;Roger&apos; being a common folk</text>
-  <text x="56" y="464" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">name for the corn-spirit in British agricultural mythology.</text>
-  <text x="56" y="498" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="522" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A ring forms around &apos;Roger&apos; who lies covered on the ground. The ring sings</text>
-  <text x="56" y="540" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">about Roger dying with an apple tree over his head. One player enters as the</text>
-  <text x="56" y="558" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">tree, another as an old woman who picks apples. Roger suddenly jumps up and</text>
-  <text x="56" y="576" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">gives the woman a knock — she hobbles away, hipperty-hop, and the game begins</text>
-  <text x="56" y="594" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">again with a new Roger.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. II (1898)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">OLD ROGER IS DEAD</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">One player lies still as Old Roger, head covered. The circle sings</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">about his death and the apple tree above his grave. One player</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">stands with arms raised as the apple tree; another creeps in as the</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">old woman stealing apples. At the climax, Old Roger suddenly</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">springs up and gives chase. Whoever is caught becomes the next Old</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Roger. A dramatic mime-and-chase game full of theatrical suspense.</text>
+  <text x="110" y="458" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="482" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Old Roger Is Dead is thought to be connected to ancient</text>
+  <text x="110" y="500" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">harvest-time rituals about the spirit of the grain dying and rising</text>
+  <text x="110" y="518" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">— &apos;Roger&apos; being a common folk name for the corn-spirit in British</text>
+  <text x="110" y="536" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">agricultural mythology.</text>
+  <text x="110" y="570" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="594" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A ring forms around &apos;Roger&apos; who lies covered on the ground. The</text>
+  <text x="110" y="612" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">ring sings about Roger dying with an apple tree over his head. One</text>
+  <text x="110" y="630" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">player enters as the tree, another as an old woman who picks</text>
+  <text x="110" y="648" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">apples. Roger suddenly jumps up and gives the woman a knock — she</text>
+  <text x="110" y="666" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">hobbles away, hipperty-hop, and the game begins again with a new</text>
+  <text x="110" y="684" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Roger.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. II (1898)  ·  Heritage Parlor</text>
 </svg>

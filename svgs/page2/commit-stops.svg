@@ -7,29 +7,29 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">COMMIT (STOPS)</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  standard deck minus one card</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  chips</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">3–6 players. Remove one card secretly from the deck (creating unknown</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">&apos;stops&apos;). Everyone antes a chip. The player left of the dealer starts any</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">sequence in any suit from the lowest available card. Others play the next</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">higher card in the same suit. A sequence stops when the King is reached or no</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">one holds the next card (because of the hidden missing card). Whoever played</text>
-  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the last card before a stop starts a new sequence. First to empty their hand</text>
-  <text x="56" y="406" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">wins the pot.</text>
-  <text x="56" y="447" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="471" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Commit (also called Stops or Earl of Coventry) was a Victorian family game</text>
-  <text x="56" y="489" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">that combined the excitement of card sequences with the gambling appeal of</text>
-  <text x="56" y="507" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">growing pools. The hidden removed card creating unknown stops was the key</text>
-  <text x="56" y="525" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">tension.</text>
-  <text x="56" y="559" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="583" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Play sequences of cards until you reach a &apos;stop&apos; - then collect from the pool</text>
-  <text x="56" y="601" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">or pay in.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">COMMIT (STOPS)</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  standard deck minus one card</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  chips</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">3–6 players. Remove one card secretly from the deck (creating</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">unknown &apos;stops&apos;). Everyone antes a chip. The player left of the</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">dealer starts any sequence in any suit from the lowest available</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">card. Others play the next higher card in the same suit. A sequence</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">stops when the King is reached or no one holds the next card</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">(because of the hidden missing card). Whoever played the last card</text>
+  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">before a stop starts a new sequence. First to empty their hand wins</text>
+  <text x="110" y="481" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the pot.</text>
+  <text x="110" y="522" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="546" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Commit (also called Stops or Earl of Coventry) was a Victorian</text>
+  <text x="110" y="564" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">family game that combined the excitement of card sequences with the</text>
+  <text x="110" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">gambling appeal of growing pools. The hidden removed card creating</text>
+  <text x="110" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">unknown stops was the key tension.</text>
+  <text x="110" y="634" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="658" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Play sequences of cards until you reach a &apos;stop&apos; - then collect</text>
+  <text x="110" y="676" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">from the pool or pay in.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)  ·  Heritage Parlor</text>
 </svg>

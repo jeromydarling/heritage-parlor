@@ -7,32 +7,32 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">DUTCH CONCERT</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Assign everyone an instrument to mime and vocalize — violin, trumpet, drums,</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">flute, tuba. The leader starts performing their instrument; everyone copies</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">their own assigned instrument. When the leader switches to a different</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">instrument, everyone must instantly switch to copy the leader&apos;s new</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">instrument — abandoning their old one. The trick: the leader can switch</text>
-  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">rapidly, fake-out, or add gestures to confuse players. Anyone who plays the</text>
-  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">wrong instrument, switches too slowly, or stops performing must do a silly</text>
-  <text x="56" y="405" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">penalty (tell a joke, sing a line of a song).</text>
-  <text x="56" y="446" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="470" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The name &apos;Dutch Concert&apos; was a Victorian expression for a chaotic,</text>
-  <text x="56" y="488" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">cacophonous noise. The game was deliberately designed to produce gloriously</text>
-  <text x="56" y="506" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">awful racket — &apos;Dutch&apos; being used loosely to mean incomprehensible and</text>
-  <text x="56" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">foreign.</text>
-  <text x="56" y="558" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Each player is assigned a musical instrument to imitate with their voice and</text>
-  <text x="56" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">body. A leader begins conducting the &apos;concert&apos;; whenever the leader changes</text>
-  <text x="56" y="618" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">their own instrument imitation, all players must switch to imitating whatever</text>
-  <text x="56" y="636" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">instrument they are now doing. Anyone who fails to follow correctly pays a</text>
-  <text x="56" y="654" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">forfeit.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">DUTCH CONCERT</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Assign everyone an instrument to mime and vocalize — violin,</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">trumpet, drums, flute, tuba. The leader starts performing their</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">instrument; everyone copies their own assigned instrument. When the</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">leader switches to a different instrument, everyone must instantly</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">switch to copy the leader&apos;s new instrument — abandoning their old</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">one. The trick: the leader can switch rapidly, fake-out, or add</text>
+  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">gestures to confuse players. Anyone who plays the wrong instrument,</text>
+  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">switches too slowly, or stops performing must do a silly penalty</text>
+  <text x="110" y="480" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">(tell a joke, sing a line of a song).</text>
+  <text x="110" y="521" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="545" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The name &apos;Dutch Concert&apos; was a Victorian expression for a chaotic,</text>
+  <text x="110" y="563" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">cacophonous noise. The game was deliberately designed to produce</text>
+  <text x="110" y="581" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">gloriously awful racket — &apos;Dutch&apos; being used loosely to mean</text>
+  <text x="110" y="599" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">incomprehensible and foreign.</text>
+  <text x="110" y="633" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="657" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Each player is assigned a musical instrument to imitate with their</text>
+  <text x="110" y="675" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">voice and body. A leader begins conducting the &apos;concert&apos;; whenever</text>
+  <text x="110" y="693" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the leader changes their own instrument imitation, all players must</text>
+  <text x="110" y="711" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">switch to imitating whatever instrument they are now doing. Anyone</text>
+  <text x="110" y="729" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">who fails to follow correctly pays a forfeit.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)  ·  Heritage Parlor</text>
 </svg>

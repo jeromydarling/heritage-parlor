@@ -7,25 +7,26 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MAGIC MUSIC BOX</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  pianist or musician</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">One player leaves the room while others hide a small object somewhere in the</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">room. The player returns. A designated musician (or someone controlling a</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">playlist) plays music louder when the searcher gets physically closer to the</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">object, and softer when they move away. No words or pointing — only the</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">volume guides the search. Works with any music source, not just a piano.</text>
-  <text x="56" y="383" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="407" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Musical guiding games required a household pianist - a standard feature of</text>
-  <text x="56" y="425" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Victorian middle-class homes. Every Victorian family of any means owned a</text>
-  <text x="56" y="443" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">piano and expected family members to be competent players, making musical</text>
-  <text x="56" y="461" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">parlor games both practical and status-confirming.</text>
-  <text x="56" y="495" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="519" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Find a hidden object guided only by the volume of piano music.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MAGIC MUSIC BOX</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  pianist or musician</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">One player leaves the room while others hide a small object</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">somewhere in the room. The player returns. A designated musician</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">(or someone controlling a playlist) plays music louder when the</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">searcher gets physically closer to the object, and softer when they</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">move away. No words or pointing — only the volume guides the</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">search. Works with any music source, not just a piano.</text>
+  <text x="110" y="458" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="482" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Musical guiding games required a household pianist - a standard</text>
+  <text x="110" y="500" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">feature of Victorian middle-class homes. Every Victorian family of</text>
+  <text x="110" y="518" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">any means owned a piano and expected family members to be competent</text>
+  <text x="110" y="536" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">players, making musical parlor games both practical and</text>
+  <text x="110" y="554" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">status-confirming.</text>
+  <text x="110" y="588" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="612" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Find a hidden object guided only by the volume of piano music.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)  ·  Heritage Parlor</text>
 </svg>

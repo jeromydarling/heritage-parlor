@@ -7,27 +7,28 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MYSTERIOUS ADDITION OF COINS</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  coins</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: You always know whether someone&apos;s hidden number of coins is odd or</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">even. Method: Start with an even number of coins in a pile. Turn your back</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">and ask someone to take any number. Then tell them: &apos;Now take more coins from</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the pile to make your total an even number.&apos; Turn around and look at what&apos;s</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">left. If the remaining pile is odd, their original count was odd. If even, it</text>
-  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">was even. Adding an even number to a quantity never changes whether it&apos;s odd</text>
-  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">or even — that&apos;s the math secret.</text>
-  <text x="56" y="425" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="449" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This demonstrates mathematical parity - the property of odd and even numbers.</text>
-  <text x="56" y="467" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The trick works because adding an even number to any quantity preserves its</text>
-  <text x="56" y="485" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">original parity. The same principle underlies checksum error detection in</text>
-  <text x="56" y="503" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">computer data.</text>
-  <text x="56" y="537" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The magician always knows whether a hidden number of coins is odd or even.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MYSTERIOUS ADDITION OF COINS</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  coins</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: You always know whether someone&apos;s hidden number of coins is</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">odd or even. Method: Start with an even number of coins in a pile.</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Turn your back and ask someone to take any number. Then tell them:</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">&apos;Now take more coins from the pile to make your total an even</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">number.&apos; Turn around and look at what&apos;s left. If the remaining pile</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">is odd, their original count was odd. If even, it was even. Adding</text>
+  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">an even number to a quantity never changes whether it&apos;s odd or even</text>
+  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">— that&apos;s the math secret.</text>
+  <text x="110" y="500" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This demonstrates mathematical parity - the property of odd and</text>
+  <text x="110" y="542" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">even numbers. The trick works because adding an even number to any</text>
+  <text x="110" y="560" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">quantity preserves its original parity. The same principle</text>
+  <text x="110" y="578" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">underlies checksum error detection in computer data.</text>
+  <text x="110" y="612" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="636" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The magician always knows whether a hidden number of coins is odd</text>
+  <text x="110" y="654" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">or even.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)  ·  Heritage Parlor</text>
 </svg>

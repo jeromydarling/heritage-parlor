@@ -7,29 +7,29 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">HONEY POTS</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Two players are the Seller and the Buyer. All other players become &apos;honey</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pots&apos;: each crouches down and clasps their hands under their knees, holding</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">that position. The Seller carries each pot (holding their arms) to the Buyer</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">and announces a &apos;price.&apos; The Buyer rocks the pot back and forth to test the</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">honey — any pot who loses their grip and unclasps their hands is &apos;spilled&apos;</text>
-  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">and goes back. The pot who stays in position longest is declared the best</text>
-  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">honey. Safety note: players doing the carrying should be similar in size to</text>
-  <text x="56" y="405" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">those being carried.</text>
-  <text x="56" y="446" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="470" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Honey Pots was a traditional English children&apos;s game recorded in numerous</text>
-  <text x="56" y="488" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Victorian game books. The challenge of maintaining the crouched sealed</text>
-  <text x="56" y="506" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">position while being carried and rocked made it physically demanding and</text>
-  <text x="56" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">comical.</text>
-  <text x="56" y="558" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Players crouch as honey pots and are carried between sellers and buyers,</text>
-  <text x="56" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">trying not to fall.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: My Book of Indoor Games (1916)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">HONEY POTS</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Two players are the Seller and the Buyer. All other players become</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">&apos;honey pots&apos;: each crouches down and clasps their hands under their</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">knees, holding that position. The Seller carries each pot (holding</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">their arms) to the Buyer and announces a &apos;price.&apos; The Buyer rocks</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the pot back and forth to test the honey — any pot who loses their</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">grip and unclasps their hands is &apos;spilled&apos; and goes back. The pot</text>
+  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">who stays in position longest is declared the best honey. Safety</text>
+  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">note: players doing the carrying should be similar in size to those</text>
+  <text x="110" y="480" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">being carried.</text>
+  <text x="110" y="521" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="545" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Honey Pots was a traditional English children&apos;s game recorded in</text>
+  <text x="110" y="563" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">numerous Victorian game books. The challenge of maintaining the</text>
+  <text x="110" y="581" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">crouched sealed position while being carried and rocked made it</text>
+  <text x="110" y="599" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">physically demanding and comical.</text>
+  <text x="110" y="633" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="657" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Players crouch as honey pots and are carried between sellers and</text>
+  <text x="110" y="675" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">buyers, trying not to fall.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: My Book of Indoor Games (1916)  ·  Heritage Parlor</text>
 </svg>

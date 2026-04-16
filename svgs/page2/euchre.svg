@@ -7,28 +7,29 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">EUCHRE</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  24-card euchre deck (9 through Ace, 4 suits)</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Use only the 9, 10, J, Q, K, and A from all four suits (24 cards). Deal 5</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">cards each; flip one more card face-up to propose trump. Going clockwise,</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">each player either orders it up (accepts that trump) or passes. Whoever makes</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">trump must win at least 3 of the 5 tricks, or their team is &apos;euchred&apos; and</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">scores nothing. Special ranks: the Jack of the trump suit (Right Bower) is</text>
-  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the highest card; the Jack of the same-color suit (Left Bower) is second</text>
-  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">highest. Win all 5 tricks (called a march) for 2 points. First to 10 points</text>
-  <text x="56" y="405" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">wins.</text>
-  <text x="56" y="446" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="470" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Euchre dominated American card tables from the 1840s through the 1890s. The</text>
-  <text x="56" y="488" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Joker was invented specifically for Euchre as the &apos;best Bower.&apos; The word</text>
-  <text x="56" y="506" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Euchre gives us the verb &apos;to euchre&apos; meaning to trick or deceive someone.</text>
-  <text x="56" y="540" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="564" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The most popular American card game of the 19th century, played with a</text>
-  <text x="56" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">24-card deck and unique bower trump system.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">EUCHRE</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  24-card euchre deck (9 through Ace, 4 suits)</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Use only the 9, 10, J, Q, K, and A from all four suits (24 cards).</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Deal 5 cards each; flip one more card face-up to propose trump.</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Going clockwise, each player either orders it up (accepts that</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">trump) or passes. Whoever makes trump must win at least 3 of the 5</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">tricks, or their team is &apos;euchred&apos; and scores nothing. Special</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">ranks: the Jack of the trump suit (Right Bower) is the highest</text>
+  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">card; the Jack of the same-color suit (Left Bower) is second</text>
+  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">highest. Win all 5 tricks (called a march) for 2 points. First to</text>
+  <text x="110" y="480" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">10 points wins.</text>
+  <text x="110" y="521" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="545" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Euchre dominated American card tables from the 1840s through the</text>
+  <text x="110" y="563" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">1890s. The Joker was invented specifically for Euchre as the &apos;best</text>
+  <text x="110" y="581" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Bower.&apos; The word Euchre gives us the verb &apos;to euchre&apos; meaning to</text>
+  <text x="110" y="599" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">trick or deceive someone.</text>
+  <text x="110" y="633" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="657" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The most popular American card game of the 19th century, played</text>
+  <text x="110" y="675" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">with a 24-card deck and unique bower trump system.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)  ·  Heritage Parlor</text>
 </svg>

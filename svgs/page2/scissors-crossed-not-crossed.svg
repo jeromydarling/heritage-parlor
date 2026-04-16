@@ -7,32 +7,32 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">SCISSORS CROSSED OR NOT CROSSED</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  scissors</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">One player picks up a pair of scissors and passes them to the next person,</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">announcing &apos;I pass these crossed&apos; or &apos;I pass these not crossed.&apos; New players</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">assume this refers to whether the scissors are open or closed — they&apos;re</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">wrong. The actual rule: &apos;crossed&apos; means the passer&apos;s legs are crossed at the</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">ankles, &apos;not crossed&apos; means they&apos;re not. The scissors&apos; position is a red</text>
-  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">herring. Those who already know play along perfectly; newcomers slowly figure</text>
-  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">out that they&apos;re not looking at the right thing. The moment of realization is</text>
-  <text x="56" y="405" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the payoff.</text>
-  <text x="56" y="446" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="470" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Scissors Crossed or Not Crossed is a classic catch-game that exploits the</text>
-  <text x="56" y="488" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">principle of misdirection — everyone looks at the scissors when the key</text>
-  <text x="56" y="506" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">information is actually elsewhere. Victorian parlor books called these</text>
-  <text x="56" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">&apos;mystification games.&apos;</text>
-  <text x="56" y="558" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A pair of scissors is passed around the group. Each time, the passer</text>
-  <text x="56" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">announces whether they pass them &apos;crossed&apos; or &apos;not crossed.&apos; New players</text>
-  <text x="56" y="618" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">cannot understand the pattern — the real secret is not the scissors&apos; position</text>
-  <text x="56" y="636" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">but whether the passer&apos;s legs (ankles) are crossed or uncrossed when they</text>
-  <text x="56" y="654" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">pass.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">SCISSORS CROSSED OR NOT CROSSED</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  scissors</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">One player picks up a pair of scissors and passes them to the next</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">person, announcing &apos;I pass these crossed&apos; or &apos;I pass these not</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">crossed.&apos; New players assume this refers to whether the scissors</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">are open or closed — they&apos;re wrong. The actual rule: &apos;crossed&apos;</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">means the passer&apos;s legs are crossed at the ankles, &apos;not crossed&apos;</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">means they&apos;re not. The scissors&apos; position is a red herring. Those</text>
+  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">who already know play along perfectly; newcomers slowly figure out</text>
+  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">that they&apos;re not looking at the right thing. The moment of</text>
+  <text x="110" y="480" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">realization is the payoff.</text>
+  <text x="110" y="521" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="545" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Scissors Crossed or Not Crossed is a classic catch-game that</text>
+  <text x="110" y="563" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">exploits the principle of misdirection — everyone looks at the</text>
+  <text x="110" y="581" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">scissors when the key information is actually elsewhere. Victorian</text>
+  <text x="110" y="599" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">parlor books called these &apos;mystification games.&apos;</text>
+  <text x="110" y="633" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="657" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A pair of scissors is passed around the group. Each time, the</text>
+  <text x="110" y="675" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">passer announces whether they pass them &apos;crossed&apos; or &apos;not crossed.&apos;</text>
+  <text x="110" y="693" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">New players cannot understand the pattern — the real secret is not</text>
+  <text x="110" y="711" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the scissors&apos; position but whether the passer&apos;s legs (ankles) are</text>
+  <text x="110" y="729" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">crossed or uncrossed when they pass.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)  ·  Heritage Parlor</text>
 </svg>

@@ -7,31 +7,33 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE TRIPLE DEAL</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  21 playing cards</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: A spectator freely thinks of a card. After three rounds of dealing,</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">you locate it in the exact center of the packet. Method: deal 21 cards</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">face-up into 3 piles of 7. Ask which pile contains the chosen card. Collect</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the piles with the named pile sandwiched in the middle. Repeat twice more,</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">always placing the named pile in the middle. After three rounds, the chosen</text>
-  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">card is guaranteed to be at position 11 (the 21st card&apos;s middle). Count to</text>
-  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">position 11 to dramatically reveal it. No sleight of hand — the math does all</text>
-  <text x="56" y="405" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the work.</text>
-  <text x="56" y="446" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="470" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The Triple Deal is a self-working mathematical trick — no sleight of hand is</text>
-  <text x="56" y="488" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">required. The mathematics involves base-3 positioning: placing the named pile</text>
-  <text x="56" y="506" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">in the middle each time effectively zero-places the chosen card in</text>
-  <text x="56" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">three-digit ternary arithmetic, always resulting in position 11.</text>
-  <text x="56" y="558" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Twenty-one cards are dealt into three piles. The spectator notes which pile</text>
-  <text x="56" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">contains their chosen card. After three rounds of this procedure, always</text>
-  <text x="56" y="618" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">placing the named pile between the other two before re-dealing, the chosen</text>
-  <text x="56" y="636" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">card is found at position eleven — the exact middle of the packet.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Magician&apos;s Own Book (1862)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE TRIPLE DEAL</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  21 playing cards</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: A spectator freely thinks of a card. After three rounds of</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">dealing, you locate it in the exact center of the packet. Method:</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">deal 21 cards face-up into 3 piles of 7. Ask which pile contains</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the chosen card. Collect the piles with the named pile sandwiched</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">in the middle. Repeat twice more, always placing the named pile in</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the middle. After three rounds, the chosen card is guaranteed to be</text>
+  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">at position 11 (the 21st card&apos;s middle). Count to position 11 to</text>
+  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">dramatically reveal it. No sleight of hand — the math does all the</text>
+  <text x="110" y="480" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">work.</text>
+  <text x="110" y="521" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="545" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The Triple Deal is a self-working mathematical trick — no sleight</text>
+  <text x="110" y="563" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">of hand is required. The mathematics involves base-3 positioning:</text>
+  <text x="110" y="581" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">placing the named pile in the middle each time effectively</text>
+  <text x="110" y="599" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">zero-places the chosen card in three-digit ternary arithmetic,</text>
+  <text x="110" y="617" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">always resulting in position 11.</text>
+  <text x="110" y="651" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="675" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Twenty-one cards are dealt into three piles. The spectator notes</text>
+  <text x="110" y="693" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">which pile contains their chosen card. After three rounds of this</text>
+  <text x="110" y="711" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">procedure, always placing the named pile between the other two</text>
+  <text x="110" y="729" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">before re-dealing, the chosen card is found at position eleven —</text>
+  <text x="110" y="747" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the exact middle of the packet.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Magician&apos;s Own Book (1862)  ·  Heritage Parlor</text>
 </svg>

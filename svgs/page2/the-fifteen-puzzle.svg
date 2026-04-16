@@ -7,25 +7,26 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE FIFTEEN PUZZLE</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  15-tile sliding puzzle</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">A 4×4 frame holds 15 numbered tiles and one empty space. Slide tiles into the</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">empty space to arrange them 1–15 in reading order, with the empty space in</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the bottom-right corner. You can only slide a tile into the adjacent empty</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">space. Important: only half of all starting arrangements can be solved — if</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">yours seems impossible, it might truly be. The solvability depends on</text>
-  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">counting how many tiles are &apos;out of order&apos; relative to each other.</text>
-  <text x="56" y="404" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="428" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The 15-puzzle was patented in 1874 and became the first international puzzle</text>
-  <text x="56" y="446" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">craze. Sam Loyd offered $1,000 for a specific impossible starting position —</text>
-  <text x="56" y="464" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">no one ever collected the prize.</text>
-  <text x="56" y="498" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="522" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Slide numbered tiles in a 4x4 frame to arrange them in order from 1 to 15.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Canterbury Puzzles (1907)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE FIFTEEN PUZZLE</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  15-tile sliding puzzle</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">A 4×4 frame holds 15 numbered tiles and one empty space. Slide</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">tiles into the empty space to arrange them 1–15 in reading order,</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">with the empty space in the bottom-right corner. You can only slide</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">a tile into the adjacent empty space. Important: only half of all</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">starting arrangements can be solved — if yours seems impossible, it</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">might truly be. The solvability depends on counting how many tiles</text>
+  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">are &apos;out of order&apos; relative to each other.</text>
+  <text x="110" y="479" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="503" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The 15-puzzle was patented in 1874 and became the first</text>
+  <text x="110" y="521" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">international puzzle craze. Sam Loyd offered $1,000 for a specific</text>
+  <text x="110" y="539" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">impossible starting position — no one ever collected the prize.</text>
+  <text x="110" y="573" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="597" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Slide numbered tiles in a 4x4 frame to arrange them in order from 1</text>
+  <text x="110" y="615" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">to 15.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Canterbury Puzzles (1907)  ·  Heritage Parlor</text>
 </svg>

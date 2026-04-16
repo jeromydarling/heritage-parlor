@@ -7,28 +7,29 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">COIN THROUGH THE HANDKERCHIEF</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  coin</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  handkerchief</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: A borrowed coin visibly pushes through the center of a handkerchief.</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Method: Borrow a coin and place it at the center of the cloth. As you fold</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the handkerchief over, secretly pinch a small fold of fabric over the coin so</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the coin ends up OUTSIDE the cloth — but still appears to be inside. Grip the</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">bundle tightly so everything looks secure. With your other hand, press</text>
-  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">downward and release that pinch — the coin slides free, appearing to melt</text>
-  <text x="56" y="406" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">through the fabric.</text>
-  <text x="56" y="447" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="471" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Hoffmann called this &apos;one of the most effective of all coin tricks&apos; because</text>
-  <text x="56" y="489" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">borrowed objects make magic far more convincing - the audience knows you have</text>
-  <text x="56" y="507" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">not substituted their coin for a prepared one.</text>
-  <text x="56" y="541" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="565" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A borrowed coin visibly penetrates through the center of a tightly held</text>
-  <text x="56" y="583" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">handkerchief.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">COIN THROUGH THE HANDKERCHIEF</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  coin</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  handkerchief</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: A borrowed coin visibly pushes through the center of a</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">handkerchief. Method: Borrow a coin and place it at the center of</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the cloth. As you fold the handkerchief over, secretly pinch a</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">small fold of fabric over the coin so the coin ends up OUTSIDE the</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">cloth — but still appears to be inside. Grip the bundle tightly so</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">everything looks secure. With your other hand, press downward and</text>
+  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">release that pinch — the coin slides free, appearing to melt</text>
+  <text x="110" y="481" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">through the fabric.</text>
+  <text x="110" y="522" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="546" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Hoffmann called this &apos;one of the most effective of all coin tricks&apos;</text>
+  <text x="110" y="564" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">because borrowed objects make magic far more convincing - the</text>
+  <text x="110" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">audience knows you have not substituted their coin for a prepared</text>
+  <text x="110" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">one.</text>
+  <text x="110" y="634" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="658" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A borrowed coin visibly penetrates through the center of a tightly</text>
+  <text x="110" y="676" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">held handkerchief.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)  ·  Heritage Parlor</text>
 </svg>

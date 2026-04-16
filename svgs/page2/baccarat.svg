@@ -7,27 +7,28 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">BACCARAT</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  standard deck of 52 cards</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  chips</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">3–11 players. Cards 2–9 count face value; 10s and face cards count zero; Aces</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">count 1. When a hand totals more than 9, drop the tens digit (e.g., 7+6=13,</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">counts as 3). Banker deals 2 cards to the players&apos; side and 2 to themselves.</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Totals of 6–7 stand; totals of 0–5 draw a third card. Closest to 9 wins. A</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">natural (8 or 9 on the first 2 cards) wins immediately. Use chips or points</text>
-  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">instead of real money.</text>
-  <text x="56" y="426" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="450" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Baccarat dates to 15th-century Italy as Baccara (meaning &apos;zero&apos; in Italian).</text>
-  <text x="56" y="468" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">It arrived at the French court of Charles VIII and became the gambling game</text>
-  <text x="56" y="486" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">of European royalty and aristocracy. James Bond plays Baccarat Chemin de Fer</text>
-  <text x="56" y="504" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">in Ian Fleming&apos;s first novel, Casino Royale.</text>
-  <text x="56" y="538" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="562" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The classic French banking game: get as close to 9 as possible.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">BACCARAT</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  standard deck of 52 cards</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  chips</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">3–11 players. Cards 2–9 count face value; 10s and face cards count</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">zero; Aces count 1. When a hand totals more than 9, drop the tens</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">digit (e.g., 7+6=13, counts as 3). Banker deals 2 cards to the</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">players&apos; side and 2 to themselves. Totals of 6–7 stand; totals of</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">0–5 draw a third card. Closest to 9 wins. A natural (8 or 9 on the</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">first 2 cards) wins immediately. Use chips or points instead of</text>
+  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">real money.</text>
+  <text x="110" y="501" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="525" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Baccarat dates to 15th-century Italy as Baccara (meaning &apos;zero&apos; in</text>
+  <text x="110" y="543" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Italian). It arrived at the French court of Charles VIII and became</text>
+  <text x="110" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the gambling game of European royalty and aristocracy. James Bond</text>
+  <text x="110" y="579" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">plays Baccarat Chemin de Fer in Ian Fleming&apos;s first novel, Casino</text>
+  <text x="110" y="597" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Royale.</text>
+  <text x="110" y="631" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="655" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The classic French banking game: get as close to 9 as possible.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)  ·  Heritage Parlor</text>
 </svg>

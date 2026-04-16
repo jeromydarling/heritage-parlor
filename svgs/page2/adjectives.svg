@@ -7,25 +7,27 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">ADJECTIVES</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  paper</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  pencils</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Need: slips of paper, pens, a prepared story with blanks. Each player</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">secretly writes one adjective on their slip. The host collects all slips,</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">then reads the prepared story aloud, inserting each adjective into the next</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">blank in order. The random mismatches are almost always hilarious. Like</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">modern Mad Libs — the more absurd the adjectives, the better.</text>
-  <text x="56" y="405" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="429" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A precursor to modern party games like Mad Libs, this Victorian favourite was</text>
-  <text x="56" y="447" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">so popular that book shops sold prepared blank-story cards.</text>
-  <text x="56" y="481" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="505" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Players each write an adjective on a slip of paper; these are collected and</text>
-  <text x="56" y="523" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">inserted randomly into a prepared story read aloud to hilarious effect.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">ADJECTIVES</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  paper</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  pencils</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Need: slips of paper, pens, a prepared story with blanks. Each</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">player secretly writes one adjective on their slip. The host</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">collects all slips, then reads the prepared story aloud, inserting</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">each adjective into the next blank in order. The random mismatches</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">are almost always hilarious. Like modern Mad Libs — the more absurd</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the adjectives, the better.</text>
+  <text x="110" y="480" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="504" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A precursor to modern party games like Mad Libs, this Victorian</text>
+  <text x="110" y="522" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">favourite was so popular that book shops sold prepared blank-story</text>
+  <text x="110" y="540" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">cards.</text>
+  <text x="110" y="574" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="598" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Players each write an adjective on a slip of paper; these are</text>
+  <text x="110" y="616" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">collected and inserted randomly into a prepared story read aloud to</text>
+  <text x="110" y="634" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">hilarious effect.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)  ·  Heritage Parlor</text>
 </svg>

@@ -7,25 +7,26 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE TRAVELLER&apos;S RHYME</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Player 1 says: &apos;I went on a journey and bought a pair of gloves.&apos; Player 2</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">repeats the whole phrase and adds a new item. Continue around — each player</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">must recite the full growing list before adding something new. Forget an item</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">or get the order wrong and you owe a fun challenge (sing a line of a song,</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">make a funny face). The list gets surprisingly hard to remember by round 8.</text>
-  <text x="56" y="383" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="407" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Accumulation memory games like The Traveler&apos;s Rhyme are related to &apos;I Went to</text>
-  <text x="56" y="425" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Market&apos; and ultimately to the 12 Days of Christmas song. The progressive</text>
-  <text x="56" y="443" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">memory challenge becomes exponentially harder as items accumulate.</text>
-  <text x="56" y="477" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="501" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Recall a growing sequence of traveler&apos;s purchases, adding a new item each</text>
-  <text x="56" y="519" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">round.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE TRAVELLER&apos;S RHYME</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Player 1 says: &apos;I went on a journey and bought a pair of gloves.&apos;</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Player 2 repeats the whole phrase and adds a new item. Continue</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">around — each player must recite the full growing list before</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">adding something new. Forget an item or get the order wrong and you</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">owe a fun challenge (sing a line of a song, make a funny face). The</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">list gets surprisingly hard to remember by round 8.</text>
+  <text x="110" y="458" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="482" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Accumulation memory games like The Traveler&apos;s Rhyme are related to</text>
+  <text x="110" y="500" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">&apos;I Went to Market&apos; and ultimately to the 12 Days of Christmas song.</text>
+  <text x="110" y="518" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The progressive memory challenge becomes exponentially harder as</text>
+  <text x="110" y="536" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">items accumulate.</text>
+  <text x="110" y="570" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="594" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Recall a growing sequence of traveler&apos;s purchases, adding a new</text>
+  <text x="110" y="612" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">item each round.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)  ·  Heritage Parlor</text>
 </svg>

@@ -7,30 +7,31 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">COIN TO ORANGE</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  marked coin</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  orange</text>
-  <text x="72" y="236" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  knife</text>
-  <text x="56" y="276" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="302" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: A spectator marks their coin, you make it vanish, and when they cut</text>
-  <text x="56" y="323" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">open an orange — their marked coin is inside. Method: Before the trick, make</text>
-  <text x="56" y="344" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">a small slit in an orange, insert a pre-marked coin, and press the skin</text>
-  <text x="56" y="365" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">closed. Have a spectator &apos;mark&apos; a coin (it&apos;s swapped for your pre-marked</text>
-  <text x="56" y="386" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">duplicate during handling). Vanish the coin, then hand them the orange. When</text>
-  <text x="56" y="407" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">they cut it open, their marked coin (the duplicate) is inside. The original</text>
-  <text x="56" y="428" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">coin stays in your pocket. You need: two identical coins, an orange, and a</text>
-  <text x="56" y="449" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">small knife for the setup.</text>
-  <text x="56" y="490" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="514" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Coin-to-orange is one of the strongest coin tricks because the signed coin</text>
-  <text x="56" y="532" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">inside the apparently-intact orange seems to require genuine magic. Hoffmann</text>
-  <text x="56" y="550" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">noted that borrowed and marked objects make every trick ten times more</text>
-  <text x="56" y="568" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">convincing.</text>
-  <text x="56" y="602" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="626" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A spectator&apos;s marked coin vanishes and is found inside an uncut orange.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">COIN TO ORANGE</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  marked coin</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  orange</text>
+  <text x="126" y="290" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  knife</text>
+  <text x="110" y="330" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="356" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: A spectator marks their coin, you make it vanish, and when</text>
+  <text x="110" y="377" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">they cut open an orange — their marked coin is inside. Method:</text>
+  <text x="110" y="398" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Before the trick, make a small slit in an orange, insert a</text>
+  <text x="110" y="419" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pre-marked coin, and press the skin closed. Have a spectator &apos;mark&apos;</text>
+  <text x="110" y="440" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">a coin (it&apos;s swapped for your pre-marked duplicate during</text>
+  <text x="110" y="461" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">handling). Vanish the coin, then hand them the orange. When they</text>
+  <text x="110" y="482" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">cut it open, their marked coin (the duplicate) is inside. The</text>
+  <text x="110" y="503" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">original coin stays in your pocket. You need: two identical coins,</text>
+  <text x="110" y="524" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">an orange, and a small knife for the setup.</text>
+  <text x="110" y="565" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="589" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Coin-to-orange is one of the strongest coin tricks because the</text>
+  <text x="110" y="607" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">signed coin inside the apparently-intact orange seems to require</text>
+  <text x="110" y="625" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">genuine magic. Hoffmann noted that borrowed and marked objects make</text>
+  <text x="110" y="643" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">every trick ten times more convincing.</text>
+  <text x="110" y="677" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="701" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A spectator&apos;s marked coin vanishes and is found inside an uncut</text>
+  <text x="110" y="719" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">orange.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)  ·  Heritage Parlor</text>
 </svg>

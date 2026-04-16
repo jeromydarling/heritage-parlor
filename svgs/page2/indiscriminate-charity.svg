@@ -7,24 +7,26 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">INDISCRIMINATE CHARITY</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">You meet three people, one after another. To each you give &apos;half of what you</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">have, plus one cent.&apos; After all three you have exactly 1 cent left. How much</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">did you start with? Work backwards: before the last person you had 4 cents</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">(half of 4 = 2, plus 1 = 3, leaving 1). Before the second: 10 cents. Before</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the first: 22 cents. Check the answer by running it forwards!</text>
-  <text x="56" y="383" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="407" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This &apos;working backwards&apos; method was one of Dudeney&apos;s favorite techniques —</text>
-  <text x="56" y="425" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the same approach is used in computer science to verify algorithms.</text>
-  <text x="56" y="459" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="483" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">After giving each of three beggars &apos;half your money plus one penny,&apos; you end</text>
-  <text x="56" y="501" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">up with exactly one penny. How much did you start with?</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Amusements in Mathematics (1917)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">INDISCRIMINATE CHARITY</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">You meet three people, one after another. To each you give &apos;half of</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">what you have, plus one cent.&apos; After all three you have exactly 1</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">cent left. How much did you start with? Work backwards: before the</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">last person you had 4 cents (half of 4 = 2, plus 1 = 3, leaving 1).</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Before the second: 10 cents. Before the first: 22 cents. Check the</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">answer by running it forwards!</text>
+  <text x="110" y="458" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="482" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This &apos;working backwards&apos; method was one of Dudeney&apos;s favorite</text>
+  <text x="110" y="500" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">techniques — the same approach is used in computer science to</text>
+  <text x="110" y="518" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">verify algorithms.</text>
+  <text x="110" y="552" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="576" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">After giving each of three beggars &apos;half your money plus one</text>
+  <text x="110" y="594" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">penny,&apos; you end up with exactly one penny. How much did you start</text>
+  <text x="110" y="612" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">with?</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Amusements in Mathematics (1917)  ·  Heritage Parlor</text>
 </svg>

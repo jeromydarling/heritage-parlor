@@ -7,26 +7,26 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE SQUIRE&apos;S PUZZLE (WORD ARITHMETIC)</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  pencil</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  paper</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Each letter stands for a unique digit 0–9. Solve: SEND + MORE = MONEY. No two</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">letters share a digit, and no number starts with zero. Start with what you</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">know: M must equal 1 (it&apos;s the carry from adding the thousands column). Work</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the constraints from there. There&apos;s exactly one solution. This is the world&apos;s</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">most famous letter-arithmetic puzzle.</text>
-  <text x="56" y="405" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="429" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">SEND + MORE = MONEY is the most famous cryptarithmetic puzzle in history,</text>
-  <text x="56" y="447" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">invented by Henry Dudeney in 1924. It has exactly one solution: S=9, E=5,</text>
-  <text x="56" y="465" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">N=6, D=7, M=1, O=0, R=8, Y=2. The puzzle type was called &apos;verbal arithmetic&apos;</text>
-  <text x="56" y="483" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">or &apos;alphametics.&apos;</text>
-  <text x="56" y="517" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="541" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Replace each letter with a digit so the addition sums correctly.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Canterbury Puzzles (1907)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE SQUIRE&apos;S PUZZLE (WORD ARITHMETIC)</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  pencil</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  paper</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Each letter stands for a unique digit 0–9. Solve: SEND + MORE =</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">MONEY. No two letters share a digit, and no number starts with</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">zero. Start with what you know: M must equal 1 (it&apos;s the carry from</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">adding the thousands column). Work the constraints from there.</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">There&apos;s exactly one solution. This is the world&apos;s most famous</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">letter-arithmetic puzzle.</text>
+  <text x="110" y="480" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="504" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">SEND + MORE = MONEY is the most famous cryptarithmetic puzzle in</text>
+  <text x="110" y="522" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">history, invented by Henry Dudeney in 1924. It has exactly one</text>
+  <text x="110" y="540" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">solution: S=9, E=5, N=6, D=7, M=1, O=0, R=8, Y=2. The puzzle type</text>
+  <text x="110" y="558" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">was called &apos;verbal arithmetic&apos; or &apos;alphametics.&apos;</text>
+  <text x="110" y="592" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="616" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Replace each letter with a digit so the addition sums correctly.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Canterbury Puzzles (1907)  ·  Heritage Parlor</text>
 </svg>

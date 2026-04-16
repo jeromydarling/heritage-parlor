@@ -7,28 +7,29 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE OBEDIENT BALL</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  rubber ball</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  dark thread</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: A ball rises and falls in the air in response to your spoken</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">commands. Method: Thread a long dark thread through a rubber ball (or tie it</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">to a hook on the ball). Attach both ends of the thread under your sleeves to</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">your wrists. Hold the thread taut but invisible against a dark background or</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">jacket. Raise your wrists slightly and the ball rises. Lower them and it</text>
-  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">descends. Vary the tension to make it pause mid-air. Use dark thread against</text>
-  <text x="56" y="406" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">dark clothing for best results — and perform in dim lighting if possible.</text>
-  <text x="56" y="447" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="471" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The Obedient Ball was one of the standard &apos;starter tricks&apos; Hoffmann</text>
-  <text x="56" y="489" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">recommended for young magicians. Its simplicity made it perfect for</text>
-  <text x="56" y="507" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">children&apos;s birthday parties - a Victorian institution by the 1870s.</text>
-  <text x="56" y="541" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="565" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A ball on a string rises, stops, and descends in response to the magician&apos;s</text>
-  <text x="56" y="583" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">spoken commands.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE OBEDIENT BALL</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  rubber ball</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  dark thread</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: A ball rises and falls in the air in response to your</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">spoken commands. Method: Thread a long dark thread through a rubber</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">ball (or tie it to a hook on the ball). Attach both ends of the</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">thread under your sleeves to your wrists. Hold the thread taut but</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">invisible against a dark background or jacket. Raise your wrists</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">slightly and the ball rises. Lower them and it descends. Vary the</text>
+  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">tension to make it pause mid-air. Use dark thread against dark</text>
+  <text x="110" y="481" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">clothing for best results — and perform in dim lighting if</text>
+  <text x="110" y="502" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">possible.</text>
+  <text x="110" y="543" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="567" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The Obedient Ball was one of the standard &apos;starter tricks&apos; Hoffmann</text>
+  <text x="110" y="585" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">recommended for young magicians. Its simplicity made it perfect for</text>
+  <text x="110" y="603" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">children&apos;s birthday parties - a Victorian institution by the 1870s.</text>
+  <text x="110" y="637" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="661" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A ball on a string rises, stops, and descends in response to the</text>
+  <text x="110" y="679" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">magician&apos;s spoken commands.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)  ·  Heritage Parlor</text>
 </svg>

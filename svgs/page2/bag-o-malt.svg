@@ -7,27 +7,27 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">BAG O&apos; MALT</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Two players stand back-to-back and hook their arms together at the elbows.</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">One leans forward to lift the other off the ground, like a living seesaw.</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Alternate lifts while both chant the rhyme together. The game is about</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">coordination and trust as much as strength — lean too fast and you&apos;ll both</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">tumble. A fun partner challenge for all ages.</text>
-  <text x="56" y="383" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="407" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Back-to-back weighting games like Bag o&apos; Malt appear in children&apos;s play</text>
-  <text x="56" y="425" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">records going back to at least the 17th century and were used informally to</text>
-  <text x="56" y="443" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">determine which of two children was heavier — a matter of some importance</text>
-  <text x="56" y="461" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">before bathroom scales existed.</text>
-  <text x="56" y="495" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="519" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Two children stand back to back, linked together near their armpits. They</text>
-  <text x="56" y="537" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">weigh each other up and down while repeating the rhyme: &apos;A bag o&apos; malt, a bag</text>
-  <text x="56" y="555" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">o&apos; salt, / Ten tens a hundred.&apos;</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. I (1894)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">BAG O&apos; MALT</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Two players stand back-to-back and hook their arms together at the</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">elbows. One leans forward to lift the other off the ground, like a</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">living seesaw. Alternate lifts while both chant the rhyme together.</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The game is about coordination and trust as much as strength — lean</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">too fast and you&apos;ll both tumble. A fun partner challenge for all</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">ages.</text>
+  <text x="110" y="458" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="482" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Back-to-back weighting games like Bag o&apos; Malt appear in children&apos;s</text>
+  <text x="110" y="500" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">play records going back to at least the 17th century and were used</text>
+  <text x="110" y="518" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">informally to determine which of two children was heavier — a</text>
+  <text x="110" y="536" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">matter of some importance before bathroom scales existed.</text>
+  <text x="110" y="570" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="594" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Two children stand back to back, linked together near their</text>
+  <text x="110" y="612" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">armpits. They weigh each other up and down while repeating the</text>
+  <text x="110" y="630" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">rhyme: &apos;A bag o&apos; malt, a bag o&apos; salt, / Ten tens a hundred.&apos;</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. I (1894)  ·  Heritage Parlor</text>
 </svg>

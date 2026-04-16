@@ -7,26 +7,27 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE SQUARE PUZZLE</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  paper</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  scissors</text>
-  <text x="72" y="236" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  ruler</text>
-  <text x="56" y="276" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="302" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Draw a regular octagon on paper. Your goal: cut it into exactly 4 pieces that</text>
-  <text x="56" y="323" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">rearrange (without flipping any piece over) into a perfect square. This is a</text>
-  <text x="56" y="344" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Dudeney classic. Hint: think about the octagon&apos;s corner triangles — where</text>
-  <text x="56" y="365" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">could they go to fill the corners of a square? Work it out on paper before</text>
-  <text x="56" y="386" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">cutting.</text>
-  <text x="56" y="427" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="451" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Octagon-to-square dissections fascinated Victorian mathematicians because</text>
-  <text x="56" y="469" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">they connected two common geometric shapes. Tiles, table tops, and bathroom</text>
-  <text x="56" y="487" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">floors often used octagonal shapes, making the puzzle visually familiar.</text>
-  <text x="56" y="521" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="545" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Cut an octagon into 4 pieces that rearrange to form a perfect square.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Amusements in Mathematics (1917)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE SQUARE PUZZLE</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  paper</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  scissors</text>
+  <text x="126" y="290" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  ruler</text>
+  <text x="110" y="330" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="356" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Draw a regular octagon on paper. Your goal: cut it into exactly 4</text>
+  <text x="110" y="377" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pieces that rearrange (without flipping any piece over) into a</text>
+  <text x="110" y="398" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">perfect square. This is a Dudeney classic. Hint: think about the</text>
+  <text x="110" y="419" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">octagon&apos;s corner triangles — where could they go to fill the</text>
+  <text x="110" y="440" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">corners of a square? Work it out on paper before cutting.</text>
+  <text x="110" y="481" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="505" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Octagon-to-square dissections fascinated Victorian mathematicians</text>
+  <text x="110" y="523" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">because they connected two common geometric shapes. Tiles, table</text>
+  <text x="110" y="541" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">tops, and bathroom floors often used octagonal shapes, making the</text>
+  <text x="110" y="559" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">puzzle visually familiar.</text>
+  <text x="110" y="593" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="617" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Cut an octagon into 4 pieces that rearrange to form a perfect</text>
+  <text x="110" y="635" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">square.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Amusements in Mathematics (1917)  ·  Heritage Parlor</text>
 </svg>

@@ -7,31 +7,31 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">FARO</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  faro layout board</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  standard deck</text>
-  <text x="72" y="236" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  betting chips</text>
-  <text x="56" y="276" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="302" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Players bet on a card denomination (Ace through King) shown on a painted</text>
-  <text x="56" y="323" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">layout board. The dealer draws two cards: the first is the &apos;losing&apos; card</text>
-  <text x="56" y="344" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">(house collects bets on that value), the second is the &apos;winning&apos; card (house</text>
-  <text x="56" y="365" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pays bets on that value). Players can also &apos;copper&apos; a bet by placing a token</text>
-  <text x="56" y="386" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">on it — that reverses their bet to win on the losing card. Low house edge</text>
-  <text x="56" y="407" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">made this very popular. Note: Faro was the dominant gambling game of the</text>
-  <text x="56" y="428" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">American frontier and required special equipment. Presented here as</text>
-  <text x="56" y="449" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">historical context; not recommended for modern family play.</text>
-  <text x="56" y="490" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="514" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Faro dominated American gambling from the 1820s through the early 1900s. Doc</text>
-  <text x="56" y="532" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Holliday dealt Faro professionally. Every Western frontier town saloon had a</text>
-  <text x="56" y="550" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Faro layout. It declined rapidly after 1900 due to widespread dealer</text>
-  <text x="56" y="568" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">cheating.</text>
-  <text x="56" y="602" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="626" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The legendary banking card game of the American Frontier - once the most</text>
-  <text x="56" y="644" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">widely played game in the USA.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">FARO</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  faro layout board</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  standard deck</text>
+  <text x="126" y="290" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  betting chips</text>
+  <text x="110" y="330" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="356" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Players bet on a card denomination (Ace through King) shown on a</text>
+  <text x="110" y="377" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">painted layout board. The dealer draws two cards: the first is the</text>
+  <text x="110" y="398" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">&apos;losing&apos; card (house collects bets on that value), the second is</text>
+  <text x="110" y="419" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the &apos;winning&apos; card (house pays bets on that value). Players can</text>
+  <text x="110" y="440" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">also &apos;copper&apos; a bet by placing a token on it — that reverses their</text>
+  <text x="110" y="461" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">bet to win on the losing card. Low house edge made this very</text>
+  <text x="110" y="482" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">popular. Note: Faro was the dominant gambling game of the American</text>
+  <text x="110" y="503" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">frontier and required special equipment. Presented here as</text>
+  <text x="110" y="524" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">historical context; not recommended for modern family play.</text>
+  <text x="110" y="565" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="589" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Faro dominated American gambling from the 1820s through the early</text>
+  <text x="110" y="607" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">1900s. Doc Holliday dealt Faro professionally. Every Western</text>
+  <text x="110" y="625" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">frontier town saloon had a Faro layout. It declined rapidly after</text>
+  <text x="110" y="643" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">1900 due to widespread dealer cheating.</text>
+  <text x="110" y="677" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="701" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The legendary banking card game of the American Frontier - once the</text>
+  <text x="110" y="719" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">most widely played game in the USA.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)  ·  Heritage Parlor</text>
 </svg>

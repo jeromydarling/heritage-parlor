@@ -7,30 +7,32 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">MERELLES (NINE MEN&apos;S MORRIS)</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  Nine Men&apos;s Morris board</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  9 pieces per player in two colors</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The board has three concentric squares connected by lines at their midpoints,</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">creating 24 intersections. Each player has 9 pieces. Phase 1 — Placement:</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">take turns placing pieces one at a time on any intersection. Each time you</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">complete a row of three (called a &apos;mill&apos;), remove one of your opponent&apos;s</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pieces. Phase 2 — Movement: once all pieces are placed, slide pieces along</text>
-  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">lines to form new mills. Lose by being reduced to 2 pieces, or by being</text>
-  <text x="56" y="406" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">unable to move. Nine Men&apos;s Morris boards are easy to draw or print for free.</text>
-  <text x="56" y="447" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="471" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Nine Men&apos;s Morris boards have been carved into medieval cathedral stonework</text>
-  <text x="56" y="489" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">across Europe and were played in ancient Egypt, Rome, and Viking Scandinavia.</text>
-  <text x="56" y="507" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Shakespeare references &apos;the nine men&apos;s morris&apos; as a game he knew well.</text>
-  <text x="56" y="541" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="565" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Two players take turns placing their nine pieces on a board of three</text>
-  <text x="56" y="583" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">concentric squares connected by lines. Completing a row of three (a &apos;mill&apos;)</text>
-  <text x="56" y="601" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">allows removing an opponent&apos;s piece. When a player is reduced to two pieces,</text>
-  <text x="56" y="619" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">they lose. An ancient game of strategic placement and capture.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">MERELLES (NINE MEN&apos;S MORRIS)</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  Nine Men&apos;s Morris board</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  9 pieces per player in two colors</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The board has three concentric squares connected by lines at their</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">midpoints, creating 24 intersections. Each player has 9 pieces.</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Phase 1 — Placement: take turns placing pieces one at a time on any</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">intersection. Each time you complete a row of three (called a</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">&apos;mill&apos;), remove one of your opponent&apos;s pieces. Phase 2 — Movement:</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">once all pieces are placed, slide pieces along lines to form new</text>
+  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">mills. Lose by being reduced to 2 pieces, or by being unable to</text>
+  <text x="110" y="481" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">move. Nine Men&apos;s Morris boards are easy to draw or print for free.</text>
+  <text x="110" y="522" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="546" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Nine Men&apos;s Morris boards have been carved into medieval cathedral</text>
+  <text x="110" y="564" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">stonework across Europe and were played in ancient Egypt, Rome, and</text>
+  <text x="110" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Viking Scandinavia. Shakespeare references &apos;the nine men&apos;s morris&apos;</text>
+  <text x="110" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">as a game he knew well.</text>
+  <text x="110" y="634" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="658" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Two players take turns placing their nine pieces on a board of</text>
+  <text x="110" y="676" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">three concentric squares connected by lines. Completing a row of</text>
+  <text x="110" y="694" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">three (a &apos;mill&apos;) allows removing an opponent&apos;s piece. When a player</text>
+  <text x="110" y="712" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">is reduced to two pieces, they lose. An ancient game of strategic</text>
+  <text x="110" y="730" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">placement and capture.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)  ·  Heritage Parlor</text>
 </svg>

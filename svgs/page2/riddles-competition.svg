@@ -7,28 +7,28 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">RIDDLES COMPETITION</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Collect some good riddles beforehand — classic examples work well. Players</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">take turns posing a riddle to the whole group. Whoever solves it first wins 1</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">point. If no one solves it, the riddler wins 1 point. Classic starters: &apos;What</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">has a face and two hands but no arms or legs?&apos; (a clock). &apos;The more you take,</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the more you leave behind?&apos; (footsteps). &apos;What gets wetter as it dries?&apos; (a</text>
-  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">towel). Keep taking turns until everyone has posed their riddles. Highest</text>
-  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">score wins. You can find free Victorian riddle collections online.</text>
-  <text x="56" y="425" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="449" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Riddle-telling was considered a social grace in Victorian England. Books of</text>
-  <text x="56" y="467" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">riddles were published for middle-class households, and riddles appeared in</text>
-  <text x="56" y="485" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">every family magazine from the 1840s onward. Lewis Carroll was especially</text>
-  <text x="56" y="503" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">famous for his riddles.</text>
-  <text x="56" y="537" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A Victorian parlor staple: players take turns posing riddles for others to</text>
-  <text x="56" y="579" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">solve.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: My Book of Indoor Games (1916)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">RIDDLES COMPETITION</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Collect some good riddles beforehand — classic examples work well.</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Players take turns posing a riddle to the whole group. Whoever</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">solves it first wins 1 point. If no one solves it, the riddler wins</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">1 point. Classic starters: &apos;What has a face and two hands but no</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">arms or legs?&apos; (a clock). &apos;The more you take, the more you leave</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">behind?&apos; (footsteps). &apos;What gets wetter as it dries?&apos; (a towel).</text>
+  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Keep taking turns until everyone has posed their riddles. Highest</text>
+  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">score wins. You can find free Victorian riddle collections online.</text>
+  <text x="110" y="500" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Riddle-telling was considered a social grace in Victorian England.</text>
+  <text x="110" y="542" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Books of riddles were published for middle-class households, and</text>
+  <text x="110" y="560" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">riddles appeared in every family magazine from the 1840s onward.</text>
+  <text x="110" y="578" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Lewis Carroll was especially famous for his riddles.</text>
+  <text x="110" y="612" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="636" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A Victorian parlor staple: players take turns posing riddles for</text>
+  <text x="110" y="654" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">others to solve.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: My Book of Indoor Games (1916)  ·  Heritage Parlor</text>
 </svg>

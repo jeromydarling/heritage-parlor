@@ -7,27 +7,27 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">CONSEQUENCES</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  paper</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  pencils</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Need: paper, pens. Each player follows this sequence, folding and passing</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">after each step: (1) write an adjective describing a person, (2) write a</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">person&apos;s name, (3) write &apos;met&apos; and an adjective, (4) write another name, (5)</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">where they met, (6) what the first person said, (7) what the second said, (8)</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the consequence, (9) what the world said. Unfold and read — the random</text>
-  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">combinations are almost always absurd.</text>
-  <text x="56" y="426" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="450" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Consequences is likely the ancestor of modern Mad Libs. The Surrealists later</text>
-  <text x="56" y="468" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">adopted it as &apos;Exquisite Corpse&apos; — proof this Victorian parlor game had</text>
-  <text x="56" y="486" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">genuine artistic merit.</text>
-  <text x="56" y="520" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="544" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Players write sequential parts of a story on folded paper, each unaware of</text>
-  <text x="56" y="562" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">what others wrote; the results are hilariously absurd.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">CONSEQUENCES</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  paper</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  pencils</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Need: paper, pens. Each player follows this sequence, folding and</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">passing after each step: (1) write an adjective describing a</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">person, (2) write a person&apos;s name, (3) write &apos;met&apos; and an</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">adjective, (4) write another name, (5) where they met, (6) what the</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">first person said, (7) what the second said, (8) the consequence,</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">(9) what the world said. Unfold and read — the random combinations</text>
+  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">are almost always absurd.</text>
+  <text x="110" y="501" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="525" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Consequences is likely the ancestor of modern Mad Libs. The</text>
+  <text x="110" y="543" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Surrealists later adopted it as &apos;Exquisite Corpse&apos; — proof this</text>
+  <text x="110" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Victorian parlor game had genuine artistic merit.</text>
+  <text x="110" y="595" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="619" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Players write sequential parts of a story on folded paper, each</text>
+  <text x="110" y="637" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">unaware of what others wrote; the results are hilariously absurd.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)  ·  Heritage Parlor</text>
 </svg>

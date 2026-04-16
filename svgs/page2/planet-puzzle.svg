@@ -7,31 +7,33 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE PLANET PUZZLE</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  tray with planetary orbit tracks</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  marbles of different sizes</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The tray has multiple circular grooves representing planetary orbits at</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">different distances from the center. Place the correctly sized marble in each</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">orbital groove and maneuver them all to their assigned positions</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">simultaneously. The challenge: adjusting one marble&apos;s position tilts the tray</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">and disturbs the others. Develop a sequence — stabilize the outer planets</text>
-  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">first, then work inward. The astronomical theme is a bonus — the groove</text>
-  <text x="56" y="406" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">positions correspond to actual relative orbital distances. Similar balance</text>
-  <text x="56" y="427" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">and sorting puzzle trays can be found in specialty toy shops.</text>
-  <text x="56" y="468" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="492" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The Planet Puzzle was designed at a time when astronomy was a popular parlor</text>
-  <text x="56" y="510" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">science topic — the 1880s and 1890s saw an explosion of interest in the solar</text>
-  <text x="56" y="528" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">system following Giovanni Schiaparelli&apos;s 1877 report of Martian &apos;canals.&apos;</text>
-  <text x="56" y="562" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="586" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A tray features grooved tracks representing planetary orbits. The puzzle</text>
-  <text x="56" y="604" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">requires maneuvering marbles — representing planets — into their correct</text>
-  <text x="56" y="622" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">orbital positions without them rolling out of their grooves. As with the real</text>
-  <text x="56" y="640" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">solar system, some &apos;planets&apos; must be navigated past others.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Puzzles Old and New (1893)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE PLANET PUZZLE</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  tray with planetary orbit tracks</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  marbles of different sizes</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The tray has multiple circular grooves representing planetary</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">orbits at different distances from the center. Place the correctly</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">sized marble in each orbital groove and maneuver them all to their</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">assigned positions simultaneously. The challenge: adjusting one</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">marble&apos;s position tilts the tray and disturbs the others. Develop a</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">sequence — stabilize the outer planets first, then work inward. The</text>
+  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">astronomical theme is a bonus — the groove positions correspond to</text>
+  <text x="110" y="481" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">actual relative orbital distances. Similar balance and sorting</text>
+  <text x="110" y="502" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">puzzle trays can be found in specialty toy shops.</text>
+  <text x="110" y="543" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="567" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The Planet Puzzle was designed at a time when astronomy was a</text>
+  <text x="110" y="585" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">popular parlor science topic — the 1880s and 1890s saw an explosion</text>
+  <text x="110" y="603" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">of interest in the solar system following Giovanni Schiaparelli&apos;s</text>
+  <text x="110" y="621" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">1877 report of Martian &apos;canals.&apos;</text>
+  <text x="110" y="655" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="679" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A tray features grooved tracks representing planetary orbits. The</text>
+  <text x="110" y="697" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">puzzle requires maneuvering marbles — representing planets — into</text>
+  <text x="110" y="715" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">their correct orbital positions without them rolling out of their</text>
+  <text x="110" y="733" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">grooves. As with the real solar system, some &apos;planets&apos; must be</text>
+  <text x="110" y="751" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">navigated past others.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Puzzles Old and New (1893)  ·  Heritage Parlor</text>
 </svg>

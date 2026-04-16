@@ -20,7 +20,7 @@ board_dark = "#d4c5a9"   # darker cream for alternating squares
 def esc(text):
     return str(text).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace("'", '&apos;').replace('"', '&quot;')
 
-def wrap_text(text, max_chars=78):
+def wrap_text(text, max_chars=68):
     words = str(text).split()
     lines, current = [], ''
     for word in words:
@@ -72,7 +72,8 @@ def page1_shell(entry, W=816, H=1056):
 
 def page2_content(entry, W=816, H=1056):
     """Generate page 2 instructions. Returns SVG string."""
-    m = 56
+    m = 110
+    content_w = W - 2 * m
     parts = [f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">
   <defs>
     <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
@@ -144,8 +145,7 @@ def page2_content(entry, W=816, H=1056):
     # Footer
     source = f"{entry.get('source_book', 'Unknown')} ({entry.get('source_year', '')})"
     parts.append(f'  <line x1="{m}" y1="{H - 64}" x2="{W - m}" y2="{H - 64}" stroke="{rule}" stroke-width="0.5"/>')
-    parts.append(f'  <text x="{m}" y="{H - 44}" font-family="Georgia, serif" font-size="11" fill="{light}">Source: {esc(source)}</text>')
-    parts.append(f'  <text x="{W - m}" y="{H - 44}" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="{light}">Heritage Parlor  ·  Page 2 of 2</text>')
+    parts.append(f'  <text x="{W // 2}" y="{H - 44}" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="{light}">Source: {esc(source)}  ·  Heritage Parlor</text>')
     
     parts.append('</svg>')
     return '\n'.join(parts)

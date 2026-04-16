@@ -7,32 +7,32 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MAGIC TUMBLER</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  glass</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  water</text>
-  <text x="72" y="236" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  playing card or stiff paper</text>
-  <text x="56" y="276" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="302" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Fill a glass completely to the rim with water. Lay a playing card flat on top</text>
-  <text x="56" y="323" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">— make sure it covers the whole rim with no gaps. Press one hand firmly on</text>
-  <text x="56" y="344" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the card, then flip the glass upside down over a sink or basin. Carefully</text>
-  <text x="56" y="365" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pull your hand away from the card. The water stays in the inverted glass,</text>
-  <text x="56" y="386" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">held by atmospheric pressure pushing up on the card (about 14.7 pounds per</text>
-  <text x="56" y="407" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">square inch — more than enough to hold a small column of water). Works best</text>
-  <text x="56" y="428" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">with no air bubbles trapped in the glass.</text>
-  <text x="56" y="469" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="493" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This classic experiment demonstrates atmospheric pressure so dramatically</text>
-  <text x="56" y="511" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">that it was used in Victorian science lectures to audiences of thousands.</text>
-  <text x="56" y="529" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Evangelist showmen used it as a metaphor for divine sustenance — God holding</text>
-  <text x="56" y="547" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">up those who depend on Him.</text>
-  <text x="56" y="581" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="605" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Fill a glass to the brim with water. Cover it with a playing card or stiff</text>
-  <text x="56" y="623" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">paper. Holding the card in place, invert the glass completely. Release the</text>
-  <text x="56" y="641" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">hand — and the water stays inside the inverted glass, held up by atmospheric</text>
-  <text x="56" y="659" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">pressure against the card.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MAGIC TUMBLER</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  glass</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  water</text>
+  <text x="126" y="290" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  playing card or stiff paper</text>
+  <text x="110" y="330" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="356" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Fill a glass completely to the rim with water. Lay a playing card</text>
+  <text x="110" y="377" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">flat on top — make sure it covers the whole rim with no gaps. Press</text>
+  <text x="110" y="398" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">one hand firmly on the card, then flip the glass upside down over a</text>
+  <text x="110" y="419" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">sink or basin. Carefully pull your hand away from the card. The</text>
+  <text x="110" y="440" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">water stays in the inverted glass, held by atmospheric pressure</text>
+  <text x="110" y="461" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pushing up on the card (about 14.7 pounds per square inch — more</text>
+  <text x="110" y="482" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">than enough to hold a small column of water). Works best with no</text>
+  <text x="110" y="503" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">air bubbles trapped in the glass.</text>
+  <text x="110" y="544" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="568" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This classic experiment demonstrates atmospheric pressure so</text>
+  <text x="110" y="586" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">dramatically that it was used in Victorian science lectures to</text>
+  <text x="110" y="604" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">audiences of thousands. Evangelist showmen used it as a metaphor</text>
+  <text x="110" y="622" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">for divine sustenance — God holding up those who depend on Him.</text>
+  <text x="110" y="656" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="680" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Fill a glass to the brim with water. Cover it with a playing card</text>
+  <text x="110" y="698" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">or stiff paper. Holding the card in place, invert the glass</text>
+  <text x="110" y="716" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">completely. Release the hand — and the water stays inside the</text>
+  <text x="110" y="734" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">inverted glass, held up by atmospheric pressure against the card.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)  ·  Heritage Parlor</text>
 </svg>

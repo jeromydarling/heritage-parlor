@@ -7,26 +7,26 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE PROBLEM OF THE GOVERNOR&apos;S WIFE</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">15 people walk in groups of 3 each day for 7 days. Can you arrange the groups</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">so that every possible pair of people walks together exactly once? This is</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Kirkman&apos;s Schoolgirl Problem, one of the most famous puzzles in</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">combinatorics. There are exactly 35 possible pairs among 15 people, and with</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">7 days × 5 groups of 3 = 35 pair-slots, it just barely works. Finding the</text>
-  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">arrangement is the hard part.</text>
-  <text x="56" y="404" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="428" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Kirkman&apos;s Schoolgirl Problem (1847) is one of the founding problems of</text>
-  <text x="56" y="446" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">combinatorial design theory, with applications in tournament scheduling,</text>
-  <text x="56" y="464" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">coding theory, and computer science.</text>
-  <text x="56" y="498" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="522" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Seat 15 girls in groups of 3 each day for 7 days so each pair of girls sits</text>
-  <text x="56" y="540" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">together exactly once.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Canterbury Puzzles (1907)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE PROBLEM OF THE GOVERNOR&apos;S WIFE</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">15 people walk in groups of 3 each day for 7 days. Can you arrange</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the groups so that every possible pair of people walks together</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">exactly once? This is Kirkman&apos;s Schoolgirl Problem, one of the most</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">famous puzzles in combinatorics. There are exactly 35 possible</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pairs among 15 people, and with 7 days × 5 groups of 3 = 35</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pair-slots, it just barely works. Finding the arrangement is the</text>
+  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">hard part.</text>
+  <text x="110" y="479" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="503" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Kirkman&apos;s Schoolgirl Problem (1847) is one of the founding problems</text>
+  <text x="110" y="521" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">of combinatorial design theory, with applications in tournament</text>
+  <text x="110" y="539" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">scheduling, coding theory, and computer science.</text>
+  <text x="110" y="573" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="597" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Seat 15 girls in groups of 3 each day for 7 days so each pair of</text>
+  <text x="110" y="615" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">girls sits together exactly once.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Canterbury Puzzles (1907)  ·  Heritage Parlor</text>
 </svg>

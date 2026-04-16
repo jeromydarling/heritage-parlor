@@ -7,28 +7,28 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">FINDING A CHOSEN CARD BY MATHEMATICS</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  standard deck of cards</text>
-  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Deal 21 cards face-up in 3 columns of 7. Ask someone to mentally note one</text>
-  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">card — they don&apos;t say which. Ask which column it&apos;s in. Pick up all three</text>
-  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">columns with the chosen column sandwiched between the other two. Deal face-up</text>
-  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">in 3 columns again. Ask which column again. Repeat one more time (3 rounds</text>
-  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">total). After the third round, pick up with the chosen column in the middle —</text>
-  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the secret card will be exactly the 11th card (middle of 21). Reveal it by</text>
-  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">counting down.</text>
-  <text x="56" y="425" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="449" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This mathematical card location dates to the 17th century. It works through a</text>
-  <text x="56" y="467" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">modular arithmetic principle. Hoffmann called it &apos;the simplest and most</text>
-  <text x="56" y="485" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">certain of all card discoveries&apos; and recommended it as a starting trick for</text>
-  <text x="56" y="503" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">beginners.</text>
-  <text x="56" y="537" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The magician discovers a secretly chosen card using mathematical principles,</text>
-  <text x="56" y="579" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">without sleight of hand.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">FINDING A CHOSEN CARD BY MATHEMATICS</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  standard deck of cards</text>
+  <text x="110" y="286" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Deal 21 cards face-up in 3 columns of 7. Ask someone to mentally</text>
+  <text x="110" y="333" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">note one card — they don&apos;t say which. Ask which column it&apos;s in.</text>
+  <text x="110" y="354" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Pick up all three columns with the chosen column sandwiched between</text>
+  <text x="110" y="375" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the other two. Deal face-up in 3 columns again. Ask which column</text>
+  <text x="110" y="396" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">again. Repeat one more time (3 rounds total). After the third</text>
+  <text x="110" y="417" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">round, pick up with the chosen column in the middle — the secret</text>
+  <text x="110" y="438" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">card will be exactly the 11th card (middle of 21). Reveal it by</text>
+  <text x="110" y="459" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">counting down.</text>
+  <text x="110" y="500" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This mathematical card location dates to the 17th century. It works</text>
+  <text x="110" y="542" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">through a modular arithmetic principle. Hoffmann called it &apos;the</text>
+  <text x="110" y="560" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">simplest and most certain of all card discoveries&apos; and recommended</text>
+  <text x="110" y="578" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">it as a starting trick for beginners.</text>
+  <text x="110" y="612" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="636" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The magician discovers a secretly chosen card using mathematical</text>
+  <text x="110" y="654" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">principles, without sleight of hand.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)  ·  Heritage Parlor</text>
 </svg>

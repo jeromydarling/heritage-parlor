@@ -7,33 +7,34 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MINERAL CHAMELEON</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  permanganate of potash</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  water</text>
-  <text x="72" y="236" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  various reducing agents</text>
-  <text x="72" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  glasses</text>
-  <text x="56" y="298" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="324" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Dissolve a tiny amount of potassium permanganate in water to make a vivid</text>
-  <text x="56" y="345" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">purple solution. Add a reducing agent (such as sodium sulfite solution) in</text>
-  <text x="56" y="366" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">small amounts. The color transforms in sequence: purple → brown → green →</text>
-  <text x="56" y="387" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">colorless. Each color represents a different oxidation state of manganese.</text>
-  <text x="56" y="408" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Visually spectacular. Requires adult supervision, gloves, and eye protection</text>
-  <text x="56" y="429" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">— potassium permanganate stains skin and fabric intensely and is harmful if</text>
-  <text x="56" y="450" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">ingested.</text>
-  <text x="56" y="491" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="515" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The name &apos;mineral chameleon&apos; was given by Victorian chemists because, like</text>
-  <text x="56" y="533" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the reptile, the manganese compound seemed to change its appearance at will.</text>
-  <text x="56" y="551" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Potassium permanganate remains one of the most colorful compounds in</text>
-  <text x="56" y="569" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">chemistry, used today as a water purification agent.</text>
-  <text x="56" y="603" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="627" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A solution of permanganate of potash dissolved in water produces a deep</text>
-  <text x="56" y="645" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">purple liquid that changes through green, blue, and ultimately colorless as</text>
-  <text x="56" y="663" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">various chemicals are added. The &apos;mineral chameleon&apos; was prized for the sheer</text>
-  <text x="56" y="681" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">beauty of its color transformations.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MINERAL CHAMELEON</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  permanganate of potash</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  water</text>
+  <text x="126" y="290" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  various reducing agents</text>
+  <text x="126" y="312" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  glasses</text>
+  <text x="110" y="352" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="378" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Dissolve a tiny amount of potassium permanganate in water to make a</text>
+  <text x="110" y="399" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">vivid purple solution. Add a reducing agent (such as sodium sulfite</text>
+  <text x="110" y="420" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">solution) in small amounts. The color transforms in sequence:</text>
+  <text x="110" y="441" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">purple → brown → green → colorless. Each color represents a</text>
+  <text x="110" y="462" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">different oxidation state of manganese. Visually spectacular.</text>
+  <text x="110" y="483" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Requires adult supervision, gloves, and eye protection — potassium</text>
+  <text x="110" y="504" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">permanganate stains skin and fabric intensely and is harmful if</text>
+  <text x="110" y="525" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">ingested.</text>
+  <text x="110" y="566" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="590" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The name &apos;mineral chameleon&apos; was given by Victorian chemists</text>
+  <text x="110" y="608" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">because, like the reptile, the manganese compound seemed to change</text>
+  <text x="110" y="626" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">its appearance at will. Potassium permanganate remains one of the</text>
+  <text x="110" y="644" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">most colorful compounds in chemistry, used today as a water</text>
+  <text x="110" y="662" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">purification agent.</text>
+  <text x="110" y="696" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="720" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A solution of permanganate of potash dissolved in water produces a</text>
+  <text x="110" y="738" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">deep purple liquid that changes through green, blue, and ultimately</text>
+  <text x="110" y="756" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">colorless as various chemicals are added. The &apos;mineral chameleon&apos;</text>
+  <text x="110" y="774" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">was prized for the sheer beauty of its color transformations.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)  ·  Heritage Parlor</text>
 </svg>

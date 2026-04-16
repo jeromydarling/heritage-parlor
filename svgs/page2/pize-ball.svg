@@ -7,29 +7,29 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">PIZE BALL</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  ball</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  bat</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Two teams set up bases (tuts) and a home mark. The batter hits the ball as</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">hard as possible and runs toward the nearest base. Fielders retrieve and</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">throw the ball, trying to hit the runner in the body before they reach</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">safety. Being struck by the ball while running means the player is out. Teams</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">swap when all batters are out. A direct ancestor of Rounders — the historical</text>
-  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">cousin of baseball.</text>
-  <text x="56" y="426" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="450" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Pize Ball is one of the oldest recorded forms of bat-and-ball rounders in</text>
-  <text x="56" y="468" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Britain, with &apos;pize&apos; being an old British dialect word meaning to strike</text>
-  <text x="56" y="486" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">forcefully — suggesting the game dates to before modern standardized English.</text>
-  <text x="56" y="520" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="544" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Two sides (e.g., six against six) play with marks and tuts. Fielders throw to</text>
-  <text x="56" y="562" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the home batter who &apos;pizes&apos; (strikes the ball hard) and runs to a tut. If the</text>
-  <text x="56" y="580" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">runner is hit by the ball while running between bases, they are &apos;burnt&apos; and</text>
-  <text x="56" y="598" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">out.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. II (1898)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">PIZE BALL</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  ball</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  bat</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Two teams set up bases (tuts) and a home mark. The batter hits the</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">ball as hard as possible and runs toward the nearest base. Fielders</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">retrieve and throw the ball, trying to hit the runner in the body</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">before they reach safety. Being struck by the ball while running</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">means the player is out. Teams swap when all batters are out. A</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">direct ancestor of Rounders — the historical cousin of baseball.</text>
+  <text x="110" y="480" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="504" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Pize Ball is one of the oldest recorded forms of bat-and-ball</text>
+  <text x="110" y="522" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">rounders in Britain, with &apos;pize&apos; being an old British dialect word</text>
+  <text x="110" y="540" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">meaning to strike forcefully — suggesting the game dates to before</text>
+  <text x="110" y="558" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">modern standardized English.</text>
+  <text x="110" y="592" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="616" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Two sides (e.g., six against six) play with marks and tuts.</text>
+  <text x="110" y="634" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Fielders throw to the home batter who &apos;pizes&apos; (strikes the ball</text>
+  <text x="110" y="652" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">hard) and runs to a tut. If the runner is hit by the ball while</text>
+  <text x="110" y="670" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">running between bases, they are &apos;burnt&apos; and out.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. II (1898)  ·  Heritage Parlor</text>
 </svg>

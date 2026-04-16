@@ -7,30 +7,31 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">PEG-IN-THE-RING</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  spinning tops</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  chalk circle</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Draw a large chalk ring. All players spin their tops inside it at the same</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">time. A top that stops spinning, falls over, or rolls outside the ring</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">boundary is &apos;in&apos; and becomes a target — other players may strike it with</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">their own spinning tops. The owner can call &apos;One a penny!&apos; to take one hit,</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">&apos;Two a penny!&apos; for two, &apos;Three a penny!&apos; to survive up to three. You need</text>
-  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">proper spinning tops for this one.</text>
-  <text x="56" y="426" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="450" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Top spinning was one of the most popular pastimes for Victorian boys, and</text>
-  <text x="56" y="468" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">specialized pegging-tops with metal tips were sold specifically for</text>
-  <text x="56" y="486" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">aggressive striking games like Peg-in-the-Ring.</text>
-  <text x="56" y="520" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="544" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A circle is drawn and players spin their tops inside it; the top must spin</text>
-  <text x="56" y="562" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">without overstepping. If a top fails to spin properly, it remains inside for</text>
-  <text x="56" y="580" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">others to peg (strike with their top). The player can cry &apos;One a penny!&apos; to</text>
-  <text x="56" y="598" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">save their top from the first hit, &apos;Two a penny!&apos; for the second, &apos;Three a</text>
-  <text x="56" y="616" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">penny!&apos; to escape altogether.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. II (1898)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">PEG-IN-THE-RING</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  spinning tops</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  chalk circle</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Draw a large chalk ring. All players spin their tops inside it at</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the same time. A top that stops spinning, falls over, or rolls</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">outside the ring boundary is &apos;in&apos; and becomes a target — other</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">players may strike it with their own spinning tops. The owner can</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">call &apos;One a penny!&apos; to take one hit, &apos;Two a penny!&apos; for two, &apos;Three</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">a penny!&apos; to survive up to three. You need proper spinning tops for</text>
+  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">this one.</text>
+  <text x="110" y="501" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="525" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Top spinning was one of the most popular pastimes for Victorian</text>
+  <text x="110" y="543" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">boys, and specialized pegging-tops with metal tips were sold</text>
+  <text x="110" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">specifically for aggressive striking games like Peg-in-the-Ring.</text>
+  <text x="110" y="595" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="619" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A circle is drawn and players spin their tops inside it; the top</text>
+  <text x="110" y="637" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">must spin without overstepping. If a top fails to spin properly, it</text>
+  <text x="110" y="655" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">remains inside for others to peg (strike with their top). The</text>
+  <text x="110" y="673" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">player can cry &apos;One a penny!&apos; to save their top from the first hit,</text>
+  <text x="110" y="691" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">&apos;Two a penny!&apos; for the second, &apos;Three a penny!&apos; to escape</text>
+  <text x="110" y="709" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">altogether.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. II (1898)  ·  Heritage Parlor</text>
 </svg>

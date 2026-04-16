@@ -7,27 +7,28 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE CYLINDER PUZZLE</text>
-  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
-  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  paper cylinder</text>
-  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  cord</text>
-  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Make a paper tube with three holes: one at the top, two on opposite sides</text>
-  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">near the middle. Thread a long cord in through the top hole, down out through</text>
-  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">one side hole, back up in through the other side hole, and back out through</text>
-  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the top hole. The cord exits the same hole it entered, having threaded all</text>
-  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">three holes cleanly without any knots or tangles. Sounds easy, is</text>
-  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">surprisingly tricky to visualize.</text>
-  <text x="56" y="426" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="56" y="450" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Threading and looping puzzles were popular Victorian pocket amusements that</text>
-  <text x="56" y="468" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">could be made with household materials. They train spatial reasoning - the</text>
-  <text x="56" y="486" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">ability to visualize three-dimensional paths through physical constraints.</text>
-  <text x="56" y="520" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="56" y="544" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Thread a cord through a cylinder with three holes so it passes through all</text>
-  <text x="56" y="562" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">three without tangling.</text>
-  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
-  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Every Boy&apos;s Book (1869)</text>
-  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+  <text x="408" y="146" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE CYLINDER PUZZLE</text>
+  <text x="408" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
+  <text x="110" y="220" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="126" y="246" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  paper cylinder</text>
+  <text x="126" y="268" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  cord</text>
+  <text x="110" y="308" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="110" y="334" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Make a paper tube with three holes: one at the top, two on opposite</text>
+  <text x="110" y="355" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">sides near the middle. Thread a long cord in through the top hole,</text>
+  <text x="110" y="376" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">down out through one side hole, back up in through the other side</text>
+  <text x="110" y="397" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">hole, and back out through the top hole. The cord exits the same</text>
+  <text x="110" y="418" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">hole it entered, having threaded all three holes cleanly without</text>
+  <text x="110" y="439" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">any knots or tangles. Sounds easy, is surprisingly tricky to</text>
+  <text x="110" y="460" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">visualize.</text>
+  <text x="110" y="501" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="110" y="525" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Threading and looping puzzles were popular Victorian pocket</text>
+  <text x="110" y="543" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">amusements that could be made with household materials. They train</text>
+  <text x="110" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">spatial reasoning - the ability to visualize three-dimensional</text>
+  <text x="110" y="579" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">paths through physical constraints.</text>
+  <text x="110" y="613" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="110" y="637" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Thread a cord through a cylinder with three holes so it passes</text>
+  <text x="110" y="655" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">through all three without tangling.</text>
+  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="1012" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#555">Source: Every Boy&apos;s Book (1869)  ·  Heritage Parlor</text>
 </svg>
