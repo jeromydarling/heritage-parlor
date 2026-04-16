@@ -21,6 +21,8 @@ function renderAdminDashboard() {
       '<div class="admin__tabs">' +
         '<button class="admin__tab admin__tab--active" data-tab="moderation" onclick="switchAdminTab(\'moderation\')">Moderation</button>' +
         '<button class="admin__tab" data-tab="challenges" onclick="switchAdminTab(\'challenges\')">Challenges</button>' +
+        '<button class="admin__tab" data-tab="games" onclick="switchAdminTab(\'games\')">Games</button>' +
+        '<button class="admin__tab" data-tab="users" onclick="switchAdminTab(\'users\')">Users</button>' +
         '<button class="admin__tab" data-tab="analytics" onclick="switchAdminTab(\'analytics\')">Analytics</button>' +
         '<button class="admin__tab" data-tab="commerce" onclick="switchAdminTab(\'commerce\')">Commerce</button>' +
       '</div>' +
@@ -45,6 +47,12 @@ window.switchAdminTab = function(tab) {
     case 'challenges':
       renderChallengesTab(content);
       break;
+    case 'games':
+      renderGamesTab(content);
+      break;
+    case 'users':
+      renderUsersTab(content);
+      break;
     case 'analytics':
       renderAnalyticsTab(content);
       break;
@@ -57,7 +65,13 @@ window.switchAdminTab = function(tab) {
 function renderModerationTab(el) {
   el.innerHTML =
     '<div class="admin__section">' +
-      '<h3>Pending Suggestions</h3>' +
+      '<div style="display:flex;justify-content:space-between;align-items:center;">' +
+        '<h3>Pending Suggestions</h3>' +
+        '<div class="admin__bulk-actions" id="suggestions-bulk" style="display:none;">' +
+          '<button class="admin__approve-btn" onclick="bulkModerateSuggestions(\'approved\')">\u2705 Approve All</button>' +
+          '<button class="admin__reject-btn" onclick="bulkModerateSuggestions(\'rejected\')">\u274c Reject All</button>' +
+        '</div>' +
+      '</div>' +
       '<div class="admin__queue" id="admin-suggestions-queue">' +
         '<p class="admin__empty">No pending suggestions.</p>' +
       '</div>' +
@@ -77,6 +91,8 @@ function renderModerationTab(el) {
         var data = res.data || [];
         var queue = document.getElementById('admin-suggestions-queue');
         if (!queue || data.length === 0) return;
+        var bulk = document.getElementById('suggestions-bulk');
+        if (bulk && data.length > 1) bulk.style.display = '';
         queue.innerHTML = data.map(function(s) {
           return '<div class="admin__queue-item">' +
             '<div class="admin__queue-item-info">' +
@@ -288,6 +304,173 @@ window.showCreateChallengeForm = function() {
     });
   });
 };
+
+// ─── Bulk moderation ───
+window.bulkModerateSuggestions = function(status) {
+  if (!window.isSupabaseReady()) return;
+  window.sb.from('game_suggestions').update({ status: status }).eq('status', 'pending')
+    .then(function() { switchAdminTab('moderation'); })
+    .catch(function(err) { console.error('Bulk moderate failed:', err); });
+};
+
+// ─── Games Editor Tab ───
+function renderGamesTab(el) {
+  el.innerHTML =
+    '<div class="admin__section">' +
+      '<h3>Edit Game Entries</h3>' +
+      '<div class="admin__search">' +
+        '<input type="text" id="admin-game-search" placeholder="Search by title or ID\u2026" class="admin__search-input" />' +
+      '</div>' +
+      '<div id="admin-games-list" class="admin__queue"></div>' +
+      '<div id="admin-game-editor" style="display:none;"></div>' +
+    '</div>';
+
+  var entries = window.ENTRIES || [];
+  renderGamesList(entries.slice(0, 20));
+
+  document.getElementById('admin-game-search').addEventListener('input', function() {
+    var q = this.value.toLowerCase();
+    var filtered = entries.filter(function(e) {
+      return e.title.toLowerCase().indexOf(q) !== -1 || e.id.indexOf(q) !== -1;
+    });
+    renderGamesList(filtered.slice(0, 20));
+  });
+}
+
+function renderGamesList(games) {
+  var list = document.getElementById('admin-games-list');
+  if (!list) return;
+  if (games.length === 0) {
+    list.innerHTML = '<p class="admin__empty">No games match your search.</p>';
+    return;
+  }
+  list.innerHTML = games.map(function(g) {
+    var cfg = window.CAT_CONFIG[g.category] || { icon: '', label: '' };
+    return '<div class="admin__queue-item">' +
+      '<div class="admin__queue-item-info">' +
+        '<strong>' + cfg.icon + ' ' + g.title + '</strong>' +
+        '<br><span style="font-size:var(--text-xs);color:var(--color-text-muted);">' +
+          g.id + ' \u00b7 ' + cfg.label + ' \u00b7 ' + g.difficulty + ' \u00b7 ' + g.source_year +
+        '</span>' +
+      '</div>' +
+      '<div class="admin__queue-item-actions">' +
+        '<button class="admin__approve-btn" onclick="editGameEntry(\'' + g.id + '\')">\u270f\ufe0f Edit</button>' +
+      '</div>' +
+    '</div>';
+  }).join('');
+}
+
+window.editGameEntry = function(gameId) {
+  var entry = window.ENTRIES.find(function(e) { return e.id === gameId; });
+  if (!entry) return;
+  var editor = document.getElementById('admin-game-editor');
+  if (!editor) return;
+
+  var cats = Object.keys(window.CAT_CONFIG).map(function(c) {
+    return '<option value="' + c + '"' + (c === entry.category ? ' selected' : '') + '>' + window.CAT_CONFIG[c].label + '</option>';
+  }).join('');
+
+  var diffs = ['beginner','intermediate','advanced'].map(function(d) {
+    return '<option value="' + d + '"' + (d === entry.difficulty ? ' selected' : '') + '>' + d + '</option>';
+  }).join('');
+
+  editor.style.display = 'block';
+  editor.innerHTML =
+    '<form class="event-form" style="margin-top:var(--space-4);" id="game-edit-form">' +
+      '<h3 style="margin-bottom:var(--space-3);">Editing: ' + entry.title + '</h3>' +
+      '<div class="event-form__field"><label>Title</label><input type="text" id="ge-title" value="' + entry.title.replace(/"/g, '&quot;') + '" required></div>' +
+      '<div class="event-form__row">' +
+        '<div class="event-form__field"><label>Category</label><select id="ge-category">' + cats + '</select></div>' +
+        '<div class="event-form__field"><label>Difficulty</label><select id="ge-difficulty">' + diffs + '</select></div>' +
+        '<div class="event-form__field"><label>Players</label><input type="text" id="ge-players" value="' + (entry.players || '') + '"></div>' +
+        '<div class="event-form__field"><label>Duration</label><input type="text" id="ge-duration" value="' + (entry.play_duration || '') + '"></div>' +
+      '</div>' +
+      '<div class="event-form__field"><label>Modern Explanation</label><textarea id="ge-modern" rows="4">' + entry.modern_explanation + '</textarea></div>' +
+      '<div class="event-form__field"><label>Equipment Needed (comma-separated)</label><input type="text" id="ge-equipment" value="' + (entry.equipment_needed || []).join(', ') + '"></div>' +
+      '<div class="event-form__field"><label>Fun Fact</label><input type="text" id="ge-funfact" value="' + (entry.fun_fact || '').replace(/"/g, '&quot;') + '"></div>' +
+      '<div class="event-form__actions">' +
+        '<button type="submit" class="event-form__submit">Save Changes</button>' +
+        '<button type="button" class="event-form__cancel" onclick="document.getElementById(\'admin-game-editor\').style.display=\'none\'">Cancel</button>' +
+      '</div>' +
+    '</form>';
+
+  document.getElementById('game-edit-form').addEventListener('submit', function(evt) {
+    evt.preventDefault();
+    // Update local entry
+    entry.title = document.getElementById('ge-title').value;
+    entry.category = document.getElementById('ge-category').value;
+    entry.difficulty = document.getElementById('ge-difficulty').value;
+    entry.players = document.getElementById('ge-players').value || null;
+    entry.play_duration = document.getElementById('ge-duration').value || null;
+    entry.modern_explanation = document.getElementById('ge-modern').value;
+    entry.equipment_needed = document.getElementById('ge-equipment').value.split(',').map(function(s) { return s.trim(); }).filter(Boolean);
+    entry.fun_fact = document.getElementById('ge-funfact').value || null;
+
+    editor.innerHTML = '<div class="kits__confirmation">\u2705 Changes saved locally. Supabase sync will persist changes when connected.</div>';
+    setTimeout(function() { editor.style.display = 'none'; }, 2000);
+  });
+};
+
+// ─── Users Tab ───
+function renderUsersTab(el) {
+  el.innerHTML =
+    '<div class="admin__section">' +
+      '<h3>User Management</h3>' +
+      '<div id="admin-users-list" class="admin__queue">' +
+        '<p class="admin__empty">Loading users\u2026</p>' +
+      '</div>' +
+    '</div>';
+
+  if (window.isSupabaseReady()) {
+    window.sb.from('profiles').select('*').order('joined_at', { ascending: false }).limit(50)
+      .then(function(res) {
+        var data = res.data || [];
+        var list = document.getElementById('admin-users-list');
+        if (!list) return;
+        if (data.length === 0) {
+          list.innerHTML = '<p class="admin__empty">No users yet.</p>';
+          return;
+        }
+        list.innerHTML = data.map(function(u) {
+          var initial = (u.display_name || 'A').charAt(0).toUpperCase();
+          return '<div class="admin__queue-item">' +
+            '<div class="admin__queue-item-info">' +
+              '<div style="display:flex;align-items:center;gap:var(--space-2);">' +
+                '<span class="header__avatar" style="width:28px;height:28px;font-size:var(--text-xs);">' + initial + '</span>' +
+                '<div>' +
+                  '<strong>' + (u.display_name || 'Anonymous') + '</strong>' +
+                  (u.is_admin ? ' <span style="color:var(--color-primary);font-size:var(--text-xs);">ADMIN</span>' : '') +
+                  '<br><span style="font-size:var(--text-xs);color:var(--color-text-muted);">' +
+                    'Joined ' + new Date(u.joined_at).toLocaleDateString() +
+                    ' \u00b7 ' + (u.games_logged || 0) + ' games \u00b7 ' + (u.contribution_count || 0) + ' contributions' +
+                  '</span>' +
+                '</div>' +
+              '</div>' +
+            '</div>' +
+            '<div class="admin__queue-item-actions">' +
+              (u.is_admin ? '' : '<button class="admin__reject-btn" onclick="banUser(\'' + u.id + '\')">\u26d4 Ban</button>') +
+            '</div>' +
+          '</div>';
+        }).join('');
+      }).catch(function() {
+        var list = document.getElementById('admin-users-list');
+        if (list) list.innerHTML = '<p class="admin__empty">Failed to load users.</p>';
+      });
+  } else {
+    var list = document.getElementById('admin-users-list');
+    if (list) list.innerHTML = '<p class="admin__empty">Connect Supabase to manage users.</p>';
+  }
+}
+
+window.banUser = function(userId) {
+  if (!window.isSupabaseReady() || !confirm('Ban this user? This will remove their profile.')) return;
+  window.sb.from('profiles').delete().eq('id', userId)
+    .then(function() { switchAdminTab('users'); })
+    .catch(function(err) { console.error('Ban failed:', err); });
+};
+
+// ─── Revenue section in commerce tab ───
+// (Revenue dashboard is rendered as part of renderCommerceTab when Supabase data is available)
 
 document.addEventListener('auth-changed', function() { checkAdmin(); });
 

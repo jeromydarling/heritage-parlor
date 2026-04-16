@@ -94,6 +94,12 @@ function renderTipsInDetail(gameId) {
         '</div>' +
       '</form>' +
       '<div class="community-tips__confirm" id="tip-confirm-' + gameId + '" style="display:none;">\u2705 Tip submitted for review!</div>' +
+    '</div>' +
+    '<div class="community-report">' +
+      '<button class="community-report__btn" onclick="reportContent(\'' + gameId + '\')">' +
+        '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg>' +
+        ' Report an issue' +
+      '</button>' +
     '</div>';
 
   html += '</div>';
@@ -151,6 +157,14 @@ function submitTip(gameId) {
     document.getElementById('tip-confirm-' + gameId).style.display = 'block';
   }
 }
+
+window.reportContent = function(gameId) {
+  var game = window.ENTRIES.find(function(e) { return e.id === gameId; });
+  var title = game ? game.title : gameId;
+  var subject = encodeURIComponent('Heritage Parlor — Report: ' + title);
+  var body = encodeURIComponent('Game: ' + title + ' (' + gameId + ')\n\nIssue:\n\n');
+  window.open('mailto:' + (window.FABRICA_CONFIG.email || 'jeromy.darling@gmail.com') + '?subject=' + subject + '&body=' + body, '_self');
+};
 
 // ─── Inject community section into detail view ───
 var origOpenDetail = window.openDetail;

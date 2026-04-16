@@ -183,6 +183,28 @@ function renderGameLogPage() {
     ? (ratedEntries.reduce(function(sum, e) { return sum + e.rating; }, 0) / ratedEntries.length).toFixed(1)
     : '\u2014';
 
+  // Calculate play streak (consecutive days)
+  var streak = 0;
+  if (totalGames > 0) {
+    var playDates = {};
+    logEntries.forEach(function(e) {
+      if (e.played_at) {
+        var d = new Date(e.played_at).toISOString().split('T')[0];
+        playDates[d] = true;
+      }
+    });
+    var today = new Date();
+    var checkDate = new Date(today);
+    // If no play today, start from yesterday
+    if (!playDates[checkDate.toISOString().split('T')[0]]) {
+      checkDate.setDate(checkDate.getDate() - 1);
+    }
+    while (playDates[checkDate.toISOString().split('T')[0]]) {
+      streak++;
+      checkDate.setDate(checkDate.getDate() - 1);
+    }
+  }
+
   // Find most played game
   var gameCounts = {};
   logEntries.forEach(function(e) {
@@ -210,6 +232,10 @@ function renderGameLogPage() {
         '<div class="game-log__stat">' +
           '<div class="game-log__stat-value">' + (mostPlayedEntry ? mostPlayedEntry.title : '\u2014') + '</div>' +
           '<div class="game-log__stat-label">Most Played</div>' +
+        '</div>' +
+        '<div class="game-log__stat">' +
+          '<div class="game-log__stat-value">' + streak + (streak > 0 ? '\ud83d\udd25' : '') + '</div>' +
+          '<div class="game-log__stat-label">Day Streak</div>' +
         '</div>' +
       '</div>';
 

@@ -5,7 +5,11 @@
 window.activeFilter = 'all';
 window.activePlayFilter = 'all';
 window.searchQuery = '';
+window.sortMode = 'default';
 window.visibleCount = window.PAGE_SIZE;
+
+// Community rating cache (populated by community.js when available)
+window.communityRatings = {};
 
 window.getFiltered = function() {
   var items = window.ENTRIES;
@@ -26,6 +30,20 @@ window.getFiltered = function() {
         e.category.replace(/-/g, ' ').includes(q) ||
         (e.subcategory && e.subcategory.replace(/-/g, ' ').includes(q));
     });
+  }
+  // Sorting
+  if (window.sortMode === 'rating') {
+    items = items.slice().sort(function(a, b) {
+      var ra = window.communityRatings[a.id] || { up: 0, total: 0 };
+      var rb = window.communityRatings[b.id] || { up: 0, total: 0 };
+      var scoreA = ra.total > 0 ? ra.up / ra.total : 0;
+      var scoreB = rb.total > 0 ? rb.up / rb.total : 0;
+      return scoreB - scoreA || rb.total - ra.total;
+    });
+  } else if (window.sortMode === 'year') {
+    items = items.slice().sort(function(a, b) { return a.source_year - b.source_year; });
+  } else if (window.sortMode === 'title') {
+    items = items.slice().sort(function(a, b) { return a.title.localeCompare(b.title); });
   }
   return items;
 };

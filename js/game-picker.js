@@ -97,14 +97,36 @@ window.pickGame = function() {
     checkedCats.push(cb.value);
   });
 
+  // Get recently played game IDs to exclude
+  var recentlyPlayed = {};
+  try {
+    var log = JSON.parse(localStorage.getItem('hp_game_log') || '[]');
+    var twoWeeksAgo = Date.now() - (14 * 24 * 60 * 60 * 1000);
+    log.forEach(function(entry) {
+      if (entry.played_at && new Date(entry.played_at).getTime() > twoWeeksAgo) {
+        recentlyPlayed[entry.game_id] = true;
+      }
+    });
+  } catch(e) {}
+
+  // Get favorite categories for weighting
+  var favCats = [];
+  try { favCats = JSON.parse(localStorage.getItem('hp_fav_cats') || '[]'); } catch(e) {}
+  if (window.currentProfile && window.currentProfile.favorite_categories) {
+    favCats = window.currentProfile.favorite_categories;
+  }
+
   // Filter entries
   var pool = window.ENTRIES.filter(function(e) {
     if (checkedCats.length && checkedCats.indexOf(e.category) === -1) return false;
     if (difficulty !== 'all' && e.difficulty !== difficulty) return false;
-    // Prefer playable games
     if (e.playability === 'dangerous' || e.playability === 'extinct_equipment') return false;
     return true;
   });
+
+  // Exclude recently played (but keep them if pool would be too small)
+  var freshPool = pool.filter(function(e) { return !recentlyPlayed[e.id]; });
+  if (freshPool.length >= 4) pool = freshPool;
 
   if (pool.length === 0) {
     document.getElementById('picker-result').innerHTML =
@@ -113,10 +135,12 @@ window.pickGame = function() {
   }
 
   // Weight: playable_now > easy_to_source > craftable > specialty_needed
+  // Boost favorite categories
   var weights = { playable_now: 4, easy_to_source: 3, craftable: 2, specialty_needed: 1 };
   var weighted = [];
   pool.forEach(function(e) {
     var w = weights[e.playability] || 1;
+    if (favCats.length && favCats.indexOf(e.category) !== -1) w += 2;
     for (var i = 0; i < w; i++) weighted.push(e);
   });
 
@@ -126,20 +150,41 @@ window.pickGame = function() {
     var pick = weighted[Math.floor(Math.random() * weighted.length)];
     renderPickResult([pick], resultEl);
   } else {
-    // Evening mode: pick 3-4 games of different categories
+    // Evening mode: mix one active/physical, one brain, one social/parlor, one wildcard
     var selected = [];
-    var usedCategories = {};
     var shuffled = weighted.sort(function() { return Math.random() - 0.5; });
     var target = Math.min(4, pool.length);
-    // First pass: unique categories only
+
+    var slots = [
+      { label: 'active', cats: ['physical-game', 'folk-game'], picked: false },
+      { label: 'brain', cats: ['puzzle', 'word-game', 'board-game', 'scientific-recreation'], picked: false },
+      { label: 'social', cats: ['parlor-game', 'magic-trick', 'card-game'], picked: false }
+    ];
+
+    // First pass: fill each slot with a matching game
+    slots.forEach(function(slot) {
+      for (var i = 0; i < shuffled.length; i++) {
+        var game = shuffled[i];
+        if (slot.cats.indexOf(game.category) !== -1 && selected.indexOf(game) === -1) {
+          selected.push(game);
+          slot.picked = true;
+          break;
+        }
+      }
+    });
+
+    // Second pass: fill remaining with any unique category
+    var usedCategories = {};
+    selected.forEach(function(g) { usedCategories[g.category] = true; });
     for (var i = 0; i < shuffled.length && selected.length < target; i++) {
       var game = shuffled[i];
-      if (!usedCategories[game.category] && selected.indexOf(game) === -1) {
+      if (selected.indexOf(game) === -1 && !usedCategories[game.category]) {
         selected.push(game);
         usedCategories[game.category] = true;
       }
     }
-    // Second pass: fill remaining slots if not enough unique categories
+
+    // Third pass: just fill if still short
     for (var j = 0; j < shuffled.length && selected.length < target; j++) {
       if (selected.indexOf(shuffled[j]) === -1) {
         selected.push(shuffled[j]);

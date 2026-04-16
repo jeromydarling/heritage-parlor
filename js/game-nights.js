@@ -57,6 +57,9 @@ function renderEventsSection() {
           '</div>' +
           '<div class="events-list__actions">' +
             '<button class="events-list__rsvp" onclick="rsvpEvent(\'' + evt.id + '\', \'going\')">Going</button>' +
+            '<button class="events-list__share" onclick="shareEvent(\'' + evt.id + '\')" title="Copy invite link">' +
+              '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>' +
+            '</button>' +
           '</div>' +
         '</div>';
     });
@@ -122,11 +125,38 @@ window.showCreateEventForm = function() {
           '<input type="number" id="evt-max" min="2" max="100" placeholder="10">' +
         '</div>' +
       '</div>' +
+      '<div class="event-form__field">' +
+        '<label>Select Games (optional)</label>' +
+        '<div class="event-form__game-picker">' +
+          '<input type="text" id="evt-game-search" placeholder="Search and add games\u2026" />' +
+          '<div id="evt-game-results" class="event-form__game-results" style="display:none;"></div>' +
+          '<div id="evt-selected-games" class="event-form__selected-games"></div>' +
+        '</div>' +
+      '</div>' +
       '<div class="event-form__actions">' +
         '<button type="submit" class="event-form__submit">Create Event</button>' +
         '<button type="button" class="event-form__cancel" onclick="hideCreateEventForm()">Cancel</button>' +
       '</div>' +
     '</form>';
+
+  // Game search for event
+  var selectedEventGames = [];
+  window._eventSelectedGames = selectedEventGames;
+
+  document.getElementById('evt-game-search').addEventListener('input', function() {
+    var q = this.value.toLowerCase();
+    var results = document.getElementById('evt-game-results');
+    if (!q || q.length < 2) { results.style.display = 'none'; return; }
+    var matches = (window.ENTRIES || []).filter(function(e) {
+      return e.title.toLowerCase().indexOf(q) !== -1 && selectedEventGames.indexOf(e.id) === -1;
+    }).slice(0, 8);
+    if (matches.length === 0) { results.style.display = 'none'; return; }
+    results.style.display = 'block';
+    results.innerHTML = matches.map(function(g) {
+      var cfg = window.CAT_CONFIG[g.category] || { icon: '' };
+      return '<div class="event-form__game-result" onclick="addEventGame(\'' + g.id + '\')">' + cfg.icon + ' ' + g.title + '</div>';
+    }).join('');
+  });
 
   document.getElementById('event-form').addEventListener('submit', function(evt) {
     evt.preventDefault();
@@ -134,12 +164,43 @@ window.showCreateEventForm = function() {
   });
 };
 
+window.addEventGame = function(gameId) {
+  var selected = window._eventSelectedGames || [];
+  if (selected.indexOf(gameId) !== -1) return;
+  selected.push(gameId);
+  document.getElementById('evt-game-search').value = '';
+  document.getElementById('evt-game-results').style.display = 'none';
+  renderSelectedEventGames();
+};
+
+window.removeEventGame = function(gameId) {
+  var selected = window._eventSelectedGames || [];
+  var idx = selected.indexOf(gameId);
+  if (idx !== -1) selected.splice(idx, 1);
+  renderSelectedEventGames();
+};
+
+function renderSelectedEventGames() {
+  var container = document.getElementById('evt-selected-games');
+  var selected = window._eventSelectedGames || [];
+  if (!container) return;
+  container.innerHTML = selected.map(function(id) {
+    var game = (window.ENTRIES || []).find(function(e) { return e.id === id; });
+    var cfg = game ? (window.CAT_CONFIG[game.category] || { icon: '' }) : { icon: '' };
+    return '<span class="event-form__selected-tag">' +
+      cfg.icon + ' ' + (game ? game.title : id) +
+      ' <button type="button" onclick="removeEventGame(\'' + id + '\')">\u00d7</button>' +
+    '</span>';
+  }).join('');
+}
+
 function submitEvent() {
   var title = document.getElementById('evt-title').value.trim();
   var desc = document.getElementById('evt-desc').value.trim();
   var date = document.getElementById('evt-date').value;
   var locType = document.getElementById('evt-location').value;
   var maxAtt = parseInt(document.getElementById('evt-max').value) || null;
+  var gameIds = window._eventSelectedGames || [];
 
   if (window.isSupabaseReady() && window.currentUser) {
     window.sb.from('game_night_events').insert({
@@ -149,7 +210,7 @@ function submitEvent() {
       event_date: date,
       location_type: locType,
       max_attendees: maxAtt,
-      game_ids: [],
+      game_ids: gameIds,
       is_public: true
     }).then(function() {
       hideCreateEventForm();
@@ -159,6 +220,20 @@ function submitEvent() {
     hideCreateEventForm();
   }
 }
+
+window.shareEvent = function(eventId) {
+  var url = window.location.origin + window.location.pathname + '?event=' + eventId;
+  if (navigator.clipboard) {
+    navigator.clipboard.writeText(url).then(function() {
+      var toast = document.createElement('div');
+      toast.className = 'toast';
+      toast.textContent = 'Invite link copied!';
+      document.body.appendChild(toast);
+      setTimeout(function() { toast.classList.add('toast--visible'); }, 10);
+      setTimeout(function() { toast.classList.remove('toast--visible'); setTimeout(function() { toast.remove(); }, 300); }, 3000);
+    });
+  }
+};
 
 window.hideCreateEventForm = function() {
   var section = document.getElementById('create-event-form');

@@ -267,6 +267,21 @@ function renderProfile(user, profile) {
   var bio = (profile && profile.bio) || '';
   var gamesLogged = (profile && profile.games_logged) || 0;
   var contributions = (profile && profile.contribution_count) || 0;
+  var favCats = (profile && profile.favorite_categories) || [];
+
+  // Count badges from localStorage or Supabase
+  var earnedBadges = [];
+  try { earnedBadges = JSON.parse(localStorage.getItem('hp_badges') || '[]'); } catch(e) {}
+
+  // Build favorite categories selector
+  var catOptions = Object.keys(window.CAT_CONFIG).map(function(cat) {
+    var cfg = window.CAT_CONFIG[cat];
+    var checked = favCats.indexOf(cat) !== -1;
+    return '<label class="profile__cat-option' + (checked ? ' profile__cat-option--active' : '') + '">' +
+      '<input type="checkbox" value="' + cat + '"' + (checked ? ' checked' : '') + ' onchange="toggleFavoriteCategory(\'' + cat + '\')" />' +
+      '<span>' + cfg.icon + ' ' + cfg.label + '</span>' +
+    '</label>';
+  }).join('');
 
   section.innerHTML =
     '<div class="container profile">' +
@@ -288,9 +303,24 @@ function renderProfile(user, profile) {
           '<div class="profile__stat-label">Contributions</div>' +
         '</div>' +
         '<div class="profile__stat">' +
-          '<div class="profile__stat-value">0</div>' +
+          '<div class="profile__stat-value">' + earnedBadges.length + '</div>' +
           '<div class="profile__stat-label">Badges</div>' +
         '</div>' +
+      '</div>' +
+      (earnedBadges.length > 0 ?
+        '<div class="profile__section">' +
+          '<h3 class="profile__section-title">\ud83c\udfc6 Earned Badges</h3>' +
+          '<div class="profile__badges">' +
+            earnedBadges.map(function(b) {
+              return '<div class="profile__badge"><span class="profile__badge-icon">' + (b.icon || '\ud83c\udfc5') + '</span><span class="profile__badge-name">' + b.name + '</span></div>';
+            }).join('') +
+          '</div>' +
+        '</div>'
+      : '') +
+      '<div class="profile__section">' +
+        '<h3 class="profile__section-title">\u2764\ufe0f Favorite Categories</h3>' +
+        '<p class="profile__section-desc">These are used by the Game Picker to recommend games you\'ll love.</p>' +
+        '<div class="profile__cats">' + catOptions + '</div>' +
       '</div>' +
       '<div class="profile__actions">' +
         '<button class="profile__btn" onclick="signOut()">Sign Out</button>' +
@@ -311,6 +341,30 @@ document.addEventListener('auth-changed', function(evt) {
   loggedInItems.forEach(function(el) { el.style.display = user ? '' : 'none'; });
   loggedOutItems.forEach(function(el) { el.style.display = user ? 'none' : ''; });
 });
+
+window.toggleFavoriteCategory = function(cat) {
+  var favCats = [];
+  if (window.currentProfile && window.currentProfile.favorite_categories) {
+    favCats = window.currentProfile.favorite_categories.slice();
+  }
+  var idx = favCats.indexOf(cat);
+  if (idx === -1) favCats.push(cat);
+  else favCats.splice(idx, 1);
+
+  if (window.currentProfile) window.currentProfile.favorite_categories = favCats;
+
+  if (window.isSupabaseReady() && window.currentUser) {
+    window.sb.from('profiles').update({ favorite_categories: favCats }).eq('id', window.currentUser.id);
+  } else {
+    localStorage.setItem('hp_fav_cats', JSON.stringify(favCats));
+  }
+
+  // Toggle visual state
+  document.querySelectorAll('.profile__cat-option').forEach(function(label) {
+    var cb = label.querySelector('input');
+    label.classList.toggle('profile__cat-option--active', cb && cb.checked);
+  });
+};
 
 window.toggleUserMenu = toggleUserMenu;
 

@@ -83,6 +83,12 @@ window.setPlayFilter = function(tier) {
   window.renderCards();
 };
 
+window.setSortMode = function(mode) {
+  window.sortMode = mode;
+  window.visibleCount = window.PAGE_SIZE;
+  window.renderCards();
+};
+
 // ─── Search with debounce ───
 var searchTimeout;
 document.getElementById('search-input').addEventListener('input', function(evt) {
