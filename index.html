@@ -41,9 +41,29 @@
         <button class="header__nav-btn" data-nav="about" onclick="navigateTo('about')">About</button>
         <button class="header__nav-btn" data-nav="game-nights" onclick="navigateTo('game-nights')">Game Nights</button>
         <button class="header__nav-btn header__nav-btn--submit" data-nav="submit" onclick="navigateTo('submit')">Submit a Game</button>
+        <button class="header__nav-btn" data-nav="leaderboard" onclick="navigateTo('leaderboard')">Leaderboard</button>
+        <button class="header__nav-btn" data-nav="admin" onclick="navigateTo('admin')" style="display:none;">Admin</button>
         <button class="theme-toggle" data-theme-toggle aria-label="Toggle dark mode">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
         </button>
+        <div class="header__auth-wrap">
+          <button class="header__auth-btn" id="auth-btn" onclick="openAuthModal('signin')">Sign In</button>
+          <div class="user-menu" id="user-menu">
+            <button class="user-menu__item" data-auth="logged-in" onclick="navigateTo('profile'); toggleUserMenu();">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
+              My Profile
+            </button>
+            <button class="user-menu__item" data-auth="logged-in" onclick="navigateTo('game-log'); toggleUserMenu();">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
+              Game Log
+            </button>
+            <div class="user-menu__divider"></div>
+            <button class="user-menu__item user-menu__item--danger" data-auth="logged-in" onclick="signOut();">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></svg>
+              Sign Out
+            </button>
+          </div>
+        </div>
       </nav>
     </div>
   </header>
@@ -514,6 +534,18 @@
     </button>
   </nav>
 
+  <!-- PROFILE (Phase 2) -->
+  <section class="about-section" id="profile-section"></section>
+
+  <!-- GAME LOG (Phase 2) -->
+  <section class="about-section" id="game-log-section"></section>
+
+  <!-- LEADERBOARD (Phase 2) -->
+  <section class="about-section" id="leaderboard-section"></section>
+
+  <!-- ADMIN (Phase 2) -->
+  <section class="about-section" id="admin-section"></section>
+
   <!-- FOOTER -->
   <footer class="footer">
     <div class="container">
@@ -523,6 +555,31 @@
     </div>
   </footer>
 
-  <script src="./app.js"></script>
+  <!-- Supabase (uncomment when Lovable configures the project) -->
+  <!-- <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script> -->
+
+  <!-- Core modules -->
+  <script src="js/config.js"></script>
+  <script src="js/theme.js"></script>
+  <script src="js/supabase-client.js"></script>
+  <script src="js/auth-ui.js"></script>
+  <script src="js/data-loader.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/cards.js"></script>
+  <script src="js/detail.js"></script>
+  <script src="js/print.js"></script>
+  <script src="js/navigation.js"></script>
+  <script src="js/submit.js"></script>
+  <script src="js/commission.js"></script>
+
+  <!-- Phase 2 feature modules -->
+  <script src="js/game-log.js"></script>
+  <script src="js/favorites.js"></script>
+  <script src="js/game-picker.js"></script>
+  <script src="js/community.js"></script>
+  <script src="js/challenges.js"></script>
+  <script src="js/game-nights.js"></script>
+  <script src="js/admin.js"></script>
+  <script src="js/leaderboard.js"></script>
 </body>
 </html>
