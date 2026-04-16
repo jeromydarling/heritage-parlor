@@ -1,0 +1,362 @@
+{
+  "fox-and-geese": {
+    "heritage_skills_id": "heritage_parlor_build_fox-and-geese",
+    "heritage_skills_slug": "build-fox-and-geese",
+    "heritage_skills_title": "Build a Fox and Geese Board",
+    "fabrica_title": "Fox and Geese \u2014 Artisan Commission",
+    "fabrica_price_range": "$90\u2013$160",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Walnut or cherry hardwood, \u00be inch thick, hand-oiled with Danish oil or tung oil. Playing surface may be inlaid with a contrasting maple or ash panel for the cross-board grid area.",
+    "fabrica_dimensions": "Overall board: 10\u00d710 inches \u00b1 \u00bc inch. Playing grid: 7\u00d77 points at 1\u00bc inch spacing (7\u00bd inch square grid), centered on board with 1\u00bc inch border. Board thickness: \u00be inch. 33 shallow drilled point-holes, \u00bc inch diameter \u00d7 \u215b inch deep."
+  },
+  "nine-men-s-morris": {
+    "heritage_skills_id": "heritage_parlor_build_nine-men-s-morris",
+    "heritage_skills_slug": "build-nine-men-s-morris",
+    "heritage_skills_title": "Build a Nine Men's Morris Board",
+    "fabrica_title": "Nine Men's Morris \u2014 Artisan Commission",
+    "fabrica_price_range": "$100\u2013$180",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Walnut or cherry hardwood, \u00be inch thick, finished with hand-rubbed tung oil. Optional inlay: maple strips set into routed channels for the lines, creating a flush two-tone surface.",
+    "fabrica_dimensions": "Overall board: 10\u00d710 inches \u00b1 \u00bc inch. Outer square: 8\u00d78 inches. Middle square: 5\u00d75 inches. Inner square: 2\u00d72 inches. All squares centered. 24 point positions marked with shallow drilled dimples (\u215b inch diameter \u00d7 1/16 inch deep) or brass inlay dots."
+  },
+  "the-millionaire-s-perplexity": {
+    "heritage_skills_id": "heritage_parlor_build_the-millionaire-s-perplexity",
+    "heritage_skills_slug": "build-the-millionaire-s-perplexity",
+    "heritage_skills_title": "Build a Millionaire's Perplexity Puzzle Board",
+    "fabrica_title": "The Millionaire's Perplexity \u2014 Artisan Commission",
+    "fabrica_price_range": "$80\u2013$140",
+    "fabrica_complexity": "Simple",
+    "fabrica_materials": "Dark-stained walnut or mahogany presentation board, \u00bd inch thick. Denomination zones inlaid or laser-engraved. Token set in turned brass or painted hardwood discs.",
+    "fabrica_dimensions": "Board: 10\u00d76 inches \u00b1 \u00bc inch. Seven denomination zones each 1\u00d74 inches, separated by \u215b inch routed dividing lines. Storage drawer or fitted box: 4\u00d73 inches."
+  },
+  "the-buried-treasure": {
+    "heritage_skills_id": "heritage_parlor_build_the-buried-treasure",
+    "heritage_skills_slug": "build-the-buried-treasure",
+    "heritage_skills_title": "Build a Buried Treasure Fraction Puzzle Set",
+    "fabrica_title": "The Buried Treasure \u2014 Artisan Commission",
+    "fabrica_price_range": "$70\u2013$120",
+    "fabrica_complexity": "Simple",
+    "fabrica_materials": "Hand-stained oak or cherry presentation box with sliding or hinged lid, \u00bc inch thick sides. Interior compartment with 3 labeled sections. 100 brass token coins, custom-stamped.",
+    "fabrica_dimensions": "Box: 7\u00d75\u00d72 inches \u00b1 \u00bc inch. Interior divided into 4 sections: 3 explorer compartments + 1 token compartment. Explorer cards: standard 3\u00d75 inches. Tokens: \u00be inch diameter brass discs."
+  },
+  "the-miller-s-puzzle": {
+    "heritage_skills_id": "heritage_parlor_build_the-miller-s-puzzle",
+    "heritage_skills_slug": "build-the-miller-s-puzzle",
+    "heritage_skills_title": "Build The Miller's Puzzle Token Board",
+    "fabrica_title": "The Miller's Puzzle \u2014 Artisan Commission",
+    "fabrica_price_range": "$80\u2013$140",
+    "fabrica_complexity": "Simple",
+    "fabrica_materials": "Cherry or maple hardwood presentation board, \u00bd inch thick. Nine turned hardwood token discs in a contrasting wood. Board with laser-engraved slot positions and decorative Canterbury Tales-style border.",
+    "fabrica_dimensions": "Board: 12\u00d75 inches \u00b1 \u00bc inch. Nine token positions in a linear arrangement, each 1\u00bd inch diameter circle. Center three positions slightly inset or elevated. Token discs: 1\u00bd inch diameter \u00d7 \u215c inch thick."
+  },
+  "the-knight-s-puzzle": {
+    "heritage_skills_id": "heritage_parlor_build_the-knight-s-puzzle",
+    "heritage_skills_slug": "build-the-knight-s-puzzle",
+    "heritage_skills_title": "Build The Knight's Puzzle Grid Board",
+    "fabrica_title": "The Knight's Puzzle Grid Board \u2014 Artisan Commission",
+    "fabrica_price_range": "$120\u2013$200",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Dark walnut or ebonized oak board, \u00be inch thick. Brass nails or brass rod pegs set into pre-drilled holes. Optional: heraldic shield shape routed from board edges.",
+    "fabrica_dimensions": "Board: 12\u00d712 inches \u00b1 \u00bc inch. Peg grid: 9\u00d79 array, 1 inch spacing, centered with 1\u00bd inch border. Pegs: \u215b inch diameter brass rod, \u215c inch tall above surface. Holes drilled \u215c inch deep."
+  },
+  "the-mutilated-chessboard": {
+    "heritage_skills_id": "heritage_parlor_build_the-mutilated-chessboard",
+    "heritage_skills_slug": "build-the-mutilated-chessboard",
+    "heritage_skills_title": "Build The Mutilated Chessboard Puzzle",
+    "fabrica_title": "The Mutilated Chessboard \u2014 Artisan Commission",
+    "fabrica_price_range": "$200\u2013$350",
+    "fabrica_complexity": "Complex",
+    "fabrica_materials": "Alternating walnut and maple inlay squares, \u00be inch thick hardwood border frame. Two corner squares either missing (routed out) or marked with recessed brass X inlays. 31 two-tone wood dominoes.",
+    "fabrica_dimensions": "Board: 14\u00d714 inches total. Playing grid: 8\u00d78 squares at 1\u00bd inch each (12\u00d712 inches). Border: 1 inch walnut frame. Thickness: \u00be inch. Dominoes: 3\u00d71\u00bd\u00d7\u215c inches each."
+  },
+  "dominoes-block-game": {
+    "heritage_skills_id": "heritage_parlor_build_dominoes-block-game",
+    "heritage_skills_slug": "build-dominoes-block-game",
+    "heritage_skills_title": "Build a Hand-Crafted Domino Set",
+    "fabrica_title": "Dominoes (Block Game) \u2014 Artisan Commission",
+    "fabrica_price_range": "$150\u2013$280",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "28-tile set in solid cherry or walnut hardwood, each tile 2\u00d71\u00d7\u215c inch. Pip holes drilled with Forstner bit and filled with contrasting wood plugs (maple pips on walnut tiles, or walnut pips on maple). Bone-line divider inlaid or routed.",
+    "fabrica_dimensions": "Each tile: 2 inches \u00d7 1 inch \u00d7 \u215c inch (standard proportions). Pip holes: 3/16 inch diameter \u00d7 \u215b inch deep. Storage box: 6\u00d74\u00d71\u00bd inches."
+  },
+  "draughts-checkers": {
+    "heritage_skills_id": "heritage_parlor_build_draughts-checkers",
+    "heritage_skills_slug": "build-draughts-checkers",
+    "heritage_skills_title": "Build a Draughts (Checkers) Board",
+    "fabrica_title": "Draughts (Checkers) \u2014 Artisan Commission",
+    "fabrica_price_range": "$180\u2013$320",
+    "fabrica_complexity": "Complex",
+    "fabrica_materials": "Alternating walnut and maple wood strip inlay board, \u00be inch thick, with cherry or walnut border frame. 24 turned hardwood checker discs in walnut and maple.",
+    "fabrica_dimensions": "Overall board: 16\u00d716 inches. Playing grid: 8\u00d78 squares at 1\u00be inch each (14 inch playing area). Border frame: 1 inch wide. Thickness: \u00be inch. Checker discs: 1\u00be inch diameter \u00d7 \u00bc inch thick."
+  },
+  "chess": {
+    "heritage_skills_id": "heritage_parlor_build_chess",
+    "heritage_skills_slug": "build-chess",
+    "heritage_skills_title": "Build a Chess Board",
+    "fabrica_title": "Chess \u2014 Artisan Commission",
+    "fabrica_price_range": "$220\u2013$450 (board only); $500\u2013$900 (board + turned pieces)",
+    "fabrica_complexity": "Complex",
+    "fabrica_materials": "Strip-and-crosscut walnut/maple inlay chessboard, \u00be inch thick, with figured walnut or rosewood border frame. Playing squares 2\u00bc inches. No paint \u2014 pure wood color contrast.",
+    "fabrica_dimensions": "Overall board: 20\u00d720 inches. Playing grid: 8\u00d78 squares at 2\u00bc inch each (18 inch playing area). Border frame: 1 inch walnut or rosewood. Thickness: \u00be inch. Optional coordinate labels inlaid in frame."
+  },
+  "halma": {
+    "heritage_skills_id": "heritage_parlor_build_halma",
+    "heritage_skills_slug": "build-halma",
+    "heritage_skills_title": "Build a Halma Board",
+    "fabrica_title": "Halma \u2014 Artisan Commission",
+    "fabrica_price_range": "$280\u2013$480",
+    "fabrica_complexity": "Complex",
+    "fabrica_materials": "Alternating walnut and maple or light/dark veneer inlay on a \u00be inch maple substrate. Corner camp boundaries inlaid with contrasting wood strips or brass rule. 4-color set of wooden cone pawns.",
+    "fabrica_dimensions": "Overall board: 22\u00d722 inches. Playing grid: 16\u00d716 squares at 1\u00bc inch each (20 inch playing area). Border: 1 inch walnut frame. Camp boundary: 4 triangular areas marked with inlaid contrasting border. Piece pawns: \u00bd inch base diameter, \u00be inch tall cones."
+  },
+  "draughts-checkers-variants": {
+    "heritage_skills_id": "heritage_parlor_build_draughts-checkers-variants",
+    "heritage_skills_slug": "build-draughts-checkers-variants",
+    "heritage_skills_title": "Build an International Draughts (10\u00d710) Board",
+    "fabrica_title": "International Draughts (Variants) \u2014 Artisan Commission",
+    "fabrica_price_range": "$200\u2013$350",
+    "fabrica_complexity": "Complex",
+    "fabrica_materials": "Alternating walnut and maple inlay 10\u00d710 board, \u00be inch thick, with walnut border frame. Optional engraved coordinate labels for tournament use. 40 turned hardwood checker discs.",
+    "fabrica_dimensions": "Overall board: 18\u00d718 inches. Playing grid: 10\u00d710 squares at 1\u00bd inch each (15 inch playing area). Border: 1\u00bd inch walnut frame. Thickness: \u00be inch. Checker discs: 1\u00bc inch diameter \u00d7 \u00bc inch thick."
+  },
+  "reversi-othello": {
+    "heritage_skills_id": "heritage_parlor_build_reversi-othello",
+    "heritage_skills_slug": "build-reversi-othello",
+    "heritage_skills_title": "Build a Reversi (Othello) Board",
+    "fabrica_title": "Reversi (Othello) \u2014 Artisan Commission",
+    "fabrica_price_range": "$180\u2013$300",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Dark green leather or felt playing surface mounted on \u00bd inch MDF or maple substrate, with walnut or cherry hardwood border frame. 64 two-sided discs in ebonized maple (black side) and natural maple (white side).",
+    "fabrica_dimensions": "Overall board: 14\u00d714 inches. Playing grid: 8\u00d78 squares at 1\u00bd inch each (12 inch playing area). Border frame: 1 inch walnut. Thickness: \u00be inch. Disc diameter: 1\u215c inch. Recessed wells: \u215b inch deep."
+  },
+  "noughts-and-crosses-tic-tac-toe": {
+    "heritage_skills_id": "heritage_parlor_build_noughts-and-crosses-tic-tac-toe",
+    "heritage_skills_slug": "build-noughts-and-crosses-tic-tac-toe",
+    "heritage_skills_title": "Build a Noughts and Crosses (Tic-Tac-Toe) Board",
+    "fabrica_title": "Noughts and Crosses \u2014 Artisan Commission",
+    "fabrica_price_range": "$60\u2013$100",
+    "fabrica_complexity": "Simple",
+    "fabrica_materials": "Natural wood-slice board (cross-section of a branch, 8-10 inch diameter), live edge, hand-sanded and oiled. Grid lines wood-burned. Playing pieces: smooth river stones or turned walnut and maple discs.",
+    "fabrica_dimensions": "Board: 8\u201310 inch diameter wood slice, \u00be inch thick. Grid: two burned lines in each direction, dividing board into 9 equal zones. Pieces: 5 smooth stones per player (2-3 inch stones), or 5 turned discs per player (1\u00bd inch diameter \u00d7 \u00bd inch thick)."
+  },
+  "fox-and-geese-board": {
+    "heritage_skills_id": "heritage_parlor_build_fox-and-geese-board",
+    "heritage_skills_slug": "build-fox-and-geese-board",
+    "heritage_skills_title": "Build a Fox and Geese Peg Board",
+    "fabrica_title": "Fox and Geese (Peg Board) \u2014 Artisan Commission",
+    "fabrica_price_range": "$90\u2013$160",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Walnut or cherry hardwood board, \u00be inch thick, with 33 drilled holes. Turned wooden pegs in two contrasting woods. Board optionally shaped to the cross outline (outer edge routed to the cross shape).",
+    "fabrica_dimensions": "Board: 9\u00d79 inches (square) or cross-shaped cutout. 33 holes in cross pattern: 7\u00d77 grid minus 4 corner 2\u00d72 groups, at 1\u00bc inch spacing. Hole diameter: \u00bc inch, \u00bd inch deep. Pegs: \u00bc inch diameter dowel, \u00be inch tall above surface."
+  },
+  "dice-chuck-a-luck": {
+    "heritage_skills_id": "heritage_parlor_build_dice-chuck-a-luck",
+    "heritage_skills_slug": "build-dice-chuck-a-luck",
+    "heritage_skills_title": "Build a Chuck-a-Luck Betting Layout",
+    "fabrica_title": "Dice (Chuck-a-Luck) \u2014 Artisan Commission",
+    "fabrica_price_range": "$100\u2013$200 (layout only); $250\u2013$450 (with brass birdcage)",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Green baize playing surface on a \u00be inch MDF or hardwood substrate, 18\u00d712 inches. Six numbered zones silk-screened or painted in gilt on green. Brass birdcage tumbler with 3 engraved dice. Hardwood frame.",
+    "fabrica_dimensions": "Layout: 18\u00d712 inches. Six betting zones each 2\u00bd\u00d74 inches in a row. Border: 1 inch hardwood or leather frame. Optional cage: 4-inch diameter wire birdcage tumbler on a walnut stand."
+  },
+  "postal-chess-correspondence-chess": {
+    "heritage_skills_id": "heritage_parlor_build_postal-chess-correspondence-chess",
+    "heritage_skills_slug": "build-postal-chess-correspondence-chess",
+    "heritage_skills_title": "Build a Correspondence Chess Set",
+    "fabrica_title": "Postal Chess (Correspondence Chess) \u2014 Artisan Commission",
+    "fabrica_price_range": "$120\u2013$280 (board + cards); $400\u2013$700 (with turned magnetic pieces)",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Compact folding chess board in walnut and maple inlay, \u00bd inch thick when folded. Letterpress-printed notation cards on cream laid stock. Optional: magnetic travel chess pieces.",
+    "fabrica_dimensions": "Folding board: 8\u00d78 inches unfolded (4\u00d78 inches folded). 8\u00d78 playing grid at 1-inch squares. Notation cards: 5\u00d73 inches, 30-row format, 20 cards per set. Storage: fitted leather or book-cloth portfolio."
+  },
+  "the-game-of-logic": {
+    "heritage_skills_id": "heritage_parlor_build_the-game-of-logic",
+    "heritage_skills_slug": "build-the-game-of-logic",
+    "heritage_skills_title": "Build Lewis Carroll's Game of Logic Board",
+    "fabrica_title": "The Game of Logic \u2014 Artisan Commission",
+    "fabrica_price_range": "$80\u2013$150",
+    "fabrica_complexity": "Simple",
+    "fabrica_materials": "Two inlaid hardwood diagram boards (biliteral and triliteral), each 5\u00d75 inches, in contrasting wood with routed cell divisions. 9 turned hardwood counters in red-stained and grey-stained maple.",
+    "fabrica_dimensions": "Biliteral board: 5\u00d75 inches, 2\u00d72 grid with 2-inch cells. Triliteral board: 5\u00d75 inches, 8-cell grid (2\u00d74 zones with inner squares). Board thickness: \u00bd inch. Counters: \u00be inch diameter \u00d7 \u00bc inch thick."
+  },
+  "agon-queens-guards": {
+    "heritage_skills_id": "heritage_parlor_build_agon-queens-guards",
+    "heritage_skills_slug": "build-agon-queens-guards",
+    "heritage_skills_title": "Build an Agon (Queen's Guards) Board",
+    "fabrica_title": "Agon (Queen's Guards) \u2014 Artisan Commission",
+    "fabrica_price_range": "$220\u2013$400",
+    "fabrica_complexity": "Complex",
+    "fabrica_materials": "CNC-routed or laser-cut hardwood hexagonal board, 12 inches flat-to-flat, \u00be inch thick, mounted in a circular walnut frame. Six concentric rings painted in traditional spectrum colors or stained in natural wood tones. 14 turned hardwood pieces.",
+    "fabrica_dimensions": "Board: 12 inches flat-to-flat (13.9 inches corner to corner), \u00be inch thick. 91 hexagonal spaces at 1\u00be inch flat-to-flat each. 6 concentric rings. Border: 1 inch walnut ring frame. Queen pieces: 1\u00bc inch diameter disc, \u00bd inch tall. Guard pieces: 1 inch diameter disc, \u215c inch tall."
+  },
+  "merelles-nine-mens-morris-sociable": {
+    "heritage_skills_id": "heritage_parlor_build_merelles-nine-mens-morris-sociable",
+    "heritage_skills_slug": "build-merelles-nine-mens-morris-sociable",
+    "heritage_skills_title": "Build a Merelles (Three Men's Morris) Board Set",
+    "fabrica_title": "Merelles (Nine Men's Morris) \u2014 Artisan Commission",
+    "fabrica_price_range": "$200\u2013$360 (3-board set)",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Three-board nested set in walnut, cherry, and maple respectively \u2014 one board per Morris variant. Each board with routed or inlaid connecting lines. 36 turned wooden playing pieces in 4 contrasting woods.",
+    "fabrica_dimensions": "Board 1 (Three Men's Morris): 7\u00d77 inches, 2-square grid. Board 2 (Six Men's Morris): 9\u00d79 inches, 2-square grid. Board 3 (Nine Men's Morris): 11\u00d711 inches, 3-square grid. All boards \u00be inch thick. Pieces: \u00be inch diameter discs, \u00bc inch thick, 9 each in 4 woods."
+  },
+  "knight-tour-puzzle": {
+    "heritage_skills_id": "heritage_parlor_build_knight-tour-puzzle",
+    "heritage_skills_slug": "build-knight-tour-puzzle",
+    "heritage_skills_title": "Build a Knight's Tour Puzzle Board",
+    "fabrica_title": "The Knight's Tour \u2014 Artisan Commission",
+    "fabrica_price_range": "$200\u2013$360",
+    "fabrica_complexity": "Complex",
+    "fabrica_materials": "Walnut and maple alternating inlay 8\u00d78 chessboard, \u00be inch thick, with walnut border frame. 64 turned maple tokens numbered 1-64 (laser-engraved). One hand-carved or turned walnut knight piece.",
+    "fabrica_dimensions": "Board: 14\u00d714 inches overall. Playing grid: 8\u00d78 squares at 1\u00bd inch each (12 inch playing area). Border: 1 inch walnut frame. Board thickness: \u00be inch. Numbered tokens: \u00be inch diameter \u00d7 \u00bc inch thick discs. Knight piece: standard Staunton scale (~2\u00bd inch tall)."
+  },
+  "towers-of-hanoi": {
+    "heritage_skills_id": "heritage_parlor_build_towers-of-hanoi",
+    "heritage_skills_slug": "build-towers-of-hanoi",
+    "heritage_skills_title": "Build a Towers of Hanoi",
+    "fabrica_title": "Towers of Hanoi \u2014 Heirloom Edition",
+    "fabrica_price_range": "$180\u2013$320",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "American black walnut base (\u00be\" thick, bookmatched grain preferred); turned cherry or maple pegs (\u215c\" diameter with decorative tenon at base); seven graduated discs in alternating cherry and maple, \u00bc\" thick",
+    "fabrica_dimensions": "Base: 13\" \u00d7 4\" \u00d7 \u00be\". Pegs: 8\" tall \u00d7 \u215c\" diameter. Discs: 1\u00bd\" to 3\" diameter in \u00bc\" steps, \u00bc\" thick. Overall assembled height: approx. 9\"."
+  },
+  "the-reve-s-puzzle": {
+    "heritage_skills_id": "heritage_parlor_build_the-reve-s-puzzle",
+    "heritage_skills_slug": "build-the-reve-s-puzzle",
+    "heritage_skills_title": "Build a Reve's Puzzle",
+    "fabrica_title": "Reve's Puzzle \u2014 Canterbury Edition",
+    "fabrica_price_range": "$220\u2013$380",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "English oak base with burned grid pattern; turned beech pegs; eight discs in two alternating hardwoods (oak and ash), \u00bc\" thick",
+    "fabrica_dimensions": "Base: 15\" \u00d7 4\" \u00d7 \u00be\". Pegs: 8\" tall \u00d7 \u215c\" diameter. Discs: 1\u00bc\" to 3\" diameter in \u00bc\" steps, \u00bc\" thick."
+  },
+  "the-button-puzzle": {
+    "heritage_skills_id": "heritage_parlor_build_the-button-puzzle",
+    "heritage_skills_slug": "build-the-button-puzzle",
+    "heritage_skills_title": "Make a Button Puzzle",
+    "fabrica_title": "Button Puzzle \u2014 Victorian Pocket Edition",
+    "fabrica_price_range": "$28\u2013$55",
+    "fabrica_complexity": "Simple",
+    "fabrica_materials": "3\u20134 oz vegetable-tanned saddle leather, natural tan; one antique brass 4-hole button, 1\u00bc\" diameter; edges burnished and waxed",
+    "fabrica_dimensions": "Leather strip: 9\" \u00d7 1\u00bd\" \u00d7 3\u20134 oz weight (approx. 1.5mm thick). Slits: two parallel cuts \u00be\" long, \u215c\" apart, centered at midpoint. Button: minimum 1\u00bc\" diameter."
+  },
+  "the-cups-and-balls": {
+    "heritage_skills_id": "heritage_parlor_build_the-cups-and-balls",
+    "heritage_skills_slug": "build-the-cups-and-balls",
+    "heritage_skills_title": "Make a Cups and Balls Set",
+    "fabrica_title": "Cups and Balls Set \u2014 Parlour Edition",
+    "fabrica_price_range": "$280\u2013$520",
+    "fabrica_complexity": "Complex",
+    "fabrica_materials": "Three cups turned from American black walnut; four balls hand-felted from Merino wool roving; velvet-lined mahogany presentation box",
+    "fabrica_dimensions": "Cups: 3\u00bc\" tall \u00d7 2\u00be\" diameter at mouth \u00d7 2\" diameter at top (inverted). Wall thickness: \u00bc\". Balls: 1\" diameter felted Merino wool. Box: 12\" \u00d7 4\" \u00d7 4\"."
+  },
+  "lotto-bingo": {
+    "heritage_skills_id": "heritage_parlor_build_lotto-bingo",
+    "heritage_skills_slug": "build-lotto-bingo",
+    "heritage_skills_title": "Make a Lotto Set",
+    "fabrica_title": "Victorian Lotto Set \u2014 Parlour Edition",
+    "fabrica_price_range": "$320\u2013$580",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Twelve cards letterpress-printed on 300gsm cream card stock; ninety tokens turned from hornbeam or bone (or laser-cut from \u00bc\" maple); velvet-lined octagonal mahogany box with brass clasp",
+    "fabrica_dimensions": "Cards: 7\" \u00d7 4\" each, with printed grid. Tokens: \u00be\" diameter \u00d7 \u00bc\" thick wooden discs, numbers burned or engraved. Markers: \u00bd\" mother-of-pearl or brass discs (15 per player color \u00d7 4 colors = 60 markers). Box: 10\" \u00d7 8\" \u00d7 3\"."
+  },
+  "the-shunting-puzzle": {
+    "heritage_skills_id": "heritage_parlor_build_the-shunting-puzzle",
+    "heritage_skills_slug": "build-the-shunting-puzzle",
+    "heritage_skills_title": "Build a Shunting Puzzle",
+    "fabrica_title": "Shunting Puzzle \u2014 Victorian Railway Edition",
+    "fabrica_price_range": "$240\u2013$420",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Mahogany base board, \u00bc\" thick; brass rail strips (2mm \u00d7 1mm section) for track; engine and carriages turned or carved from cherry; hand-lettered brass plates for each carriage",
+    "fabrica_dimensions": "Base: 14\" \u00d7 10\" \u00d7 \u00bc\". Track rail height: 2mm above base. Engine block: 1\u00bd\" \u00d7 \u00be\" \u00d7 \u00be\". Carriage blocks: 1\" \u00d7 \u00be\" \u00d7 \u00bd\" each."
+  },
+  "the-man-of-law-s-puzzle": {
+    "heritage_skills_id": "heritage_parlor_build_the-man-of-law-s-puzzle",
+    "heritage_skills_slug": "build-the-man-of-law-s-puzzle",
+    "heritage_skills_title": "Build a Sliding Tile Puzzle",
+    "fabrica_title": "Sliding Tile Puzzle \u2014 Canterbury Edition",
+    "fabrica_price_range": "$160\u2013$280",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Frame in American cherry, \u00be\" thick \u00d7 1\" wide; tiles in bird's-eye maple, \u00bc\" thick, with laser-engraved numerals in medieval-style serif font; base in cherry-veneered plywood",
+    "fabrica_dimensions": "Frame exterior: 10\u00bd\" \u00d7 10\u00bd\" \u00d7 1\u00bc\". Interior tray: 9\u00be\" \u00d7 9\u00be\". Tiles: 3\" \u00d7 3\" \u00d7 \u00bc\" each (8 numbered tiles). Clearance: \u215b\" total gap per axis for smooth sliding."
+  },
+  "the-four-frogs": {
+    "heritage_skills_id": "heritage_parlor_build_the-four-frogs",
+    "heritage_skills_slug": "build-the-four-frogs",
+    "heritage_skills_title": "Make a Four Frogs Puzzle",
+    "fabrica_title": "Four Frogs Puzzle \u2014 Lily Pond Edition",
+    "fabrica_price_range": "$120\u2013$220",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Nine lily pad discs hand-carved from lime wood (3\" diameter, slightly concave surface); four frogs hand-carved and painted from boxwood; base rail in walnut",
+    "fabrica_dimensions": "Lily pads: 3\" diameter \u00d7 \u00bd\" thick, slightly dished surface. Frog pieces: 1\u00bc\" \u00d7 1\" \u00d7 \u00be\" carved form. Base rail: 20\" \u00d7 2\" \u00d7 \u00bd\" walnut, with 9 shallow recesses to hold lily pads."
+  },
+  "chinese-pictures-water-trick": {
+    "heritage_skills_id": "heritage_parlor_build_chinese-pictures-water-trick",
+    "heritage_skills_slug": "build-chinese-pictures-water-trick",
+    "heritage_skills_title": "Make a Chinese Pictures Water Trick",
+    "fabrica_title": "Chinese Pictures \u2014 Reveal Art Kit",
+    "fabrica_price_range": "$85\u2013$150",
+    "fabrica_complexity": "Simple",
+    "fabrica_materials": "12 sheets premium cold-press watercolor paper (Arches or Fabriano, 140 lb); set of 3 artist-grade white wax resist sticks; set of 6 quality watercolor half-pans in reveal-optimized colors; hand-bound booklet with instructions",
+    "fabrica_dimensions": "Paper: 9\" \u00d7 12\" per sheet. Kit box: 10\" \u00d7 6\" \u00d7 2\". Includes 3 pre-drawn reveal papers as demonstration pieces."
+  },
+  "the-squire-s-puzzle": {
+    "heritage_skills_id": "heritage_parlor_build_the-squire-s-puzzle",
+    "heritage_skills_slug": "build-the-squire-s-puzzle",
+    "heritage_skills_title": "Build a Knight's Tour Puzzle Board",
+    "fabrica_title": "Knight's Tour Puzzle Board \u2014 Squire's Edition",
+    "fabrica_price_range": "$280\u2013$480",
+    "fabrica_complexity": "Complex",
+    "fabrica_materials": "Maple and American black walnut strip-built board (\u00be\" squares); hand-carved knight in boxwood; solid walnut frame with mitered corners; backed with cherry plywood",
+    "fabrica_dimensions": "Board playing surface: 8\" \u00d7 8\" (\u00be\" per square). Frame: adds 1\" on each side, total 10\" \u00d7 10\". Thickness with frame: \u00be\". Knight piece: approx. 2\u00bc\" tall standard chess proportions."
+  },
+  "the-broken-chessboard": {
+    "heritage_skills_id": "heritage_parlor_build_the-broken-chessboard",
+    "heritage_skills_slug": "build-the-broken-chessboard",
+    "heritage_skills_title": "Make a Broken Chessboard Puzzle",
+    "fabrica_title": "Broken Chessboard Dissection Puzzle",
+    "fabrica_price_range": "$140\u2013$240",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Solid maple, \u00bd\" thick, with painted and lacquered chessboard surface; pieces sawn on a precision scroll saw; walnut shadow-box tray",
+    "fabrica_dimensions": "Board/puzzle assembled: 9\" \u00d7 9\" \u00d7 \u00bd\". Tray: 9\u00bd\" \u00d7 9\u00bd\" \u00d7 \u00be\" walnut, French-fitted with thin lining. 13 individual cut pieces."
+  },
+  "the-rook-s-tour": {
+    "heritage_skills_id": "heritage_parlor_build_the-rooks-tour",
+    "heritage_skills_slug": "build-the-rooks-tour",
+    "heritage_skills_title": "Build a Rook's Tour Puzzle Board",
+    "fabrica_title": "Rook's Tour Puzzle Board",
+    "fabrica_price_range": "$260\u2013$440",
+    "fabrica_complexity": "Complex",
+    "fabrica_materials": "Maple and American walnut strip-built board (\u00be\" squares); hand-turned rook in cherry; solid walnut frame with mitered corners",
+    "fabrica_dimensions": "Board surface: 8\" \u00d7 8\" (\u00be\" per square). Frame adds 1\" each side, total 10\" \u00d7 10\". Rook: approx. 1\u00be\" tall, 1\" base diameter."
+  },
+  "bishops-on-a-chessboard": {
+    "heritage_skills_id": "heritage_parlor_build_bishops-on-a-chessboard",
+    "heritage_skills_slug": "build-bishops-on-a-chessboard",
+    "heritage_skills_title": "Build a Bishops Placement Puzzle",
+    "fabrica_title": "Bishops Placement Puzzle \u2014 Dudeney Edition",
+    "fabrica_price_range": "$340\u2013$560",
+    "fabrica_complexity": "Complex",
+    "fabrica_materials": "Maple and walnut strip-built board; 14 hand-turned bishops in cherry (matching set); walnut frame",
+    "fabrica_dimensions": "Board: 8\" \u00d7 8\" playing surface in walnut frame (10\" \u00d7 10\" total). Bishop pieces: 2\" tall \u00d7 1\" base diameter, standard proportions."
+  },
+  "the-eight-queens": {
+    "heritage_skills_id": "heritage_parlor_build_the-eight-queens",
+    "heritage_skills_slug": "build-the-eight-queens",
+    "heritage_skills_title": "Build an Eight Queens Puzzle Board",
+    "fabrica_title": "Eight Queens Puzzle Board \u2014 Dudeney Edition",
+    "fabrica_price_range": "$300\u2013$500",
+    "fabrica_complexity": "Complex",
+    "fabrica_materials": "Maple and walnut strip-built board; 8 hand-turned queens in cherry; walnut frame; playing surface optionally scored with algebraic notation",
+    "fabrica_dimensions": "Board: 8\" \u00d7 8\" surface in 10\" \u00d7 10\" walnut frame. Queen pieces: 2\u00be\" tall \u00d7 1\" base diameter."
+  },
+  "the-puzzles-of-the-black-knight": {
+    "heritage_skills_id": "heritage_parlor_build_the-puzzles-of-the-black-knight",
+    "heritage_skills_slug": "build-the-puzzles-of-the-black-knight",
+    "heritage_skills_title": "Build a 5\u00d75 Knight's Tour Board",
+    "fabrica_title": "Black Knight's Tour \u2014 5\u00d75 Pocket Puzzle",
+    "fabrica_price_range": "$140\u2013$240",
+    "fabrica_complexity": "Moderate",
+    "fabrica_materials": "Maple and cherry strip-built 5\u00d75 board; hand-carved knight in boxwood; presentation case in walnut",
+    "fabrica_dimensions": "Board: 4\u00be\" \u00d7 4\u00be\" playing surface (\u00be\" per square) in a 6\" \u00d7 6\" walnut frame. Knight: approximately 1\u00be\" tall, scaled to \u00be\" square proportion. Case: 7\" \u00d7 7\" \u00d7 1\" walnut."
+  }
+}

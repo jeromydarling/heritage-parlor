@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">SPOIL FIVE (FIVE FINGERS)</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  standard deck of 52 cards</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  chips</text>
+  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">3–6 players. Deal 5 cards each; turn up one card to set the trump suit.</text>
+  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Unusual trump order: the Five of Trumps is highest, then the Jack of Trumps,</text>
+  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">then the Ace of Hearts (always the third-best trump regardless of suit). Win</text>
+  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">3 or more tricks to sweep the prize pool. If nobody wins 3 tricks, the round</text>
+  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">is &apos;spoiled&apos; and the pool carries over and grows. First to build up enough</text>
+  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">wins takes everything.</text>
+  <text x="56" y="426" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="450" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Spoil Five was the dominant card game in Ireland throughout the 19th century,</text>
+  <text x="56" y="468" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">rivaling Whist in England. The special trump order (5 highest, then Jack,</text>
+  <text x="56" y="486" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">then Ace of Hearts) is unique to this game and reflects very old playing-card</text>
+  <text x="56" y="504" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">traditions.</text>
+  <text x="56" y="538" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="562" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The most popular card game in 19th-century Ireland: win 3 of 5 tricks or</text>
+  <text x="56" y="580" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">&apos;spoil&apos; others from winning.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

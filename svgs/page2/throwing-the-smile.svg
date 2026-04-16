@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THROWING THE SMILE</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">One player turns to their neighbor with a big grin. The neighbor &apos;accepts&apos;</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the smile and grins freely. Then they must &apos;wipe&apos; it off their face with</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">their hand, turn to the next player, and &apos;throw&apos; the smile to them. Only the</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">current holder of the smile may smile. Everyone else must keep a straight</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">face. Anyone caught smiling when they don&apos;t have it pays a penalty.</text>
+  <text x="56" y="383" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="407" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This game is a masterclass in Victorian performance control — in an era that</text>
+  <text x="56" y="425" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">valued decorum highly, maintaining a solemn face was genuinely challenging</text>
+  <text x="56" y="443" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">when watching others grin.</text>
+  <text x="56" y="477" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="501" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Players pass a smile around the circle — only the current holder of the</text>
+  <text x="56" y="519" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">&apos;smile&apos; may grin; all others must remain solemn.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

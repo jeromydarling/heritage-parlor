@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+<rect width="400" height="400" fill="#faf6f0"/>
+<rect x="20" y="20" width="360" height="360" rx="4" fill="none" stroke="#2a2118" stroke-width="0.5" opacity="0.12"/>
+<circle cx="280" cy="213.0" r="9.0" fill="#2a2118" opacity="0.6"/>
+<line x1="280" y1="222.0" x2="280" y2="255" stroke="#2a2118" stroke-width="3.0" opacity="0.6" stroke-linecap="round"/>
+<line x1="280" y1="255" x2="271.0" y2="279.0" stroke="#2a2118" stroke-width="3.0" opacity="0.6" stroke-linecap="round"/>
+<line x1="280" y1="255" x2="289.0" y2="279.0" stroke="#2a2118" stroke-width="3.0" opacity="0.6" stroke-linecap="round"/>
+<line x1="280" y1="231.0" x2="268.0" y2="246.0" stroke="#2a2118" stroke-width="2.25" opacity="0.6" stroke-linecap="round"/>
+<line x1="280" y1="231.0" x2="298.0" y2="222.0" stroke="#2a2118" stroke-width="2.25" opacity="0.6" stroke-linecap="round"/>
+<rect x="100" y="252" width="140" height="7" rx="3" fill="#e8ddd0" stroke="#2a2118" stroke-width="1" opacity="0.3"/>
+<line x1="108" y1="259" x2="108" y2="279" stroke="#2a2118" stroke-width="2" opacity="0.2"/>
+<line x1="232" y1="259" x2="232" y2="279" stroke="#2a2118" stroke-width="2" opacity="0.2"/>
+<path d="M150,252 L150,210 L140,195 L140,180 L170,180 L170,195 L160,210 L160,252" fill="none" stroke="#2a2118" stroke-width="1.2" opacity="0.4"/>
+<line x1="155" y1="185" x2="160" y2="178" stroke="#8b4513" stroke-width="1.5" opacity="0.4"/>
+<line x1="160" y1="178" x2="155" y2="171" stroke="#8b4513" stroke-width="1.5" opacity="0.4"/>
+</svg>

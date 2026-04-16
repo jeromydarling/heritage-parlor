@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">CRIBBAGE</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  standard deck of 52 cards</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  cribbage board with pegs</text>
+  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Deal 6 cards to each of 2 players. Each discards 2 face-down to the &apos;crib&apos; (a</text>
+  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">bonus hand for the dealer). Cut the deck to reveal the &apos;starter&apos; card. Take</text>
+  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">turns playing cards to a running total — score points for reaching 15, 31,</text>
+  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pairs, or runs as you go. Then count your hand: 2 pts per pair, 2 pts per</text>
+  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">combination adding to 15, 1 pt per card in a run, 4–5 pts for a flush, 1 pt</text>
+  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">for the Jack of the starter suit. Use pegs on a cribbage board to track</text>
+  <text x="56" y="406" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">score. First to 121 wins.</text>
+  <text x="56" y="447" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="471" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Cribbage was invented by poet Sir John Suckling around 1630 - one of the few</text>
+  <text x="56" y="489" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">card games with a known inventor. Sailors and soldiers have carried cribbage</text>
+  <text x="56" y="507" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">boards on campaigns for four centuries. It remains the only card game legally</text>
+  <text x="56" y="525" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">playable in English pubs.</text>
+  <text x="56" y="559" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="583" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">England&apos;s most beloved two-player card game, scored with a distinctive pegged</text>
+  <text x="56" y="601" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">board.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

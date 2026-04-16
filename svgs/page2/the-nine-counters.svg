@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE NINE COUNTERS</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  9 numbered counters</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Place the numbers 1 through 9 in a 3×3 grid so that every row, every column,</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">and both main diagonals all add to 15. This is the classic Lo Shu magic</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">square — one of history&apos;s oldest mathematical puzzles. Hint: the center must</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">be 5. There is essentially one solution (ignoring rotations and reflections).</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Try to find it without looking up the answer.</text>
+  <text x="56" y="383" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="407" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The Lo Shu magic square (4,9,2 / 3,5,7 / 8,1,6) is one of the most ancient</text>
+  <text x="56" y="425" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">mathematical objects in history, appearing in Chinese legend as a divine</text>
+  <text x="56" y="443" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">symbol brought on the back of a tortoise.</text>
+  <text x="56" y="477" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="501" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Arrange counters 1-9 in a 3×3 grid so every row, column, and diagonal sums to</text>
+  <text x="56" y="519" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">15.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Amusements in Mathematics (1917)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

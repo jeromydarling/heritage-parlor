@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+<rect width="400" height="400" fill="#faf6f0"/>
+<rect x="20" y="20" width="360" height="360" rx="4" fill="none" stroke="#2a2118" stroke-width="0.5" opacity="0.12"/>
+<rect x="150" y="204" width="25" height="25" rx="3" fill="#f5f0e6" stroke="#2a2118" stroke-width="0.8" opacity="0.4"/>
+<circle cx="162.5" cy="216.5" r="2" fill="#2a2118" opacity="0.35"/>
+<circle cx="156.25" cy="210.25" r="2" fill="#2a2118" opacity="0.35"/>
+<circle cx="168.75" cy="222.75" r="2" fill="#2a2118" opacity="0.35"/>
+<circle cx="156.25" cy="222.75" r="2" fill="#2a2118" opacity="0.35"/>
+<circle cx="168.75" cy="210.25" r="2" fill="#2a2118" opacity="0.35"/>
+<rect x="200" y="205" width="25" height="25" rx="3" fill="#f5f0e6" stroke="#2a2118" stroke-width="0.8" opacity="0.4"/>
+<circle cx="212.5" cy="217.5" r="2" fill="#2a2118" opacity="0.35"/>
+<circle cx="206.25" cy="211.25" r="2" fill="#2a2118" opacity="0.35"/>
+<circle cx="218.75" cy="223.75" r="2" fill="#2a2118" opacity="0.35"/>
+<circle cx="206.25" cy="223.75" r="2" fill="#2a2118" opacity="0.35"/>
+<circle cx="218.75" cy="211.25" r="2" fill="#2a2118" opacity="0.35"/>
+<circle cx="212.5" cy="211.25" r="2" fill="#2a2118" opacity="0.35"/>
+<rect x="250" y="206" width="25" height="25" rx="3" fill="#f5f0e6" stroke="#2a2118" stroke-width="0.8" opacity="0.4"/>
+<circle cx="262.5" cy="218.5" r="2" fill="#2a2118" opacity="0.35"/>
+<circle cx="200" cy="243.6" r="7.800000000000001" fill="#2a2118" opacity="0.6"/>
+<line x1="200" y1="251.4" x2="200" y2="280" stroke="#2a2118" stroke-width="2.6" opacity="0.6" stroke-linecap="round"/>
+<line x1="200" y1="280" x2="192.2" y2="300.8" stroke="#2a2118" stroke-width="2.6" opacity="0.6" stroke-linecap="round"/>
+<line x1="200" y1="280" x2="207.8" y2="300.8" stroke="#2a2118" stroke-width="2.6" opacity="0.6" stroke-linecap="round"/>
+<line x1="200" y1="259.2" x2="189.6" y2="274.8" stroke="#2a2118" stroke-width="1.9500000000000002" opacity="0.6" stroke-linecap="round"/>
+<line x1="200" y1="259.2" x2="210.4" y2="274.8" stroke="#2a2118" stroke-width="1.9500000000000002" opacity="0.6" stroke-linecap="round"/>
+</svg>

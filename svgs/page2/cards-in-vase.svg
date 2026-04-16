@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE CARDS IN THE VASE</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  special vase with internal thread mechanism</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  deck of cards</text>
+  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: Three chosen cards are returned to the deck, placed in a vase, and</text>
+  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">then rise out of the vase one by one at your mental command. Method: the</text>
+  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">special vase has fine threads attached at specific positions inside. When</text>
+  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">each chosen card is controlled to its thread position, an almost invisible</text>
+  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">thread connects from the card to the performer&apos;s ring or a pin in their</text>
+  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">clothing. A tiny movement of the hand or body causes each card to rise</text>
+  <text x="56" y="406" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">dramatically from the vase. Three cards can rise in sequence with different</text>
+  <text x="56" y="427" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">subtle movements triggering each. The vase mechanism can be rigged at home</text>
+  <text x="56" y="448" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">with patience.</text>
+  <text x="56" y="489" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="513" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The Rising Cards is one of magic&apos;s oldest and most celebrated effects — the</text>
+  <text x="56" y="531" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">first documented mechanical rising card apparatus appeared in a French</text>
+  <text x="56" y="549" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">conjuring book in 1584. Modern versions use magnets, electronics, and remote</text>
+  <text x="56" y="567" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">controls, but the basic thread method still works beautifully.</text>
+  <text x="56" y="601" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="625" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Three chosen cards are returned to the deck which is placed in a vase. On</text>
+  <text x="56" y="643" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">command, each chosen card rises mysteriously from the vase. The mechanism</text>
+  <text x="56" y="661" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">uses threads and small pulleys inside the vase — the performer triggers each</text>
+  <text x="56" y="679" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">rise by a concealed hair or thread attachment to their body.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Magician&apos;s Own Book (1862)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

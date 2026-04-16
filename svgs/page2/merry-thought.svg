@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">MERRY THOUGHT</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  dried wishbone from poultry</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Let a chicken or turkey wishbone dry out for a few days until it&apos;s brittle.</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Two players each hook their little finger around one end of the bone. Without</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">looking away from each other, both pull at the same time. The wishbone snaps.</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The person holding the longer piece is said to get their wish granted. Make</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">your wish silently before pulling!</text>
+  <text x="56" y="383" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="407" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The wishbone tradition dates to the ancient Etruscans who dried chicken bones</text>
+  <text x="56" y="425" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">and made wishes. Romans called it the &apos;lucky bone.&apos; In Victorian England it</text>
+  <text x="56" y="443" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">was called &apos;Merry Thought&apos; because of the happy anticipation while making the</text>
+  <text x="56" y="461" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">wish.</text>
+  <text x="56" y="495" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="519" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Two players each hold an end of the wishbone and pull; the person with the</text>
+  <text x="56" y="537" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">larger piece is granted a wish.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

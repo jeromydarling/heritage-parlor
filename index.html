@@ -39,6 +39,8 @@
       <nav class="header__nav">
         <button class="header__nav-btn header__nav-btn--active" data-nav="home" onclick="navigateTo('home')">Browse</button>
         <button class="header__nav-btn" data-nav="about" onclick="navigateTo('about')">About</button>
+        <button class="header__nav-btn" data-nav="game-nights" onclick="navigateTo('game-nights')">Game Nights</button>
+        <button class="header__nav-btn header__nav-btn--submit" data-nav="submit" onclick="navigateTo('submit')">Submit a Game</button>
         <button class="theme-toggle" data-theme-toggle aria-label="Toggle dark mode">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
         </button>
@@ -193,6 +195,300 @@
     </div>
   </section>
 
+  <!-- GAME NIGHTS SECTION -->
+  <section class="about-section game-nights-section container container--narrow" id="game-nights-section">
+    <div class="gn-hero">
+      <div class="hero__badge">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        A Living Tradition
+      </div>
+      <h2 class="hero__heading" style="text-align:center;margin-bottom:var(--space-4);">Heritage Parlor Game Nights</h2>
+      <p class="hero__desc" style="text-align:center;">Revive the Victorian parlour — an evening of laughter, wit, and genuine togetherness. No screens required.</p>
+    </div>
+
+    <!-- What is a Game Night -->
+    <div class="gn-card gn-card--featured">
+      <div class="gn-card__ornament">✦</div>
+      <h3 class="gn-card__title">What Is a Heritage Parlor Game Night?</h3>
+      <p>A Heritage Parlor Game Night is a dedicated evening — two to three hours — built entirely around the games in this collection. The Victorians were masters of sociable entertainment: games that required nothing more than sharp wit, willing players, and perhaps a deck of cards. A Game Night brings that spirit back.</p>
+      <p style="margin-top:var(--space-4);">There are no devices, no downloads, and no winner-takes-all prizes. The point is the play itself — the groans at a bad riddle, the laughter when a charade goes wrong, the quiet satisfaction of a puzzle finally solved.</p>
+    </div>
+
+    <!-- How to Host -->
+    <div class="gn-section">
+      <h3 class="gn-section__title">How to Host One</h3>
+      <div class="gn-steps">
+        <div class="gn-step">
+          <div class="gn-step__num">I</div>
+          <div class="gn-step__body">
+            <strong>Pick 5–7 games.</strong> Browse the collection and select a balanced mix — one icebreaker, a couple of group games, and one or two that reward cleverness. Aim for variety in style: acting, guessing, wordplay, and perhaps a quiet puzzle for intermission.
+          </div>
+        </div>
+        <div class="gn-step">
+          <div class="gn-step__num">II</div>
+          <div class="gn-step__body">
+            <strong>Print the instructions.</strong> Every game in this collection has a print button. Print one copy per table so players can follow along. The original Victorian language is half the fun.
+          </div>
+        </div>
+        <div class="gn-step">
+          <div class="gn-step__num">III</div>
+          <div class="gn-step__body">
+            <strong>Gather your props.</strong> Most games need nothing at all. For others: a deck of cards, slips of paper, pencils, or a blindfold. Check the "What You Need" field on each game card.
+          </div>
+        </div>
+        <div class="gn-step">
+          <div class="gn-step__num">IV</div>
+          <div class="gn-step__body">
+            <strong>Appoint a Master of Ceremonies.</strong> One person reads the rules aloud at the start of each game and keeps the evening moving. Rotate the role through the night.
+          </div>
+        </div>
+        <div class="gn-step">
+          <div class="gn-step__num">V</div>
+          <div class="gn-step__body">
+            <strong>Set the atmosphere.</strong> Dim the overhead lights. Put on something instrumental and low. If it's winter, light a candle. The Victorians understood that atmosphere is half of hospitality.
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Themed Menus -->
+    <div class="gn-section">
+      <h3 class="gn-section__title">Suggested Game Night Menus</h3>
+      <p class="gn-section__intro">A themed evening gives the night a satisfying shape. Each menu is built around games already in this collection — filter by category to find them.</p>
+      <div class="gn-menus">
+        <div class="gn-menu">
+          <div class="gn-menu__icon">🃏</div>
+          <h4 class="gn-menu__name">Card Shark Night</h4>
+          <p class="gn-menu__desc">An evening of clever card play drawn from Foster's Complete Hoyle and Cassell's. Perfect for 4–8 players who enjoy a competitive edge.</p>
+          <ul class="gn-menu__list">
+            <li>Open with a quick card trick to set the mood</li>
+            <li>Two rounds of a Victorian trick-taking game</li>
+            <li>A card-based memory or prediction game</li>
+            <li>Close with a solitaire puzzle challenge — fastest solver wins</li>
+          </ul>
+          <span class="gn-menu__filter">Filter: Card Games</span>
+        </div>
+        <div class="gn-menu">
+          <div class="gn-menu__icon">✨</div>
+          <h4 class="gn-menu__name">Magic Show Night</h4>
+          <p class="gn-menu__desc">Each guest learns one trick from Professor Hoffmann's <em>Modern Magic</em> and performs it for the group. Beginners welcome — the deceptions are Victorian, not Vegas.</p>
+          <ul class="gn-menu__list">
+            <li>Assign tricks in advance so everyone can practice</li>
+            <li>Brief intermission for guests to "rehearse" in private</li>
+            <li>Each performer gives a dramatic Victorian-style introduction</li>
+            <li>Audience votes on "Most Convincing Illusion"</li>
+          </ul>
+          <span class="gn-menu__filter">Filter: Magic Tricks</span>
+        </div>
+        <div class="gn-menu">
+          <div class="gn-menu__icon">📝</div>
+          <h4 class="gn-menu__name">Word Wizard Night</h4>
+          <p class="gn-menu__desc">For the wordsmiths in the room. A succession of Victorian word games that reward vocabulary, lateral thinking, and a quick tongue. Ideal for 4–12 players.</p>
+          <ul class="gn-menu__list">
+            <li>Start with a quick-fire rhyming game to warm up</li>
+            <li>A round of acting proverbs for physical comedy</li>
+            <li>A longer riddle or logic puzzle for quiet contemplation</li>
+            <li>Close with a communal story game — each player adds one sentence</li>
+          </ul>
+          <span class="gn-menu__filter">Filter: Word Games, Parlor Games</span>
+        </div>
+        <div class="gn-menu">
+          <div class="gn-menu__icon">🧩</div>
+          <h4 class="gn-menu__name">Puzzle Parlour Night</h4>
+          <p class="gn-menu__desc">Drawn from Dudeney and Professor Hoffmann — mechanical puzzles, mathematical brain-teasers, and optical illusions. More contemplative; works well in pairs.</p>
+          <ul class="gn-menu__list">
+            <li>Print three or four Dudeney puzzles per table</li>
+            <li>Work in pairs — first pair to solve all wins the round</li>
+            <li>Finish with a group puzzle that requires collective reasoning</li>
+            <li>Read aloud the Victorian solution commentary for laughs</li>
+          </ul>
+          <span class="gn-menu__filter">Filter: Puzzles</span>
+        </div>
+        <div class="gn-menu">
+          <div class="gn-menu__icon">🌿</div>
+          <h4 class="gn-menu__name">Folk & Field Night</h4>
+          <p class="gn-menu__desc">Games from Alice Bertha Gomme's <em>Traditional Games of England, Scotland, and Ireland</em>. Best outdoors or in a large space. A hit with mixed ages.</p>
+          <ul class="gn-menu__list">
+            <li>One singing game to open — everyone participates</li>
+            <li>A chasing or tagging game for energy</li>
+            <li>A quieter forfeits game to close the evening</li>
+            <li>Read Gomme's scholarly notes — the folklore is fascinating</li>
+          </ul>
+          <span class="gn-menu__filter">Filter: Folk Games, Physical Games</span>
+        </div>
+        <div class="gn-menu">
+          <div class="gn-menu__icon">🔬</div>
+          <h4 class="gn-menu__name">Scientific Wonder Night</h4>
+          <p class="gn-menu__desc">Optical illusions, scientific tricks, and natural philosophy demonstrations from <em>The Magician's Own Book</em>. Best for curious minds of all ages.</p>
+          <ul class="gn-menu__list">
+            <li>Begin with a visual illusion — discuss why it fools the eye</li>
+            <li>A physics-based trick that seems impossible</li>
+            <li>A chemistry or electricity demonstration (review safety notes!)</li>
+            <li>End with a discussion: which tricks would have shocked a Victorian?</li>
+          </ul>
+          <span class="gn-menu__filter">Filter: Science</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Group Size Tips -->
+    <div class="gn-section">
+      <h3 class="gn-section__title">Tips for Different Group Sizes</h3>
+      <div class="gn-size-grid">
+        <div class="gn-size-card">
+          <div class="gn-size-card__num">2–3</div>
+          <div class="gn-size-card__label">Intimate</div>
+          <p>Lean on puzzles, card games, and two-player strategy. The quiet games shine here — the wit is more visible in a small group. Dudeney puzzles work especially well as a cooperative activity.</p>
+        </div>
+        <div class="gn-size-card">
+          <div class="gn-size-card__num">4–8</div>
+          <div class="gn-size-card__label">A Parlour Party</div>
+          <p>The sweet spot for most Victorian parlour games. Acting games, word games, and trick-taking card games all shine. Split into two teams of four for competitive rounds.</p>
+        </div>
+        <div class="gn-size-card">
+          <div class="gn-size-card__num">9–20</div>
+          <div class="gn-size-card__label">A Full Evening</div>
+          <p>Run games in parallel across two or three tables. Rotate between tables mid-evening. Close with a whole-group game — charades or acting proverbs work beautifully at this scale.</p>
+        </div>
+        <div class="gn-size-card">
+          <div class="gn-size-card__num">20+</div>
+          <div class="gn-size-card__label">Community Event</div>
+          <p>Stations work best at this size. Set up four or five game tables with printed instructions and a host at each. A central MC announces rounds and moves people between tables every 20 minutes.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Planning Sheet -->
+    <div class="gn-card gn-card--planning">
+      <div class="gn-planning__header">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+        <h3 class="gn-card__title" style="margin:0">Game Night Planning Sheet</h3>
+      </div>
+      <p style="color:var(--color-text-muted);font-size:var(--text-sm);margin-bottom:var(--space-6);">Use this reference when planning your evening. A printable PDF version is coming soon.</p>
+      <div class="gn-planning-sheet">
+        <div class="gn-planning-row">
+          <span class="gn-planning-label">Date & Time</span>
+          <span class="gn-planning-line"></span>
+        </div>
+        <div class="gn-planning-row">
+          <span class="gn-planning-label">Location</span>
+          <span class="gn-planning-line"></span>
+        </div>
+        <div class="gn-planning-row">
+          <span class="gn-planning-label">Number of Guests</span>
+          <span class="gn-planning-line"></span>
+        </div>
+        <div class="gn-planning-row">
+          <span class="gn-planning-label">Theme / Menu</span>
+          <span class="gn-planning-line"></span>
+        </div>
+        <div class="gn-planning-divider">Games Selected</div>
+        <div class="gn-planning-row"><span class="gn-planning-num">1</span><span class="gn-planning-line"></span></div>
+        <div class="gn-planning-row"><span class="gn-planning-num">2</span><span class="gn-planning-line"></span></div>
+        <div class="gn-planning-row"><span class="gn-planning-num">3</span><span class="gn-planning-line"></span></div>
+        <div class="gn-planning-row"><span class="gn-planning-num">4</span><span class="gn-planning-line"></span></div>
+        <div class="gn-planning-row"><span class="gn-planning-num">5</span><span class="gn-planning-line"></span></div>
+        <div class="gn-planning-row"><span class="gn-planning-num">6</span><span class="gn-planning-line"></span></div>
+        <div class="gn-planning-row"><span class="gn-planning-num">7</span><span class="gn-planning-line"></span></div>
+        <div class="gn-planning-divider">Props & Equipment Needed</div>
+        <div class="gn-planning-row"><span class="gn-planning-line" style="width:100%"></span></div>
+        <div class="gn-planning-row"><span class="gn-planning-line" style="width:100%"></span></div>
+        <div class="gn-planning-divider">Notes</div>
+        <div class="gn-planning-row"><span class="gn-planning-line" style="width:100%"></span></div>
+        <div class="gn-planning-row"><span class="gn-planning-line" style="width:100%"></span></div>
+      </div>
+    </div>
+
+    <div style="text-align:center;margin-top:var(--space-12);">
+      <p style="font-family:var(--font-accent);font-style:italic;color:var(--color-text-muted);font-size:var(--text-base);margin-bottom:var(--space-6);">
+        &ldquo;The best of all games are those which need nothing but willing company.&rdquo;
+      </p>
+      <button class="load-more-btn" onclick="navigateTo('home')">Browse the Collection</button>
+    </div>
+  </section>
+
+  <!-- SUBMIT A GAME SECTION -->
+  <section class="about-section submit-section container container--narrow" id="submit-section">
+    <div class="gn-hero">
+      <div class="hero__badge">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12l7-7 7 7"/></svg>
+        Community Contributions
+      </div>
+      <h2 class="hero__heading" style="text-align:center;margin-bottom:var(--space-4);">Submit a Game</h2>
+      <p class="hero__desc" style="text-align:center;">Know a Victorian-era game that belongs in this collection? We'd love to add it. Share what you know and we'll research and format it for the archive.</p>
+    </div>
+
+    <div class="submit-form-wrap">
+      <div class="submit-form-intro">
+        <p>Fill in as much as you know. The only required field is the game name. Your submission will be sent to the Heritage Parlor team for review. If we add your game, we'll credit you in the entry.</p>
+      </div>
+
+      <form class="submit-form" id="submit-game-form" onsubmit="handleGameSubmit(event)">
+        <div class="submit-form__field">
+          <label class="submit-form__label" for="sg-name">Game Name <span class="submit-form__required">*</span></label>
+          <input class="submit-form__input" type="text" id="sg-name" name="name" placeholder="e.g. The Laughing Game" required />
+        </div>
+
+        <div class="submit-form__field">
+          <label class="submit-form__label" for="sg-category">Category</label>
+          <select class="submit-form__input" id="sg-category" name="category">
+            <option value="">— Select a category —</option>
+            <option value="Parlor Game">Parlor Game</option>
+            <option value="Card Game">Card Game</option>
+            <option value="Magic Trick">Magic Trick</option>
+            <option value="Puzzle">Puzzle</option>
+            <option value="Word Game">Word Game</option>
+            <option value="Physical Game">Physical Game</option>
+            <option value="Board Game">Board Game</option>
+            <option value="Folk Game">Folk Game</option>
+            <option value="Scientific Recreation">Scientific Recreation</option>
+            <option value="Other / Unsure">Other / Unsure</option>
+          </select>
+        </div>
+
+        <div class="submit-form__field">
+          <label class="submit-form__label" for="sg-description">Brief Description</label>
+          <textarea class="submit-form__input submit-form__textarea" id="sg-description" name="description" placeholder="A short description of what the game is and how it works…" rows="3"></textarea>
+        </div>
+
+        <div class="submit-form__field">
+          <label class="submit-form__label" for="sg-howtoplay">How to Play</label>
+          <textarea class="submit-form__input submit-form__textarea" id="sg-howtoplay" name="howtoplay" placeholder="Step-by-step instructions or as much as you remember…" rows="5"></textarea>
+        </div>
+
+        <div class="submit-form__field">
+          <label class="submit-form__label" for="sg-source">Source (if known)</label>
+          <input class="submit-form__input" type="text" id="sg-source" name="source" placeholder="Book title, website, family tradition, etc." />
+        </div>
+
+        <div class="submit-form__row">
+          <div class="submit-form__field">
+            <label class="submit-form__label" for="sg-yourname">Your Name <span class="submit-form__optional">(optional)</span></label>
+            <input class="submit-form__input" type="text" id="sg-yourname" name="yourname" placeholder="For credit in the entry" />
+          </div>
+          <div class="submit-form__field">
+            <label class="submit-form__label" for="sg-email">Your Email <span class="submit-form__optional">(optional)</span></label>
+            <input class="submit-form__input" type="email" id="sg-email" name="email" placeholder="We'll notify you if it's added" />
+          </div>
+        </div>
+
+        <div class="submit-form__actions">
+          <button type="submit" class="submit-form__btn">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            Send Submission
+          </button>
+        </div>
+      </form>
+
+      <div class="submit-form__confirm" id="submit-confirm" style="display:none">
+        <div class="submit-form__confirm-icon">✦</div>
+        <h3 style="font-family:var(--font-display);font-size:var(--text-lg);margin-bottom:var(--space-3);">Thank You!</h3>
+        <p style="color:var(--color-text-muted);font-size:var(--text-sm);">Your email client will open with the submission pre-filled. Once sent, the Heritage Parlor team will review it. We'll be in touch if your game is added to the collection.</p>
+        <button class="load-more-btn" style="margin-top:var(--space-6)" onclick="navigateTo('home')">Back to the Collection</button>
+      </div>
+    </div>
+  </section>
+
   <!-- DETAIL OVERLAY -->
   <div class="detail-overlay" id="detail-overlay" role="dialog" aria-modal="true" aria-label="Entry details">
     <div class="detail-panel" id="detail-panel"></div>
@@ -208,6 +504,14 @@
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
       About
     </button>
+    <button class="mobile-nav__btn" data-mob="game-nights" onclick="navigateTo('game-nights')">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+      Nights
+    </button>
+    <button class="mobile-nav__btn" data-mob="submit" onclick="navigateTo('submit')">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12l7-7 7 7"/></svg>
+      Submit
+    </button>
   </nav>
 
   <!-- FOOTER -->
@@ -215,6 +519,7 @@
     <div class="container">
       <p>Heritage Parlor — 502 public domain games, tricks & puzzles from 1857–1917.<br>
       Sources: <a href="https://www.gutenberg.org/" target="_blank" rel="noopener noreferrer">Project Gutenberg</a> · <a href="https://archive.org/" target="_blank" rel="noopener noreferrer">Internet Archive</a></p>
+      <p style="margin-top:var(--space-3);"><a onclick="navigateTo('game-nights')" style="cursor:pointer;">Game Nights</a> · <a onclick="navigateTo('submit')" style="cursor:pointer;">Submit a Game</a> · <a href="mailto:jeromy.darling@gmail.com">Contact</a></p>
     </div>
   </footer>
 

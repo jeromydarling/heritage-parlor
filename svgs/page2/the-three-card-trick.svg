@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE THREE-CARD TRICK</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  3 playing cards</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: Three cards are laid out — two plain cards and one Queen. You mix</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">them and invite someone to track the Queen. They always lose. Method: A</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">specific throw movement secretly switches which card is the Queen during the</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">mix. The slight bend on the Queen can also be transferred to a different card</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">during the throw. Spectators follow the bend, not the actual Queen. Hoffmann</text>
+  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">described this to EXPOSE street swindles — understanding how the trick works</text>
+  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">helps you avoid being fooled in real life. Note: historically used to cheat</text>
+  <text x="56" y="405" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">people out of money; presented here as an educational exposure.</text>
+  <text x="56" y="446" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="470" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Three-card monte was one of the most widespread street gambling swindles of</text>
+  <text x="56" y="488" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the Victorian era. Hoffmann described it to expose how spectators were</text>
+  <text x="56" y="506" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">cheated, calling it &apos;the most dangerous of all card games.&apos; Modern versions</text>
+  <text x="56" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">are still found on tourist streets worldwide.</text>
+  <text x="56" y="558" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The classic three-card monte - follow the Queen through the shuffle; it seems</text>
+  <text x="56" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">impossible to lose.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

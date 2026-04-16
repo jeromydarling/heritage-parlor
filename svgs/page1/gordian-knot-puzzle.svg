@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE GORDIAN KNOT (WIRE PUZZLE)</text>
+  <text x="408" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#555">Puzzle  ·  1 players  ·  Advanced</text>
+  <line x1="220" y1="126" x2="596" y2="126" stroke="#ccc" stroke-width="0.75"/>
+  <rect x="208" y="280.0" width="400" height="280" fill="#f5f0e6" stroke="#1a1a1a" stroke-width="2" rx="1"/>
+  <line x1="208" y1="280.0" x2="608" y2="560" stroke="#1a1a1a" stroke-width="1.5" stroke-dasharray="8,4"/>
+  <line x1="341" y1="280.0" x2="341" y2="560" stroke="#1a1a1a" stroke-width="1.5" stroke-dasharray="8,4"/>
+  <line x1="474" y1="280.0" x2="474" y2="560" stroke="#1a1a1a" stroke-width="1.5" stroke-dasharray="8,4"/>
+  <text x="408" y="590" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">✂ Cut along the dashed lines, then reassemble</text>
+  <text x="408" y="800" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#555">Cut this page along the marked lines. See page 2 for the challenge.</text>
+  <text x="408" y="1014" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#ccc">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>
+</svg>

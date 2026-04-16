@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">BEGGAR MY NEIGHBOR</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  standard deck of 52 cards</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Deal all 52 cards equally into face-down packs. Take turns flipping your top</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">card onto a central pile. When a court card appears — Ace (pay 4 cards), King</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">(pay 3), Queen (pay 2), or Jack (pay 1) — the NEXT player must &apos;pay&apos; by</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">flipping that many cards face-down onto the pile. If they flip another court</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">card during their payment, the penalty transfers to the next player. If a</text>
+  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">player pays all their penalty cards without hitting a court card, the player</text>
+  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">who played the original court card takes the entire pile. Last player with</text>
+  <text x="56" y="405" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">cards wins.</text>
+  <text x="56" y="446" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="470" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Beggar My Neighbor (also called Beat Your Neighbor Out of Doors) was popular</text>
+  <text x="56" y="488" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">in English nurseries throughout the Victorian era. It&apos;s mentioned by Pip in</text>
+  <text x="56" y="506" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Dickens&apos;s Great Expectations. There&apos;s actually no winning strategy - outcome</text>
+  <text x="56" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">is entirely determined by the initial shuffle.</text>
+  <text x="56" y="558" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A card game of pure chance where players try to win all cards by playing</text>
+  <text x="56" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">penalty cards.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: My Book of Indoor Games (1916)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

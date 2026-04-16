@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MAGIC STAR</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  star pattern diagram</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  12 numbered counters</text>
+  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Draw a six-pointed Star of David pattern. The 12 positions are: 6 points of</text>
+  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the star and 6 inner intersections. Number counters 1 through 12. Place them</text>
+  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">on the positions so that every straight line of four numbers sums to the same</text>
+  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">total (26 is one possible target). Multiple solutions exist. Start by placing</text>
+  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the highest and lowest numbers symmetrically, then work inward by trial and</text>
+  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">adjustment. Paper and pencil are your best tools — sketch different</text>
+  <text x="56" y="406" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">arrangements before committing.</text>
+  <text x="56" y="447" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="471" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Magic star puzzles were considered an advanced form of the classic magic</text>
+  <text x="56" y="489" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">square. Hoffmann devoted several pages to them in his book, noting that</text>
+  <text x="56" y="507" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">unlike magic squares, magic stars have been surprisingly little studied by</text>
+  <text x="56" y="525" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">professional mathematicians.</text>
+  <text x="56" y="559" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="583" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Arrange numbered counters on a six-pointed star so that every straight row of</text>
+  <text x="56" y="601" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">four numbers adds up to the same total. The star has six points and six</text>
+  <text x="56" y="619" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">sides, each containing four positions. A satisfying mathematical arrangement</text>
+  <text x="56" y="637" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">puzzle that extends the magic square concept.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Puzzles Old and New (1893)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

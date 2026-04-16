@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">LOTTO (BINGO)</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  lotto cards</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  numbered tokens</text>
+  <text x="72" y="236" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  draw bag</text>
+  <text x="56" y="276" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="302" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Each player holds a card showing 15 numbers arranged in 3 rows of 5. One</text>
+  <text x="56" y="323" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">person is the caller: they draw numbered tokens from a bag one at a time and</text>
+  <text x="56" y="344" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">announce each number. Mark matching numbers on your card with a small token</text>
+  <text x="56" y="365" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">or pencil tick. First player to complete a full horizontal row of 5 shouts</text>
+  <text x="56" y="386" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">&apos;Lotto!&apos; (or &apos;Bingo!&apos;) and wins. Check that all their numbers were actually</text>
+  <text x="56" y="407" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">called before confirming the win. You can make simple lotto cards on paper</text>
+  <text x="56" y="428" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">with any numbers from 1–90.</text>
+  <text x="56" y="469" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="493" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Lotto originated in 16th-century Italy as &apos;Il Giuoco del Lotto d&apos;Italia.&apos; The</text>
+  <text x="56" y="511" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">American version &apos;Bingo&apos; acquired its name in 1929 when toy salesman Edwin</text>
+  <text x="56" y="529" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Lowe accidentally shouted &apos;Bingo!&apos; instead of &apos;Beano!&apos; at a carnival.</text>
+  <text x="56" y="563" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="587" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The ancient Italian game of chance: match called numbers to your card, be</text>
+  <text x="56" y="605" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">first to complete a row.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

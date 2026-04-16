@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">AGON (QUEEN&apos;S GUARDS)</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  Agon board (hexagonal grid)</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  pieces: 1 queen + 6 guards per player</text>
+  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Two players each control a Queen and six Guards on a hexagonal grid board.</text>
+  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Both start around the rim. Each turn, move one piece to an adjacent hexagon —</text>
+  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">working your Queen toward the exact center hex while surrounding her with all</text>
+  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">six Guards. Capture an opponent&apos;s piece by flanking it between two of yours —</text>
+  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">it gets sent back to the rim. Win by placing your Queen in the center hex</text>
+  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">with all six Guards in the six hexes around her. Agon boards are available to</text>
+  <text x="56" y="406" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">print free online.</text>
+  <text x="56" y="447" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="471" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Agon is believed to be the oldest board game using a hexagonal grid and one</text>
+  <text x="56" y="489" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">of the first games specifically designed for and by women — it was patented</text>
+  <text x="56" y="507" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">in France in 1842 and quickly spread to Britain as an elegant drawing room</text>
+  <text x="56" y="525" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">game.</text>
+  <text x="56" y="559" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="583" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Two players each command a Queen and six Guards arranged on a hexagonal</text>
+  <text x="56" y="601" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">board. The goal is to maneuver your Queen to the central hexagon, surrounded</text>
+  <text x="56" y="619" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">by all six of your Guards, before your opponent does the same. Pieces may be</text>
+  <text x="56" y="637" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">captured and sent back to the starting rim.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

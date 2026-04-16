@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">ALLIGOSHEE</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Pair up. Each pair faces the same direction and links arms behind each</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">other&apos;s backs. Skip forward together for the first four lines of the song,</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">then skip backward for the next, and on the last line spin around together</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">without unclinking arms. Keeping arms linked while spinning is the tricky,</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">funny challenge. Great pairs game for younger kids.</text>
+  <text x="56" y="383" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="407" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The unusual word &apos;Alligoshee&apos; is a fine example of how folk game rhymes often</text>
+  <text x="56" y="425" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">preserve corrupted or nonsense syllables from older languages, kept alive for</text>
+  <text x="56" y="443" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">centuries simply because children loved their sound.</text>
+  <text x="56" y="477" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="501" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Children form pairs with arms linked behind. They skip forward then back</text>
+  <text x="56" y="519" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">while singing the first four lines, then turn about without loosing hands at</text>
+  <text x="56" y="537" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the last line. One version runs: &apos;Betsy Blue came all in black... /</text>
+  <text x="56" y="555" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Alligoshi, alligoshee, / Turn the bridle over my knee.&apos;</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. I (1894)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

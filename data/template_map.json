@@ -1,0 +1,2921 @@
+{
+  "nxn_grid": [
+    {
+      "id": "the-divided-garden",
+      "title": "The Divided Garden",
+      "params": {
+        "size": 5
+      }
+    },
+    {
+      "id": "the-fountain-puzzle",
+      "title": "The Fountain Puzzle",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-row-of-halfpence",
+      "title": "The Row of Halfpence",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-christmas-boxes",
+      "title": "The Christmas Boxes",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "square-money",
+      "title": "Square Money",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-puzzling-money-boxes",
+      "title": "The Puzzling Money-Boxes",
+      "params": {
+        "size": 3,
+        "note": "spatial_puzzle_fallback"
+      }
+    },
+    {
+      "id": "the-pigs-of-widow-green",
+      "title": "The Pigs of Widow Green",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-patchwork-quilt",
+      "title": "The Patchwork Quilt",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-merchant-s-puzzle",
+      "title": "The Merchant's Puzzle",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-barrel-of-beer",
+      "title": "The Barrel of Beer",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-hat-peg-puzzle",
+      "title": "The Hat-peg Puzzle",
+      "params": {
+        "size": 3,
+        "note": "spatial_puzzle_fallback"
+      }
+    },
+    {
+      "id": "the-dorcas-society-puzzle",
+      "title": "The Dorcas Society Puzzle",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-fare-box-puzzle",
+      "title": "The Fare Box Puzzle",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-farmer-s-fence",
+      "title": "The Farmer's Fence",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-puzzles-of-domenico-rosario",
+      "title": "The Puzzles of Domenico Rosario",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-see-saw-puzzle",
+      "title": "The See-Saw Puzzle",
+      "params": {
+        "size": 3,
+        "note": "spatial_puzzle_fallback"
+      }
+    },
+    {
+      "id": "towers-of-hanoi",
+      "title": "Towers of Hanoi",
+      "params": {
+        "size": 3,
+        "note": "spatial_puzzle_fallback"
+      }
+    },
+    {
+      "id": "the-card-puzzle",
+      "title": "The Card Puzzle",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-fly-s-tour",
+      "title": "The Fly's Tour",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-reve-s-puzzle",
+      "title": "The Reve's Puzzle",
+      "params": {
+        "size": 3,
+        "note": "spatial_puzzle_fallback"
+      }
+    },
+    {
+      "id": "the-tapiser-s-puzzle",
+      "title": "The Tapiser's Puzzle",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-wife-of-bath-s-riddles",
+      "title": "The Wife of Bath's Riddles",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-man-of-law-s-puzzle",
+      "title": "The Man of Law's Puzzle",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-puzzle-of-the-doctor-of-physic",
+      "title": "The Puzzle of the Doctor of Physic",
+      "params": {
+        "size": 3,
+        "note": "spatial_puzzle_fallback"
+      }
+    },
+    {
+      "id": "the-nun-s-puzzle",
+      "title": "The Nun's Puzzle",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-ploughman-s-puzzle",
+      "title": "The Ploughman's Puzzle",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-weaver-s-puzzle",
+      "title": "The Weaver's Puzzle",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-minstrel-s-puzzle",
+      "title": "The Minstrel's Puzzle",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-four-frogs",
+      "title": "The Four Frogs",
+      "params": {
+        "size": 4
+      }
+    },
+    {
+      "id": "lotto-bingo",
+      "title": "Lotto (Bingo)",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "noughts-and-crosses-tic-tac-toe",
+      "title": "Noughts and Crosses (Tic-Tac-Toe)",
+      "params": {
+        "size": 5
+      }
+    },
+    {
+      "id": "the-farmers-puzzle",
+      "title": "The Farmer's Puzzle",
+      "params": {
+        "size": 4
+      }
+    },
+    {
+      "id": "the-shunting-puzzle",
+      "title": "The Shunting Puzzle",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "the-square-puzzle",
+      "title": "The Square Puzzle",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "dice-chuck-a-luck",
+      "title": "Dice (Chuck-a-Luck)",
+      "params": {
+        "size": 4,
+        "note": "board_game_fallback"
+      }
+    },
+    {
+      "id": "the-squires-puzzle-word-arithmetic",
+      "title": "The Squire's Puzzle (Word Arithmetic)",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "bridgeboard",
+      "title": "Bridgeboard",
+      "params": {
+        "size": 4,
+        "note": "folk_game_with_board"
+      }
+    },
+    {
+      "id": "the-game-of-logic",
+      "title": "The Game of Logic",
+      "params": {
+        "size": 4,
+        "note": "board_game_fallback"
+      }
+    },
+    {
+      "id": "magic-square-sociable",
+      "title": "The Magic Square (Match Puzzle)",
+      "params": {
+        "size": 5
+      }
+    },
+    {
+      "id": "blind-abbot-monks",
+      "title": "The Blind Abbot and His Monks",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "nine-digits-magic",
+      "title": "Nine Digits",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "solitaire-sociable",
+      "title": "Solitaire (Peg Solitaire)",
+      "params": {
+        "size": 7
+      }
+    },
+    {
+      "id": "problem-of-money",
+      "title": "The Problem of Money",
+      "params": {
+        "size": 5
+      }
+    },
+    {
+      "id": "magic-tumbler",
+      "title": "The Magic Tumbler",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "boomerang-card",
+      "title": "The Boomerang (Card Trick)",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "smoke-bottles",
+      "title": "The Smoke Bottles",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "iron-filings-magnetism",
+      "title": "Magnet Experiments",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "mineral-chameleon",
+      "title": "The Mineral Chameleon",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "pick-me-up-puzzle",
+      "title": "The Pick-Me-Up Puzzle",
+      "params": {
+        "size": 3,
+        "note": "spatial_puzzle_fallback"
+      }
+    },
+    {
+      "id": "coin-and-card-puzzle",
+      "title": "The Coin and Card Puzzle",
+      "params": {
+        "size": 3,
+        "note": "spatial_puzzle_fallback"
+      }
+    },
+    {
+      "id": "barrel-and-ball-puzzle",
+      "title": "The Barrel and Ball",
+      "params": {
+        "size": 3,
+        "note": "spatial_puzzle_fallback"
+      }
+    },
+    {
+      "id": "cage-and-ball-puzzle",
+      "title": "The Cage and Ball",
+      "params": {
+        "size": 3,
+        "note": "spatial_puzzle_fallback"
+      }
+    },
+    {
+      "id": "puzzle-of-dissected-cross",
+      "title": "The Dissected Cross",
+      "params": {
+        "size": 5
+      }
+    },
+    {
+      "id": "row-of-soldiers-puzzle",
+      "title": "The Row of Soldiers",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "tower-of-hanoi-hoffmann",
+      "title": "Tower of Hanoi",
+      "params": {
+        "size": 3,
+        "note": "spatial_puzzle_fallback"
+      }
+    },
+    {
+      "id": "four-colours-dexterity",
+      "title": "The Four Colours Puzzle",
+      "params": {
+        "size": 3,
+        "note": "spatial_puzzle_fallback"
+      }
+    },
+    {
+      "id": "three-peg-puzzle",
+      "title": "The Three Peg Puzzle",
+      "params": {
+        "size": 5
+      }
+    },
+    {
+      "id": "sympathetic-inks",
+      "title": "Sympathetic or Invisible Inks",
+      "params": {
+        "size": 3
+      }
+    },
+    {
+      "id": "silver-tree",
+      "title": "The Silver Tree",
+      "params": {
+        "size": 3
+      }
+    }
+  ],
+  "morris": [
+    {
+      "id": "the-jolly-miller",
+      "title": "The Jolly Miller",
+      "params": {
+        "variant": "nine_mens"
+      }
+    },
+    {
+      "id": "nine-men-s-morris",
+      "title": "Nine Men's Morris",
+      "params": {
+        "variant": "three_mens"
+      }
+    },
+    {
+      "id": "the-millionaire-s-perplexity",
+      "title": "The Millionaire's Perplexity",
+      "params": {
+        "variant": "nine_mens"
+      }
+    },
+    {
+      "id": "the-buried-treasure",
+      "title": "The Buried Treasure",
+      "params": {
+        "variant": "three_mens"
+      }
+    },
+    {
+      "id": "the-miller-s-puzzle",
+      "title": "The Miller's Puzzle",
+      "params": {
+        "variant": "nine_mens"
+      }
+    },
+    {
+      "id": "fox-and-geese-board",
+      "title": "Fox and Geese (Board)",
+      "params": {
+        "variant": "fox_and_geese"
+      }
+    },
+    {
+      "id": "fox-and-geese-outdoor-snowy",
+      "title": "Fox and Geese (Outdoor, Snowy)",
+      "params": {
+        "variant": "fox_and_geese"
+      }
+    },
+    {
+      "id": "merelles-nine-mens-morris-sociable",
+      "title": "Merelles (Nine Men's Morris)",
+      "params": {
+        "variant": "three_mens"
+      }
+    }
+  ],
+  "star_polygon": [
+    {
+      "id": "indiscriminate-charity",
+      "title": "Indiscriminate Charity",
+      "params": {
+        "points": 3,
+        "type": "star"
+      }
+    },
+    {
+      "id": "buying-presents",
+      "title": "Buying Presents",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-junior-clerk-s-puzzle",
+      "title": "The Junior Clerk's Puzzle",
+      "params": {
+        "points": 6,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-dissection-of-viereck-s-square",
+      "title": "The Dissection of Viereck's Square",
+      "params": {
+        "points": 3,
+        "type": "polygon"
+      }
+    },
+    {
+      "id": "the-flower-beds-puzzle",
+      "title": "The Flower Beds Puzzle",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-monk-and-the-pilgrim",
+      "title": "The Monk and the Pilgrim",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-puzzlists-holiday",
+      "title": "The Puzzlists' Holiday",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-mouse-and-the-cat",
+      "title": "The Mouse and the Cat",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-pardoner-s-puzzle",
+      "title": "The Pardoner's Puzzle",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-clerk-of-oxenford-s-puzzle",
+      "title": "The Clerk of Oxenford's Puzzle",
+      "params": {
+        "points": 4,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-shipman-s-puzzle",
+      "title": "The Shipman's Puzzle",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-haberdasher-s-puzzle",
+      "title": "The Haberdasher's Puzzle",
+      "params": {
+        "points": 3,
+        "type": "polygon"
+      }
+    },
+    {
+      "id": "the-sompnour-s-puzzle",
+      "title": "The Sompnour's Puzzle",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-compasses-puzzle",
+      "title": "The Compasses Puzzle",
+      "params": {
+        "points": 5,
+        "type": "polygon"
+      }
+    },
+    {
+      "id": "the-prisoners-escape",
+      "title": "The Prisoner's Escape",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-converted-miser",
+      "title": "The Converted Miser",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-fifteen-puzzle",
+      "title": "The Fifteen Puzzle",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-landlords-puzzle",
+      "title": "The Landlord's Puzzle",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "dominoes-block-game",
+      "title": "Dominoes (Block Game)",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "halma",
+      "title": "Halma",
+      "params": {
+        "points": 4,
+        "type": "star"
+      }
+    },
+    {
+      "id": "reversi-othello",
+      "title": "Reversi (Othello)",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "the-dissected-square",
+      "title": "The Dissected Square",
+      "params": {
+        "points": 3,
+        "type": "polygon"
+      }
+    },
+    {
+      "id": "the-prisoners-in-a-row",
+      "title": "The Prisoners in a Row",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "practicable-orchard",
+      "title": "The Practicable Orchard",
+      "params": {
+        "points": 6,
+        "type": "star"
+      }
+    },
+    {
+      "id": "christians-and-turks",
+      "title": "Christians and Turks",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "agon-queens-guards",
+      "title": "Agon (Queen's Guards)",
+      "params": {
+        "points": 6,
+        "type": "star"
+      }
+    },
+    {
+      "id": "fire-from-cane",
+      "title": "Fire from a Cane",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "magic-star-puzzle",
+      "title": "The Magic Star",
+      "params": {
+        "points": 6,
+        "type": "star"
+      }
+    },
+    {
+      "id": "magic-hexagon-puzzle",
+      "title": "The Magic Hexagon",
+      "params": {
+        "points": 6,
+        "type": "polygon"
+      }
+    },
+    {
+      "id": "cryptarithmetic-puzzle",
+      "title": "The Cryptarithmetic Puzzle (Letters for Digits)",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    },
+    {
+      "id": "wheel-of-aristotle",
+      "title": "The Wheel of Aristotle",
+      "params": {
+        "points": 5,
+        "type": "star"
+      }
+    }
+  ],
+  "circle": [
+    {
+      "id": "the-nuns-puzzle",
+      "title": "The Nuns Puzzle",
+      "params": {
+        "positions": 20
+      }
+    },
+    {
+      "id": "the-garden-puzzle",
+      "title": "The Garden Puzzle",
+      "params": {
+        "positions": 8
+      }
+    },
+    {
+      "id": "the-nine-counters",
+      "title": "The Nine Counters",
+      "params": {
+        "positions": 9
+      }
+    },
+    {
+      "id": "the-archery-puzzle",
+      "title": "The Archery Puzzle",
+      "params": {
+        "positions": 16
+      }
+    },
+    {
+      "id": "the-perplexed-cellarman",
+      "title": "The Perplexed Cellarman",
+      "params": {
+        "positions": 24
+      }
+    },
+    {
+      "id": "the-puzzle-of-the-squire-s-yeoman",
+      "title": "The Puzzle of the Squire's Yeoman",
+      "params": {
+        "positions": 9
+      }
+    },
+    {
+      "id": "the-monk-s-puzzle",
+      "title": "The Monk's Puzzle",
+      "params": {
+        "positions": 8
+      }
+    },
+    {
+      "id": "the-friar-s-puzzle",
+      "title": "The Friar's Puzzle",
+      "params": {
+        "positions": 8
+      }
+    },
+    {
+      "id": "the-problem-of-the-governor-s-wife",
+      "title": "The Problem of the Governor's Wife",
+      "params": {
+        "positions": 15
+      }
+    },
+    {
+      "id": "backgammon",
+      "title": "Backgammon",
+      "params": {
+        "positions": 15
+      }
+    },
+    {
+      "id": "centennial-dice-racing",
+      "title": "Centennial (Dice Racing)",
+      "params": {
+        "positions": 3
+      }
+    },
+    {
+      "id": "the-clock-puzzle",
+      "title": "The Clock Puzzle",
+      "params": {
+        "positions": 12
+      }
+    },
+    {
+      "id": "the-magic-square-order-3",
+      "title": "The Magic Square (Order 3)",
+      "params": {
+        "positions": 9
+      }
+    },
+    {
+      "id": "the-spiders-web-puzzle",
+      "title": "The Spider's Web Puzzle",
+      "params": {
+        "positions": 8
+      }
+    },
+    {
+      "id": "the-circle-puzzle",
+      "title": "The Circle Puzzle",
+      "params": {
+        "positions": 12
+      }
+    },
+    {
+      "id": "the-noughts-and-crosses-tournament",
+      "title": "The Noughts and Crosses Tournament",
+      "params": {
+        "positions": 3
+      }
+    },
+    {
+      "id": "puzzle-purse",
+      "title": "The Puzzle Purse",
+      "params": {
+        "positions": 3
+      }
+    },
+    {
+      "id": "thaumatrope-sociable",
+      "title": "The Thaumatrope",
+      "params": {
+        "positions": 10
+      }
+    },
+    {
+      "id": "fire-under-water",
+      "title": "Fire Under Water",
+      "params": {
+        "positions": 8
+      }
+    },
+    {
+      "id": "planet-puzzle",
+      "title": "The Planet Puzzle",
+      "params": {
+        "positions": 8
+      }
+    },
+    {
+      "id": "egg-and-card-puzzle",
+      "title": "The Egg and Card Puzzle",
+      "params": {
+        "positions": 8
+      }
+    },
+    {
+      "id": "bouci-boula",
+      "title": "Bouci-Boula",
+      "params": {
+        "positions": 8
+      }
+    },
+    {
+      "id": "switchback-puzzle",
+      "title": "The Switchback",
+      "params": {
+        "positions": 3
+      }
+    },
+    {
+      "id": "captive-sixpence",
+      "title": "The Captive Sixpence",
+      "params": {
+        "positions": 6
+      }
+    },
+    {
+      "id": "chinese-rings-puzzle",
+      "title": "The Chinese Rings",
+      "params": {
+        "positions": 9
+      }
+    },
+    {
+      "id": "pigs-in-clover-puzzle",
+      "title": "Pigs in Clover",
+      "params": {
+        "positions": 5
+      }
+    },
+    {
+      "id": "river-crossing-puzzle",
+      "title": "The River Crossing (Fox, Goose, and Bag of Corn)",
+      "params": {
+        "positions": 7
+      }
+    },
+    {
+      "id": "number-guessing-trick",
+      "title": "The Number Guessing Trick",
+      "params": {
+        "positions": 3
+      }
+    },
+    {
+      "id": "cleopatras-pearls",
+      "title": "Cleopatra's Pearls",
+      "params": {
+        "positions": 8
+      }
+    },
+    {
+      "id": "new-perpetual-motion",
+      "title": "New Perpetual Rotary Motion",
+      "params": {
+        "positions": 8
+      }
+    }
+  ],
+  "chessboard": [
+    {
+      "id": "fox-and-geese",
+      "title": "Fox and Geese",
+      "params": {
+        "size": 8,
+        "pieces": [
+          "checker"
+        ]
+      }
+    },
+    {
+      "id": "the-squire-s-puzzle",
+      "title": "The Squire's Puzzle",
+      "params": {
+        "size": 8,
+        "pieces": [
+          "knight"
+        ]
+      }
+    },
+    {
+      "id": "the-broken-chessboard",
+      "title": "The Broken Chessboard",
+      "params": {
+        "size": 8,
+        "pieces": []
+      }
+    },
+    {
+      "id": "the-rook-s-tour",
+      "title": "The Rook's Tour",
+      "params": {
+        "size": 8,
+        "pieces": [
+          "rook"
+        ]
+      }
+    },
+    {
+      "id": "bishops-on-a-chessboard",
+      "title": "Bishops on a Chessboard",
+      "params": {
+        "size": 8,
+        "pieces": [
+          "bishop"
+        ]
+      }
+    },
+    {
+      "id": "the-eight-queens",
+      "title": "The Eight Queens",
+      "params": {
+        "size": 8,
+        "pieces": [
+          "queen"
+        ]
+      }
+    },
+    {
+      "id": "the-knight-s-puzzle",
+      "title": "The Knight's Puzzle",
+      "params": {
+        "size": 8,
+        "pieces": [
+          "knight"
+        ]
+      }
+    },
+    {
+      "id": "the-puzzles-of-the-black-knight",
+      "title": "The Puzzles of the Black Knight",
+      "params": {
+        "size": 8,
+        "pieces": [
+          "knight"
+        ]
+      }
+    },
+    {
+      "id": "the-mutilated-chessboard",
+      "title": "The Mutilated Chessboard",
+      "params": {
+        "size": 8,
+        "pieces": []
+      }
+    },
+    {
+      "id": "draughts-checkers",
+      "title": "Draughts (Checkers)",
+      "params": {
+        "size": 8,
+        "pieces": [
+          "checker"
+        ]
+      }
+    },
+    {
+      "id": "chess",
+      "title": "Chess",
+      "params": {
+        "size": 8,
+        "pieces": [
+          "queen",
+          "knight",
+          "rook",
+          "bishop",
+          "pawn"
+        ]
+      }
+    },
+    {
+      "id": "draughts-checkers-variants",
+      "title": "Draughts (Checkers) Variants",
+      "params": {
+        "size": 8,
+        "pieces": [
+          "bishop",
+          "checker"
+        ]
+      }
+    },
+    {
+      "id": "postal-chess-correspondence-chess",
+      "title": "Postal Chess (Correspondence Chess)",
+      "params": {
+        "size": 8,
+        "pieces": []
+      }
+    },
+    {
+      "id": "knight-tour-puzzle",
+      "title": "The Knight's Tour",
+      "params": {
+        "size": 8,
+        "pieces": [
+          "knight"
+        ]
+      }
+    }
+  ],
+  "graph": [
+    {
+      "id": "the-river-crossing-problem",
+      "title": "The River Crossing Problem",
+      "params": {}
+    },
+    {
+      "id": "the-maze-hoffmann",
+      "title": "The Maze Puzzle",
+      "params": {}
+    }
+  ],
+  "dissection": [
+    {
+      "id": "the-cardboard-puzzle",
+      "title": "The Cardboard Puzzle",
+      "params": {
+        "type": "dissection"
+      }
+    },
+    {
+      "id": "the-widow-s-legacy",
+      "title": "The Widow's Legacy",
+      "params": {
+        "type": "dissection"
+      }
+    },
+    {
+      "id": "the-spider-and-the-fly",
+      "title": "The Spider and the Fly",
+      "params": {
+        "type": "dissection"
+      }
+    },
+    {
+      "id": "the-carpenter-s-puzzle",
+      "title": "The Carpenter's Puzzle",
+      "params": {
+        "type": "dissection"
+      }
+    },
+    {
+      "id": "the-beanfeast-puzzle",
+      "title": "The Beanfeast Puzzle",
+      "params": {
+        "type": "dissection"
+      }
+    },
+    {
+      "id": "the-button-puzzle",
+      "title": "The Button Puzzle",
+      "params": {
+        "type": "dissection"
+      }
+    },
+    {
+      "id": "dice-box-puzzle",
+      "title": "The Dice Box",
+      "params": {
+        "type": "dissection"
+      }
+    },
+    {
+      "id": "gordian-knot-puzzle",
+      "title": "The Gordian Knot (Wire Puzzle)",
+      "params": {
+        "type": "dissection"
+      }
+    }
+  ],
+  "card_layout": [
+    {
+      "id": "schimmel",
+      "title": "Schimmel",
+      "params": {}
+    },
+    {
+      "id": "whist",
+      "title": "Whist",
+      "params": {}
+    },
+    {
+      "id": "bridge",
+      "title": "Bridge",
+      "params": {}
+    },
+    {
+      "id": "euchre",
+      "title": "Euchre",
+      "params": {}
+    },
+    {
+      "id": "cribbage",
+      "title": "Cribbage",
+      "params": {}
+    },
+    {
+      "id": "piquet",
+      "title": "Piquet",
+      "params": {}
+    },
+    {
+      "id": "bezique",
+      "title": "Bezique",
+      "params": {}
+    },
+    {
+      "id": "cassino",
+      "title": "Cassino",
+      "params": {}
+    },
+    {
+      "id": "ecarte",
+      "title": "Ecarte",
+      "params": {}
+    },
+    {
+      "id": "loo",
+      "title": "Loo",
+      "params": {}
+    },
+    {
+      "id": "vingt-et-un-twenty-one",
+      "title": "Vingt-et-Un (Twenty-One)",
+      "params": {}
+    },
+    {
+      "id": "patience-klondike-solitaire",
+      "title": "Patience (Klondike Solitaire)",
+      "params": {}
+    },
+    {
+      "id": "snap",
+      "title": "Snap",
+      "params": {}
+    },
+    {
+      "id": "old-maid",
+      "title": "Old Maid",
+      "params": {}
+    },
+    {
+      "id": "happy-families",
+      "title": "Happy Families",
+      "params": {}
+    },
+    {
+      "id": "napoleon-nap",
+      "title": "Napoleon (Nap)",
+      "params": {}
+    },
+    {
+      "id": "all-fours-seven-up",
+      "title": "All Fours (Seven Up)",
+      "params": {}
+    },
+    {
+      "id": "hearts",
+      "title": "Hearts",
+      "params": {}
+    },
+    {
+      "id": "conquian-coon-can",
+      "title": "Conquian (Coon Can)",
+      "params": {}
+    },
+    {
+      "id": "cribbage-four-hand",
+      "title": "Cribbage (Four-Hand)",
+      "params": {}
+    },
+    {
+      "id": "authors",
+      "title": "Authors",
+      "params": {}
+    },
+    {
+      "id": "faro",
+      "title": "Faro",
+      "params": {}
+    },
+    {
+      "id": "poker-draw",
+      "title": "Poker (Draw)",
+      "params": {}
+    },
+    {
+      "id": "rummy-basic",
+      "title": "Rummy (Basic)",
+      "params": {}
+    },
+    {
+      "id": "auction-bridge",
+      "title": "Auction Bridge",
+      "params": {}
+    },
+    {
+      "id": "beggar-my-neighbor",
+      "title": "Beggar My Neighbor",
+      "params": {}
+    },
+    {
+      "id": "snip-snap-snorum",
+      "title": "Snip Snap Snorum",
+      "params": {}
+    },
+    {
+      "id": "pope-joan",
+      "title": "Pope Joan",
+      "params": {}
+    },
+    {
+      "id": "speculation",
+      "title": "Speculation",
+      "params": {}
+    },
+    {
+      "id": "whist-solo-whist",
+      "title": "Whist (Solo Whist)",
+      "params": {}
+    },
+    {
+      "id": "gin-rummy",
+      "title": "Gin Rummy",
+      "params": {}
+    },
+    {
+      "id": "knaves-polignac",
+      "title": "Knaves (Polignac)",
+      "params": {}
+    },
+    {
+      "id": "commerce",
+      "title": "Commerce",
+      "params": {}
+    },
+    {
+      "id": "vingt-et-un-pontoon",
+      "title": "Vingt-et-Un (Pontoon)",
+      "params": {}
+    },
+    {
+      "id": "canfield-klondike-solitaire-variant",
+      "title": "Canfield (Klondike Solitaire Variant)",
+      "params": {}
+    },
+    {
+      "id": "spoil-five-five-fingers",
+      "title": "Spoil Five (Five Fingers)",
+      "params": {}
+    },
+    {
+      "id": "baccarat",
+      "title": "Baccarat",
+      "params": {}
+    },
+    {
+      "id": "commit-stops",
+      "title": "Commit (Stops)",
+      "params": {}
+    },
+    {
+      "id": "bezique-rubicon",
+      "title": "Bezique (Rubicon)",
+      "params": {}
+    },
+    {
+      "id": "pope-joan-full-rules",
+      "title": "Pope Joan (Full Rules)",
+      "params": {}
+    },
+    {
+      "id": "cribbage-three-hand",
+      "title": "Cribbage (Three-Hand)",
+      "params": {}
+    },
+    {
+      "id": "beggar-your-neighbor-extended",
+      "title": "Beggar Your Neighbor Extended",
+      "params": {}
+    },
+    {
+      "id": "four-kings-together",
+      "title": "The Four Kings",
+      "params": {}
+    },
+    {
+      "id": "triple-deal-card-trick",
+      "title": "The Triple Deal",
+      "params": {}
+    },
+    {
+      "id": "card-discovered-touch-smell",
+      "title": "The Card Discovered by Touch",
+      "params": {}
+    },
+    {
+      "id": "knaves-and-constable",
+      "title": "The Knaves and the Constable",
+      "params": {}
+    },
+    {
+      "id": "pairs-repaired",
+      "title": "The Pairs Repaired",
+      "params": {}
+    },
+    {
+      "id": "metamorphosis-card-trick",
+      "title": "The Metamorphosis (Cards)",
+      "params": {}
+    },
+    {
+      "id": "trick-of-thirty-one",
+      "title": "The Trick of Thirty-One",
+      "params": {}
+    }
+  ],
+  "magic_sequence": [
+    {
+      "id": "the-flying-shilling",
+      "title": "The Flying Shilling",
+      "params": {}
+    },
+    {
+      "id": "the-cut-string-restored",
+      "title": "The Cut String Restored",
+      "params": {}
+    },
+    {
+      "id": "the-magic-rings",
+      "title": "The Magic Rings",
+      "params": {}
+    },
+    {
+      "id": "the-three-cups",
+      "title": "The Three Cups",
+      "params": {}
+    },
+    {
+      "id": "the-handcuffs",
+      "title": "The Handcuffs",
+      "params": {}
+    },
+    {
+      "id": "fire-eating",
+      "title": "Fire Eating",
+      "params": {}
+    },
+    {
+      "id": "finding-a-chosen-card-by-mathematics",
+      "title": "Finding a Chosen Card by Mathematics",
+      "params": {}
+    },
+    {
+      "id": "the-four-kings-together-by-cut",
+      "title": "The Four Kings Together by Cut",
+      "params": {}
+    },
+    {
+      "id": "forcing-a-card",
+      "title": "Forcing a Card",
+      "params": {}
+    },
+    {
+      "id": "guess-four-thought-of-cards",
+      "title": "Guess Four Thought-of Cards",
+      "params": {}
+    },
+    {
+      "id": "coin-through-the-handkerchief",
+      "title": "Coin Through the Handkerchief",
+      "params": {}
+    },
+    {
+      "id": "the-vanishing-knot",
+      "title": "The Vanishing Knot",
+      "params": {}
+    },
+    {
+      "id": "the-mysterious-addition-of-coins",
+      "title": "The Mysterious Addition of Coins",
+      "params": {}
+    },
+    {
+      "id": "the-cups-and-balls",
+      "title": "The Cups and Balls",
+      "params": {}
+    },
+    {
+      "id": "telling-the-hour-on-a-pocket-watch",
+      "title": "Telling the Hour on a Pocket Watch",
+      "params": {}
+    },
+    {
+      "id": "the-domino-trick",
+      "title": "The Domino Trick",
+      "params": {}
+    },
+    {
+      "id": "the-ascending-card",
+      "title": "The Ascending Card",
+      "params": {}
+    },
+    {
+      "id": "the-dancing-sailor-figure",
+      "title": "The Dancing Sailor Figure",
+      "params": {}
+    },
+    {
+      "id": "second-sight-act",
+      "title": "Second Sight Act",
+      "params": {}
+    },
+    {
+      "id": "the-linking-rings",
+      "title": "The Linking Rings",
+      "params": {}
+    },
+    {
+      "id": "the-inexhaustible-bottle",
+      "title": "The Inexhaustible Bottle",
+      "params": {}
+    },
+    {
+      "id": "the-egg-bag",
+      "title": "The Egg Bag",
+      "params": {}
+    },
+    {
+      "id": "ring-through-the-handkerchief",
+      "title": "Ring Through the Handkerchief",
+      "params": {}
+    },
+    {
+      "id": "the-magic-wand-coin-vanish",
+      "title": "The Magic Wand Coin Vanish",
+      "params": {}
+    },
+    {
+      "id": "the-butterfly-trick",
+      "title": "The Butterfly Trick",
+      "params": {}
+    },
+    {
+      "id": "invisible-writing-revealed",
+      "title": "Invisible Writing Revealed",
+      "params": {}
+    },
+    {
+      "id": "the-torn-and-restored-card",
+      "title": "The Torn and Restored Card",
+      "params": {}
+    },
+    {
+      "id": "the-indian-sand-trick",
+      "title": "The Indian Sand Trick",
+      "params": {}
+    },
+    {
+      "id": "the-obedient-ball",
+      "title": "The Obedient Ball",
+      "params": {}
+    },
+    {
+      "id": "carrying-fire-in-the-hands",
+      "title": "Carrying Fire in the Hands",
+      "params": {}
+    },
+    {
+      "id": "the-three-card-trick",
+      "title": "The Three-Card Trick",
+      "params": {}
+    },
+    {
+      "id": "the-passe-passe-bottle-and-glass",
+      "title": "The Passe-Passe Bottle and Glass",
+      "params": {}
+    },
+    {
+      "id": "the-bleeding-thumb",
+      "title": "The Bleeding Thumb",
+      "params": {}
+    },
+    {
+      "id": "the-hat-trick-production",
+      "title": "The Hat Trick Production",
+      "params": {}
+    },
+    {
+      "id": "the-rising-cards-hair-method",
+      "title": "The Rising Cards (Hair Method)",
+      "params": {}
+    },
+    {
+      "id": "the-magic-sword-card-catch",
+      "title": "The Magic Sword Card Catch",
+      "params": {}
+    },
+    {
+      "id": "the-whist-trick-with-prepared-pack",
+      "title": "The Whist Trick with Prepared Pack",
+      "params": {}
+    },
+    {
+      "id": "the-magic-cover-vanish",
+      "title": "The Magic Cover Vanish",
+      "params": {}
+    },
+    {
+      "id": "ring-through-the-table",
+      "title": "Ring Through the Table",
+      "params": {}
+    },
+    {
+      "id": "the-egg-and-handkerchief",
+      "title": "The Egg and Handkerchief",
+      "params": {}
+    },
+    {
+      "id": "coin-to-orange",
+      "title": "Coin to Orange",
+      "params": {}
+    },
+    {
+      "id": "the-magic-mill",
+      "title": "The Magic Mill",
+      "params": {}
+    },
+    {
+      "id": "the-mysterious-funnel",
+      "title": "The Mysterious Funnel",
+      "params": {}
+    },
+    {
+      "id": "the-electric-bell",
+      "title": "The Electric Bell",
+      "params": {}
+    },
+    {
+      "id": "bottle-imps",
+      "title": "Bottle Imps",
+      "params": {}
+    },
+    {
+      "id": "the-grandmothers-necklace",
+      "title": "The Grandmother's Necklace",
+      "params": {}
+    },
+    {
+      "id": "chinese-pictures-water-trick",
+      "title": "Chinese Pictures (Water Trick)",
+      "params": {}
+    },
+    {
+      "id": "the-paper-pellet-mind-reading",
+      "title": "The Paper Pellet Mind-Reading",
+      "params": {}
+    },
+    {
+      "id": "the-obedient-coin-heads-and-tails",
+      "title": "The Obedient Coin (Heads and Tails)",
+      "params": {}
+    },
+    {
+      "id": "the-magic-rings-of-paper",
+      "title": "The Magic Rings of Paper",
+      "params": {}
+    },
+    {
+      "id": "the-coin-in-the-bread",
+      "title": "The Coin in the Bread",
+      "params": {}
+    },
+    {
+      "id": "the-vanishing-glass-of-water",
+      "title": "The Vanishing Glass of Water",
+      "params": {}
+    },
+    {
+      "id": "string-through-the-neck",
+      "title": "String Through the Neck",
+      "params": {}
+    },
+    {
+      "id": "the-magic-wand-production",
+      "title": "The Magic Wand Production",
+      "params": {}
+    },
+    {
+      "id": "the-coin-and-tumbler-trick",
+      "title": "The Coin and Tumbler Trick",
+      "params": {}
+    },
+    {
+      "id": "egg-through-table",
+      "title": "Egg Through Table",
+      "params": {}
+    },
+    {
+      "id": "the-magic-mill-trick",
+      "title": "The Magic Mill Trick",
+      "params": {}
+    },
+    {
+      "id": "the-torn-card-restored-simple",
+      "title": "The Torn Card Restored (Simple)",
+      "params": {}
+    },
+    {
+      "id": "the-flying-dime",
+      "title": "The Flying Dime",
+      "params": {}
+    },
+    {
+      "id": "the-beads-and-strings",
+      "title": "The Beads and Strings",
+      "params": {}
+    },
+    {
+      "id": "magic-bond",
+      "title": "The Magic Bond",
+      "params": {}
+    },
+    {
+      "id": "ring-from-handkerchief",
+      "title": "Ring Out of a Handkerchief",
+      "params": {}
+    },
+    {
+      "id": "gordian-knot-handkerchief",
+      "title": "The Gordian Knot",
+      "params": {}
+    },
+    {
+      "id": "magic-handcuffs-trick",
+      "title": "The Magic Handcuffs",
+      "params": {}
+    },
+    {
+      "id": "cards-in-vase",
+      "title": "The Cards in the Vase",
+      "params": {}
+    },
+    {
+      "id": "infallible-prophet",
+      "title": "The Infallible Prophet",
+      "params": {}
+    },
+    {
+      "id": "hat-and-die-trick",
+      "title": "The Hat and Die Trick",
+      "params": {}
+    },
+    {
+      "id": "magic-funnel",
+      "title": "The Magic Funnel",
+      "params": {}
+    },
+    {
+      "id": "magic-bottle",
+      "title": "The Magic Bottle",
+      "params": {}
+    },
+    {
+      "id": "erratic-egg",
+      "title": "The Erratic Egg",
+      "params": {}
+    },
+    {
+      "id": "obedient-dime",
+      "title": "The Obedient Dime",
+      "params": {}
+    },
+    {
+      "id": "magnetized-cane",
+      "title": "The Magnetized Cane",
+      "params": {}
+    },
+    {
+      "id": "dancing-egg",
+      "title": "The Dancing Egg",
+      "params": {}
+    },
+    {
+      "id": "fire-eater",
+      "title": "The Fire Eater",
+      "params": {}
+    },
+    {
+      "id": "double-meaning-trick",
+      "title": "The Double Meaning",
+      "params": {}
+    },
+    {
+      "id": "wizards-wit",
+      "title": "The Wizard's Wit (Remove Middle Coin)",
+      "params": {}
+    },
+    {
+      "id": "old-man-and-his-chair",
+      "title": "The Old Man and His Chair",
+      "params": {}
+    },
+    {
+      "id": "miraculous-apple",
+      "title": "The Miraculous Apple",
+      "params": {}
+    }
+  ],
+  "rules_only": [
+    {
+      "id": "acting-proverbs",
+      "title": "Acting Proverbs",
+      "params": {}
+    },
+    {
+      "id": "acting-rhymes",
+      "title": "Acting Rhymes",
+      "params": {}
+    },
+    {
+      "id": "adjectives",
+      "title": "Adjectives",
+      "params": {}
+    },
+    {
+      "id": "the-adventurers",
+      "title": "The Adventurers",
+      "params": {}
+    },
+    {
+      "id": "aesop-s-mission",
+      "title": "Aesop's Mission",
+      "params": {}
+    },
+    {
+      "id": "alphabet-games",
+      "title": "Alphabet Games",
+      "params": {}
+    },
+    {
+      "id": "the-artists-menagerie",
+      "title": "The Artists' Menagerie",
+      "params": {}
+    },
+    {
+      "id": "blind-postman",
+      "title": "Blind Postman",
+      "params": {}
+    },
+    {
+      "id": "blowing-out-the-candle",
+      "title": "Blowing Out the Candle",
+      "params": {}
+    },
+    {
+      "id": "bouts-rim-s",
+      "title": "Bouts Rim\u00e9s",
+      "params": {}
+    },
+    {
+      "id": "buff-says-baff",
+      "title": "Buff Says Baff",
+      "params": {}
+    },
+    {
+      "id": "capping-verses",
+      "title": "Capping Verses",
+      "params": {}
+    },
+    {
+      "id": "charades",
+      "title": "Charades",
+      "params": {}
+    },
+    {
+      "id": "clairvoyant",
+      "title": "Clairvoyant",
+      "params": {}
+    },
+    {
+      "id": "the-comic-concert",
+      "title": "The Comic Concert",
+      "params": {}
+    },
+    {
+      "id": "consequences",
+      "title": "Consequences",
+      "params": {}
+    },
+    {
+      "id": "conveyances",
+      "title": "Conveyances",
+      "params": {}
+    },
+    {
+      "id": "crambo",
+      "title": "Crambo",
+      "params": {}
+    },
+    {
+      "id": "cross-questions-and-crooked-answers",
+      "title": "Cross Questions and Crooked Answers",
+      "params": {}
+    },
+    {
+      "id": "cupid-is-coming",
+      "title": "Cupid Is Coming",
+      "params": {}
+    },
+    {
+      "id": "definitions",
+      "title": "Definitions",
+      "params": {}
+    },
+    {
+      "id": "dumb-crambo",
+      "title": "Dumb Crambo",
+      "params": {}
+    },
+    {
+      "id": "the-elements",
+      "title": "The Elements",
+      "params": {}
+    },
+    {
+      "id": "the-farmyard",
+      "title": "The Farmyard",
+      "params": {}
+    },
+    {
+      "id": "finding-the-ring",
+      "title": "Finding the Ring",
+      "params": {}
+    },
+    {
+      "id": "flying",
+      "title": "Flying",
+      "params": {}
+    },
+    {
+      "id": "forfeits",
+      "title": "Forfeits",
+      "params": {}
+    },
+    {
+      "id": "the-grand-mufti",
+      "title": "The Grand Mufti",
+      "params": {}
+    },
+    {
+      "id": "hot-boiled-beans",
+      "title": "Hot Boiled Beans",
+      "params": {}
+    },
+    {
+      "id": "hot-cockles",
+      "title": "Hot Cockles",
+      "params": {}
+    },
+    {
+      "id": "how-do-you-like-your-neighbour",
+      "title": "How Do You Like Your Neighbour?",
+      "params": {}
+    },
+    {
+      "id": "how-when-and-where",
+      "title": "How, When, and Where?",
+      "params": {}
+    },
+    {
+      "id": "hunt-the-ring",
+      "title": "Hunt the Ring",
+      "params": {}
+    },
+    {
+      "id": "hunt-the-slipper",
+      "title": "Hunt the Slipper",
+      "params": {}
+    },
+    {
+      "id": "hunt-the-whistle",
+      "title": "Hunt the Whistle",
+      "params": {}
+    },
+    {
+      "id": "i-apprenticed-my-son",
+      "title": "I Apprenticed My Son",
+      "params": {}
+    },
+    {
+      "id": "i-love-my-love",
+      "title": "I Love My Love",
+      "params": {}
+    },
+    {
+      "id": "jack-s-alive",
+      "title": "Jack's Alive",
+      "params": {}
+    },
+    {
+      "id": "magical-music",
+      "title": "Magical Music",
+      "params": {}
+    },
+    {
+      "id": "the-magic-answer",
+      "title": "The Magic Answer",
+      "params": {}
+    },
+    {
+      "id": "the-magic-wand",
+      "title": "The Magic Wand",
+      "params": {}
+    },
+    {
+      "id": "the-minister-s-cat",
+      "title": "The Minister's Cat",
+      "params": {}
+    },
+    {
+      "id": "mixed-up-poetry",
+      "title": "Mixed-Up Poetry",
+      "params": {}
+    },
+    {
+      "id": "the-object-game",
+      "title": "The Object Game",
+      "params": {}
+    },
+    {
+      "id": "the-old-soldier",
+      "title": "The Old Soldier",
+      "params": {}
+    },
+    {
+      "id": "pairs",
+      "title": "Pairs",
+      "params": {}
+    },
+    {
+      "id": "postman-s-knock",
+      "title": "Postman's Knock",
+      "params": {}
+    },
+    {
+      "id": "proverbs",
+      "title": "Proverbs",
+      "params": {}
+    },
+    {
+      "id": "russian-gossip",
+      "title": "Russian Gossip",
+      "params": {}
+    },
+    {
+      "id": "the-schoolmaster",
+      "title": "The Schoolmaster",
+      "params": {}
+    },
+    {
+      "id": "shadow-buff",
+      "title": "Shadow Buff",
+      "params": {}
+    },
+    {
+      "id": "simon-says",
+      "title": "Simon Says",
+      "params": {}
+    },
+    {
+      "id": "spelling-bee",
+      "title": "Spelling Bee",
+      "params": {}
+    },
+    {
+      "id": "the-stage-coach",
+      "title": "The Stage Coach",
+      "params": {}
+    },
+    {
+      "id": "tableau-vivant",
+      "title": "Tableau Vivant",
+      "params": {}
+    },
+    {
+      "id": "telegrams",
+      "title": "Telegrams",
+      "params": {}
+    },
+    {
+      "id": "throwing-the-smile",
+      "title": "Throwing the Smile",
+      "params": {}
+    },
+    {
+      "id": "the-travelling-alphabet",
+      "title": "The Travelling Alphabet",
+      "params": {}
+    },
+    {
+      "id": "buzz",
+      "title": "Buzz",
+      "params": {}
+    },
+    {
+      "id": "the-sea-king",
+      "title": "The Sea King",
+      "params": {}
+    },
+    {
+      "id": "the-family-coach",
+      "title": "The Family Coach",
+      "params": {}
+    },
+    {
+      "id": "magic-music",
+      "title": "Magic Music",
+      "params": {}
+    },
+    {
+      "id": "mr-o-callaghan-s-party",
+      "title": "Mr. O'Callaghan's Party",
+      "params": {}
+    },
+    {
+      "id": "the-witch-s-spell",
+      "title": "The Witch's Spell",
+      "params": {}
+    },
+    {
+      "id": "twenty-questions",
+      "title": "Twenty Questions",
+      "params": {}
+    },
+    {
+      "id": "winking",
+      "title": "Winking",
+      "params": {}
+    },
+    {
+      "id": "trades",
+      "title": "Trades",
+      "params": {}
+    },
+    {
+      "id": "blind-man-s-wand",
+      "title": "Blind Man's Wand",
+      "params": {}
+    },
+    {
+      "id": "the-memory-game",
+      "title": "The Memory Game",
+      "params": {}
+    },
+    {
+      "id": "the-newspaper-game",
+      "title": "The Newspaper Game",
+      "params": {}
+    },
+    {
+      "id": "the-interrupted-letters",
+      "title": "The Interrupted Letters",
+      "params": {}
+    },
+    {
+      "id": "odd-man-out",
+      "title": "Odd Man Out",
+      "params": {}
+    },
+    {
+      "id": "famous-people",
+      "title": "Famous People",
+      "params": {}
+    },
+    {
+      "id": "dumb-motions",
+      "title": "Dumb Motions",
+      "params": {}
+    },
+    {
+      "id": "the-game-of-proverbs",
+      "title": "The Game of Proverbs",
+      "params": {}
+    },
+    {
+      "id": "hand-coddem",
+      "title": "Hand (Coddem)",
+      "params": {}
+    },
+    {
+      "id": "red-cap-and-black-cap",
+      "title": "Red-Cap and Black-Cap",
+      "params": {}
+    },
+    {
+      "id": "how-where-and-when",
+      "title": "How Where and When",
+      "params": {}
+    },
+    {
+      "id": "the-four-elements",
+      "title": "The Four Elements",
+      "params": {}
+    },
+    {
+      "id": "punch-and-judy",
+      "title": "Punch and Judy",
+      "params": {}
+    },
+    {
+      "id": "a-post-office-perplexity",
+      "title": "A Post-Office Perplexity",
+      "params": {}
+    },
+    {
+      "id": "the-cyclists-feast",
+      "title": "The Cyclists' Feast",
+      "params": {}
+    },
+    {
+      "id": "a-deal-in-apples",
+      "title": "A Deal in Apples",
+      "params": {}
+    },
+    {
+      "id": "the-two-aeroplanes",
+      "title": "The Two Aeroplanes",
+      "params": {}
+    },
+    {
+      "id": "a-puzzling-legacy",
+      "title": "A Puzzling Legacy",
+      "params": {}
+    },
+    {
+      "id": "the-skipper-and-the-sea-serpent",
+      "title": "The Skipper and the Sea-serpent",
+      "params": {}
+    },
+    {
+      "id": "the-lost-number",
+      "title": "The Lost Number",
+      "params": {}
+    },
+    {
+      "id": "the-fishing-puzzle",
+      "title": "The Fishing Puzzle",
+      "params": {}
+    },
+    {
+      "id": "the-staircase-puzzle",
+      "title": "The Staircase Puzzle",
+      "params": {}
+    },
+    {
+      "id": "the-three-prisoners",
+      "title": "The Three Prisoners",
+      "params": {}
+    },
+    {
+      "id": "the-snail-puzzle",
+      "title": "The Snail Puzzle",
+      "params": {}
+    },
+    {
+      "id": "digital-roots",
+      "title": "Digital Roots",
+      "params": {}
+    },
+    {
+      "id": "the-curious-housekeeper-s-puzzle",
+      "title": "The Curious Housekeeper's Puzzle",
+      "params": {}
+    },
+    {
+      "id": "the-miser-s-puzzle",
+      "title": "The Miser's Puzzle",
+      "params": {}
+    },
+    {
+      "id": "the-farmer-s-sheep",
+      "title": "The Farmer's Sheep",
+      "params": {}
+    },
+    {
+      "id": "the-host-s-puzzle",
+      "title": "The Host's Puzzle",
+      "params": {}
+    },
+    {
+      "id": "the-cook-s-puzzle",
+      "title": "The Cook's Puzzle",
+      "params": {}
+    },
+    {
+      "id": "the-dutchmens-wives",
+      "title": "The Dutchmen's Wives",
+      "params": {}
+    },
+    {
+      "id": "the-travelers-alphabet",
+      "title": "The Traveler's Alphabet",
+      "params": {}
+    },
+    {
+      "id": "animal-vegetable-or-mineral",
+      "title": "Animal Vegetable or Mineral",
+      "params": {}
+    },
+    {
+      "id": "riddles-competition",
+      "title": "Riddles Competition",
+      "params": {}
+    },
+    {
+      "id": "french-roll",
+      "title": "French Roll",
+      "params": {}
+    },
+    {
+      "id": "the-forbidden-letter",
+      "title": "The Forbidden Letter",
+      "params": {}
+    },
+    {
+      "id": "the-game-of-conversation",
+      "title": "The Game of Conversation",
+      "params": {}
+    },
+    {
+      "id": "birds-fly",
+      "title": "Birds Fly",
+      "params": {}
+    },
+    {
+      "id": "lost-and-found",
+      "title": "Lost and Found",
+      "params": {}
+    },
+    {
+      "id": "the-huntsman",
+      "title": "The Huntsman",
+      "params": {}
+    },
+    {
+      "id": "huckle-buckle-beanstalk",
+      "title": "Huckle Buckle Beanstalk",
+      "params": {}
+    },
+    {
+      "id": "personations",
+      "title": "Personations",
+      "params": {}
+    },
+    {
+      "id": "thought-reading",
+      "title": "Thought Reading",
+      "params": {}
+    },
+    {
+      "id": "magic-writing",
+      "title": "Magic Writing",
+      "params": {}
+    },
+    {
+      "id": "slate-games-birds-beasts-fishes",
+      "title": "Slate Games (Birds Beasts Fishes)",
+      "params": {}
+    },
+    {
+      "id": "the-quakers-meeting",
+      "title": "The Quaker's Meeting",
+      "params": {}
+    },
+    {
+      "id": "the-resting-wand",
+      "title": "The Resting Wand",
+      "params": {}
+    },
+    {
+      "id": "shouting-proverbs",
+      "title": "Shouting Proverbs",
+      "params": {}
+    },
+    {
+      "id": "the-farmyard-concert",
+      "title": "The Farmyard Concert",
+      "params": {}
+    },
+    {
+      "id": "the-spanish-nobleman",
+      "title": "The Spanish Nobleman",
+      "params": {}
+    },
+    {
+      "id": "the-gallery-of-animals",
+      "title": "The Gallery of Animals",
+      "params": {}
+    },
+    {
+      "id": "the-spelling-game",
+      "title": "The Spelling Game",
+      "params": {}
+    },
+    {
+      "id": "i-suspect-you",
+      "title": "I Suspect You",
+      "params": {}
+    },
+    {
+      "id": "consequences-extended",
+      "title": "Consequences (Extended)",
+      "params": {}
+    },
+    {
+      "id": "telegrammes",
+      "title": "Telegrammes",
+      "params": {}
+    },
+    {
+      "id": "the-magic-music-box",
+      "title": "The Magic Music Box",
+      "params": {}
+    },
+    {
+      "id": "the-travellers-rhyme",
+      "title": "The Traveller's Rhyme",
+      "params": {}
+    },
+    {
+      "id": "merry-thought",
+      "title": "Merry Thought",
+      "params": {}
+    },
+    {
+      "id": "earth-air-fire-water",
+      "title": "Earth Air Fire Water",
+      "params": {}
+    },
+    {
+      "id": "the-four-elements-cassells",
+      "title": "The Four Elements (Cassells)",
+      "params": {}
+    },
+    {
+      "id": "the-cylinder-puzzle",
+      "title": "The Cylinder Puzzle",
+      "params": {}
+    },
+    {
+      "id": "the-age-puzzle",
+      "title": "The Age Puzzle",
+      "params": {}
+    },
+    {
+      "id": "when-the-cats-away",
+      "title": "When the Cat's Away (Acting Proverb)",
+      "params": {}
+    },
+    {
+      "id": "honor-among-thieves-proverb",
+      "title": "Honor Among Thieves (Acting Proverb)",
+      "params": {}
+    },
+    {
+      "id": "phantom-charade",
+      "title": "Phantom (Dramatic Charade)",
+      "params": {}
+    },
+    {
+      "id": "contest-charade",
+      "title": "Contest (Dramatic Charade)",
+      "params": {}
+    },
+    {
+      "id": "proverbs-guessing",
+      "title": "Proverbs (Guessing Game)",
+      "params": {}
+    },
+    {
+      "id": "what-is-my-thought-like",
+      "title": "What Is My Thought Like?",
+      "params": {}
+    },
+    {
+      "id": "cross-purposes-sociable",
+      "title": "Cross Purposes",
+      "params": {}
+    },
+    {
+      "id": "dutch-concert",
+      "title": "Dutch Concert",
+      "params": {}
+    },
+    {
+      "id": "Copenhagen-game",
+      "title": "Copenhagen",
+      "params": {}
+    },
+    {
+      "id": "hunt-the-hare",
+      "title": "Hunt the Hare",
+      "params": {}
+    },
+    {
+      "id": "grand-mufti",
+      "title": "Thus Says the Grand Mufti",
+      "params": {}
+    },
+    {
+      "id": "three-kingdoms",
+      "title": "Three Kingdoms",
+      "params": {}
+    },
+    {
+      "id": "tableaux-vivants-sociable",
+      "title": "Tableaux Vivants",
+      "params": {}
+    },
+    {
+      "id": "scissors-crossed-not-crossed",
+      "title": "Scissors Crossed or Not Crossed",
+      "params": {}
+    },
+    {
+      "id": "alphabet-i-love-my-love",
+      "title": "I Love My Love with an A",
+      "params": {}
+    },
+    {
+      "id": "bouquet-game",
+      "title": "Bouquet",
+      "params": {}
+    },
+    {
+      "id": "balanced-coin-sociable",
+      "title": "The Balanced Coin",
+      "params": {}
+    },
+    {
+      "id": "matrimonial-chair-puzzle",
+      "title": "The Matrimonial Chair",
+      "params": {}
+    },
+    {
+      "id": "problem-horses-puzzle",
+      "title": "The Three Horses Puzzle",
+      "params": {}
+    }
+  ],
+  "prop_checklist": [
+    {
+      "id": "blind-man-s-buff",
+      "title": "Blind Man's Buff",
+      "params": {}
+    },
+    {
+      "id": "the-cushion-dance",
+      "title": "The Cushion Dance",
+      "params": {}
+    },
+    {
+      "id": "the-feather",
+      "title": "The Feather",
+      "params": {}
+    },
+    {
+      "id": "musical-chairs",
+      "title": "Musical Chairs",
+      "params": {}
+    },
+    {
+      "id": "oranges-and-lemons",
+      "title": "Oranges and Lemons",
+      "params": {}
+    },
+    {
+      "id": "the-pork-butcher",
+      "title": "The Pork Butcher",
+      "params": {}
+    },
+    {
+      "id": "twirl-the-trencher",
+      "title": "Twirl the Trencher",
+      "params": {}
+    },
+    {
+      "id": "drop-the-handkerchief",
+      "title": "Drop the Handkerchief",
+      "params": {}
+    },
+    {
+      "id": "cat-and-mouse",
+      "title": "Cat and Mouse",
+      "params": {}
+    },
+    {
+      "id": "puss-in-the-corner",
+      "title": "Puss in the Corner",
+      "params": {}
+    },
+    {
+      "id": "going-to-jerusalem",
+      "title": "Going to Jerusalem",
+      "params": {}
+    },
+    {
+      "id": "spinning-the-plate",
+      "title": "Spinning the Plate",
+      "params": {}
+    },
+    {
+      "id": "the-sculptor",
+      "title": "The Sculptor",
+      "params": {}
+    },
+    {
+      "id": "the-game-of-animals",
+      "title": "The Game of Animals",
+      "params": {}
+    },
+    {
+      "id": "bob-cherry",
+      "title": "Bob Cherry",
+      "params": {}
+    },
+    {
+      "id": "battledore-and-shuttlecock",
+      "title": "Battledore and Shuttlecock",
+      "params": {}
+    },
+    {
+      "id": "cup-and-ball",
+      "title": "Cup and Ball",
+      "params": {}
+    },
+    {
+      "id": "knucklebones",
+      "title": "Knucklebones",
+      "params": {}
+    },
+    {
+      "id": "frog-in-the-middle",
+      "title": "Frog in the Middle",
+      "params": {}
+    },
+    {
+      "id": "trussed-fowls",
+      "title": "Trussed Fowls",
+      "params": {}
+    },
+    {
+      "id": "spelicans",
+      "title": "Spelicans",
+      "params": {}
+    },
+    {
+      "id": "green-gravel",
+      "title": "Green Gravel",
+      "params": {}
+    },
+    {
+      "id": "honey-pots",
+      "title": "Honey Pots",
+      "params": {}
+    },
+    {
+      "id": "cats-cradle",
+      "title": "Cat's Cradle",
+      "params": {}
+    },
+    {
+      "id": "the-gallery-of-statues",
+      "title": "The Gallery of Statues",
+      "params": {}
+    },
+    {
+      "id": "the-paper-dart-competition",
+      "title": "The Paper Dart Competition",
+      "params": {}
+    },
+    {
+      "id": "cup-and-ball-bilboquet",
+      "title": "Cup and Ball (Bilboquet)",
+      "params": {}
+    },
+    {
+      "id": "the-popgun",
+      "title": "The Popgun",
+      "params": {}
+    },
+    {
+      "id": "knucklebones-jacks",
+      "title": "Knucklebones (Jacks)",
+      "params": {}
+    },
+    {
+      "id": "spelicans-pick-up-sticks",
+      "title": "Spelicans (Pick-up Sticks)",
+      "params": {}
+    },
+    {
+      "id": "my-master-bids-you-do-as-i-do",
+      "title": "My Master Bids You Do As I Do",
+      "params": {}
+    },
+    {
+      "id": "accroshay",
+      "title": "Accroshay",
+      "params": {}
+    },
+    {
+      "id": "all-a-row",
+      "title": "All a Row",
+      "params": {}
+    },
+    {
+      "id": "all-in-the-well",
+      "title": "All in the Well",
+      "params": {}
+    },
+    {
+      "id": "all-the-boys-in-our-town",
+      "title": "All the Boys in Our Town",
+      "params": {}
+    },
+    {
+      "id": "alligoshee",
+      "title": "Alligoshee",
+      "params": {}
+    },
+    {
+      "id": "angel-and-devil",
+      "title": "Angel and Devil",
+      "params": {}
+    },
+    {
+      "id": "auntieloomie",
+      "title": "Auntieloomie",
+      "params": {}
+    },
+    {
+      "id": "babbity-bowster",
+      "title": "Babbity Bowster",
+      "params": {}
+    },
+    {
+      "id": "badger-the-bear",
+      "title": "Badger the Bear",
+      "params": {}
+    },
+    {
+      "id": "ball-and-bonnets",
+      "title": "Ball and Bonnets",
+      "params": {}
+    },
+    {
+      "id": "banger",
+      "title": "Banger",
+      "params": {}
+    },
+    {
+      "id": "barley-break",
+      "title": "Barley-Break",
+      "params": {}
+    },
+    {
+      "id": "bedlams-relievo",
+      "title": "Bedlams (Relievo)",
+      "params": {}
+    },
+    {
+      "id": "bell-horses",
+      "title": "Bell-Horses",
+      "params": {}
+    },
+    {
+      "id": "bingo-folk-game",
+      "title": "Bingo (Folk Game)",
+      "params": {}
+    },
+    {
+      "id": "bird-apprentice",
+      "title": "Bird-Apprentice",
+      "params": {}
+    },
+    {
+      "id": "black-mans-tig",
+      "title": "Black Man's Tig",
+      "params": {}
+    },
+    {
+      "id": "black-thorn",
+      "title": "Black Thorn",
+      "params": {}
+    },
+    {
+      "id": "blind-bell",
+      "title": "Blind Bell",
+      "params": {}
+    },
+    {
+      "id": "booman",
+      "title": "Booman",
+      "params": {}
+    },
+    {
+      "id": "boss-out",
+      "title": "Boss-Out",
+      "params": {}
+    },
+    {
+      "id": "brother-ebenezer",
+      "title": "Brother Ebenezer",
+      "params": {}
+    },
+    {
+      "id": "buck-buck",
+      "title": "Buck, Buck",
+      "params": {}
+    },
+    {
+      "id": "buff-folk-game",
+      "title": "Buff (Folk Game)",
+      "params": {}
+    },
+    {
+      "id": "bull-in-the-park",
+      "title": "Bull in the Park",
+      "params": {}
+    },
+    {
+      "id": "barbarie-king",
+      "title": "King of the Barbarie",
+      "params": {}
+    },
+    {
+      "id": "bag-o-malt",
+      "title": "Bag o' Malt",
+      "params": {}
+    },
+    {
+      "id": "betsy-bungay",
+      "title": "Betsy Bungay",
+      "params": {}
+    },
+    {
+      "id": "oats-and-beans-and-barley",
+      "title": "Oats and Beans and Barley",
+      "params": {}
+    },
+    {
+      "id": "obadiah",
+      "title": "Obadiah",
+      "params": {}
+    },
+    {
+      "id": "old-dame",
+      "title": "Old Dame",
+      "params": {}
+    },
+    {
+      "id": "old-roger-is-dead",
+      "title": "Old Roger Is Dead",
+      "params": {}
+    },
+    {
+      "id": "old-soldier-folk",
+      "title": "Old Soldier",
+      "params": {}
+    },
+    {
+      "id": "paddy-from-home",
+      "title": "Paddy from Home",
+      "params": {}
+    },
+    {
+      "id": "peg-in-the-ring",
+      "title": "Peg-in-the-Ring",
+      "params": {}
+    },
+    {
+      "id": "peg-top-folk",
+      "title": "Peg-Top",
+      "params": {}
+    },
+    {
+      "id": "pillie-winkie",
+      "title": "Pillie-Winkie",
+      "params": {}
+    },
+    {
+      "id": "pinny-show",
+      "title": "Pinny Show",
+      "params": {}
+    },
+    {
+      "id": "pirley-pease-weep",
+      "title": "Pirley Pease-Weep",
+      "params": {}
+    },
+    {
+      "id": "pize-ball",
+      "title": "Pize Ball",
+      "params": {}
+    },
+    {
+      "id": "plum-pudding-marbles",
+      "title": "Plum Pudding (Marbles)",
+      "params": {}
+    },
+    {
+      "id": "poor-mary-sits-weeping",
+      "title": "Poor Mary Sits A-Weeping",
+      "params": {}
+    },
+    {
+      "id": "pi-cow",
+      "title": "Pi-Cow",
+      "params": {}
+    },
+    {
+      "id": "odd-or-even-folk",
+      "title": "Odd or Even",
+      "params": {}
+    }
+  ]
+}

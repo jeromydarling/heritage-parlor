@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE WHIST TRICK WITH PREPARED PACK</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  arranged deck of cards</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: You deal cards for a four-player game and receive a hand containing</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">all 13 trump cards. Method: Before performing, arrange the deck so every 4th</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">card is a trump. Deal one card at a time clockwise around the table — your</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">position receives every 4th card, which are all trumps. With a 52-card deck</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">and 13 cards per person, you get exactly 13 trumps. Deal slowly and</text>
+  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">naturally, as if shuffled. The audience has no reason to suspect the deck is</text>
+  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">arranged. You need: a pre-arranged deck (keep it away from shufflers!).</text>
+  <text x="56" y="425" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="449" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Whist was the most popular card game in Victorian England - precursor to</text>
+  <text x="56" y="467" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Bridge. A trick guaranteeing all 13 trumps resonated with every card-playing</text>
+  <text x="56" y="485" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">audience, as a perfect trump hand was considered essentially impossible in</text>
+  <text x="56" y="503" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">genuine play.</text>
+  <text x="56" y="537" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The magician deals cards for Whist and receives all thirteen trumps as their</text>
+  <text x="56" y="579" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">hand.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

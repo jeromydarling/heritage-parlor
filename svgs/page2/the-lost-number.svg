@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE LOST NUMBER</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Ask someone to secretly think of a number. Tell them: double it, add 10,</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">halve the result, subtract their original number. They&apos;ll always end up with</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">5 — no matter what they started with! For a more impressive version: &apos;Think</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">of a number, multiply by 9, add the digits of the result together, subtract</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">5.&apos; They&apos;ll always get 4. These work because the algebra always cancels out</text>
+  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the secret number.</text>
+  <text x="56" y="404" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="428" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Number-guessing tricks like this fascinated Victorian audiences who didn&apos;t</text>
+  <text x="56" y="446" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">know basic algebra — the same arithmetic that reveals the trick would have</text>
+  <text x="56" y="464" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">seemed magical to non-mathematical parlor guests.</text>
+  <text x="56" y="498" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="522" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Through a series of calculations, reveal a number a person has secretly</text>
+  <text x="56" y="540" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">thought of.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Amusements in Mathematics (1917)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

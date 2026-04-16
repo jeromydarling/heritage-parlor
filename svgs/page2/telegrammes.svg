@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">TELEGRAMMES</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  paper</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  pencils</text>
+  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">One player picks a word of 5–8 letters and writes it vertically on paper.</text>
+  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Everyone writes a &apos;telegram message&apos; where each letter begins a new word of</text>
+  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the message in order. Set a timer for 2 minutes. Read aloud: the funniest or</text>
+  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">most creative message wins the round. Example: STORM = Send The Otter</text>
+  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Running, Magically. The constraint of the preset letters is what makes it</text>
+  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">surprisingly hard and hilarious.</text>
+  <text x="56" y="426" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="450" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Telegrammes combined the Victorian obsession with the telegram (a new</text>
+  <text x="56" y="468" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">technology from 1837) with wordplay. The constraint of fitting a message to</text>
+  <text x="56" y="486" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">preset initial letters was seen as good mental exercise - similar to modern</text>
+  <text x="56" y="504" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">acrostic puzzles.</text>
+  <text x="56" y="538" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="562" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Use each letter of a word as the first letter of successive words in a</text>
+  <text x="56" y="580" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">telegram message.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

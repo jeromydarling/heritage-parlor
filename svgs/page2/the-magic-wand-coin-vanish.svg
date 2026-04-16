@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MAGIC WAND COIN VANISH</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  coin</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  magic wand or pencil</text>
+  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: A coin balanced on the back of your hand vanishes when tapped with a</text>
+  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">wand. Method: Balance a coin on the back of your left hand. Hold the wand (or</text>
+  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">a pencil) in your right. Raise the wand above the coin — but on the upswing,</text>
+  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">let it slip back over your right shoulder. Tap the empty spot where the coin</text>
+  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">was with your empty right hand. When the audience looks and finds the coin</text>
+  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">gone, they look at your hands — not your shoulder where the coin is resting.</text>
+  <text x="56" y="406" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">That moment of misdirection is everything.</text>
+  <text x="56" y="447" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="471" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This is one of the most elegant misdirection principles in magic: the</text>
+  <text x="56" y="489" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">audience watches where the action SHOULD happen (the tap) not where the</text>
+  <text x="56" y="507" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">secret happens (the shoulder load). Hoffmann called misdirection &apos;the entire</text>
+  <text x="56" y="525" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">art of conjuring in miniature.&apos;</text>
+  <text x="56" y="559" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="583" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A coin placed on the back of the hand vanishes when the wand taps it.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

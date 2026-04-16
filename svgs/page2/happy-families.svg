@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">HAPPY FAMILIES</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  Happy Families illustrated card set</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Deal all 44 cards (11 families of 4 — Mr., Mrs., Master, and Miss of each</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">family). On your turn, ask any player for a specific card by name (e.g., &apos;Do</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">you have Miss Bun the Baker&apos;s Daughter?&apos;). If they have it, you receive it</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">and may ask again. If not, your turn ends. Lay down complete sets of all four</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">family members when you collect them. The player who lays down the most</text>
+  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">complete families wins. The trick is asking for cards you know someone has —</text>
+  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pay attention to what cards others have asked for.</text>
+  <text x="56" y="425" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="449" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Happy Families was designed by John Tenniel (Alice in Wonderland illustrator)</text>
+  <text x="56" y="467" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">and first published by John Jacques in 1851. The original families include</text>
+  <text x="56" y="485" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Mr. Bun the Baker, Mr. Chips the Carpenter, and Miss Buff the Butler&apos;s</text>
+  <text x="56" y="503" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Daughter. It is still sold today.</text>
+  <text x="56" y="537" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The classic Victorian card game: collect complete families of four</text>
+  <text x="56" y="579" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">illustrated cards by asking other players.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">BLIND BELL</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  blindfolds</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  small bell</text>
+  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">One player holds a small bell and must keep ringing it while staying free.</text>
+  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">All other players are blindfolded and must navigate by sound to catch the</text>
+  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">bell-ringer. The first blindfolded player to touch the bell-ringer wins and</text>
+  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">takes the bell for the next round. Make sure the play area is clear of</text>
+  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">obstacles and corners. An exciting sensory game where listening matters more</text>
+  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">than looking.</text>
+  <text x="56" y="426" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="450" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Blind Bell is a rare inversion of the usual blindfold game — here it is the</text>
+  <text x="56" y="468" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">sighted player who is hunted, creating an unusual dynamic where sound guides</text>
+  <text x="56" y="486" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the entire play.</text>
+  <text x="56" y="520" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="544" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">All players are blindfolded except the &apos;Bell,&apos; who rings a bell and tries to</text>
+  <text x="56" y="562" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">evade the others. Any blindfolded player who catches the Bell wins, removes</text>
+  <text x="56" y="580" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">their blindfold, and becomes the new Bell. The tension comes from hearing the</text>
+  <text x="56" y="598" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">bell but not seeing it.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. I (1894)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

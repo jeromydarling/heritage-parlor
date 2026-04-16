@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">BEZIQUE</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  64-card double Piquet deck</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Shuffle two Piquet decks together (64 cards total). Deal 8 each; flip one</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">card for trump. Win tricks to collect Aces and Tens (called brisques). After</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">each trick, lay down combinations face-up to score points: Marriage (King +</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Queen of trump = 40 pts), Royal Sequence (A, 10, K, Q, J of trump = 250 pts),</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Bezique (Queen of spades + Jack of diamonds = 40 pts), Double Bezique (both</text>
+  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">pairs = 500 pts). Once the stock runs out, play out your remaining cards.</text>
+  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">First to 1,000 points wins.</text>
+  <text x="56" y="425" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="449" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Bezique was the most fashionable card game of Second Empire France. Napoleon</text>
+  <text x="56" y="467" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">III played it daily. When it reached England in the 1860s it swept through</text>
+  <text x="56" y="485" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">aristocratic card rooms before being supplanted by Bridge.</text>
+  <text x="56" y="519" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="543" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The favorite card game of Napoleon III - a melding and trick-taking game</text>
+  <text x="56" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">using two combined Piquet decks.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

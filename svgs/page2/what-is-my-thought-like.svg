@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">WHAT IS MY THOUGHT LIKE?</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Player one secretly thinks of something — a person, a place, an object, or</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">even a feeling — but says nothing. Going around the circle, each player</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">states what their thought reminds them of: &apos;My thought is like a</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">thunderstorm.&apos; &apos;Mine is like an old shoe.&apos; Once everyone has spoken, the</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">thinker reveals their secret thought. Now each player must defend their</text>
+  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">comparison with creative logic — why IS a thunderstorm like, say, a pizza?</text>
+  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">The most imaginative explanation wins applause.</text>
+  <text x="56" y="425" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="449" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">What Is My Thought Like? was praised by Victorian games books for developing</text>
+  <text x="56" y="467" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the faculty of analogy and metaphorical thinking — skills considered</text>
+  <text x="56" y="485" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">essential for poets, orators, and educated conversationalists.</text>
+  <text x="56" y="519" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="543" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">One player thinks of a person, place, or object without revealing it. Each</text>
+  <text x="56" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">other player in turn must say &apos;My thought is like a ——&apos; with some object, and</text>
+  <text x="56" y="579" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">later must justify the comparison. After all comparisons are given, the</text>
+  <text x="56" y="597" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">hidden thought is revealed and each player defends their comparison with wit.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

@@ -1,0 +1,56 @@
+# QA screenshots (development only)
+qa_screenshots/
+qa_community/
+
+# Intermediate/development Python scripts
+generate_entries.partial.*.py
+gomme1_entries.py
+gomme2_carroll_entries.py
+sociable_entries.py
+hoffmann_entries.py
+magician_entries.py
+merge_entries.py
+gen_blind_abbot.py
+gen_magic_star.py
+gen_printable_prototype.py
+gen_two_page.py
+gen_three_outputs.py
+inventory.py
+analyze_diagram_games.py
+audit_script.py
+audit_final.py
+language_audit.py
+data/build_modernized_1.py
+data/estimate_durations.py
+
+# Development samples and test outputs
+template_samples/
+illustration_samples/
+*.png
+out_*.svg
+print_*.svg
+printable_*.svg
+prog_*.svg
+test_*.svg
+thumb_*.svg
+modernize_instructions.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Intermediate data files (development artifacts)
+data/batch_*.json
+data/batch_*.txt
+data/modernized_*.json
+data/entries_pre_modernization.json
+data/all_modernized.json
+data/buildable_games.json
+data/build_guides_boards.json
+data/build_guides_puzzles.json
+data/duration_summary.json
+data/language_audit.json

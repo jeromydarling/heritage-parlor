@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE FLYING DIME</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  two handkerchiefs</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  three dimes (one hidden)</text>
+  <text x="72" y="236" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  hat</text>
+  <text x="72" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  needle and thread</text>
+  <text x="56" y="298" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="324" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: Two coins are placed in a handkerchief in a hat. A third coin in a</text>
+  <text x="56" y="345" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">second handkerchief mysteriously vanishes and joins the first two — three</text>
+  <text x="56" y="366" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">coins found in the hat. Method: secretly conceal a third coin and a</text>
+  <text x="56" y="387" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">needle-and-thread in your sleeve before performing. Display two coins openly;</text>
+  <text x="56" y="408" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">place them in the first handkerchief in the hat. While handling the second</text>
+  <text x="56" y="429" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">handkerchief, secretly stitch the hidden coin inside a fold. Hand the second</text>
+  <text x="56" y="450" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">handkerchief to a spectator — when they try to drop the coin, it stays sewn</text>
+  <text x="56" y="471" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">in (the &apos;vanish&apos;). Reveal all three in the hat.</text>
+  <text x="56" y="512" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="536" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The Flying Dime routine is part of a long tradition of &apos;coin travel&apos; effects</text>
+  <text x="56" y="554" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">dating back to ancient Roman conjurers. The use of needle-and-thread as a</text>
+  <text x="56" y="572" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">secret tool reflects the Victorian conjurer&apos;s ingenuity in turning everyday</text>
+  <text x="56" y="590" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">objects into magical apparatus.</text>
+  <text x="56" y="624" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="648" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Borrow two handkerchiefs and show two dimes (concealing a third). Place two</text>
+  <text x="56" y="666" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">dimes into one handkerchief in a hat; secretly sew the third dime into the</text>
+  <text x="56" y="684" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">second handkerchief using a needle hidden in the cuff. The spectator drops</text>
+  <text x="56" y="702" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the sewn-in dime (held by stitches), it vanishes from the second handkerchief</text>
+  <text x="56" y="720" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">and the three dimes are found in the hat.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Magician&apos;s Own Book (1862)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

@@ -1,0 +1,986 @@
+[
+  {
+    "parlor_id": "fox-and-geese",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_fox-and-geese",
+      "app_title": "Build a Fox and Geese Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "8-12",
+      "estimated_time": "2-3 hours",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "Fox and Geese is a medieval hunt game played on a cross-shaped board of 33 points \u2014 the same shape as a peg solitaire board. One player controls a single fox, the other commands 13 geese, and the asymmetric struggle makes every game tense. Building the board from plywood and painting it is a satisfying afternoon project that connects kids to games monks played in cathedral cloisters.",
+      "materials_list": "9\u00d79 inch birch plywood, \u00bc inch thick (available at Hobby Lobby or Home Depot)|Acrylic paint \u2014 2 colors (e.g. dark brown and cream), from Michaels|Clear water-based polyurethane spray, Rust-Oleum matte|Fine-tip permanent marker or wood-burning pen|Ruler and pencil|Sandpaper \u2014 120 grit and 220 grit sheets|14 wooden craft discs, \u00be inch diameter (13 geese + 1 fox): Michaels SKU or similar|Acrylic paint in two contrasting colors for pieces|Optional: \u00bc inch wooden dowel scraps to make peg-style pieces instead of discs",
+      "steps": "1. Sand the plywood smooth with 120-grit paper, then finish with 220-grit. Wipe off dust with a dry cloth.|2. Paint the entire board surface with cream or light-tan acrylic paint. Let dry 30 minutes. Apply a second coat if needed.|3. Mark the board grid: the cross shape is 7 columns \u00d7 7 rows of points, but only the cross-shaped portion is used. Using a ruler, lightly pencil a 7\u00d77 grid of dots spaced 1\u00bc inches apart (total playing area about 7\u00bd\u00d77\u00bd inches, centered on the board).|4. Erase the 4 corner squares of dots (each corner block is a 2\u00d72 group of 4 points). You should have exactly 33 points remaining in a cross shape.|5. Using a fine-tip permanent marker or pencil, draw the horizontal and vertical lines connecting all adjacent points. Then add diagonal lines in the four arms of the cross (diagonals connect points only within each arm, not across the center).|6. Go over all lines neatly with a dark brown acrylic paint and a thin brush, or use a wood-burning pen for a classic look. Let dry completely.|7. Apply two coats of matte polyurethane spray to seal the board. Let cure 2 hours between coats.|8. Paint 13 craft discs white (geese) and 1 disc red or orange (fox). Let dry. Apply a clear coat.|9. To set up: place the 13 geese on all points in the bottom three rows (rows 5, 6, 7 of the cross). The fox starts on any empty point in the upper portion \u2014 traditionally the center of the board.",
+      "safety_notes": "Adult supervision required when using a wood-burning pen \u2014 it reaches temperatures over 700\u00b0F and can cause serious burns. Polyurethane spray should be used in a well-ventilated area or outdoors. Keep spray away from open flames.",
+      "tips_and_context": "Fox and Geese boards have been found carved into the stone floors of medieval cathedrals \u2014 monks apparently played between prayers. The game is asymmetric: the fox wins by capturing enough geese that they cannot trap it (usually 6 or more), while the geese win by surrounding the fox so it cannot move. For a more durable build, use \u00be inch pine instead of plywood and drill shallow \u00bc inch holes for peg-style pieces cut from \u00bc inch dowel. You can customize the board by adding Celtic knotwork borders with a wood-burning pen."
+    },
+    "fabrica_spec": {
+      "commission_title": "Fox and Geese \u2014 Artisan Commission",
+      "materials_spec": "Walnut or cherry hardwood, \u00be inch thick, hand-oiled with Danish oil or tung oil. Playing surface may be inlaid with a contrasting maple or ash panel for the cross-board grid area.",
+      "dimensions": "Overall board: 10\u00d710 inches \u00b1 \u00bc inch. Playing grid: 7\u00d77 points at 1\u00bc inch spacing (7\u00bd inch square grid), centered on board with 1\u00bc inch border. Board thickness: \u00be inch. 33 shallow drilled point-holes, \u00bc inch diameter \u00d7 \u215b inch deep.",
+      "finish_notes": "Grain raised and sanded to 320 grit. Two coats hand-rubbed Danish oil, buffed between coats. Lines burned or laser-engraved \u2014 no paint on playing surface. Optional: chamfered or rounded edges, \u215b inch radius.",
+      "pieces_spec": "14 turned wooden pegs: 13 geese in maple or light ash (\u00bc inch diameter \u00d7 \u00be inch tall), 1 fox in dark walnut or hand-painted red (same dimensions). Alternatively: hand-turned mushroom-cap pawns, \u00bd inch base diameter.",
+      "estimated_price_range": "$90\u2013$160",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "nine-men-s-morris",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_nine-men-s-morris",
+      "app_title": "Build a Nine Men's Morris Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "8-12",
+      "estimated_time": "2-3 hours",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "Nine Men's Morris is one of the oldest strategy games in the world \u2014 boards have been carved into the benches of Westminster Abbey and Egyptian temple floors. Three nested squares connected by lines create 24 intersection points where players battle to form 'mills' of three in a row. This board is beginner-friendly to build: just squares within squares and a few connecting lines.",
+      "materials_list": "One 10\u00d710 inch birch plywood square, \u00bc inch thick (Home Depot or Hobby Lobby)|Acrylic paint \u2014 dark brown or black for lines, light tan or cream for background (Michaels)|Matte polyurethane spray sealant|Ruler, pencil, fine-tip brush|Sandpaper \u2014 120 grit and 220 grit|18 wooden craft discs, \u00be inch diameter \u2014 9 each in 2 colors (Michaels)|Optional: wood-burning pen for engraved lines",
+      "steps": "1. Sand the plywood with 120-grit, then 220-grit. Wipe clean.|2. Paint the entire surface with light tan acrylic. Let dry fully, then apply a second coat.|3. Measure and lightly pencil the three concentric squares: Outer square \u2014 8 inches \u00d7 8 inches, centered on board (1 inch border all around). Middle square \u2014 5 inches \u00d7 5 inches, centered. Inner square \u2014 2 inches \u00d7 2 inches, centered.|4. Mark the 24 intersection points: 4 corners of each square (12 points) + midpoint of each side of each square (12 points). Each square has 8 points for a total of 24.|5. Draw the three squares with a ruler and pencil.|6. Draw the 6 connector lines: one line from the midpoint of each outer square side to the midpoint of the corresponding inner square side, passing through the midpoint of the middle square. These 6 lines (2 horizontal, 2 vertical \u2014 but leave the center of the inner square blank).|7. Go over all lines and points with dark brown paint and a fine brush, or use a wood-burning pen. Make each point dot about \u215b inch diameter.|8. Seal with two coats of matte polyurethane spray. Let cure.|9. Paint 9 craft discs one color (e.g. red) and 9 another color (e.g. black). Let dry, seal with clear coat.",
+      "safety_notes": "If using a wood-burning pen, adult must operate it \u2014 tip is extremely hot. Work on a fireproof surface. Spray sealant in well-ventilated area only.",
+      "tips_and_context": "Nine Men's Morris boards have been carved into medieval cathedral stonework and found in ancient Egypt \u2014 making this one of history's most widely played games. Shakespeare mentions it by name in A Midsummer Night's Dream. The game has three phases: placing pieces, moving pieces, and the endgame 'flying' phase when a player is down to 3 pieces and can jump anywhere. For a premium look, use contrasting wood stain instead of paint for the squares, or engrave the lines with a wood-burning pen and fill with dark wax."
+    },
+    "fabrica_spec": {
+      "commission_title": "Nine Men's Morris \u2014 Artisan Commission",
+      "materials_spec": "Walnut or cherry hardwood, \u00be inch thick, finished with hand-rubbed tung oil. Optional inlay: maple strips set into routed channels for the lines, creating a flush two-tone surface.",
+      "dimensions": "Overall board: 10\u00d710 inches \u00b1 \u00bc inch. Outer square: 8\u00d78 inches. Middle square: 5\u00d75 inches. Inner square: 2\u00d72 inches. All squares centered. 24 point positions marked with shallow drilled dimples (\u215b inch diameter \u00d7 1/16 inch deep) or brass inlay dots.",
+      "finish_notes": "Sanded to 320 grit. Hand-rubbed oil finish, 3 coats. Lines routed \u215b inch wide \u00d7 1/16 inch deep and filled with contrasting dark epoxy or wood filler, sanded flush. Optional: branded/laser-engraved maker's mark on underside.",
+      "pieces_spec": "18 turned wooden playing pieces: 9 each in two contrasting woods (e.g., walnut and maple). Mushroom-cap pawns, \u00be inch base diameter, \u00bd inch tall. Or hand-turned discs with chamfered edges.",
+      "estimated_price_range": "$100\u2013$180",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "the-millionaire-s-perplexity",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-millionaire-s-perplexity",
+      "app_title": "Build a Millionaire's Perplexity Puzzle Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "1-2 hours",
+      "season": "All Season",
+      "setting": "Indoor",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "The Millionaire's Perplexity is a Victorian mathematical puzzle from Dudeney's 1917 Amusements in Mathematics: distribute exactly $1,000,000 using only powers of 7, with no denomination used more than 6 times. Building a tactile token-and-board set makes this abstract puzzle into a hands-on family activity. The finished artifact is a beautifully labeled tray with denomination tokens \u2014 elegant and reusable.",
+      "materials_list": "One 8\u00d75 inch wooden craft plaque or thin pine board, \u00bc\u2013\u00bd inch thick (Michaels or Hobby Lobby)|Balsa wood sheet for token tray dividers, \u215b inch thick (Hobby Lobby)|Acrylic paint \u2014 gold and dark green (Michaels)|Fine-tip permanent marker or letter stamps for labeling|7 denominations of cardboard tokens (cut from thick cardstock): label $1, $7, $49, $343, $2401, $16807, $117649 \u2014 7 of each|Ruler, pencil, craft knife or scissors|Glue gun or wood glue|Clear acrylic sealer spray",
+      "steps": "1. Paint the wooden plaque dark green as a base color. Let dry completely.|2. Paint a gold border around the edge with a thin brush.|3. Using a ruler and pencil, divide the plaque surface into 7 labeled denomination zones, each about 1\u00d74 inches. Label each zone with one power of 7: $1 | $7 | $49 | $343 | $2,401 | $16,807 | $117,649.|4. Use a fine-tip permanent marker or letter stamps to add labels. Optionally, paint them in gold letters.|5. Seal the plaque with two coats of clear acrylic spray. Let cure.|6. Cut 49 square tokens (7 per denomination) from thick cardstock, each 1\u00d71 inch.|7. Label each token with its denomination value using a marker.|8. Optional: glue balsa wood strips inside a small box lid to create a divided token storage tray matching the denominations.|9. Write the puzzle challenge on a card: 'Using only powers of 7 (and no denomination more than 6 times), make exactly $1,000,000.'",
+      "safety_notes": "Craft knife use requires adult supervision. Keep fingers clear of the blade and always cut away from the body on a cutting mat. Spray sealant must be used outdoors or in a well-ventilated area.",
+      "tips_and_context": "This puzzle works because any number can be expressed in base 7 \u2014 the constraint of 'no denomination more than 6 times' mirrors the digits 0-6 in base-7 notation. The answer: 1,000,000 in base 7 is 11,333,311, meaning you need 2\u00d7$117,649 + 1\u00d7$16,807 + 3\u00d7$2,401 + 3\u00d7$343 + 3\u00d7$49 + 1\u00d7$7 + 1\u00d7$1. This makes a beautiful STEM conversation piece. The board can be repurposed for other base-conversion puzzles by changing the labels."
+    },
+    "fabrica_spec": {
+      "commission_title": "The Millionaire's Perplexity \u2014 Artisan Commission",
+      "materials_spec": "Dark-stained walnut or mahogany presentation board, \u00bd inch thick. Denomination zones inlaid or laser-engraved. Token set in turned brass or painted hardwood discs.",
+      "dimensions": "Board: 10\u00d76 inches \u00b1 \u00bc inch. Seven denomination zones each 1\u00d74 inches, separated by \u215b inch routed dividing lines. Storage drawer or fitted box: 4\u00d73 inches.",
+      "finish_notes": "Sanded to 320 grit, stained dark walnut, hand-rubbed with paste wax. Denomination labels laser-engraved and filled with gold paint. Edges chamfered.",
+      "pieces_spec": "49 tokens in 7 groups of 7: laser-engraved or stamped wooden discs, 1 inch diameter, \u00bc inch thick. Each denomination group in a distinct wood (or painted in gilt on dark base). Stored in a fitted sliding-lid box.",
+      "estimated_price_range": "$80\u2013$140",
+      "complexity": "Simple"
+    }
+  },
+  {
+    "parlor_id": "the-buried-treasure",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-buried-treasure",
+      "app_title": "Build a Buried Treasure Fraction Puzzle Set",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "1-2 hours",
+      "season": "All Season",
+      "setting": "Indoor",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "The Buried Treasure puzzle from Dudeney's Amusements in Mathematics presents a fractional division challenge: three explorers share treasure based on the proportion of supplies each contributed. Building a physical token-and-card set turns this Victorian arithmetic puzzle into a hands-on family math game. The finished kit is a portable treasure-themed puzzle box perfect for rainy days.",
+      "materials_list": "One 6\u00d74 inch wooden craft box or cigar box (Michaels or Hobby Lobby)|Cardstock or thick paper for puzzle cards|Gold spray paint or gold acrylic paint (Michaels)|100 brass-colored craft beads or gold tokens (Hobby Lobby) \u2014 to represent treasure shares|Ruler, pencil, fine-tip marker|Scissors or craft knife|Decoupage glue (Mod Podge) for decorating box|Optional: printable 'treasure map' for box lid decoration|Clear acrylic sealer spray",
+      "steps": "1. Decorate the box lid with a printed or hand-drawn treasure map motif. Apply with decoupage glue.|2. Paint interior of box and token tray with gold acrylic paint. Let dry.|3. Create three 'Explorer Cards' on cardstock, each listing one explorer's supply contribution: Explorer A \u2014 contributed 2/3 of supplies | Explorer B \u2014 contributed 1/4 of supplies | Explorer C \u2014 contributed the remainder (1 \u2212 2/3 \u2212 1/4 = 1/12).|4. Create a 'Treasure Card' listing the total treasure: $1,000 (or use 100 tokens to represent $1,000 in units of $10).|5. Create a 'Solution Card' showing the proportional shares: A receives $666.67, B receives $250, C receives $83.33. Store face-down until players have worked out their answers.|6. Add 100 gold tokens to the box for hands-on calculation.|7. Create a 'Puzzle Challenge' card with the problem statement and instructions: 'Divide the treasure proportionally based on each explorer's supply contribution. Use the tokens to show your work.'|8. Seal all cards with a light coat of clear spray. Store everything in the decorated box.",
+      "safety_notes": "Craft knife use requires adult supervision. Spray sealant and spray paint must be used outdoors or in well-ventilated area. Keep paint and solvents away from food.",
+      "tips_and_context": "Proportional division of shared finds was a genuine legal matter in Victorian maritime law \u2014 treasure disputes required exactly this arithmetic. The puzzle neatly illustrates why common denominators matter: finding the LCD of 3 and 4 is 12, making A's share 8/12, B's 3/12, and C's 1/12. The token set can be reused for any fraction puzzle. For older kids, extend the challenge: 'What if D contributed $50 in cash \u2014 how does that change each share?'"
+    },
+    "fabrica_spec": {
+      "commission_title": "The Buried Treasure \u2014 Artisan Commission",
+      "materials_spec": "Hand-stained oak or cherry presentation box with sliding or hinged lid, \u00bc inch thick sides. Interior compartment with 3 labeled sections. 100 brass token coins, custom-stamped.",
+      "dimensions": "Box: 7\u00d75\u00d72 inches \u00b1 \u00bc inch. Interior divided into 4 sections: 3 explorer compartments + 1 token compartment. Explorer cards: standard 3\u00d75 inches. Tokens: \u00be inch diameter brass discs.",
+      "finish_notes": "Box exterior stained dark walnut, waxed finish. Interior lined with burgundy felt. Laser-engraved puzzle text on lid or inside of lid. Tokens: antique brass finish, custom-stamped denomination.",
+      "pieces_spec": "100 brass-finish metal or turned-wood token coins, \u00be inch diameter. 4 laminated puzzle cards in a kraft-card sleeve. Optional: a brass 'X marks the spot' inlay on the lid.",
+      "estimated_price_range": "$70\u2013$120",
+      "complexity": "Simple"
+    }
+  },
+  {
+    "parlor_id": "the-miller-s-puzzle",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-miller-s-puzzle",
+      "app_title": "Build The Miller's Puzzle Token Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "1-2 hours",
+      "season": "All Season",
+      "setting": "Indoor",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "From Dudeney's Canterbury Puzzles, the Miller's Puzzle arranges nine numbered tokens in a specific pattern where pairs multiplied by their single neighbors must equal the central number. Building a physical token board makes the abstract puzzle tangible and reusable \u2014 it's a beautiful introduction to multiplicative thinking for ages 10 and up.",
+      "materials_list": "One 8\u00d75 inch wooden craft plaque or thin pine board (Michaels or Hobby Lobby)|9 large wooden craft coins or discs, 1\u00bd inch diameter (Hobby Lobby or Michaels)|Acrylic paint \u2014 tan/cream for board, dark stain for tokens|Fine-tip permanent marker or number stencils|Sandpaper \u2014 120 and 220 grit|Clear polyurethane spray|Wood glue (optional, for layout template)|Pencil and ruler",
+      "steps": "1. Sand the board smooth. Paint with cream or tan acrylic as base. Let dry.|2. Lightly sketch the token layout on the board: the arrangement is a horizontal row of 5 positions (single, pair, triple, pair, single) \u2014 positions labeled 1 through 9 left to right. The full puzzle layout shows: [1 sack] [2 sacks] [3 sacks in center] [2 sacks] [1 sack], where the center group is the 3-digit product and the outer groups multiply to match it.|3. Mark 9 circles on the board at the token positions using a coin as a template. Space them about \u00be inch apart.|4. Paint the token position circles in a darker shade so they're clearly visible as 'slots.'|5. Seal the board with polyurethane spray.|6. Paint or stain the 9 wooden discs. Let dry.|7. Number the discs 1 through 9 using a permanent marker or stencil.|8. The starting configuration is: [7] [28] [196] [34] [5] \u2014 where 7\u00d728=196 but 5\u00d734\u2260196. The puzzle: rearrange discs so BOTH pairs \u00d7 singles equal the center.|9. Write the puzzle rules and the solution hint on a small card tucked under the board.",
+      "safety_notes": "Polyurethane spray must be used outdoors or with strong ventilation. Sandpaper creates fine dust \u2014 wear a dust mask when sanding, especially children.",
+      "tips_and_context": "The solution to the Miller's Puzzle requires finding that the center number must be a perfect square (196 = 14\u00b2). The valid arrangement is [9] [28] [196] [47] \u2014 wait, there are actually multiple solutions: one minimum-move solution exists where only a few sacks swap. Encourage kids to find ALL solutions, not just one. The puzzle demonstrates that multiplication constraints are much harder than additive ones \u2014 a key insight in number theory. The physical token board can be repurposed for any multiplication-arrangement puzzle."
+    },
+    "fabrica_spec": {
+      "commission_title": "The Miller's Puzzle \u2014 Artisan Commission",
+      "materials_spec": "Cherry or maple hardwood presentation board, \u00bd inch thick. Nine turned hardwood token discs in a contrasting wood. Board with laser-engraved slot positions and decorative Canterbury Tales-style border.",
+      "dimensions": "Board: 12\u00d75 inches \u00b1 \u00bc inch. Nine token positions in a linear arrangement, each 1\u00bd inch diameter circle. Center three positions slightly inset or elevated. Token discs: 1\u00bd inch diameter \u00d7 \u215c inch thick.",
+      "finish_notes": "Board sanded to 320 grit, hand-rubbed tung oil finish. Token position circles laser-engraved or routed \u215b inch deep. Numerals 1-9 engraved on tokens, filled with black or gold wax. Edges rounded with \u215b inch router roundover bit.",
+      "pieces_spec": "9 turned hardwood discs \u2014 alternating walnut and maple for visual distinction. Numbers laser-engraved and filled with contrasting color wax. Stored in a small felt-lined tray at board rear.",
+      "estimated_price_range": "$80\u2013$140",
+      "complexity": "Simple"
+    }
+  },
+  {
+    "parlor_id": "the-knight-s-puzzle",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-knight-s-puzzle",
+      "app_title": "Build The Knight's Puzzle Grid Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "2-3 hours",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "The Knight's Puzzle from Canterbury Puzzles asks: how many squares of all sizes and orientations (including tilted ones) can be formed on a grid of points on a heraldic shield? Building the grid as a peg board makes the puzzle hands-on \u2014 players use string or rubber bands to form and count squares, discovering how many they missed by thinking only of straight-aligned squares.",
+      "materials_list": "One 10\u00d710 inch pine board, \u00be inch thick (Home Depot)|Small nails or panel pins, \u00be inch long \u2014 about 80 (Home Depot hardware aisle)|Small rubber bands or string for marking squares|Ruler and pencil|Hammer|Sandpaper \u2014 120 grit|Dark wood stain or paint (Michaels)|Polyurethane sealant spray|Optional: graph paper for planning nail layout",
+      "steps": "1. Sand the board smooth. Apply dark stain or paint and let dry.|2. Mark a 9\u00d79 grid of nail positions on the board surface (81 points), spaced 1 inch apart. The grid should be centered, leaving a \u00bd inch border. Mark all positions lightly in pencil first.|3. Hammer a small nail or panel pin into each of the 81 marked positions. Drive nails in about \u00bd inch deep so they stand upright and firm, with about \u00bc inch protruding.|4. Seal the board (around the nails) with polyurethane spray if desired.|5. Cut rubber bands or prepare lengths of string to form squares on the peg grid.|6. Write the puzzle challenge on an accompanying card: 'How many squares of ANY size and orientation \u2014 including tilted squares \u2014 can be formed by choosing 4 nails as corners?' (Answer: 105 for a 4\u00d74 grid subset; varies by grid size.)|7. Include a solution envelope with the count broken down by size and tilt angle.|8. Optional: mark the pegs at the heraldic shield boundary positions with a small dab of colored paint.",
+      "safety_notes": "Adult supervision required when hammering nails, especially for younger children. Nails have sharp points \u2014 keep them pointed away from hands. Wear safety glasses when hammering.",
+      "tips_and_context": "The key insight of this puzzle is that tilted squares count \u2014 a square rotated 45\u00b0 whose corners land on grid points is a valid square. For an n\u00d7n grid of points, the total count of all squares (including tilted) follows a specific formula involving sums of squares. Most people drastically undercount by ignoring the tilted ones. The peg board is also perfect for dozens of other geometry puzzles: triangles, rectangles, polygons. It makes an excellent permanent math manipulative for the family."
+    },
+    "fabrica_spec": {
+      "commission_title": "The Knight's Puzzle Grid Board \u2014 Artisan Commission",
+      "materials_spec": "Dark walnut or ebonized oak board, \u00be inch thick. Brass nails or brass rod pegs set into pre-drilled holes. Optional: heraldic shield shape routed from board edges.",
+      "dimensions": "Board: 12\u00d712 inches \u00b1 \u00bc inch. Peg grid: 9\u00d79 array, 1 inch spacing, centered with 1\u00bd inch border. Pegs: \u215b inch diameter brass rod, \u215c inch tall above surface. Holes drilled \u215c inch deep.",
+      "finish_notes": "Board ebonized or dark-stained, sanded to 320 grit, paste wax finish. Brass pegs polished and press-fit into holes. Optional laser-engraved border with Canterbury Tales heraldic motif.",
+      "pieces_spec": "81 brass rod pegs (\u215b inch diameter). Supplied with 12 colored rubber bands and a solution card in a paper envelope. Optional: silk-screened coordinate labels (A-I, 1-9) along board edges.",
+      "estimated_price_range": "$120\u2013$200",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "the-mutilated-chessboard",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-mutilated-chessboard",
+      "app_title": "Build The Mutilated Chessboard Puzzle",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "2-4 hours",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "The Mutilated Chessboard is one of mathematics' most elegant impossibility proofs: remove two diagonally opposite corner squares from a standard 8\u00d78 chessboard \u2014 can you tile the remaining 62 squares with 31 dominoes? Building the board and a set of wooden dominoes lets the whole family struggle with the puzzle before the beautiful coloring argument reveals why it's impossible.",
+      "materials_list": "One 12\u00d712 inch birch plywood sheet, \u00bc inch thick (Home Depot)|Two contrasting acrylic paint colors \u2014 black and cream (Michaels)|31 wooden dominoes: cut from \u00bc inch plywood scrap, each 2\u00d71 inch (or purchase a standard double-six domino set at Hobby Lobby and ignore pips)|Ruler, pencil, fine-tip marker|Jigsaw or hand saw for cutting dominoes|Sandpaper \u2014 120 grit and 220 grit|Tape measure|Matte polyurethane spray sealant",
+      "steps": "1. Sand the plywood sheet smooth. Mark an 8\u00d78 grid of 1\u00bd-inch squares, centered (12\u00d712 board, squares 1\u00bd inch each, total playing area 12 inches). Use ruler and pencil \u2014 mark all 9 horizontal lines and 9 vertical lines.|2. Paint alternating squares black and cream to create the chessboard pattern. Work in rows, checking the alternating pattern carefully. Let dry between colors.|3. The two squares to remove: top-left corner (a8) and bottom-right corner (h1) \u2014 both are the same color (both light or both dark). Mark these two squares with an 'X' or simply paint them a different color (e.g., red) to show they are 'removed.'|4. Seal the board with two coats of matte polyurethane. Let cure.|5. Cut 31 dominoes from \u00bc inch plywood scraps: each domino is 3\u00d71\u00bd inches (covering exactly 2 squares of the board). Sand all edges smooth.|6. Optionally paint dominoes in a contrasting color (e.g., natural wood with black border).|7. Write the puzzle challenge on a card: 'Can you cover all 62 remaining squares with the 31 dominoes? Each domino covers exactly 2 adjacent squares.' Include the solution envelope with the proof.|8. Challenge family members to try for 10 minutes before revealing the elegant proof: both removed squares are the same color, so 32 squares of one color and 30 of the other remain \u2014 but every domino must cover one of each color, making it impossible.",
+      "safety_notes": "Adult must operate the jigsaw for cutting domino pieces. Clamp the plywood securely before cutting. Wear safety glasses. Polyurethane spray in ventilated area only.",
+      "tips_and_context": "This puzzle introduces 'proof by coloring' \u2014 a technique used throughout combinatorics and computer science. The coloring argument is one of the most beautiful in mathematics: regardless of how you try to arrange the dominoes, you always run out of one color. This same reasoning proves impossibility in many tiling and covering problems. The puzzle was popularized by mathematician Martin Gardner and has been used in university logic courses ever since. Build the board in walnut and maple for a heirloom version."
+    },
+    "fabrica_spec": {
+      "commission_title": "The Mutilated Chessboard \u2014 Artisan Commission",
+      "materials_spec": "Alternating walnut and maple inlay squares, \u00be inch thick hardwood border frame. Two corner squares either missing (routed out) or marked with recessed brass X inlays. 31 two-tone wood dominoes.",
+      "dimensions": "Board: 14\u00d714 inches total. Playing grid: 8\u00d78 squares at 1\u00bd inch each (12\u00d712 inches). Border: 1 inch walnut frame. Thickness: \u00be inch. Dominoes: 3\u00d71\u00bd\u00d7\u215c inches each.",
+      "finish_notes": "Walnut and maple squares hand-fitted and glued, sanded flush to 320 grit. Two coats hand-rubbed Danish oil. Domino pieces: walnut on one face, maple on the other, \u215b inch chamfer on all edges. Solution card printed on archival paper, sealed in a wax envelope.",
+      "pieces_spec": "31 two-sided dominoes: \u00bd walnut, \u00bd maple (glued down the center), 3\u00d71\u00bd inches. Stored in a fitted mahogany tray that slides under the board. Optional: brass corner brackets on board frame.",
+      "estimated_price_range": "$200\u2013$350",
+      "complexity": "Complex"
+    }
+  },
+  {
+    "parlor_id": "dominoes-block-game",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_dominoes-block-game",
+      "app_title": "Build a Hand-Crafted Domino Set",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "8-12",
+      "estimated_time": "Weekend project",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "High",
+      "materials_level": "Low Cost",
+      "summary": "Dominoes arrived in Europe from China around 1750 and the classic double-six set of 28 tiles has been unchanged ever since. Building your own wooden domino set from a single length of hardwood is a satisfying workshop project \u2014 each tile gets drilled pip holes, sanded smooth, and finished with oil. The result is a set that will last generations.",
+      "materials_list": "One length of 1\u00d72 inch hardwood (oak, cherry, or maple) \u2014 about 24 inches long (Home Depot lumber department)|Miter saw or hand saw with miter box|Sandpaper \u2014 80, 120, and 220 grit|Drill and 3/16 inch Forstner bit or brad-point drill bit (for pip holes)|Danish oil or tung oil finish|Dark wood stain or black acrylic paint for pip filling|Pencil and ruler|Clamps|Safety glasses",
+      "steps": "1. Cut the hardwood into 28 identical tiles: each tile 2 inches long \u00d7 1 inch wide \u00d7 \u215c inch thick (the standard domino ratio is 2:1 length to width). A 24-inch piece of 1\u00d72 lumber will yield exactly 28 tiles if cut to 2-inch lengths. Clamp the wood securely before each cut.|2. Sand all tiles: start with 80-grit to remove saw marks, then 120-grit, then 220-grit for a silky finish. Sand all 6 faces and all edges.|3. Mark the pip positions on each tile with pencil using the standard double-six domino pattern: draw a faint dividing line across the center of each tile (the 'bone line'). Mark pip positions on each half: 0 pips (blank), 1 pip (center), 2 pips (diagonal), 3 pips (diagonal + center), 4 pips (4 corners), 5 pips (4 corners + center), 6 pips (3 pairs). Lay out all 28 tiles per the complete double-6 set (all combinations 0-0 through 6-6).|4. Drill pip holes: use a 3/16 inch drill bit, drilling about \u215b inch deep. A drill press gives the most consistent depth; a hand drill works with care. Clamp each tile firmly.|5. Apply Danish oil or tung oil to all tiles. Let soak for 15 minutes then wipe off excess. Allow 24 hours to cure. Apply a second coat.|6. Fill drilled pip holes with black acrylic paint using a toothpick. Let dry. Wipe the surface to remove any excess paint, leaving pips dark.|7. Stack and store tiles in a small wooden box or cloth bag.",
+      "safety_notes": "Adult must supervise or operate the miter saw \u2014 keep fingers well clear of the blade, use a stop block to make consistent cuts. A drill press is much safer than a hand drill for young children. Wear safety glasses at all times when cutting and drilling. Oil finish should be applied with good ventilation; oil-soaked rags can spontaneously combust \u2014 spread flat to dry outdoors.",
+      "tips_and_context": "Dominoes were likely brought to Europe by Dominican monks or traders from China in the 1700s \u2014 the name may derive from the black-and-white masquerade masks called dominos. The double-six set has 28 tiles: 7 tiles for each pip value (0 through 6). The Block Game rule is simple: if you can't play, you pass. First to empty their hand wins. For a premium set, use alternating walnut and maple tiles with inlaid pip dots of contrasting wood. Many Victorian families carved their own sets and stored them in fitted ivory or bone boxes."
+    },
+    "fabrica_spec": {
+      "commission_title": "Dominoes (Block Game) \u2014 Artisan Commission",
+      "materials_spec": "28-tile set in solid cherry or walnut hardwood, each tile 2\u00d71\u00d7\u215c inch. Pip holes drilled with Forstner bit and filled with contrasting wood plugs (maple pips on walnut tiles, or walnut pips on maple). Bone-line divider inlaid or routed.",
+      "dimensions": "Each tile: 2 inches \u00d7 1 inch \u00d7 \u215c inch (standard proportions). Pip holes: 3/16 inch diameter \u00d7 \u215b inch deep. Storage box: 6\u00d74\u00d71\u00bd inches.",
+      "finish_notes": "Tiles sanded to 320 grit. Three coats hand-rubbed Danish oil, buffed between coats. Pip holes filled with contrasting-wood turned pegs (glued flush and sanded). Bone line: routed \u215b inch wide \u00d7 1/16 inch deep, filled with white or ebony wood filler. Storage box: matched wood with sliding lid or brass clasp.",
+      "pieces_spec": "28 tiles. Optional: brass spinner in center of each tile (traditional style). Storage in a fitted sliding-lid box in matching wood with felt-lined interior.",
+      "estimated_price_range": "$150\u2013$280",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "draughts-checkers",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_draughts-checkers",
+      "app_title": "Build a Draughts (Checkers) Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "Weekend project",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "High",
+      "materials_level": "Moderate Cost",
+      "summary": "Draughts \u2014 known as Checkers in America \u2014 is one of the world's oldest games, with boards found in ancient Egypt. Building a proper 8\u00d78 board from hardwood with painted or inlaid squares is a rewarding workshop project. The finished board doubles as a chess board, making it one of the most useful things a family can build together.",
+      "materials_list": "One 14\u00d714 inch hardwood board, \u00be inch thick (maple, cherry, or oak from Home Depot lumber or a hardwood dealer)|Alternatively: 14\u00d714 inch birch plywood, \u00be inch thick|Dark and light wood stain (ebony and natural) OR two acrylic paint colors (black and cream)|Painter's tape (1-inch wide)|Matte polyurethane finish|Sandpaper \u2014 80, 120, 220 grit|24 wooden checker discs, 1\u00bd inch diameter (Hobby Lobby or Woodcraft) \u2014 12 in each of two colors|Optional: router and \u00bc inch roundover bit for edge treatment|Ruler, pencil, compass or T-square",
+      "steps": "1. Cut or purchase the board blank. Sand with 80-grit, then 120-grit, then 220-grit. Wipe clean.|2. Mark the 8\u00d78 grid: the playing area should be 12 inches \u00d7 12 inches (64 squares at 1\u00bd inch each), centered on the board with a 1-inch border on each side. Mark all grid lines with a ruler and pencil.|3. Apply painter's tape along every other column to mask off the light squares in the first row. Paint the exposed squares dark. Repeat for every row, carefully offsetting the pattern to create the checkerboard (dark square in bottom-left corner as viewed by each player \u2014 'dark on the left').|4. Alternatively: apply two contrasting stains, masking with tape between each application.|5. Remove tape carefully. Touch up any bleed-through with a small brush.|6. Apply 2 coats of matte polyurethane. Let cure fully (48 hours) before handling.|7. Optional: route a \u00bc inch roundover on all edges of the board for a finished look.|8. Paint or stain 12 checker discs in each of two colors (e.g., red and black). Apply clear coat.|9. Set up the game: each player places 12 pieces on the dark squares of their first 3 rows.",
+      "safety_notes": "Router use requires adult operation only \u2014 a router spinning at 20,000+ RPM will cause serious injury if the workpiece slips. Clamp board firmly. Miter saw and router work require safety glasses and hearing protection. Polyurethane requires ventilation.",
+      "tips_and_context": "Draughts was one of the most widely played games in the Victorian parlor \u2014 every household owned a board. The word 'draught' means 'a move' in Middle English. British rules require mandatory captures \u2014 if you can jump, you must. American checkers allows kings to move multiple squares in some variations. In 1952, Arthur Samuel's draughts-playing program became the first self-learning AI \u2014 trained by playing millions of games against itself. For a premium board, alternate walnut and maple strips in a butcher-block pattern, then crosscut to create a naturally-colored checkerboard without any paint."
+    },
+    "fabrica_spec": {
+      "commission_title": "Draughts (Checkers) \u2014 Artisan Commission",
+      "materials_spec": "Alternating walnut and maple wood strip inlay board, \u00be inch thick, with cherry or walnut border frame. 24 turned hardwood checker discs in walnut and maple.",
+      "dimensions": "Overall board: 16\u00d716 inches. Playing grid: 8\u00d78 squares at 1\u00be inch each (14 inch playing area). Border frame: 1 inch wide. Thickness: \u00be inch. Checker discs: 1\u00be inch diameter \u00d7 \u00bc inch thick.",
+      "finish_notes": "Wood-inlay squares sanded flush to 320 grit. Two coats hand-rubbed Danish oil. Border frame with mitered corners, \u215b inch roundover on top edge. Checker discs: turned, chamfered edge, hand-oiled. Optional: monogram or date laser-engraved on board underside.",
+      "pieces_spec": "24 turned hardwood checker discs: 12 walnut, 12 maple. Each 1\u00be inch diameter, \u00bc inch thick, chamfered edge. Stored in two felt bags tied with ribbon. Optional: sliding drawer built into board frame for piece storage.",
+      "estimated_price_range": "$180\u2013$320",
+      "complexity": "Complex"
+    }
+  },
+  {
+    "parlor_id": "chess",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_chess",
+      "app_title": "Build a Chess Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "Weekend project",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "High",
+      "materials_level": "Moderate Cost",
+      "summary": "Chess has been played for over 1,400 years \u2014 from its origins in India as Chaturanga through the Arab world to the European courts of the Middle Ages. Building a hand-crafted chessboard is one of the most classic woodworking projects, combining precise measurement, careful painting or inlay, and a satisfying result the family will use for decades. This guide focuses on building the board; standard Staunton chess pieces can be sourced separately.",
+      "materials_list": "One 18\u00d718 inch birch plywood or hardwood board, \u00be inch thick (Home Depot)|Black and cream acrylic paint OR alternating wood stains (Michaels or Home Depot)|Painter's tape, 1-inch wide|Matte polyurethane spray sealant|Sandpaper \u2014 80, 120, 220 grit|Ruler, T-square or carpenter's square, pencil|Optional: router with \u215b inch roundover bit for edges|Optional: 1\u00d72 inch hardwood strips in two contrasting woods for a true wood-inlay board",
+      "steps": "1. Sand the board surface with 80, 120, then 220-grit sandpaper. Wipe clean with a tack cloth.|2. Mark the 8\u00d78 playing grid: USCF tournament standard uses 2\u00bc inch squares. For an 18-inch board with a 1-inch border, use 2-inch squares (16 inch playing area). Mark all 9 horizontal and 9 vertical lines in pencil with a T-square.|3. Tape off alternating squares using 2-inch-wide painter's tape. Apply tape along full rows, then cut at each vertical line with a craft knife \u2014 this gives clean edges. Paint the exposed dark squares first with dark acrylic paint. Apply two coats. Let dry fully.|4. Remove tape, realign for the light squares, and paint with cream or off-white. Let dry.|5. Apply 3 coats of matte polyurethane, allowing full drying between coats. Wet-sand lightly with 400-grit between coats 2 and 3 for an ultra-smooth finish.|6. Optional: rout a \u00bc inch roundover on the board's top edge and sand smooth.|7. Label the board coordinates (a-h along one side, 1-8 along the other) with fine-tip marker or stencil paint if desired \u2014 useful for learning notation.|8. Set up pieces: white queen on white (d1), black queen on black (d8); light square always on the right for each player.",
+      "safety_notes": "Router use requires adult supervision only. Always clamp the workpiece firmly and use a featherboard if routing the edges. Wear safety glasses and hearing protection. Polyurethane: ventilate the workspace well and wear a respirator mask.",
+      "tips_and_context": "Chess reached Europe from the Arab world around 900 AD; the modern rules (including the queen's powerful movement) were standardized around 1475. The Staunton piece design \u2014 now the international tournament standard \u2014 was first sold in 1849 and named after English chess champion Howard Staunton. For a premium board, build the checkerboard pattern using alternating strips of walnut and maple glued into a panel, then crosscut into rows and re-glued with the pattern reversed \u2014 the traditional 'strip-and-crosscut' method used by professional board makers. The resulting board has no paint and is far more durable."
+    },
+    "fabrica_spec": {
+      "commission_title": "Chess \u2014 Artisan Commission",
+      "materials_spec": "Strip-and-crosscut walnut/maple inlay chessboard, \u00be inch thick, with figured walnut or rosewood border frame. Playing squares 2\u00bc inches. No paint \u2014 pure wood color contrast.",
+      "dimensions": "Overall board: 20\u00d720 inches. Playing grid: 8\u00d78 squares at 2\u00bc inch each (18 inch playing area). Border frame: 1 inch walnut or rosewood. Thickness: \u00be inch. Optional coordinate labels inlaid in frame.",
+      "finish_notes": "Strip-and-crosscut method: \u00bc inch wide alternating strips of walnut and maple glued, sliced, and re-glued in offset pattern. Sanded flush to 320 grit. Three coats hand-rubbed Danish oil, wet-sanded between coats. Frame mitered at corners with spline reinforcement. Bottom felt-lined.",
+      "pieces_spec": "Board only (pieces sourced separately \u2014 recommend Staunton pattern in ebonized boxwood and natural boxwood). Optional: sliding drawer in board frame for storage. Alternatively, we can commission a full turned-wood Staunton set in walnut and maple.",
+      "estimated_price_range": "$220\u2013$450 (board only); $500\u2013$900 (board + turned pieces)",
+      "complexity": "Complex"
+    }
+  },
+  {
+    "parlor_id": "halma",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_halma",
+      "app_title": "Build a Halma Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "Weekend project",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "High",
+      "materials_level": "Moderate Cost",
+      "summary": "Halma \u2014 Greek for 'jump' \u2014 was invented in 1883 by Harvard professor George Howard Monks and became an immediate Victorian parlor sensation. Played on a 16\u00d716 grid with pieces racing from corner 'camps' to the opposite corner, it's the direct ancestor of Chinese Checkers. Building the full 16\u00d716 board requires careful measuring but no advanced tools beyond a ruler, tape, and steady hand.",
+      "materials_list": "One 20\u00d720 inch birch plywood or hardwood board, \u00be inch thick (Home Depot)|Cream/ivory and dark green acrylic paint OR alternating wood stains|Painter's tape, \u00be inch wide|Matte polyurethane sealant|Sandpaper \u2014 80, 120, 220 grit|Ruler, T-square, pencil|Red or contrasting paint for corner 'camp' areas|64 wooden craft discs or pawns in 2 or 4 colors, 1 inch diameter (Michaels or Hobby Lobby) \u2014 19 pieces per player for 2-player, 13 for 4-player|Optional: router for edge treatment",
+      "steps": "1. Sand board smooth. Apply a base coat of cream acrylic paint. Let dry.|2. Mark the 16\u00d716 grid: for a 20-inch board with 1-inch borders, use squares of 1\u215b inch each (18 inches playing area). Mark all 17 horizontal and 17 vertical lines in pencil. Take time \u2014 this grid has 256 squares total and accuracy matters.|3. Apply painter's tape along every other row of squares. Paint the exposed squares with dark green paint. Allow to dry. Reapply tape in the alternate pattern and paint those squares. This creates the 16\u00d716 checkerboard.|4. Mark the corner 'camps': the two-player camp is a stepped triangle occupying 19 squares in each corner, in a 1-2-3-4-5-4 stair pattern. The four-player camp is 13 squares in a 1-2-3-4-3 pattern. Paint camp borders with a thick bright line (e.g., red or gold) to clearly delineate each starting zone.|5. Remove all tape. Touch up edges. Apply 3 coats of matte polyurethane.|6. Paint player pieces in distinct colors. For 2 players: 19 pieces each. For 4 players: 13 pieces each. Apply clear coat.|7. Set up: each player fills their corner camp with all their pieces. Players race to move all pieces to the opposite corner.",
+      "safety_notes": "Spray polyurethane must be used outdoors or in a well-ventilated workshop. Wear a dust mask when sanding the large board surface. Router edge-treatment requires adult operation only with proper clamping.",
+      "tips_and_context": "Halma was invented by George Howard Monks, a Boston surgeon, who may have been inspired by the English game of Hoppity. A smaller 8\u00d78 version evolved into Chinese Checkers in 1892 when the star-shaped board was introduced (confusingly, Chinese Checkers has no Chinese origins). In the original Victorian game, pieces can move in all 8 directions and jump in chains \u2014 the key strategy is building 'ladders' of your own pieces that subsequent pieces can hop along in long chains. The 16\u00d716 board also works for draughts variants and other grid games."
+    },
+    "fabrica_spec": {
+      "commission_title": "Halma \u2014 Artisan Commission",
+      "materials_spec": "Alternating walnut and maple or light/dark veneer inlay on a \u00be inch maple substrate. Corner camp boundaries inlaid with contrasting wood strips or brass rule. 4-color set of wooden cone pawns.",
+      "dimensions": "Overall board: 22\u00d722 inches. Playing grid: 16\u00d716 squares at 1\u00bc inch each (20 inch playing area). Border: 1 inch walnut frame. Camp boundary: 4 triangular areas marked with inlaid contrasting border. Piece pawns: \u00bd inch base diameter, \u00be inch tall cones.",
+      "finish_notes": "Inlay squares sanded flush to 320 grit. Two coats hand-rubbed Danish oil. Camp zones highlighted with \u215b inch inlaid maple or ebony rule. Border frame mitered corners. Board underside felt-lined. Optional: player's initials laser-engraved at each camp.",
+      "pieces_spec": "For 2-player: 38 turned wooden cones (19 each in 2 contrasting wood types). For 4-player: 52 turned wooden cones (13 each in 4 colors: natural maple, walnut, cherry, ebonized oak). Stored in a fitted divided tray.",
+      "estimated_price_range": "$280\u2013$480",
+      "complexity": "Complex"
+    }
+  },
+  {
+    "parlor_id": "draughts-checkers-variants",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_draughts-checkers-variants",
+      "app_title": "Build an International Draughts (10\u00d710) Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "Weekend project",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "High",
+      "materials_level": "Moderate Cost",
+      "summary": "International Draughts \u2014 played on a 10\u00d710 board with 20 pieces per player \u2014 is the official game of the World Draughts Championships and considerably more complex than the standard 8\u00d78 version. Turkish Draughts uses an 8\u00d78 board but pieces move and capture orthogonally rather than diagonally. Building a 10\u00d710 board opens up a whole family of draughts variants to explore.",
+      "materials_list": "One 18\u00d718 inch birch plywood or hardwood board, \u00be inch thick (Home Depot)|Black and cream acrylic paint OR alternating wood stains|Painter's tape, \u00be inch wide|Matte polyurethane sealant|Sandpaper \u2014 80, 120, 220 grit|Ruler, T-square, pencil|40 wooden checker discs, 1\u00bc inch diameter \u2014 20 in each of two colors (Hobby Lobby or Woodcraft)",
+      "steps": "1. Sand the board smooth. Apply cream base coat. Let dry.|2. Mark a 10\u00d710 grid: for an 18-inch board with 1-inch borders, use squares of 1.6 inch each (16 inch playing area). Alternatively use 1\u00bd inch squares (15 inch playing area with 1.5 inch borders). Mark all 11 horizontal and 11 vertical grid lines with T-square and pencil.|3. Tape and paint alternating squares dark (black or dark brown). Allow to dry fully. The playing color is dark squares only \u2014 per International Draughts convention, the board is oriented so a dark square is in the bottom-left corner for each player.|4. Remove tape, touch up, apply 3 coats of polyurethane.|5. Paint 20 checker discs in each of two colors. Apply clear coat.|6. Set up for International Draughts: each player places 20 pieces on dark squares of the first 4 rows. The two middle rows are empty to start.|7. Write game rules on a reference card for both International Draughts and Turkish Draughts variants.",
+      "safety_notes": "Spray paint and polyurethane require outdoor use or strong ventilation. Wear dust mask when sanding large board areas. Adult supervision for any cutting tools.",
+      "tips_and_context": "International Draughts (also called Polish Draughts) was standardized in the Netherlands in the early 18th century and now has governing bodies in over 50 countries. Key differences from English draughts: men can capture backwards, and kings ('dames') can move any number of squares diagonally like a bishop in chess. The 10\u00d710 board creates a far deeper game \u2014 grandmaster-level play requires memory of specific endgame positions. The board you build also works perfectly for standard English draughts (using only the inner 8\u00d78 grid) and Turkish Draughts."
+    },
+    "fabrica_spec": {
+      "commission_title": "International Draughts (Variants) \u2014 Artisan Commission",
+      "materials_spec": "Alternating walnut and maple inlay 10\u00d710 board, \u00be inch thick, with walnut border frame. Optional engraved coordinate labels for tournament use. 40 turned hardwood checker discs.",
+      "dimensions": "Overall board: 18\u00d718 inches. Playing grid: 10\u00d710 squares at 1\u00bd inch each (15 inch playing area). Border: 1\u00bd inch walnut frame. Thickness: \u00be inch. Checker discs: 1\u00bc inch diameter \u00d7 \u00bc inch thick.",
+      "finish_notes": "Inlay squares sanded flush to 320 grit. Hand-rubbed Danish oil. Border frame mitered corners with spline reinforcement. Felt underside. Optional: coordinate numbers engraved per International Draughts notation (1-50 on dark squares).",
+      "pieces_spec": "40 turned hardwood checker discs: 20 walnut, 20 maple. Each 1\u00bc inch diameter \u00d7 \u00bc inch thick with chamfered edges. Stored in a fitted box. Note: checker discs should be 75-80% of square size so they fit comfortably.",
+      "estimated_price_range": "$200\u2013$350",
+      "complexity": "Complex"
+    }
+  },
+  {
+    "parlor_id": "reversi-othello",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_reversi-othello",
+      "app_title": "Build a Reversi (Othello) Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "8-12",
+      "estimated_time": "2-4 hours",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "Reversi was invented in England in 1883 and re-launched as Othello in 1971 with the tagline 'a minute to learn, a lifetime to master.' The game uses 64 two-sided discs on an 8\u00d78 board \u2014 discs flip to show your color when flanked by an opponent. Building the board and two-toned disc set from wood creates a beautiful heirloom version of this fast-playing strategy game.",
+      "materials_list": "One 12\u00d712 inch birch plywood or pine board, \u00be inch thick (Home Depot)|Dark green acrylic paint for board surface (Michaels)|Black acrylic paint for grid lines|Matte polyurethane sealant|Sandpaper \u2014 120 and 220 grit|64 wooden craft discs, 1 inch diameter (Michaels or Hobby Lobby) \u2014 paint 32 black on one side, white on the other|Ruler, pencil, thin brush|Optional: \u00bd inch drill and 1-inch Forstner bit if making recessed disc wells",
+      "steps": "1. Sand the board smooth. Paint the entire surface dark green. Let dry, apply second coat.|2. Mark the 8\u00d78 grid: for a 12-inch board, use 1\u00bc inch squares (10 inch playing area with 1-inch border). Mark 9 horizontal and 9 vertical lines in pencil.|3. Paint thin black lines along all grid lines with a fine brush and ruler. Alternatively, use a black fine-tip permanent marker and straight-edge.|4. Add the four center-dot markers (traditional Othello boards have small dots at the four intersections that frame the center 4 squares): mark positions at d4/d5/e4/e5 intersections.|5. Apply 2 coats of matte polyurethane over the whole board. Let cure.|6. Make the two-sided discs: paint one face of all 64 discs black, the other white (or natural wood). Let dry, seal with a clear coat. Alternatively, glue two differently colored craft discs back-to-back.|7. Set up: place 2 black and 2 white discs in the center 4 squares in a diagonal pattern (white at d4 and e5, black at d5 and e4 \u2014 or any diagonal arrangement agreed upon).|8. Play begins with black moving first. Each turn, place a disc so it flanks at least one opponent's disc in a straight line; flip all flanked discs to your color.",
+      "safety_notes": "Polyurethane and spray paint require well-ventilated area. Sand with a dust mask. If using a drill for disc wells, adult supervision required.",
+      "tips_and_context": "Reversi was independently invented by Lewis Waterman and John Mollett in 1883 \u2014 both claimed credit and a dispute lasted years. Mattel's 1971 re-release as Othello was enormously successful. World Othello Championships have been held annually since 1977. A key strategic concept: corner squares are the most valuable positions since they can never be flanked. For a professional-quality build, use a green-felt-covered board and drill shallow 1-inch diameter \u00d7 \u215b-inch-deep wells for each square so discs sit recessed and don't slide \u2014 this is how competition sets are built."
+    },
+    "fabrica_spec": {
+      "commission_title": "Reversi (Othello) \u2014 Artisan Commission",
+      "materials_spec": "Dark green leather or felt playing surface mounted on \u00bd inch MDF or maple substrate, with walnut or cherry hardwood border frame. 64 two-sided discs in ebonized maple (black side) and natural maple (white side).",
+      "dimensions": "Overall board: 14\u00d714 inches. Playing grid: 8\u00d78 squares at 1\u00bd inch each (12 inch playing area). Border frame: 1 inch walnut. Thickness: \u00be inch. Disc diameter: 1\u215c inch. Recessed wells: \u215b inch deep.",
+      "finish_notes": "Border frame walnut, hand-oiled, mitered corners. Playing surface: green baize or leather fitted inside frame, secured with contact cement. Grid lines: white or gold silk-screened on felt. Disc wells: 64 recessed circles \u215b inch deep, routed with 1\u215c inch Forstner bit. Discs: lathe-turned, chamfered, 1 face ebonized, 1 face natural maple.",
+      "pieces_spec": "64 turned maple discs, 1\u215c inch diameter \u00d7 \u215c inch thick. One face ebonized (Japan black or black dye), other face natural maple oil finish. Chamfered edges. Stored in two felt pouches inside a sliding-lid box built into board base.",
+      "estimated_price_range": "$180\u2013$300",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "noughts-and-crosses-tic-tac-toe",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_noughts-and-crosses-tic-tac-toe",
+      "app_title": "Build a Noughts and Crosses (Tic-Tac-Toe) Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "8-12",
+      "estimated_time": "1-2 hours",
+      "season": "All Season",
+      "setting": "Indoor",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "Noughts and Crosses \u2014 Tic-Tac-Toe in America \u2014 has been traced to ancient Rome and is arguably the oldest pencil-and-paper game still played. A permanent wooden version makes a charming, reusable game for all ages. This project uses simple materials: a wood square, wood-burned or painted lines, and smooth river stones or carved discs as playing pieces.",
+      "materials_list": "One 8\u00d78 inch pine or birch board, \u00be inch thick (Home Depot) OR a 9\u00d79 inch wooden craft plaque (Michaels)|Acrylic paint \u2014 cream or white for the board, dark brown or black for grid lines|Fine-tip brush|Matte polyurethane sealant|Sandpaper \u2014 120 and 220 grit|10 playing pieces \u2014 5 each of two types: smooth river stones (painted X and O), or 1-inch wooden discs (Michaels) labeled X and O with paint or marker|Optional: wood-burning pen for burned-in grid lines",
+      "steps": "1. Sand the board smooth. Apply a coat of cream or white acrylic paint. Let dry. Apply a second coat.|2. Mark the 3\u00d73 grid: draw two horizontal lines and two vertical lines to divide the board into 9 equal squares. For an 8-inch board, lines at 2\u2154 inches and 5\u2153 inches from each edge.|3. Paint or burn the four grid lines neatly. For painted lines: use a fine-tip brush and a ruler as a guide. For burned lines: use a wood-burning pen and a metal ruler \u2014 burns in about 30 seconds per line. Make lines about \u215b inch wide.|4. Apply 2 coats of matte polyurethane over the painted board. Let cure.|5. Make playing pieces: paint 5 craft discs with large X symbols (or letter X), and 5 with O symbols. Use contrasting paint colors. Apply clear coat. Alternatively, collect 10 smooth pebbles and paint X or O on each.|6. Optionally: add a small storage pouch or attached felt bag to keep pieces with the board.|7. Play: two players alternate placing their symbol in any empty square. First to get three in a row (horizontal, vertical, or diagonal) wins.",
+      "safety_notes": "Wood-burning pen tip is extremely hot \u2014 adult operation only. Never leave unattended. Polyurethane spray requires ventilation.",
+      "tips_and_context": "The Roman version of Tic-Tac-Toe, called Terni Lapilli, was played on boards scratched into stone \u2014 graffiti examples survive in Pompeii. Unlike modern Tic-Tac-Toe, players could move their pieces rather than adding new ones, which makes the Roman version more strategically rich. A beautifully built wooden set \u2014 with smooth stones as X's and O's \u2014 makes a genuine heirloom from the simplest possible game. For an upgrade, use a natural wood-slice board (a cross-section of a branch) and burn the grid lines in for a rustic look."
+    },
+    "fabrica_spec": {
+      "commission_title": "Noughts and Crosses \u2014 Artisan Commission",
+      "materials_spec": "Natural wood-slice board (cross-section of a branch, 8-10 inch diameter), live edge, hand-sanded and oiled. Grid lines wood-burned. Playing pieces: smooth river stones or turned walnut and maple discs.",
+      "dimensions": "Board: 8\u201310 inch diameter wood slice, \u00be inch thick. Grid: two burned lines in each direction, dividing board into 9 equal zones. Pieces: 5 smooth stones per player (2-3 inch stones), or 5 turned discs per player (1\u00bd inch diameter \u00d7 \u00bd inch thick).",
+      "finish_notes": "Live-edge board: bark edge preserved or cleaned, natural oil finish (2-3 coats Danish oil). Grid lines: wood-burned \u215b inch wide. Stone pieces: selected, sanded smooth if needed, one set painted with X (white paint), one set painted with O (black paint), sealed with clear coat. Alternatively, turned wood discs in contrasting walnut and maple.",
+      "pieces_spec": "10 smooth river stones or turned hardwood discs, matched in size. 5 labeled X, 5 labeled O. Stored in a small cloth bag attached to board with a jute cord.",
+      "estimated_price_range": "$60\u2013$100",
+      "complexity": "Simple"
+    }
+  },
+  {
+    "parlor_id": "fox-and-geese-board",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_fox-and-geese-board",
+      "app_title": "Build a Fox and Geese Peg Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "8-12",
+      "estimated_time": "2-3 hours",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "High",
+      "materials_level": "Low Cost",
+      "summary": "This version of Fox and Geese uses a drilled peg board \u2014 the same cross-shaped layout with 33 holes as the classic English Peg Solitaire board. Peg-style playing pieces slot into the holes, giving the game a satisfying tactile quality and a classic Victorian look. The cross-shaped board with peg pieces was how Fox and Geese was commonly sold in Victorian toy shops.",
+      "materials_list": "One 9\u00d79 inch pine or birch board, \u00be inch thick (Home Depot)|Drill and \u00bc inch drill bit (or brad-point bit)|One 36-inch length of \u00bc inch wooden dowel (Home Depot)|Sandpaper \u2014 80, 120, 220 grit|Dark stain or paint for board|Danish oil or polyurethane sealant|Ruler, pencil|Handsaw or miter saw for cutting pegs|Red acrylic paint for fox peg",
+      "steps": "1. Sand the board smooth. Apply dark wood stain or paint. Let dry.|2. Mark the 33 hole positions: the cross-shaped board is a 7\u00d77 grid of points with the four corner 2\u00d72 groups removed. For a 9-inch board, mark a 7\u00d77 grid of dots at 1\u00bc inch spacing, centered (with \u215e inch border). Erase the 16 corner dots (4 dots in each of the 4 corners) \u2014 49 \u2212 16 = 33 remaining positions.|3. Drill \u00bc inch holes at each of the 33 marked positions, approximately \u00bd inch deep. A drill press gives the most consistent depth; clamp the board firmly if using a hand drill.|4. Add diagonal line markings: in each of the 4 arms of the cross, draw diagonal lines connecting adjacent holes \u2014 these diagonals are part of the Fox and Geese movement rules. Use paint or a wood-burning pen.|5. Draw/paint horizontal and vertical connecting lines between all adjacent holes.|6. Apply polyurethane sealant over the painted board (around the holes). Let cure.|7. Cut 14 pegs from \u00bc inch dowel: each peg should be \u00be to 1 inch long (about 1.5\u00d7 the board thickness). Sand all pegs smooth.|8. Paint 13 pegs white or cream (geese) and 1 peg red or orange (fox). Let dry. Seal with clear coat.|9. Set up: place the 13 geese pegs in all 33 holes of the bottom three rows. Fox peg starts in any unoccupied position in the upper portion.",
+      "safety_notes": "Drill use requires adult supervision. Use a drill press if available \u2014 it prevents the bit from wandering. Clamp the board securely before drilling. Wear safety glasses. Miter saw or handsaw for peg cutting requires adult operation.",
+      "tips_and_context": "Fox and Geese appears in a 1470 inventory of King Edward IV of England, and versions of the game have been found carved in medieval Scandinavian stonework (as Halatafl). The peg-board version was standard in Victorian toy shops and is still sold today. The fox peg can capture a goose by jumping over it to an empty hole \u2014 so the fox aims to reduce the geese, while geese aim to surround the fox. The 33-hole board is identical to a standard English Peg Solitaire board, so the same build gives you two games."
+    },
+    "fabrica_spec": {
+      "commission_title": "Fox and Geese (Peg Board) \u2014 Artisan Commission",
+      "materials_spec": "Walnut or cherry hardwood board, \u00be inch thick, with 33 drilled holes. Turned wooden pegs in two contrasting woods. Board optionally shaped to the cross outline (outer edge routed to the cross shape).",
+      "dimensions": "Board: 9\u00d79 inches (square) or cross-shaped cutout. 33 holes in cross pattern: 7\u00d77 grid minus 4 corner 2\u00d72 groups, at 1\u00bc inch spacing. Hole diameter: \u00bc inch, \u00bd inch deep. Pegs: \u00bc inch diameter dowel, \u00be inch tall above surface.",
+      "finish_notes": "Board sanded to 320 grit, hand-oiled with 2 coats Danish oil. Lines between holes engraved or burned. Cross outline edge optionally routed with \u00bc inch roundover. Pegs turned to a mushroom-cap head for easier grip.",
+      "pieces_spec": "14 turned wood pegs: 13 maple or ash (geese), 1 cherry or rosewood (fox). Each \u00bc inch diameter, \u00be inch above surface, with \u00bc inch peg that slots into hole. Stored in a small drilled storage strip on board underside.",
+      "estimated_price_range": "$90\u2013$160",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "dice-chuck-a-luck",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_dice-chuck-a-luck",
+      "app_title": "Build a Chuck-a-Luck Betting Layout",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "2-3 hours",
+      "season": "All Season",
+      "setting": "Indoor",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "Chuck-a-Luck was a staple of American frontier gambling \u2014 three dice tumble in a birdcage, and players bet on which numbers appear. The betting layout is a colorful numbered cloth or board showing numbers 1-6 with their payouts. Building a family-friendly parlor version with craft materials creates a Victorian-style probability teaching tool as much as a game.",
+      "materials_list": "One piece of green felt, 18\u00d712 inches (Hobby Lobby or Joann) OR one 18\u00d712 inch plywood board painted green|6 colored number tiles or painted wooden blocks (numbers 1-6)|Fabric paint or acrylic paint in red, gold, and white (Michaels)|Ruler and pencil|Fabric marker or stencils for numbers|3 standard six-sided dice|A lidded plastic container or a 3-inch diameter cup with lid (for rolling 3 dice \u2014 simulates the birdcage)|Clear acrylic sealer (if making a board version)|Scissors or craft knife",
+      "steps": "1. Lay out the felt or board. Mark 6 rectangular betting zones, each 3\u00d74 inches, arranged in a row. Leave 2 inches at the top and bottom for border decoration.|2. Paint or mark each zone with a large number 1 through 6. Use large, bold numerals centered in each zone. For felt, use fabric paint; for wood, use acrylic paint.|3. Add payout information below each number: '1 die: 1\u00d7 | 2 dice: 2\u00d7 | 3 dice: 3\u00d7' \u2014 write this clearly in small text within each zone.|4. Add a decorative border in gold paint around the layout.|5. Optional: add a 'House wins' note at the top: 'If your number doesn't appear, your bet is lost.'|6. For felt: iron flat when dry. For board version: apply 2 coats of matte polyurethane to protect paint.|7. Create a dice cup: use a lidded plastic container. Place 3 dice inside, snap lid shut, and shake \u2014 lift lid over the layout to reveal results.|8. Create simple betting tokens from small craft discs or cardboard chips. Each player starts with 10-20 tokens.|9. Play: before rolling, each player places tokens on any number zone. Shake dice cup and reveal results. Pay out per payout table.",
+      "safety_notes": "Craft knife use requires adult supervision. Spray sealant must be used outdoors. This is a probability game \u2014 use tokens or play money only, not real money.",
+      "tips_and_context": "Chuck-a-Luck (also called Sweat-Cloth or Bird Cage) was a fixture of American frontier saloons and was strongly associated with the Wild West era. The distinctive birdcage tumbler \u2014 a wire cage on an axle that flips end over end to mix 3 dice \u2014 became the game's iconic image. The house advantage is about 7.9% in the standard payout version. This makes it an excellent family probability lesson: play a 'fair' version (single die payout = 1\u00d7, double = 3\u00d7, triple = 5\u00d7) and compare results. The Victorian household version used actual dice in a cloth-covered cup rather than the birdcage, making it easy to recreate at home."
+    },
+    "fabrica_spec": {
+      "commission_title": "Dice (Chuck-a-Luck) \u2014 Artisan Commission",
+      "materials_spec": "Green baize playing surface on a \u00be inch MDF or hardwood substrate, 18\u00d712 inches. Six numbered zones silk-screened or painted in gilt on green. Brass birdcage tumbler with 3 engraved dice. Hardwood frame.",
+      "dimensions": "Layout: 18\u00d712 inches. Six betting zones each 2\u00bd\u00d74 inches in a row. Border: 1 inch hardwood or leather frame. Optional cage: 4-inch diameter wire birdcage tumbler on a walnut stand.",
+      "finish_notes": "Baize surface fitted over substrate, tacked under frame. Numbers in gold silk-screen or hand-painted gilt. Frame in stained walnut or mahogany with brass corner pieces. Cage: brass wire or copper-plated wire frame on turned walnut axle stand.",
+      "pieces_spec": "3 large dice (1 inch), engraved with standard pip pattern. 60 betting tokens: antique-finish brass discs, \u00be inch diameter. Optional: full Victorian birdcage tumbler in brass on a walnut stand.",
+      "estimated_price_range": "$100\u2013$200 (layout only); $250\u2013$450 (with brass birdcage)",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "postal-chess-correspondence-chess",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_postal-chess-correspondence-chess",
+      "app_title": "Build a Correspondence Chess Set",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "2-3 hours",
+      "season": "All Season",
+      "setting": "Indoor",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "Postal Chess \u2014 correspondence chess by mail \u2014 was enormously popular in the Victorian era, with games lasting weeks or months as moves were exchanged by post. Building a dedicated correspondence chess set means creating a beautiful notation card system and a compact travel board for tracking your game. This is a project that combines woodcraft, calligraphy, and the slow pleasures of a long-distance intellectual contest.",
+      "materials_list": "One 10\u00d710 inch birch plywood board, \u00bc\u2013\u00bd inch thick (Home Depot)|Black and cream acrylic paint for chessboard|Matte polyurethane sealant|Sandpaper \u2014 120 and 220 grit|Ruler, pencil, T-square|Permanent marker or stencils for coordinate labels (a-h, 1-8)|Heavy cream cardstock for move notation cards (Michaels)|Envelopes (if playing by physical mail)|Optional: set of small magnetic chess pieces (available online or at game stores) for a travel-sized board|Fine-tip pen for writing notation",
+      "steps": "1. Sand and paint the chessboard (8\u00d78 grid) on the plywood: for a 10-inch board with \u00bd inch border, mark 2-inch squares (8\u00d72 = 16 inch playing area \u2014 too large; use 1-inch squares for a compact correspondence board with a 1-inch border). Mark 9 horizontal and 9 vertical lines, paint alternating squares.|2. Apply polyurethane sealant. Let cure.|3. Label the board coordinates: letters a-h along the bottom edge (white's side), numbers 1-8 along the left edge. Use small stencils or careful freehand lettering.|4. Create a set of notation cards: cut cardstock into 5\u00d73 inch cards. Rule each card with columns for 'Move #', 'White', 'Black', 'Date Sent'. Print or hand-write 30 rows per card.|5. Decorate cards with a simple border or monogram. Seal completed cards with a light laminate or clear tape over the front.|6. Write an instruction sheet explaining algebraic notation: piece letters (K=King, Q=Queen, R=Rook, B=Bishop, N=Knight), square coordinates (e.g. e2-e4 or Ng1-f3), and special moves (O-O = kingside castle, + = check, # = checkmate).|7. Create a small storage folder or box for the cards, instruction sheet, and envelopes.|8. Optional: attach magnetic chess pieces to the board so they stay in place between moves.",
+      "safety_notes": "Polyurethane spray requires ventilation. No sharp tools required for the card-making portion \u2014 safe for all ages with adult guidance on notation system.",
+      "tips_and_context": "The first organized correspondence chess tournament was held in 1824 in Britain, and postal chess clubs flourished throughout the Victorian era. Players might have 10-20 ongoing games simultaneously, sending a postcard per move. Today, correspondence chess continues online (ICCF \u2014 International Correspondence Chess Federation). The historical appeal is the pace: having a week to think over your move, consulting books, and writing a careful notation card. Building a beautiful correspondence set with quality card stock and a personal notation system is a tribute to this contemplative tradition."
+    },
+    "fabrica_spec": {
+      "commission_title": "Postal Chess (Correspondence Chess) \u2014 Artisan Commission",
+      "materials_spec": "Compact folding chess board in walnut and maple inlay, \u00bd inch thick when folded. Letterpress-printed notation cards on cream laid stock. Optional: magnetic travel chess pieces.",
+      "dimensions": "Folding board: 8\u00d78 inches unfolded (4\u00d78 inches folded). 8\u00d78 playing grid at 1-inch squares. Notation cards: 5\u00d73 inches, 30-row format, 20 cards per set. Storage: fitted leather or book-cloth portfolio.",
+      "finish_notes": "Folding board: piano hinge in brass, walnut frame, inlay squares sanded flush. Hand-rubbed oil finish. Coordinate labels inlaid or laser-engraved in frame. Notation cards: letterpress or laser-printed on 100lb cream cardstock with monogram or family crest option.",
+      "pieces_spec": "Optional: 32 magnetic Staunton-style chessmen in turned boxwood (natural and ebonized), with magnetic bases. Stored in a velvet-lined tray inside the folded board. Portfolio: bookcloth-covered, with pocket for cards and envelopes.",
+      "estimated_price_range": "$120\u2013$280 (board + cards); $400\u2013$700 (with turned magnetic pieces)",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "the-game-of-logic",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-game-of-logic",
+      "app_title": "Build Lewis Carroll's Game of Logic Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "1-2 hours",
+      "season": "All Season",
+      "setting": "Indoor",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "Lewis Carroll published The Game of Logic in 1887 as a way to teach syllogistic reasoning through a simple diagram and colored counters. The biliteral diagram is a 2\u00d72 grid, and the triliteral diagram adds an inner square \u2014 together they represent logical categories and propositions. Building the boards and counter set makes Carroll's elegant logic system fully playable.",
+      "materials_list": "Two pieces of stiff cardstock or thin cardboard, each 6\u00d76 inches (Michaels or craft supply)|Ruler and pencil|Black fine-tip marker|Red acrylic paint and grey acrylic paint (Michaels)|9 small wooden craft discs or thick card circles, \u00be inch diameter \u2014 4 red and 5 grey (Michaels)|Scissors or craft knife|Optional: lamination pouches for durability|Clear acrylic spray sealant",
+      "steps": "1. Create the Biliteral Diagram (the simpler 2\u00d72 grid): on a 4\u00d74 inch area of the first cardstock, draw a large square divided into 4 equal squares (2 columns, 2 rows). Label the left column 'x' (top) and 'x'' (bottom), the right column 'y' (top-left quadrant) and 'y'' (top-right quadrant). Note: x = has property, x' = does not have property.|2. Draw the outer boundary of the Biliteral diagram clearly. Label it neatly.|3. Create the Triliteral Diagram: on the second cardstock, draw an 8-square grid \u2014 a 2\u00d74 arrangement representing the addition of an 'm' attribute. An inner rectangle within each of the four squares represents 'm' (has middle property), the outer area represents 'm'' (does not). This gives 8 cells total.|4. Label the Triliteral diagram regions: top half = x, bottom half = x', left half = y, right half = y'. Inner cells = m, outer cells = m'.|5. Go over all pencil lines with black marker. Make the diagrams bold and clear.|6. Seal both diagrams with clear acrylic spray or laminate.|7. Paint 4 craft discs red (meaning 'at least one exists here') and 5 discs grey (meaning 'nothing exists here'). Let dry. Seal with clear coat.|8. Print or hand-write a short rule card: Red counter in a cell = 'something with these properties exists.' Grey counter in a cell = 'nothing with these properties exists.' Half-in-half position = 'something may exist in one of these two cells but we don't know which.'|9. Store diagrams and counters in a small envelope or tin.",
+      "safety_notes": "Craft knife for cutting cardstock requires adult supervision. Spray sealant requires ventilation. This is primarily a non-tool project \u2014 safe for younger children with adult guidance on the logic rules.",
+      "tips_and_context": "Lewis Carroll wrote The Game of Logic in 1887 \u2014 four years before the symbolic logic now taught in universities was standardized by Frege and Russell. His counter-based diagrammatic system was an independent invention, and Carroll claimed it was easier for beginners than symbolic notation. Carroll's syllogisms are often whimsical: 'All cats understand French | Some chickens are cats / Therefore: some chickens understand French.' The diagrams work as Venn diagrams before Venn's publication \u2014 a genuine historical artifact of Victorian recreational mathematics. The counter set can be used with the puzzles in the original 1887 book, which is freely available on Project Gutenberg."
+    },
+    "fabrica_spec": {
+      "commission_title": "The Game of Logic \u2014 Artisan Commission",
+      "materials_spec": "Two inlaid hardwood diagram boards (biliteral and triliteral), each 5\u00d75 inches, in contrasting wood with routed cell divisions. 9 turned hardwood counters in red-stained and grey-stained maple.",
+      "dimensions": "Biliteral board: 5\u00d75 inches, 2\u00d72 grid with 2-inch cells. Triliteral board: 5\u00d75 inches, 8-cell grid (2\u00d74 zones with inner squares). Board thickness: \u00bd inch. Counters: \u00be inch diameter \u00d7 \u00bc inch thick.",
+      "finish_notes": "Boards in light maple with routed \u215b inch wide cell division lines filled with dark stain. Labels engraved (x, x', y, y', m, m'). Hand-rubbed oil finish. Counters: 4 dyed red, 5 dyed grey, all sealed with clear lacquer. Stored in a felt-lined box with a copy of Carroll's original puzzle card set.",
+      "pieces_spec": "9 turned maple counters: 4 red (\u00be inch diameter), 5 grey (\u00be inch diameter). Two diagram boards. Puzzle cards: 20 Carroll syllogisms printed on cream cardstock, stored in a silk envelope. Optional: facsimile of the 1887 first edition included.",
+      "estimated_price_range": "$80\u2013$150",
+      "complexity": "Simple"
+    }
+  },
+  {
+    "parlor_id": "agon-queens-guards",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_agon-queens-guards",
+      "app_title": "Build an Agon (Queen's Guards) Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "Weekend project",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "High",
+      "materials_level": "Moderate Cost",
+      "summary": "Agon is believed to be the oldest board game played on a hexagonal grid \u2014 patented in France in 1842 and one of the first games specifically designed for women's drawing rooms. Played on 91 hexagonal spaces arranged in 6 concentric rings, each player races a Queen and 6 Guards toward the central hexagon. Building a hexagonal board requires either careful drafting or a laser cutter \u2014 this guide covers both approaches.",
+      "materials_list": "For the drawn/painted approach: One 16\u00d716 inch birch plywood sheet, \u00be inch thick (Home Depot)|Compass and ruler for drawing hexagons|Acrylic paint in 6 distinct ring colors (traditional: 6 concentric rings each a different color \u2014 red, orange, yellow, green, blue, purple)|Fine-tip brush|Matte polyurethane sealant|Sandpaper \u2014 120 and 220 grit|14 wooden craft discs or pawns \u2014 7 per player in 2 colors (Michaels or Hobby Lobby) \u2014 1 queen piece (larger disc) + 6 guards per player",
+      "steps": "1. Sand the plywood smooth. Paint with a light cream base coat. Let dry.|2. Find the center of the board. The Agon board is a hexagonal grid of 91 spaces arranged in concentric rings of 6 hexagons each: Ring 1 = center hex (1 space), Ring 2 = 6 hexes, Ring 3 = 12 hexes, Ring 4 = 18 hexes, Ring 5 = 24 hexes, Ring 6 (outer) = 30 hexes \u2014 total 91 hexes.|3. Determine your hex size: for a flat-to-flat distance of 1\u00bc inch per hexagon, the overall board spans about 7 hexes across the widest point = 8\u00be inches. A 12-inch flat-to-flat board uses 1\u00be inch hexes. Mark the center point.|4. Use a compass set to your hex radius to step off hexagon centers, starting from the center and working outward ring by ring. Mark all 91 hex centers.|5. Draw each hexagon by setting your compass to the same radius and stepping around each center point 6 times to mark the 6 vertices, then connecting them.|6. Paint each ring in a distinct color: innermost ring 1 = dark purple/indigo, working outward through the spectrum. Traditional Agon boards use 6 distinguishable colors for the 6 rings.|7. Outline each hexagon in black with a fine brush.|8. Apply 2 coats of matte polyurethane. Let cure.|9. Make pieces: 1 queen peg (larger, 1\u00bc inch disc) and 6 guard pegs (1 inch discs) per player. Paint in 2 contrasting colors. Optional: queen disc is taller or more ornate.|10. Set up: pieces start on the outer ring. Each player arranges their queen and 6 guards alternating with the opponent's pieces around the outer ring, per the starting diagram.",
+      "safety_notes": "Compass point is sharp \u2014 supervise younger children. Router use for board shaping (to hexagonal outline) requires adult-only operation. Spray sealant in ventilated area.",
+      "tips_and_context": "Agon was patented in France in 1842 and may be the oldest game designed specifically on a hexagonal grid. It was considered an elegant drawing-room game for educated women \u2014 a deliberate contrast to the military-strategy games like chess that dominated men's gaming. The six concentric color rings are an important navigational feature: players quickly learn to say 'my queen is on the third ring' rather than counting hexagons. The goal \u2014 place your queen in the center with guards surrounding it \u2014 is deceptively simple. The full book of rules is brief; the strategic depth comes from blocking and maneuvering in the tight central rings."
+    },
+    "fabrica_spec": {
+      "commission_title": "Agon (Queen's Guards) \u2014 Artisan Commission",
+      "materials_spec": "CNC-routed or laser-cut hardwood hexagonal board, 12 inches flat-to-flat, \u00be inch thick, mounted in a circular walnut frame. Six concentric rings painted in traditional spectrum colors or stained in natural wood tones. 14 turned hardwood pieces.",
+      "dimensions": "Board: 12 inches flat-to-flat (13.9 inches corner to corner), \u00be inch thick. 91 hexagonal spaces at 1\u00be inch flat-to-flat each. 6 concentric rings. Border: 1 inch walnut ring frame. Queen pieces: 1\u00bc inch diameter disc, \u00bd inch tall. Guard pieces: 1 inch diameter disc, \u215c inch tall.",
+      "finish_notes": "Hexagonal cells routed \u215b inch deep or silk-screened with color fills. Ring colors traditional (6-spectrum) or in natural wood tones (ebony, walnut, cherry, maple, ash, bleached). Board sanded to 320 grit, hand-oiled. Circular walnut frame with hand-cut joints. Pieces turned, chamfered, hand-oiled in two contrasting woods.",
+      "pieces_spec": "14 turned hardwood pieces: 2 queen discs (1\u00bc inch, \u00bd inch tall, in contrasting woods or with crown motif), 12 guard discs (1 inch, \u215c inch tall). Stored in a felt-lined divided box. Optional: laser-engraved crown symbol on queen pieces.",
+      "estimated_price_range": "$220\u2013$400",
+      "complexity": "Complex"
+    }
+  },
+  {
+    "parlor_id": "merelles-nine-mens-morris-sociable",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_merelles-nine-mens-morris-sociable",
+      "app_title": "Build a Merelles (Three Men's Morris) Board Set",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "8-12",
+      "estimated_time": "2-3 hours",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "Merelles is the family of games that includes Three Men's Morris, Six Men's Morris, Nine Men's Morris, and Twelve Men's Morris \u2014 all using nested square boards with connecting lines. The Sociable version from the 1858 sourcebook focuses on the classic Nine Men's Morris with sociable Victorian parlor rules. Building a set of two or three boards in nested sizes lets the whole family play all variants from a single workshop session.",
+      "materials_list": "Three birch plywood squares: 10\u00d710 inch, 8\u00d78 inch, and 6\u00d76 inch \u2014 all \u00bc\u2013\u00bd inch thick (Home Depot or Hobby Lobby)|Acrylic paint: cream/tan for backgrounds, dark brown/black for lines|Fine-tip brushes|Matte polyurethane sealant|Sandpaper \u2014 120 and 220 grit|36 wooden craft discs total: 9 each of 4 different colors, \u00be inch diameter (Michaels)|Ruler, pencil|Optional: wood-burning pen",
+      "steps": "1. Sand all three boards smooth. Apply cream base coat to each. Let dry.|2. Board 1 (Three Men's Morris \u2014 6\u00d76 inch board): draw one square (5\u00d75 inches centered), then a smaller square inside (2\u00bd\u00d72\u00bd inches). Add connecting lines from each midpoint of the outer square to the corresponding midpoint of the inner square. Mark 12 intersection points.|3. Board 2 (Six Men's Morris \u2014 8\u00d78 inch board): draw two concentric squares (7\u00d77 and 3\u00bd\u00d73\u00bd). Add midpoint connectors. Mark 16 intersection points.|4. Board 3 (Nine Men's Morris \u2014 10\u00d710 inch board): draw three concentric squares (8\u00d78, 5\u00d75, 2\u00d72). Add midpoint connectors. Mark 24 intersection points. (This is the standard Nine Men's Morris board.)|5. Paint all board lines and point marks dark brown or black. Let dry. Seal all boards with polyurethane. Let cure.|6. Paint playing pieces: 9 discs each in 4 different colors (for a 4-player variant, or 9 each in 2 colors for standard).|7. Write a rules card for each board: Three Men's Morris (3 pieces each, only placement \u2014 no movement), Six Men's Morris (6 pieces each, same mill rules), Nine Men's Morris (9 pieces, 3 phases).|8. Store all boards and pieces in a flat box or linen bag.",
+      "safety_notes": "Spray polyurethane requires ventilation. Wood-burning pen requires adult operation only. Sandpaper creates dust \u2014 wear a mask.",
+      "tips_and_context": "Merelles boards have been found cut into the benches of Westminster Abbey, the cloister of Canterbury Cathedral, and ancient temple floors in Egypt. Shakespeare's A Midsummer Night's Dream mentions the 'nine men's morris' as an overgrown field feature \u2014 the game was so common that men played it by scratching boards into any flat surface. The Sociable version in the 1858 source adds a '4-player sociable' variant where two pairs of partners play on opposite sides of a single board. Building three board sizes at once lets you scale the game's complexity for players of different ages."
+    },
+    "fabrica_spec": {
+      "commission_title": "Merelles (Nine Men's Morris) \u2014 Artisan Commission",
+      "materials_spec": "Three-board nested set in walnut, cherry, and maple respectively \u2014 one board per Morris variant. Each board with routed or inlaid connecting lines. 36 turned wooden playing pieces in 4 contrasting woods.",
+      "dimensions": "Board 1 (Three Men's Morris): 7\u00d77 inches, 2-square grid. Board 2 (Six Men's Morris): 9\u00d79 inches, 2-square grid. Board 3 (Nine Men's Morris): 11\u00d711 inches, 3-square grid. All boards \u00be inch thick. Pieces: \u00be inch diameter discs, \u00bc inch thick, 9 each in 4 woods.",
+      "finish_notes": "Each board in a distinct wood species. Lines routed \u215b inch wide \u00d7 1/16 inch deep, filled with contrasting dark filler. Point positions marked with \u215b inch brass inlay dots. Boards hand-oiled. Pieces in 4 contrasting woods: walnut, maple, cherry, ebonized oak.",
+      "pieces_spec": "36 turned discs: 9 each in walnut, maple, cherry, ebonized oak. Stored in a 4-compartment felt-lined tray. Three boards stored flat in a fitted cloth envelope or thin wooden case.",
+      "estimated_price_range": "$200\u2013$360 (3-board set)",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "knight-tour-puzzle",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_knight-tour-puzzle",
+      "app_title": "Build a Knight's Tour Puzzle Board",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "10-adult",
+      "estimated_time": "2-3 hours",
+      "season": "All Season",
+      "setting": "Workshop",
+      "supervision_level": "Medium",
+      "materials_level": "Low Cost",
+      "summary": "The Knight's Tour \u2014 studied by Euler in 1759 and by Arab mathematicians in 840 AD \u2014 asks: can a chess knight visit every square of the 8\u00d78 board exactly once? Building a numbered peg board to trace knight moves makes this classic mathematical puzzle tactile and visual. Players place numbered tokens as they move, revealing the tour as a winding path across the board.",
+      "materials_list": "One 14\u00d714 inch birch plywood board, \u00bd inch thick (Home Depot)|Alternating black and cream acrylic paint for chessboard pattern|Matte polyurethane sealant|Sandpaper \u2014 120 and 220 grit|64 small wooden numbered tokens (1-64) OR 64 blank tokens + permanent marker for numbering (Michaels)|Ruler, T-square, pencil|One chess knight piece (from any chess set) as the moving piece|Small wooden cuphooks or pins (optional \u2014 as markers for the path)",
+      "steps": "1. Sand the board smooth. Mark and paint an 8\u00d78 chessboard: for a 14-inch board with 1-inch border, use 1\u00bd inch squares (12 inch playing area). Tape and paint alternating squares cream and dark brown.|2. Apply 2 coats of polyurethane sealant. Let cure.|3. Label all 64 squares with a light pencil coordinate system (a1-h8) so you can refer to squares when recording the tour path.|4. Number 64 small tokens 1 through 64 (or write numbers on blank craft discs with a fine marker).|5. Challenge setup: place the chess knight on any square. Move it using legal knight moves only (2 squares in one direction, 1 square perpendicular). Place token #1 on the starting square, token #2 on the square you just moved to, continuing through all 64 squares without repeating.|6. Create a solution reference card: one successful Knight's Tour solution is: a1\u2192b3\u2192c1\u2192d3\u2192e1\u2192f2\u2192h1\u2192g3\u2192h5\u2192g7\u2192h8\u2192... (record the full solution path). Many solutions exist \u2014 the total count is 26,534,728,821,064.|7. Add a 'closed tour' challenge card: a closed tour returns the knight to its starting square. This is harder than an open tour.|8. Store tokens in a small numbered bag alongside the board.",
+      "safety_notes": "No sharp tools required for token painting. Polyurethane spray requires ventilation. Sandpaper use: wear dust mask.",
+      "tips_and_context": "The Knight's Tour was studied by the mathematician Leonhard Euler in 1759, though Arab chess masters had solved it as early as 840 AD. The total number of closed knight's tours on an 8\u00d78 board \u2014 tours that return to the start \u2014 is 26,534,728,821,064 (a number not computed until 1995 using modern computers). The trick for finding a tour by hand is Warnsdorff's rule: always move the knight to the square that has the fewest onward moves. This heuristic nearly always finds a complete tour from any starting position. The physical board with numbered tokens gives a beautiful visual record of a completed tour \u2014 a winding Hamiltonian path in wood and paint."
+    },
+    "fabrica_spec": {
+      "commission_title": "The Knight's Tour \u2014 Artisan Commission",
+      "materials_spec": "Walnut and maple alternating inlay 8\u00d78 chessboard, \u00be inch thick, with walnut border frame. 64 turned maple tokens numbered 1-64 (laser-engraved). One hand-carved or turned walnut knight piece.",
+      "dimensions": "Board: 14\u00d714 inches overall. Playing grid: 8\u00d78 squares at 1\u00bd inch each (12 inch playing area). Border: 1 inch walnut frame. Board thickness: \u00be inch. Numbered tokens: \u00be inch diameter \u00d7 \u00bc inch thick discs. Knight piece: standard Staunton scale (~2\u00bd inch tall).",
+      "finish_notes": "Inlay squares sanded flush to 320 grit. Hand-rubbed Danish oil, two coats. Tokens in natural maple, numerals laser-engraved and filled with black wax. Coordinate labels (a-h, 1-8) engraved in border frame. Knight piece: hand-carved walnut or turned + carved, hand-oiled.",
+      "pieces_spec": "64 numbered maple token discs (laser-engraved 1-64). 1 walnut knight piece (hand-carved or lathe-turned). Solution card on archival cream paper, sealed in wax envelope. Stored in a felt-lined divided tray with sliding lid.",
+      "estimated_price_range": "$200\u2013$360",
+      "complexity": "Complex"
+    }
+  },
+  {
+    "parlor_id": "towers-of-hanoi",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_towers-of-hanoi",
+      "app_title": "Build a Towers of Hanoi",
+      "modern_category": "Puzzles & Brain Teasers",
+      "source_book": "Heritage Parlor",
+      "age_band": "8\u201314",
+      "estimated_time": "90\u2013120 minutes",
+      "summary": "Build the classic Towers of Hanoi puzzle from a wooden base and three dowel pegs, with a graduated set of seven wooden discs. Invented by French mathematician \u00c9douard Lucas in 1883, this elegant puzzle teaches recursion and exponential thinking \u2014 moving 7 discs requires exactly 127 moves. Once built, the puzzle is a permanent, beautiful object that will stump and delight visitors for years.",
+      "materials_list": "Pine or poplar board, 12\" \u00d7 4\" \u00d7 \u00be\" (1 piece \u2014 base)|\u215c\" hardwood dowel rod, 36\" length (cut into three 8\" pegs)|\u00bc\" oak or birch plywood, one 6\" \u00d7 12\" piece (for discs)|Drill bit set: \u215c\" brad-point for peg holes, \u215d\" through 2\u00bd\" hole saw set in \u00bc\" steps (for discs)|220-grit sandpaper|Wood glue|Danish oil or beeswax finish|Pencil, ruler, compass|Optional: acrylic craft paint in 7 colors (one per disc)",
+      "steps": "1. Mark three peg positions on the 12\" base: center peg at 6\" from one end; outer pegs each 3\u00bc\" from center. All holes on the centerline of the board's width.|2. Drill \u215c\" holes 1\" deep at each marked position using a brad-point bit. Do NOT drill through the board.|3. Cut the \u215c\" dowel rod into three equal lengths of 7\u00bd\" each using a miter saw or handsaw with miter box.|4. Test-fit pegs in holes; sand lightly if tight. Do not glue yet.|5. Cut seven discs from \u00bc\" plywood: diameters 1\u00bd\", 1\u00be\", 2\", 2\u00bc\", 2\u00bd\", 2\u00be\", and 3\". Use a hole saw, adjustable circle cutter, or compass-and-jigsaw method.|6. Drill a \u00bd\" center hole through each disc (slightly larger than the \u215c\" peg so discs slide freely).|7. Sand all discs through 120-, 180-, and 220-grit. Round the edges slightly with sandpaper.|8. Sand the base board smooth on all faces and edges.|9. Apply Danish oil or beeswax to the base and all discs; let dry fully (4\u20136 hours).|10. If painting discs, apply one coat of acrylic per disc in a rainbow sequence from largest (red) to smallest (violet). Let dry 30 minutes.|11. Apply a drop of wood glue into each base hole and press pegs in firmly. Wipe off squeeze-out immediately. Let cure overnight.|12. Stack all seven discs on the leftmost peg, largest at bottom. Puzzle is complete \u2014 challenge a friend to move the full tower to the rightmost peg.",
+      "safety_notes": "Adult supervision required for hole saw use and miter saw cuts. Clamp the workpiece securely before drilling \u2014 disc blanks can spin violently if not held. Wear safety glasses when drilling and cutting. Keep fingers clear of saw blade. Sand in a ventilated area or wear a dust mask.",
+      "tips_and_context": "The Towers of Hanoi was invented by \u00c9douard Lucas in 1883, accompanied by a legend about Brahmin monks in a temple solving a 64-disc version in gold \u2014 they would finish after 585 billion years. Henry Dudeney popularized it in his 1917 Amusements in Mathematics. The puzzle embodies binary arithmetic: disc moves correspond exactly to binary counting. Seven discs is the ideal family build \u2014 solvable in 127 moves, challenging but not exhausting. For a premium look, use alternating light/dark wood disc colors instead of paint, or use a natural walnut/maple contrast for base versus discs."
+    },
+    "fabrica_spec": {
+      "commission_title": "Towers of Hanoi \u2014 Heirloom Edition",
+      "materials_spec": "American black walnut base (\u00be\" thick, bookmatched grain preferred); turned cherry or maple pegs (\u215c\" diameter with decorative tenon at base); seven graduated discs in alternating cherry and maple, \u00bc\" thick",
+      "dimensions": "Base: 13\" \u00d7 4\" \u00d7 \u00be\". Pegs: 8\" tall \u00d7 \u215c\" diameter. Discs: 1\u00bd\" to 3\" diameter in \u00bc\" steps, \u00bc\" thick. Overall assembled height: approx. 9\".",
+      "finish_notes": "Three coats of hand-rubbed tung oil on base and pegs, satin finish. Discs finished with beeswax polish for smooth sliding. Laser-engraved move-count table on underside of base (127 moves for 7 discs).",
+      "pieces_spec": "1 walnut base with 3 brass-bushed peg sockets; 3 turned pegs; 7 graduated discs (4 cherry, 3 maple in alternating pattern); felt feet on base underside",
+      "estimated_price_range": "$180\u2013$320",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "the-reve-s-puzzle",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-reve-s-puzzle",
+      "app_title": "Build a Reve's Puzzle",
+      "modern_category": "Puzzles & Brain Teasers",
+      "source_book": "Heritage Parlor",
+      "age_band": "10\u201316",
+      "estimated_time": "90\u2013120 minutes",
+      "summary": "Build the four-peg variant of the Towers of Hanoi, as presented by Henry Dudeney in The Canterbury Puzzles (1907). Unlike the three-peg version, adding a fourth peg dramatically reduces the required moves \u2014 and the optimal solution for even eight discs was only formally proven in 2014, nearly a century after Dudeney published the puzzle. This makes a beautiful object and introduces players to one of mathematics' most recently settled open problems.",
+      "materials_list": "Pine or poplar board, 14\" \u00d7 4\" \u00d7 \u00be\" (1 piece \u2014 base)|\u215c\" hardwood dowel rod, 48\" length (cut into four 8\" pegs)|\u00bc\" oak or birch plywood, one 8\" \u00d7 12\" piece (for discs)|Drill bit set: \u215c\" brad-point for peg holes, \u00bd\" brad-point for disc centers|Hole saw set or adjustable circle cutter|220-grit sandpaper|Wood glue|Danish oil or beeswax finish|Pencil, ruler|Acrylic craft paint in 8 colors (optional)",
+      "steps": "1. Mark four peg positions on the 14\" base at 2\u00bd\", 5\", 9\", and 11\u00bd\" from one end, all along the board's centerline.|2. Drill \u215c\" holes 1\" deep at each marked position. Do not drill through.|3. Cut the \u215c\" dowel rod into four lengths of 7\u00bd\" each.|4. Cut eight graduated discs from \u00bc\" plywood: diameters 1\u00bc\", 1\u00bd\", 1\u00be\", 2\", 2\u00bc\", 2\u00bd\", 2\u00be\", and 3\". Eight discs for the Reve's variant.|5. Drill a \u00bd\" center hole through each disc so they slide freely on the \u215c\" pegs.|6. Sand all pieces: 120-, 180-, 220-grit. Round disc edges slightly.|7. Apply Danish oil to base board and all discs. Let cure 4\u20136 hours.|8. Optionally paint discs in a graded color scheme (lightest color on smallest disc).|9. Glue pegs into base with a drop of wood glue each. Let cure overnight.|10. Stack all eight discs on the leftmost peg, largest at bottom. Challenge: move the complete tower to the rightmost peg in the fewest moves possible \u2014 the optimal answer is 33 moves.",
+      "safety_notes": "Adult supervision required for hole saw and cutting tools. Clamp all workpieces before drilling. Wear safety glasses during cutting and drilling. Sand in a ventilated area.",
+      "tips_and_context": "Dudeney presented this as the Reve's Puzzle in The Canterbury Puzzles (1907), framed as a medieval riddling contest. The Frame-Stewart algorithm for four-peg Hanoi was conjectured in 1941 but only formally proved optimal in 2014 by researchers Bousch. The puzzle sits in a remarkable category: a problem published for children that remained an unsolved research question for 107 years. With eight discs, the optimal solution is 33 moves (versus 255 moves on a three-peg version), demonstrating the dramatic power of adding one extra peg."
+    },
+    "fabrica_spec": {
+      "commission_title": "Reve's Puzzle \u2014 Canterbury Edition",
+      "materials_spec": "English oak base with burned grid pattern; turned beech pegs; eight discs in two alternating hardwoods (oak and ash), \u00bc\" thick",
+      "dimensions": "Base: 15\" \u00d7 4\" \u00d7 \u00be\". Pegs: 8\" tall \u00d7 \u215c\" diameter. Discs: 1\u00bc\" to 3\" diameter in \u00bc\" steps, \u00bc\" thick.",
+      "finish_notes": "Fumed oak finish on base for aged appearance; hand-rubbed linseed oil on all pieces; laser-engraved title 'The Reve's Puzzle \u2014 Canterbury, 1907' on base front edge.",
+      "pieces_spec": "1 oak base with 4 brass-bushed peg sockets; 4 turned pegs; 8 graduated discs (4 oak, 4 ash in alternating pattern); green baize base lining",
+      "estimated_price_range": "$220\u2013$380",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "the-button-puzzle",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-button-puzzle",
+      "app_title": "Make a Button Puzzle",
+      "modern_category": "Puzzles & Brain Teasers",
+      "source_book": "Heritage Parlor",
+      "age_band": "8\u201312",
+      "estimated_time": "20\u201330 minutes",
+      "summary": "Cut two parallel slits in a strip of leather or stiff card, thread a large button onto it so it looks permanently trapped, and watch friends puzzle over how to free it. This Victorian pocket amusement from Every Boy's Book (1869) requires no tools beyond scissors and teaches elegant topological thinking \u2014 the button was never truly trapped at all, and once you see the trick, you'll want to make a dozen to give away.",
+      "materials_list": "Vegetable-tanned leather strip OR stiff card (Bristol board), 8\" \u00d7 1\u00bd\" (1 piece)|One large shirt button, at least 1\" diameter with 4 holes (center hole cluster must be wider than the strip of leather between the two slits)|Craft knife or sharp scissors|Cutting mat|Metal ruler|Pencil",
+      "steps": "1. Cut (or purchase) a leather strip or stiff card measuring 8\" \u00d7 1\u00bd\".|2. Mark two parallel slit positions in the center of the strip: each slit should be \u00be\" long, running along the strip's length. Space the two slits \u215c\" apart, centered at the 4\" midpoint of the strip (so slits run from 3\u215d\" to 4\u215c\" from one end).|3. Use a craft knife on a cutting mat to carefully cut both slits. Slits must be clean and parallel.|4. Thread the button onto the strip: push a small loop of the strip up through one slit, pass the button through that loop, then let the button fall back down between the two slits. It now appears permanently trapped between the slits, too large to pass through either one.|5. Hand the puzzle to a friend. The solution: push the strip section between the slits upward through one slit to make a larger loop, slip the button through that loop, then pull the strip back flat. The button comes free \u2014 seemingly impossibly.|6. Make several in different colors of card to give as gifts.",
+      "safety_notes": "Use a cutting mat and metal ruler when cutting slits with a craft knife. Keep fingers clear of blade. Supervise children under 10 with craft knife use. For younger children, pre-cut the slits and let them thread the button themselves.",
+      "tips_and_context": "Button puzzles and their cousins \u2014 ring puzzles, ring-and-string puzzles, and interlocking puzzles \u2014 were sold as Victorian pocket amusements, small enough to carry in a waistcoat pocket for impromptu entertainment at any gathering. They belong to the mathematical field of topology: the button appears trapped by its geometry, but the flexible medium (leather or card) allows a topological move that sets it free. Every Boy's Book (Edmund Routledge, 1869) included it alongside magic tricks and science experiments as a parlor skill for any boy to master. The same principle underlies the classic 'impossible link' chain puzzles."
+    },
+    "fabrica_spec": {
+      "commission_title": "Button Puzzle \u2014 Victorian Pocket Edition",
+      "materials_spec": "3\u20134 oz vegetable-tanned saddle leather, natural tan; one antique brass 4-hole button, 1\u00bc\" diameter; edges burnished and waxed",
+      "dimensions": "Leather strip: 9\" \u00d7 1\u00bd\" \u00d7 3\u20134 oz weight (approx. 1.5mm thick). Slits: two parallel cuts \u00be\" long, \u215c\" apart, centered at midpoint. Button: minimum 1\u00bc\" diameter.",
+      "finish_notes": "Edges beveled with edge tool and hand-burnished with bone folder; light coat of neatsfoot oil; optional blind-tooled border around slit area for decorative framing.",
+      "pieces_spec": "1 leather strip (pre-cut slits); 1 antique brass button; presented in a small kraft envelope with solving instructions on reverse",
+      "estimated_price_range": "$28\u2013$55",
+      "complexity": "Simple"
+    }
+  },
+  {
+    "parlor_id": "the-cups-and-balls",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-cups-and-balls",
+      "app_title": "Make a Cups and Balls Set",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "12\u201316 (with adult lathe supervision)",
+      "estimated_time": "3\u20135 hours (lathe turning)",
+      "summary": "Turn three matching wooden cups on a lathe and felt four wool balls to create the oldest magic prop in recorded history. Professor Hoffmann's Modern Magic (1876) describes the cups and balls as the foundation of all conjuring \u2014 it appears in Egyptian tomb paintings and Roman writings. Building your own set teaches woodturning fundamentals and gives you a performance prop far more meaningful than any purchased alternative.",
+      "materials_list": "Hardwood turning blank: 3 pieces, each 3\u00bd\" \u00d7 3\u00bd\" \u00d7 4\" (cherry, walnut, or maple)|Lathe and turning tools: roughing gouge, spindle gouge, parting tool, scraper|4-jaw chuck or faceplate for lathe|Calipers (digital or vernier)|220- and 400-grit sandpaper for lathe sanding|100% wool roving or wool felt, 4 oz (natural cream or red \u2014 for balls)|Bowl of hot water and dish soap (for wet felting balls)|Foam rubber or marble for ball cores (1\" diameter, optional for firmer balls)|Tung oil or shellac finish for cups|Optional: velvet draw-string pouch for storage",
+      "steps": "1. Mount a turning blank in the lathe chuck. Rough the blank to a cylinder approximately 3\" diameter \u00d7 3\u00bd\" tall.|2. Shape the outside of the cup: taper from 2\u00be\" diameter at the mouth to 2\" at the top (which will be inverted \u2014 cups sit upside down). Create a decorative rim bead at the mouth using a spindle gouge.|3. Hollow the inside: use a spindle gouge and scraper to hollow to a depth of 2\u00be\", leaving \u00bc\" walls throughout. The inside diameter should be approximately 2\u00bc\" \u2014 wide enough to conceal a 1\" ball under the cup.|4. Turn the top of the cup (the base when inverted): create a slightly concave depression approximately \u00be\" diameter to prevent stacked cups from slipping.|5. Part off the cup at the bottom of the mouth, then reverse mount to clean up the rim.|6. Sand through 120-, 180-, 220-, and 400-grit on the lathe. Apply two coats of tung oil while spinning slowly.|7. Repeat steps 1\u20136 for the two remaining cups. Use calipers to match all three cups to identical dimensions.|8. For the balls: tear 4\" lengths of wool roving. Wrap tightly around a marble or 1\" foam ball to form a rough sphere.|9. Wet the wrapped bundle in hot soapy water, then roll firmly between palms for 8\u201310 minutes until the felt tightens and the ball becomes firm. Rinse in cold water to set.|10. Make four balls (three playing balls plus one extra for sleight-of-hand work). Allow to dry overnight.|11. Practice the basic sequence from Professor Hoffmann's Modern Magic: set three balls visible above the cups, then show them vanishing one at a time beneath the cups.",
+      "safety_notes": "Lathe work requires adult supervision and proper training \u2014 always wear a face shield, not just safety glasses. Secure workpieces firmly in the chuck and check for balance before running at speed. Keep tools on the rest and never reach over the spinning work. Keep hair and loose clothing away from the lathe. Wet felting uses hot water; supervise younger children.",
+      "tips_and_context": "The cups and balls is the oldest reliably documented magic trick in history, described by Roman author Alciphron and depicted in the tomb of Beni Hassan in Egypt (circa 2000 BCE). Every notable magician from antiquity through Dai Vernon and beyond has performed some version of it. Professor Hoffmann's Modern Magic (Angelo Lewis, 1876) is one of the first English-language books to explain the method in print. Standard performance dimensions are approximately 3.25\" tall \u00d7 2.75\" diameter at the mouth \u2014 enough to conceal a 1\" ball. For a first build without lathe access, heavy-gauge aluminum or copper food-safe bowls of uniform size can be used instead, turned upside down."
+    },
+    "fabrica_spec": {
+      "commission_title": "Cups and Balls Set \u2014 Parlour Edition",
+      "materials_spec": "Three cups turned from American black walnut; four balls hand-felted from Merino wool roving; velvet-lined mahogany presentation box",
+      "dimensions": "Cups: 3\u00bc\" tall \u00d7 2\u00be\" diameter at mouth \u00d7 2\" diameter at top (inverted). Wall thickness: \u00bc\". Balls: 1\" diameter felted Merino wool. Box: 12\" \u00d7 4\" \u00d7 4\".",
+      "finish_notes": "Three coats of hand-rubbed tung oil, satin finish; concave top depression for ball placement; decorative beaded rim at mouth; matched grain pattern across all three cups where possible.",
+      "pieces_spec": "3 turned walnut cups (nested set, matching dimensions); 4 hand-felted Merino wool balls in deep crimson; green baize cup-roll performance mat; silk drawstring pouch; illustrated performance routine card",
+      "estimated_price_range": "$280\u2013$520",
+      "complexity": "Complex"
+    }
+  },
+  {
+    "parlor_id": "lotto-bingo",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_lotto-bingo",
+      "app_title": "Make a Lotto Set",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "7\u201314",
+      "estimated_time": "60\u201390 minutes",
+      "summary": "Print and assemble a complete Victorian Lotto set: twelve unique player cards (each showing 15 numbers in 3 rows of 5), ninety numbered draw tokens, and a cloth draw bag. This is the direct ancestor of Bingo, originating in 16th-century Italy and described in Foster's Complete Hoyle (1914). Making the set rather than buying it teaches design principles and gives a beautifully personal game that can host family parties for decades.",
+      "materials_list": "Card stock, 8\u00bd\" \u00d7 11\", 12 sheets (for player cards, 110 lb weight recommended)|Cardstock or thick paper, 4 sheets (for numbered tokens)|Scissors or paper cutter|Ruler|Pencil|Black fine-tip permanent marker or printer|Small glass or wooden discs (for marking called numbers on cards) \u2014 90 pieces in one color, or use dried beans|Fabric draw bag: 10\" \u00d7 12\" cotton or canvas, with drawstring \u2014 or use a bowl|Optional: laminator and laminating pouches for durable cards|Optional: rubber stamps or stickers for decorating cards",
+      "steps": "1. Design player cards: each card is a 5\u00d73 grid (5 columns, 3 rows = 15 squares). Divide numbers 1\u201390 into 9 columns of 10 each. Column 1 uses numbers 1\u201310, Column 2 uses 11\u201320, and so on through Column 9 (81\u201390). Each row has exactly 5 numbers and 4 blank spaces per row.|2. Create 12 unique cards by randomly assigning numbers within each column's range. No two cards should be identical. Rule: each card shows exactly 15 numbers; each column contributes exactly 1\u20133 numbers per card.|3. Print or hand-draw cards on cardstock, sized approximately 7\" \u00d7 4\" per card. Leave \u00bd\" margins. Rule the grid with a fine marker.|4. For draw tokens: cut 90 small squares approximately 1\" \u00d7 1\" from thick card. Number them 1\u201390 clearly with a marker. Alternatively, write numbers on wooden craft discs (1\" diameter discs available at craft stores).|5. For markers: cut 15 small circles per player from contrasting card, or use dried beans, pennies, or small glass cabochon gems (available at craft stores).|6. Make draw bag: fold a 10\" \u00d7 12\" fabric rectangle in half, sew side and bottom seams, thread a drawstring through the top hem. A simple knot bag works well.|7. Test the set: one player takes all 90 tokens in the bag, shakes, and draws one at a time, calling the number aloud. Players cover matching numbers on their card. First to cover a complete row of 5 wins that round.|8. Optional: laminate all cards for permanent use.",
+      "safety_notes": "Scissors safety for younger children \u2014 use blunt-tipped scissors for card cutting under age 8. Laminator machines get very hot; adult use only. Small tokens are a choking hazard for children under 4.",
+      "tips_and_context": "Lotto originated in 16th-century Italy as 'Il Giuoco del Lotto d'Italia' \u2014 a state lottery adapted into a parlor game. It reached Britain and America through the 18th and 19th centuries and was described in Foster's Complete Hoyle (1914) as a respectable family game. The name 'Bingo' entered American usage in 1929 when toy salesman Edwin Lowe overheard someone accidentally shout it at a carnival game. The traditional Victorian card uses numbers 1\u201390 in a 3\u00d79 grid, different from the American 5\u00d75 Bingo card \u2014 this build follows the authentic Victorian format."
+    },
+    "fabrica_spec": {
+      "commission_title": "Victorian Lotto Set \u2014 Parlour Edition",
+      "materials_spec": "Twelve cards letterpress-printed on 300gsm cream card stock; ninety tokens turned from hornbeam or bone (or laser-cut from \u00bc\" maple); velvet-lined octagonal mahogany box with brass clasp",
+      "dimensions": "Cards: 7\" \u00d7 4\" each, with printed grid. Tokens: \u00be\" diameter \u00d7 \u00bc\" thick wooden discs, numbers burned or engraved. Markers: \u00bd\" mother-of-pearl or brass discs (15 per player color \u00d7 4 colors = 60 markers). Box: 10\" \u00d7 8\" \u00d7 3\".",
+      "finish_notes": "Cards letterpress-printed with Victorian engraving-style border; box interior lined in green or burgundy baize with fitted card tray and token well; box exterior in dark-stained mahogany with French polish finish.",
+      "pieces_spec": "12 player cards; 90 numbered draw tokens; 60 player markers (15 per player, 4 colors); velvet draw bag with brass ring closure; rule card printed on parchment",
+      "estimated_price_range": "$320\u2013$580",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "the-shunting-puzzle",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-shunting-puzzle",
+      "app_title": "Build a Shunting Puzzle",
+      "modern_category": "Puzzles & Brain Teasers",
+      "source_book": "Heritage Parlor",
+      "age_band": "9\u201314",
+      "estimated_time": "60\u201390 minutes",
+      "summary": "Build a wooden Y-shaped railway shunting puzzle \u2014 a track layout with a siding loop, an engine, and a set of labelled carriages that must be rearranged in a specific order in the fewest moves. Popularized by Dudeney in Amusements in Mathematics (1917), this puzzle reflects Victorian England's railway obsession and teaches logical sequencing and permutation thinking. The built version is a satisfying object that sits on a shelf and invites repeated solving.",
+      "materials_list": "Plywood base board, \u00bc\" thick, 12\" \u00d7 8\" (1 piece)|Craft sticks (jumbo popsicle sticks) or \u215b\" balsa strips for track rails \u2014 2 packages|Small rectangular blocks of pine or basswood, approximately 1\" \u00d7 \u00bd\" \u00d7 \u00bd\" \u2014 at least 5 pieces (engine + 4 carriages)|Craft paint: black for engine, 4 colors for carriages|Fine permanent marker for labelling carriages (A, B, C, D)|Wood glue and super glue|Sandpaper, 220-grit|Optional: model railway ballast or fine sand for ground cover|Optional: small finishing nails for track rail detail",
+      "steps": "1. On the 12\" \u00d7 8\" plywood base, draw the track plan in pencil: a Y-junction layout consisting of a 10\" main line along the bottom, a 5\" loop siding branching off at 45\u00b0 from the right end of the main line and rejoining 4\" along, and a 3\" headshunt stub at the far left end.|2. The Y-loop should be large enough to hold 2 carriage-blocks; the headshunt should hold 1 block; the main line between junction and left end should hold 2 blocks. This gives 5 positions total for 4 carriages and 1 engine.|3. Glue two rows of craft stick strips along each track line (one left rail, one right rail), spacing them 1\" apart to form a channel the block 'carriages' slide in.|4. Cut five pine blocks to 1\" \u00d7 \u00be\" \u00d7 \u00bd\" for the engine and four carriages. Sand smooth.|5. Paint the engine black; paint carriages in four distinct colors. When dry, label carriages A, B, C, D with permanent marker.|6. The puzzle setup: place carriages A-B-C-D in order on the main track (A nearest the headshunt). Engine sits in the siding. Goal: rearrange to D-C-B-A order in the fewest possible shunting moves.|7. Solve the puzzle yourself to confirm the track geometry works. Classic solution for this reversal takes 10\u201312 moves.|8. Optional: add ballast texture to base using diluted PVA glue and fine sand. Paint base green for grass, grey for track bed.",
+      "safety_notes": "Super glue can bond skin instantly \u2014 use carefully and not with children under 10. Craft knife use for trimming blocks requires adult supervision. Wood glue fumes: work in a ventilated space.",
+      "tips_and_context": "Railway shunting puzzles became popular during Victorian England's railway mania of the 1840s, combining fascination with locomotive travel and the mathematical pleasure of permutation problems. Dudeney's version (Amusements in Mathematics, 1917) uses a Y-shaped siding where an engine must rearrange carriages without being able to push past them. The 'Inglenook Sidings' is the most famous real-world version, a classic used by model railway enthusiasts since the 1970s. The puzzle belongs to the family of sorting algorithms: the minimum-move solution corresponds to optimal bubble-sort sequences."
+    },
+    "fabrica_spec": {
+      "commission_title": "Shunting Puzzle \u2014 Victorian Railway Edition",
+      "materials_spec": "Mahogany base board, \u00bc\" thick; brass rail strips (2mm \u00d7 1mm section) for track; engine and carriages turned or carved from cherry; hand-lettered brass plates for each carriage",
+      "dimensions": "Base: 14\" \u00d7 10\" \u00d7 \u00bc\". Track rail height: 2mm above base. Engine block: 1\u00bd\" \u00d7 \u00be\" \u00d7 \u00be\". Carriage blocks: 1\" \u00d7 \u00be\" \u00d7 \u00bd\" each.",
+      "finish_notes": "Base finished with mahogany stain and satin lacquer; brass rails pinned with brass panel pins; engine painted gloss black with red detailing; carriages painted in four period railway liveries (GWR green, Midland Railway red, LNWR black, Caledonian blue) with hand-lettered running numbers.",
+      "pieces_spec": "1 mahogany base with brass track; 1 engine piece; 4 carriage pieces; puzzle card with starting position and challenge; velvet-lined storage tray",
+      "estimated_price_range": "$240\u2013$420",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "the-man-of-law-s-puzzle",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-man-of-law-s-puzzle",
+      "app_title": "Build a Sliding Tile Puzzle",
+      "modern_category": "Puzzles & Brain Teasers",
+      "source_book": "Heritage Parlor",
+      "age_band": "9\u201314",
+      "estimated_time": "2\u20133 hours",
+      "summary": "Build a wooden 8-puzzle (8 numbered tiles in a 3\u00d73 sliding frame with one empty space) \u2014 Dudeney's version framed as rearranging prisoners in a dungeon in The Canterbury Puzzles (1907). The 15-puzzle caused a craze across America in 1880; Sam Loyd famously offered $1,000 for an impossible arrangement's solution and kept his prize money forever. This build produces a precision-sliding puzzle that will outlast any plastic version.",
+      "materials_list": "\u00bc\" birch plywood, one 10\" \u00d7 10\" sheet (for tiles and frame back)|1\" \u00d7 1\u00bc\" pine strip, 5 feet (for frame sides)|Eight 3\u00bd\" \u00d7 3\u00bd\" tile blanks cut from \u00bc\" plywood (or purchase pre-cut at a craft store)|Wood glue and clamps|\u00bc\" brad-point drill bit|Table saw or miter saw|Sandpaper: 120-, 220-, 320-grit|Acrylic paint or ink stamps for numbering tiles 1\u20138|Satin lacquer or beeswax paste for finishing|Optional: self-adhesive cork sheet for tile backs (reduces clicking noise)",
+      "steps": "1. Cut a 10\u00bc\" \u00d7 10\u00bc\" back panel from \u00bc\" plywood for the frame base.|2. From 1\" \u00d7 1\u00bc\" pine strip, cut four frame sides: two pieces at 10\u00bc\" and two pieces at 10\u00bc\" (mitered at 45\u00b0 corners for a clean look). Glue and clamp the frame around the back panel, creating a shallow tray exactly 9\u00be\" \u00d7 9\u00be\" inside.|3. Cut nine tile blanks from \u00bc\" plywood, each 3\" \u00d7 3\" (three layers laminated together make a sturdier tile \u2014 but single \u00bc\" tiles work for a beginner build).|4. Sand all tile faces and edges through 120-, 220-, and 320-grit until tiles feel glass-smooth. Test: tiles should slide in the frame with minimal friction and without wobbling.|5. The inside frame dimension must be 9\u00be\" \u00d7 9\u00be\" to hold nine 3\" \u00d7 3\" tiles in a 3\u00d73 grid with \u215b\" gap total for sliding clearance. Adjust sanding as needed.|6. Number eight tiles 1\u20138 using paint, rubber stamps, or a wood burner. Leave one tile blank (this is the 'empty' space tile \u2014 remove it from the frame when playing).|7. Finish all tiles with two coats of satin lacquer. Let dry fully \u2014 tiles will feel slightly sticky until fully cured (24 hours).|8. Final assembly: place tiles in the frame in starting scrambled order (not the impossible Loyd arrangement \u2014 all solvable positions are reachable from the solved state). Remove the blank tile.|9. Challenge: rearrange tiles to read 1-2-3 / 4-5-6 / 7-8-[blank] using the fewest possible slides.",
+      "safety_notes": "Table saw and miter saw use requires adult supervision and proper safety equipment (eye protection, push stick for narrow rips). Lacquer fumes \u2014 work in a ventilated space or outdoors. 320-grit sanding of tiles produces fine dust; wear a dust mask.",
+      "tips_and_context": "The sliding tile puzzle was patented by Noyes Chapman in 1880. Sam Loyd's famous '15-puzzle' craze swept America that same year \u2014 Loyd offered $1,000 (about $30,000 today) for solving the version with tiles 14 and 15 swapped, knowing it was mathematically impossible. Exactly half of all starting positions are unsolvable on any sliding tile puzzle, determined by the parity of the permutation. Dudeney framed his version as eight numbered prisoners in a 3\u00d73 dungeon needing rearrangement, from The Canterbury Puzzles (1907). The minimum number of moves to solve a random 8-puzzle is on average 22 moves; the worst case is 31 moves."
+    },
+    "fabrica_spec": {
+      "commission_title": "Sliding Tile Puzzle \u2014 Canterbury Edition",
+      "materials_spec": "Frame in American cherry, \u00be\" thick \u00d7 1\" wide; tiles in bird's-eye maple, \u00bc\" thick, with laser-engraved numerals in medieval-style serif font; base in cherry-veneered plywood",
+      "dimensions": "Frame exterior: 10\u00bd\" \u00d7 10\u00bd\" \u00d7 1\u00bc\". Interior tray: 9\u00be\" \u00d7 9\u00be\". Tiles: 3\" \u00d7 3\" \u00d7 \u00bc\" each (8 numbered tiles). Clearance: \u215b\" total gap per axis for smooth sliding.",
+      "finish_notes": "Frame finished with three coats hand-rubbed Danish oil; tiles finished with wax polish for ultra-smooth sliding; numerals laser-engraved and filled with black India ink; felt pads on frame underside.",
+      "pieces_spec": "1 cherry frame with plywood back; 8 bird's-eye maple numbered tiles; storage sleeve (puzzle ships scrambled); solution card in envelope",
+      "estimated_price_range": "$160\u2013$280",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "the-four-frogs",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-four-frogs",
+      "app_title": "Make a Four Frogs Puzzle",
+      "modern_category": "Puzzles & Brain Teasers",
+      "source_book": "Heritage Parlor",
+      "age_band": "6\u201312",
+      "estimated_time": "30\u201345 minutes",
+      "summary": "Paint five round wooden discs as lily pads and four small wooden pieces as green and brown frogs to create this charming movement puzzle from Dudeney's Canterbury Puzzles (1907). Two green frogs and two brown frogs must swap positions in exactly 8 moves \u2014 never moving backward, never jumping over more than one frog. An ideal first logic puzzle for young children that packs a real mathematical punch: the general formula for N frogs per side is N\u00b2+2N moves.",
+      "materials_list": "Wooden craft discs or circles, 3\" diameter, 9 pieces (for lily pads \u2014 available at craft stores)|Wooden craft ovals or rectangles, 1\" \u00d7 \u00be\", 4 pieces (for frogs, or use different shaped pieces)|Acrylic craft paint: green (2 shades), brown, cream or white, black|Fine paintbrush|Clear acrylic sealant|Wood glue (optional \u2014 for base)|Heavy card or thin MDF, 18\" \u00d7 4\" (optional base strip to hold lily pads in a row)|Pencil, ruler",
+      "steps": "1. Paint nine wooden discs to look like lily pads: green base coat with darker green veins painted freehand. Add a small white flower detail on 2\u20133 pads for charm. Let dry.|2. Number the lily pads 1\u20139 lightly on the reverse (or scratch with a pencil) so you can reference positions when learning the solution.|3. Paint two wooden ovals bright green (green frogs). Add black dot eyes and a curved smile with a fine brush. Let dry.|4. Paint two wooden ovals brown (brown frogs). Add black dot eyes and a curved smile. Let dry.|5. Apply a coat of clear sealant over all pieces. Let dry.|6. If using a base strip: glue the 9 lily pads in a row onto the 18\" \u00d7 4\" base with equal spacing (about 1\" between pads). This keeps them aligned during play.|7. To play: place green frogs on pads 1 and 2 (left side); brown frogs on pads 8 and 9 (right side); pad 5 is empty in the center. Green frogs move rightward only; brown frogs move leftward only. A frog can slide to the adjacent empty pad, or jump over one frog of the opposite color.|8. Solve it in 8 moves: the pattern is slide-jump-jump-slide-jump-jump-slide-slide (with slight variation).",
+      "safety_notes": "Acrylic paints wash off easily with water when wet. Clear sealant spray should be used outdoors or in ventilated space. Small wooden pieces may present choking hazard for children under 3.",
+      "tips_and_context": "The Four Frogs puzzle is a 2+2 version of the classic 'Frogs and Toads' puzzle that has appeared in puzzles books and math competitions worldwide. Dudeney framed it as Canterbury pilgrims' frogs on lily pads in The Canterbury Puzzles (1907). The minimum move formula N\u00b2+2N means: 2 frogs each side = 8 moves; 3 frogs each = 15 moves; 4 frogs each = 24 moves. This puzzle teaches children about systematic thinking \u2014 random guessing rarely succeeds, but a pattern emerges once you see it. It is directly related to the mathematical concept of sorting by transposition."
+    },
+    "fabrica_spec": {
+      "commission_title": "Four Frogs Puzzle \u2014 Lily Pond Edition",
+      "materials_spec": "Nine lily pad discs hand-carved from lime wood (3\" diameter, slightly concave surface); four frogs hand-carved and painted from boxwood; base rail in walnut",
+      "dimensions": "Lily pads: 3\" diameter \u00d7 \u00bd\" thick, slightly dished surface. Frog pieces: 1\u00bc\" \u00d7 1\" \u00d7 \u00be\" carved form. Base rail: 20\" \u00d7 2\" \u00d7 \u00bd\" walnut, with 9 shallow recesses to hold lily pads.",
+      "finish_notes": "Lily pads hand-painted in two shades of green with oil paint, white flower detail, satin-varnished; frogs painted in naturalistic coloring; walnut base oiled and waxed; pieces store in a linen bag.",
+      "pieces_spec": "9 carved lime wood lily pads; 2 green frog pieces; 2 brown frog pieces; walnut base rail with position recesses; linen storage bag; solution card",
+      "estimated_price_range": "$120\u2013$220",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "chinese-pictures-water-trick",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_chinese-pictures-water-trick",
+      "app_title": "Make a Chinese Pictures Water Trick",
+      "modern_category": "Game Building & Woodcraft",
+      "source_book": "Heritage Parlor",
+      "age_band": "7\u201312",
+      "estimated_time": "30\u201345 minutes (plus drying time)",
+      "summary": "Create your own wax-resist reveal pictures \u2014 blank sheets of paper that spring to life with a hidden image when brushed with plain water. Professor Hoffmann's Modern Magic (1876) described a chemical version; this craft uses the safe modern equivalent (white wax crayon on white paper with watercolor wash) to achieve the same magical effect. Draw a secret image, let it dry, hand it to a friend, and watch their amazement as your paintbrush brings nothing but water \u2014 and a full picture appears.",
+      "materials_list": "White watercolor paper or heavy cold-press paper, 9\" \u00d7 12\", several sheets|White wax crayons (standard school wax crayons or white oil pastels)|Watercolor paints (any colors \u2014 the reveal is most dramatic with bold washes: blue sky, green grass, sunset orange)|Watercolor brushes: medium (size 6 or 8 round)|Water container|Small glass or bowl of plain water for demonstration|Paper towels|Optional: masking fluid (for extra-sharp edges)|Optional: white gouache or gesso (alternative to wax crayon)",
+      "steps": "1. On a sheet of white watercolor paper, press firmly with a white wax crayon to draw a picture: a landscape, a face, an animal, a message, or a simple geometric pattern. The crayon marks will be nearly invisible on white paper \u2014 that is the effect.|2. Draw boldly and with heavy pressure to lay down enough wax to resist the watercolor. Thin, light marks will not resist well.|3. Let the wax drawing sit completely undisturbed \u2014 do not smudge, do not brush.|4. To reveal: load a medium watercolor brush with your chosen color (a blue wash for sky, or a mixed earth-tone wash). Stroke across the paper with bold, confident sweeps. The watercolor will settle everywhere except where the wax is, making the hidden image spring to life in white against the colored background.|5. Alternatively: cover the entire paper with a light watercolor wash first. Let dry. The image appears as you paint because the wax repels the wet paint.|6. Experiment with multi-color washes: draw a sunset picture, then apply orange wash at top, graduating to yellow then blue at the bottom \u2014 the hidden landscape appears in stages.|7. For performance: hand a 'blank' prepared paper to someone and ask them to brush water over it. When the wax-resist image appears, it creates a convincing magical effect even with plain water if the wax was applied with enough pressure.|8. Make several prepared papers in advance and store flat.",
+      "safety_notes": "Watercolors and wax crayons are non-toxic. Masking fluid can irritate skin \u2014 wash immediately if contact occurs. Keep paper flat when wet to prevent warping. Supervise young children with water containers on work surfaces.",
+      "tips_and_context": "Wax-resist art (batik) has been practiced in Indonesia and China for centuries. In Victorian England, the technique was sold as a parlor trick \u2014 Professor Hoffmann described a version using chemical solutions in Modern Magic (1876). The safe modern equivalent \u2014 white wax on white paper revealed by watercolor \u2014 produces essentially the same effect without any chemistry. It remains a genuine magical surprise even for adults who have never encountered it. A variation: write a message in wax crayon on paper, leave it as a puzzle for someone to decode by discovering the right color of paint wash to reveal it."
+    },
+    "fabrica_spec": {
+      "commission_title": "Chinese Pictures \u2014 Reveal Art Kit",
+      "materials_spec": "12 sheets premium cold-press watercolor paper (Arches or Fabriano, 140 lb); set of 3 artist-grade white wax resist sticks; set of 6 quality watercolor half-pans in reveal-optimized colors; hand-bound booklet with instructions",
+      "dimensions": "Paper: 9\" \u00d7 12\" per sheet. Kit box: 10\" \u00d7 6\" \u00d7 2\". Includes 3 pre-drawn reveal papers as demonstration pieces.",
+      "finish_notes": "Three sample papers pre-drawn with progressively complex images (simple shape, landscape, portrait); illustrated instruction booklet with historical notes printed on aged-appearance paper; papers stored flat between tissue.",
+      "pieces_spec": "12 blank watercolor paper sheets; 3 pre-drawn reveal demonstration sheets; 3 white wax resist sticks; 6-color watercolor set; 2 brushes (sizes 6 and 10); instruction booklet; wooden presentation box",
+      "estimated_price_range": "$85\u2013$150",
+      "complexity": "Simple"
+    }
+  },
+  {
+    "parlor_id": "the-squire-s-puzzle",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-squire-s-puzzle",
+      "app_title": "Build a Knight's Tour Puzzle Board",
+      "modern_category": "Puzzles & Brain Teasers",
+      "source_book": "Heritage Parlor",
+      "age_band": "10\u201316",
+      "estimated_time": "2\u20133 hours",
+      "summary": "Build a handsome 8\u00d78 wooden chessboard and a single knight piece to explore the Knight's Tour \u2014 one of mathematics' most elegant puzzles. Starting anywhere on the board, move the knight to visit every single square exactly once in 64 moves. Euler worked on this problem; Dudeney found closed tours that form artistic patterns. The board you build becomes a permanent mathematical instrument as beautiful as any chess set.",
+      "materials_list": "Hardwood strips: 8 strips each of two contrasting woods (maple and walnut work perfectly), each strip \u00be\" \u00d7 \u00be\" \u00d7 9\" (for a 9\" board with \u00be\" squares)|Wood glue and clamps|Band saw or table saw|Sandpaper: 80-, 120-, 220-grit|Danish oil or tung oil finish|Chess knight piece: purchase a single wooden chess knight (available at chess supply shops, approx. $4\u2013$8) OR carve from a 2\" \u00d7 1\" \u00d7 3\" basswood block|Optional: thin plywood backing sheet, 10\" \u00d7 10\" \u00d7 \u215b\"|Pencil and ruler for alignment",
+      "steps": "1. Cut 32 strips of maple and 32 strips of walnut (or substitute two contrasting woods), each \u00be\" \u00d7 \u00be\" \u00d7 9\". All strips must be exactly the same width for clean squares.|2. Glue alternating maple-walnut strips together in pairs (maple+walnut), using wood glue. Clamp each pair until fully cured. Make 8 such glued pairs.|3. Once pairs are cured, crosscut them at \u00be\" intervals using a table saw or band saw with a crosscut sled. Each cut produces two-tone \u00be\" \u00d7 \u00be\" \u00d7 \u00be\" units.|4. Rearrange the cut units: flip alternating units 180\u00b0 so the color pattern creates a standard chessboard pattern (each square bordered by squares of the opposite color).|5. Glue the units into complete rows of 8, then glue rows together. Clamp the entire board with bar clamps and let cure overnight.|6. Once cured, flatten the board surface on a belt sander or by hand with a cabinet scraper.|7. Sand through 80-, 120-, 220-grit until surface is completely smooth and flat. Edges can be chamfered slightly.|8. Apply Danish oil: brush on generously, let soak 10 minutes, wipe off excess, let cure 4\u20136 hours. Apply second coat.|9. Place a chess knight on the board. Provide a pencil and paper for players to record their knight tour path. Wipe-clean laminate overlay optional.|10. Record a known solution to include with the board: one classic open tour starts a1-b3-c1-a2-c3-b1-a3-c2...",
+      "safety_notes": "Table saw and band saw require adult supervision and proper safety equipment. Always use a push stick for narrow rips. Belt sander: keep fingers away from sanding belt edge. Eye protection required for all power tool use.",
+      "tips_and_context": "The Knight's Tour has fascinated mathematicians since at least the 9th century CE, when Kashmiri poet Rudrata described it. Euler published a systematic analysis in 1759. Dudeney called his version 'The Squire's Puzzle' in Amusements in Mathematics (1917), framing it as a knightly challenge. A 'closed' knight's tour \u2014 one where the knight's final move returns to the starting square \u2014 was first proved possible by Euler. There are 26,534,728,821,064 closed tours on an 8\u00d78 board. The alternating-wood strip method of building a chessboard is the same technique used by professional chess board makers."
+    },
+    "fabrica_spec": {
+      "commission_title": "Knight's Tour Puzzle Board \u2014 Squire's Edition",
+      "materials_spec": "Maple and American black walnut strip-built board (\u00be\" squares); hand-carved knight in boxwood; solid walnut frame with mitered corners; backed with cherry plywood",
+      "dimensions": "Board playing surface: 8\" \u00d7 8\" (\u00be\" per square). Frame: adds 1\" on each side, total 10\" \u00d7 10\". Thickness with frame: \u00be\". Knight piece: approx. 2\u00bc\" tall standard chess proportions.",
+      "finish_notes": "Board surface leveled with hand plane and scraped to glass-smooth finish; three coats tung oil; frame stained dark walnut with satin lacquer; carved knight in natural boxwood finish, hand-rubbed with carnauba wax.",
+      "pieces_spec": "1 strip-built maple/walnut chess board in walnut frame; 1 hand-carved boxwood knight; laminated solution card showing Euler's famous closed knight's tour; velvet storage pouch for knight",
+      "estimated_price_range": "$280\u2013$480",
+      "complexity": "Complex"
+    }
+  },
+  {
+    "parlor_id": "the-broken-chessboard",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-broken-chessboard",
+      "app_title": "Make a Broken Chessboard Puzzle",
+      "modern_category": "Puzzles & Brain Teasers",
+      "source_book": "Heritage Parlor",
+      "age_band": "9\u201314",
+      "estimated_time": "60\u201390 minutes",
+      "summary": "Cut a printed or hand-drawn 8\u00d78 chessboard into 13 irregular pieces, mount them on wood or thick card, and challenge solvers to reassemble the perfect square with no gaps and no overlaps. This dissection puzzle from Dudeney's Amusements in Mathematics (1917) is one of his most celebrated \u2014 Dudeney believed that any shape can be dissected and reassembled into any other area shape using a finite number of pieces. The built set can be solved (and then scrambled for others to try) indefinitely.",
+      "materials_list": "\u00bc\" plywood or MDF, 9\" \u00d7 9\" (1 piece \u2014 for the chessboard blank)|Acrylic craft paints: black and white (or cream)|Fine paintbrush or small foam roller|Jigsaw or scroll saw|Sandpaper: 120-, 220-grit|Ruler, pencil, set square|Satin lacquer or polyurethane (spray or brush)|Dudeney's cut pattern \u2014 the 13-piece broken chessboard dissection (transfer to wood using carbon paper or printed template)|Optional: shadow box or tray, 9\" \u00d7 9\", to hold pieces and frame the solved puzzle",
+      "steps": "1. Sand the 9\" \u00d7 9\" plywood or MDF blank smooth with 120-grit, then 220-grit.|2. Paint an 8\u00d78 chessboard pattern: divide the 9\" face into a 8\u00d78 grid of 1\u215b\" squares (for a 9\" board). Use masking tape and acrylic black paint to create alternating black and white squares. Let dry completely.|3. Apply two coats of satin lacquer to seal the painted surface. Let cure.|4. Transfer Dudeney's 13-piece cut pattern onto the chessboard. The pattern is available in Amusements in Mathematics (Gutenberg: ebooks/16713) \u2014 trace the cut lines onto the wood surface using carbon paper or a printed photocopy.|5. Cut along all 13 piece boundaries using a jigsaw or scroll saw. Work slowly and carefully \u2014 clean, straight cuts make for a satisfying fit.|6. Number the pieces 1\u201313 lightly on the back so they can be identified if lost.|7. Sand all cut edges lightly with 220-grit to remove fuzz, being careful not to round the edges too much (tight fit is the point).|8. Apply a light coat of lacquer to all cut edges to seal.|9. Place all 13 pieces in a tray or box, scrambled. Challenge: reassemble the 8\u00d78 chessboard in under 10 minutes.",
+      "safety_notes": "Jigsaw and scroll saw use requires adult supervision and eye protection. Secure the workpiece with clamps before cutting \u2014 a 9\" \u00d7 9\" board can tip during cutting. MDF dust is particularly fine; wear a dust mask. Lacquer spray should be used outdoors.",
+      "tips_and_context": "Dissection puzzles were Dudeney's greatest passion, and he proved that any rectilinear shape can be cut and reassembled into any other shape of equal area \u2014 a fundamental theorem of geometric dissection. His Amusements in Mathematics (1917) features dozens of these puzzles. The broken chessboard specifically uses 13 pieces \u2014 a number chosen to make reassembly challenging but not impossible. Dudeney's most famous dissection is the four-piece proof that an equilateral triangle can be cut and hinged into a perfect square. The full text of Amusements in Mathematics is available free at Project Gutenberg (ebooks/16713)."
+    },
+    "fabrica_spec": {
+      "commission_title": "Broken Chessboard Dissection Puzzle",
+      "materials_spec": "Solid maple, \u00bd\" thick, with painted and lacquered chessboard surface; pieces sawn on a precision scroll saw; walnut shadow-box tray",
+      "dimensions": "Board/puzzle assembled: 9\" \u00d7 9\" \u00d7 \u00bd\". Tray: 9\u00bd\" \u00d7 9\u00bd\" \u00d7 \u00be\" walnut, French-fitted with thin lining. 13 individual cut pieces.",
+      "finish_notes": "Chessboard surface painted with artist-grade acrylic, 6 coats lacquer for durability; cut edges beveled 1\u00b0 to allow easy pickup; tray in walnut with oil finish; solved-state reference photo included.",
+      "pieces_spec": "13 precisely cut maple puzzle pieces; walnut display/storage tray; laminated reference photo of solved state; booklet with Dudeney's original commentary",
+      "estimated_price_range": "$140\u2013$240",
+      "complexity": "Moderate"
+    }
+  },
+  {
+    "parlor_id": "the-rook-s-tour",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-rooks-tour",
+      "app_title": "Build a Rook's Tour Puzzle Board",
+      "modern_category": "Puzzles & Brain Teasers",
+      "source_book": "Heritage Parlor",
+      "age_band": "10\u201316",
+      "estimated_time": "2\u20133 hours",
+      "summary": "Build an 8\u00d78 chessboard and provide a rook piece, then challenge players to visit every square exactly once in the minimum number of straight-line moves. Unlike the knight's tour (where the piece moves in L-shapes), the rook travels in straight lines \u2014 the puzzle is to minimize direction changes, not just find any tour. Dudeney's version asks for the minimum number of 'turns.' This is a beautiful graph-theory problem disguised as a wooden board game.",
+      "materials_list": "Hardwood strips: 32 pieces each of maple and walnut (or basswood and stained pine), each \u00be\" \u00d7 \u00be\" \u00d7 9\"|Wood glue and clamps|Band saw or table saw with crosscut sled|Sandpaper: 80-, 120-, 220-grit|Danish oil finish|Chess rook piece: purchase a single wooden chess rook OR turn one from a 2\" \u00d7 2\" \u00d7 3\" pine block on a lathe|Optional: dry-erase overlay sheet (clear plastic, 9\" \u00d7 9\") for tracking the tour path|Pencil and paper for recording tours",
+      "steps": "1. Build the chessboard using the same strip-lamination method as the Squire's Puzzle: cut 32 maple and 32 walnut strips (\u00be\" \u00d7 \u00be\" \u00d7 9\"), glue in alternating pairs, crosscut at \u00be\", and reassemble in chessboard pattern.|2. Glue the full 8\u00d78 grid with alternating colors. Clamp and cure overnight.|3. Flatten and sand the board surface: 80-, 120-, 220-grit. Apply Danish oil finish; two coats.|4. Optionally add a 1\" walnut border frame (mitered corners) glued to the board edges for a finished appearance.|5. Set a rook piece on the board. The player's task: move the rook from square a1, making only horizontal and vertical moves, to visit all 64 squares exactly once \u2014 using the fewest possible direction changes (turns).|6. The minimum number of turns for a complete rook tour is 16, meaning 17 moves. This is Dudeney's answer in Amusements in Mathematics.|7. Provide paper or a laminated overlay for players to trace their tour path. Mark each visited square with a tick.|8. Challenge extension: find a tour that starts and ends on the same square (a 'closed' rook tour) \u2014 this requires a minimum of 16 turns also.",
+      "safety_notes": "Same power tool safety notes as for Knight's Tour board: adult supervision required for table saw and band saw use. Eye protection required. Push stick for all narrow-rip operations.",
+      "tips_and_context": "The Rook's Tour is Dudeney's puzzle No. 139 in Amusements in Mathematics (1917). While the Knight's Tour requires L-shaped moves and is a Hamiltonian path problem, the Rook's Tour requires minimizing the number of direction changes while achieving a Hamiltonian path \u2014 a different and arguably more accessible optimization challenge. Victorian mathematicians connected such puzzles directly to route-planning and postal delivery optimization. The 16-turn minimum solution is achievable by a pattern of snaking rows with a connection move at each end, similar to the scan-line pattern used in modern raster display rendering."
+    },
+    "fabrica_spec": {
+      "commission_title": "Rook's Tour Puzzle Board",
+      "materials_spec": "Maple and American walnut strip-built board (\u00be\" squares); hand-turned rook in cherry; solid walnut frame with mitered corners",
+      "dimensions": "Board surface: 8\" \u00d7 8\" (\u00be\" per square). Frame adds 1\" each side, total 10\" \u00d7 10\". Rook: approx. 1\u00be\" tall, 1\" base diameter.",
+      "finish_notes": "Surface hand-leveled and scraped smooth; three coats tung oil; frame in dark-stained walnut; dry-erase laminate overlay included so players can mark tours without marking the board.",
+      "pieces_spec": "1 strip-built chessboard in walnut frame; 1 turned cherry rook; dry-erase overlay sheet with fine-tip dry-erase marker; solution card with 16-turn minimum tour",
+      "estimated_price_range": "$260\u2013$440",
+      "complexity": "Complex"
+    }
+  },
+  {
+    "parlor_id": "bishops-on-a-chessboard",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_bishops-on-a-chessboard",
+      "app_title": "Build a Bishops Placement Puzzle",
+      "modern_category": "Puzzles & Brain Teasers",
+      "source_book": "Heritage Parlor",
+      "age_band": "10\u201316",
+      "estimated_time": "2\u20133 hours",
+      "summary": "Build an 8\u00d78 chessboard and a set of 14 bishop pieces to explore the maximum non-attacking bishops problem: place as many bishops as possible on the board without any two sharing a diagonal. The answer is 14 \u2014 two fewer than you might expect. This elegant problem from Dudeney's Amusements in Mathematics (1917) introduces the concept of independent sets in graph theory and leads directly to applications in coding and cryptography.",
+      "materials_list": "Hardwood strips for chessboard (as per Knight's Tour build): 32 maple + 32 walnut, \u00be\" \u00d7 \u00be\" \u00d7 9\"|Wood glue, clamps, sandpaper, Danish oil (as per other chessboard builds)|14 bishop pieces: purchase a set of 14 wooden chess bishops (two sets from a cheap chess set work) OR turn 14 matching bishops on a lathe from 1\" \u00d7 1\" \u00d7 3\" maple blanks|Optional: a second contrasting color for bishop pieces to distinguish two 'attacking groups'",
+      "steps": "1. Build the 8\u00d78 chessboard by the strip-lamination method (see Knight's Tour Puzzle build steps 1\u20138 for full details).|2. Acquire or make 14 identical bishop pieces. They should stand approximately 2\" tall and have a stable base so they don't tip.|3. To play: place bishops one at a time on the board, ensuring no two share any diagonal line \u2014 not just the main diagonals but any diagonal at all.|4. The solution: 14 bishops is the maximum. Place 7 along the top row (all 8 squares of row 8, minus one corner) and 7 along the bottom row (all 8 squares of row 1, minus the corresponding corner). All 14 are non-attacking.|5. Provide a challenge card: scramble the 14 bishops and challenge the player to find a valid non-attacking placement.|6. Intermediate challenge: what is the minimum number of bishops needed to attack every square on the board? (Answer: 14 \u2014 the same number.) This duality between maximum non-attacking and minimum covering is a beautiful mathematical coincidence specific to bishops.|7. Advanced challenge: find all distinct solutions for 14 non-attacking bishops (not counting reflections and rotations as different).",
+      "safety_notes": "Power tool safety as per other chessboard builds. Lathe work for bishop pieces requires proper training and face shield. Bishop pieces are approximately 2\" tall \u2014 not a choking hazard, but secure storage is recommended.",
+      "tips_and_context": "The bishop placement problem is Dudeney's Puzzle No. 157 in Amusements in Mathematics (1917). Unlike queens (where the maximum non-attacking number is 8) and knights (where the maximum is 32), bishops have the counterintuitive maximum of 14 \u2014 two fewer than the 16 squares in the outermost ring. This is because the two corner diagonals can each hold at most 7 non-attacking bishops, and the full board's diagonal structure limits the total. The problem connects to the mathematical theory of independent sets, a cornerstone of graph theory with applications in scheduling, resource allocation, and coding theory."
+    },
+    "fabrica_spec": {
+      "commission_title": "Bishops Placement Puzzle \u2014 Dudeney Edition",
+      "materials_spec": "Maple and walnut strip-built board; 14 hand-turned bishops in cherry (matching set); walnut frame",
+      "dimensions": "Board: 8\" \u00d7 8\" playing surface in walnut frame (10\" \u00d7 10\" total). Bishop pieces: 2\" tall \u00d7 1\" base diameter, standard proportions.",
+      "finish_notes": "Board finished as per Knight's Tour build; bishops in natural cherry finish, hand-rubbed with carnauba wax; each bishop given a concave base to prevent tipping on wood surface.",
+      "pieces_spec": "1 strip-built chessboard in walnut frame; 14 matching turned cherry bishops; storage felt-lined tray; challenge card with problem statement and solution",
+      "estimated_price_range": "$340\u2013$560",
+      "complexity": "Complex"
+    }
+  },
+  {
+    "parlor_id": "the-eight-queens",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-eight-queens",
+      "app_title": "Build an Eight Queens Puzzle Board",
+      "modern_category": "Puzzles & Brain Teasers",
+      "source_book": "Heritage Parlor",
+      "age_band": "10\u201316",
+      "estimated_time": "2\u20133 hours",
+      "summary": "Build a chessboard and a set of 8 queen pieces to tackle the Eight Queens Problem: place all 8 queens on the board without any two sharing a row, column, or diagonal. Posed in 1848, this puzzle became a standard exercise in computer science \u2014 every search algorithm textbook uses it as a canonical example of backtracking. There are exactly 92 solutions; this wooden set lets you find them physically rather than computationally.",
+      "materials_list": "Hardwood strips for chessboard: 32 maple + 32 walnut, \u00be\" \u00d7 \u00be\" \u00d7 9\" (same as other chessboard builds)|Wood glue, clamps, sandpaper, Danish oil|8 queen pieces: purchase from a chess set OR turn 8 matching queens on a lathe from 1\u00bc\" \u00d7 1\u00bc\" \u00d7 3\" maple blanks|Optional: 8 standout colored queen pieces (bright yellow or red) to make the queens distinct from a standard chess set appearance",
+      "steps": "1. Build the 8\u00d78 chessboard by the strip-lamination method (see Knight's Tour Puzzle build steps 1\u20138).|2. Acquire or turn 8 queen pieces. Queens should stand approximately 3\" tall with a stable base.|3. Starting position: board is empty. Challenge: place all 8 queens, one per row, such that no two share a column or diagonal.|4. Hint card to include: 'One queen per row. Start with row 1. For each queen, no other queen may be in the same column, left diagonal, or right diagonal.'|5. First solution (one of 92): Q1 at column 1, Q2 at column 5, Q3 at column 8, Q4 at column 6, Q5 at column 3, Q6 at column 7, Q7 at column 2, Q8 at column 4. Verify this solution physically on the board.|6. After finding one solution, challenge: find a second solution (they are significantly different from the first).|7. Advanced challenge: can you find all 12 fundamentally distinct solutions (the 92 total are obtained by rotating and reflecting these 12)?|8. Label the board with algebraic notation (a-h columns, 1-8 rows) by lightly marking the border.",
+      "safety_notes": "Power tool safety as per other chessboard builds. Lathe work for queen pieces requires face shield and proper training. Adult supervision required for all power tool operations.",
+      "tips_and_context": "The Eight Queens Problem was posed by chess player Max Bezzel in 1848 and solved independently by several mathematicians including Gauss, who claimed (incorrectly) to have found all solutions. The correct count of 92 solutions (or 12 fundamentally distinct ones) was established by Nauck in 1850. Dudeney published it as Puzzle No. 163 in Amusements in Mathematics (1917). Today it is the canonical example of backtracking search in computer science \u2014 taught in virtually every algorithms course. The N-queens problem generalized to an N\u00d7N board remains an active research area: the general formula for the number of solutions is still unknown as of 2024."
+    },
+    "fabrica_spec": {
+      "commission_title": "Eight Queens Puzzle Board \u2014 Dudeney Edition",
+      "materials_spec": "Maple and walnut strip-built board; 8 hand-turned queens in cherry; walnut frame; playing surface optionally scored with algebraic notation",
+      "dimensions": "Board: 8\" \u00d7 8\" surface in 10\" \u00d7 10\" walnut frame. Queen pieces: 2\u00be\" tall \u00d7 1\" base diameter.",
+      "finish_notes": "Board as per Knight's Tour build; queens in cherry with Danish oil and carnauba wax finish; bases felt-lined for smooth placement without scratching board; algebraic notation laser-engraved on border.",
+      "pieces_spec": "1 strip-built chessboard in walnut frame; 8 matching turned cherry queens; storage tray; hint card and list of all 12 fundamental solutions",
+      "estimated_price_range": "$300\u2013$500",
+      "complexity": "Complex"
+    }
+  },
+  {
+    "parlor_id": "the-puzzles-of-the-black-knight",
+    "heritage_skills_entry": {
+      "entry_id": "heritage_parlor_build_the-puzzles-of-the-black-knight",
+      "app_title": "Build a 5\u00d75 Knight's Tour Board",
+      "modern_category": "Puzzles & Brain Teasers",
+      "source_book": "Heritage Parlor",
+      "age_band": "10\u201316",
+      "estimated_time": "60\u201390 minutes",
+      "summary": "Build a compact 5\u00d75 chessboard for the Black Knight's Tour \u2014 Dudeney's version of the Knight's Tour on a smaller board. The 5\u00d75 is a fundamentally different challenge from the standard 8\u00d78: no closed tour exists (you cannot return to the starting square), and the required start and end squares are constrained. This makes a charming, portable puzzle object that travels anywhere and introduces a surprising mathematical twist on a familiar problem.",
+      "materials_list": "Hardwood: maple and walnut (or cherry and pine), two strips of each, \u00be\" \u00d7 \u00be\" \u00d7 6\" (for the 5-square rows)|Wood glue, clamps|Band saw or table saw with crosscut sled|Sandpaper: 80-, 120-, 220-grit|Danish oil|Chess knight: one small chess knight piece (purchase or carve)|Optional: solid wood frame border in a contrasting wood|Fine marker for numbering squares 1\u201325 on the back for reference",
+      "steps": "1. For a 5\u00d75 board: cut 13 maple and 12 walnut strips (\u00be\" \u00d7 \u00be\" \u00d7 6\"). Glue in alternating pairs, crosscut at \u00be\", and reassemble in 5\u00d75 chessboard pattern (alternating colors).|2. Glue the 5\u00d75 grid. Clamp and cure overnight.|3. Sand to 220-grit. Apply Danish oil. Optional: add a \u00be\" border frame around the board.|4. Number the 25 squares 1\u201325 on the reverse for reference (or provide a numbered diagram on a card).|5. Place the knight piece. The challenge: move the knight by legal L-shaped moves to visit all 25 squares exactly once, ending on a specific target square (which must be in the opposite corner color to the start).|6. Key insight to include: on a 5\u00d75 board, a knight placed on a white square can only reach black squares and vice versa. Since 25 is odd, the tour cannot be closed \u2014 you must start on one corner color and end on the opposite corner color.|7. One valid solution starts at square a1 (top-left): a1-b3-c5-a4-b2-c4-a5-b3... (follow the complete 25-square path). Provide this as a reference card.|8. For younger players: number the path on a diagram so they can reproduce the solution by copying the sequence.",
+      "safety_notes": "Power tool safety as per larger chessboard builds. The 5\u00d75 board is smaller and easier to handle. Adult supervision required for table saw and band saw operations.",
+      "tips_and_context": "Dudeney presented the 5\u00d75 Knight's Tour as 'The Puzzles of the Black Knight' in The Canterbury Puzzles (1907). The 5\u00d75 board changes the problem fundamentally: on even-dimension boards, closed (returning) knight tours are possible; on odd-dimension boards like 5\u00d75, no closed tour exists. The minimum board on which a knight's tour is possible at all is 5\u00d75 \u2014 smaller boards (3\u00d73, 4\u00d74 incomplete) have no solution. The 5\u00d75 board has 64 open knight's tours, all of which start and end on squares of different colors. This puzzle is often used to introduce children to parity arguments in mathematics."
+    },
+    "fabrica_spec": {
+      "commission_title": "Black Knight's Tour \u2014 5\u00d75 Pocket Puzzle",
+      "materials_spec": "Maple and cherry strip-built 5\u00d75 board; hand-carved knight in boxwood; presentation case in walnut",
+      "dimensions": "Board: 4\u00be\" \u00d7 4\u00be\" playing surface (\u00be\" per square) in a 6\" \u00d7 6\" walnut frame. Knight: approximately 1\u00be\" tall, scaled to \u00be\" square proportion. Case: 7\" \u00d7 7\" \u00d7 1\" walnut.",
+      "finish_notes": "Board surface scraped and polished to satin finish; three coats tung oil on frame; knight in natural boxwood waxed; case with magnetic closure and green baize lining.",
+      "pieces_spec": "1 strip-built 5\u00d75 puzzle board in walnut frame; 1 carved boxwood knight; folded solution card showing all 25 squares numbered; walnut presentation case",
+      "estimated_price_range": "$140\u2013$240",
+      "complexity": "Moderate"
+    }
+  }
+]

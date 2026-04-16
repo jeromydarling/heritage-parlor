@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-weight="bold" fill="#1a1a1a" letter-spacing="2">NOUGHTS AND CROSSES (TIC-TAC-TOE)</text>
+  <text x="408" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#555">Board Game  ·  2 players  ·  Beginner</text>
+  <line x1="220" y1="126" x2="596" y2="126" stroke="#ccc" stroke-width="0.75"/>
+  <rect x="158" y="180" width="500" height="500" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" rx="2"/>
+  <line x1="158" y1="280" x2="658" y2="280" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="258" y1="180" x2="258" y2="680" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="158" y1="380" x2="658" y2="380" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="358" y1="180" x2="358" y2="680" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="158" y1="480" x2="658" y2="480" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="458" y1="180" x2="458" y2="680" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="158" y1="580" x2="658" y2="580" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="558" y1="180" x2="558" y2="680" stroke="#1a1a1a" stroke-width="1.5"/>
+  <circle cx="208" cy="230" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="308" cy="230" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="408" cy="230" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="508" cy="230" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="608" cy="230" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="208" cy="330" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="308" cy="330" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="408" cy="330" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="508" cy="330" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="608" cy="330" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="208" cy="430" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="308" cy="430" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="408" cy="430" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="508" cy="430" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="608" cy="430" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="208" cy="530" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="308" cy="530" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="408" cy="530" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="508" cy="530" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="608" cy="530" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="208" cy="630" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="308" cy="630" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="408" cy="630" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="508" cy="630" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="608" cy="630" r="22" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <text x="208" y="172" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">A</text>
+  <text x="308" y="172" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">B</text>
+  <text x="408" y="172" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">C</text>
+  <text x="508" y="172" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">D</text>
+  <text x="608" y="172" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">E</text>
+  <text x="146" y="235" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#555">1</text>
+  <text x="146" y="335" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#555">2</text>
+  <text x="146" y="435" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#555">3</text>
+  <text x="146" y="535" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#555">4</text>
+  <text x="146" y="635" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#555">5</text>
+  <text x="408" y="780" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#555">Draw a 3×3 grid (two horizontal lines crossing two vertical lines).</text>
+  <text x="408" y="804" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">See page 2 for full instructions.</text>
+  <text x="408" y="1014" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#ccc">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>
+</svg>

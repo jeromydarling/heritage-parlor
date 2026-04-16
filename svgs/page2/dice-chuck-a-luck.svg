@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">DICE (CHUCK-A-LUCK)</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  3 dice</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  birdcage or cup</text>
+  <text x="72" y="236" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  betting layout</text>
+  <text x="56" y="276" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="302" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">A device tumbles 3 dice. Before rolling, players bet on any number from 1 to</text>
+  <text x="56" y="323" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">6. If your number appears on 1 die: win even points. On 2 dice: win double.</text>
+  <text x="56" y="344" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">On all 3 dice: win triple. If it doesn&apos;t appear: lose your bet. Use points or</text>
+  <text x="56" y="365" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">chips instead of money. For a family game, set a fixed starting budget of</text>
+  <text x="56" y="386" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">chips and see who has the most at the end. The chance your number shows at</text>
+  <text x="56" y="407" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">least once is about 42%.</text>
+  <text x="56" y="448" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="472" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Chuck-a-Luck (also called Sweat-Cloth) was a staple of American frontier</text>
+  <text x="56" y="490" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">gambling alongside Faro. The distinctive birdcage tumbler for rolling three</text>
+  <text x="56" y="508" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">dice became the game&apos;s iconic image. The house has about a 7.9% edge in the</text>
+  <text x="56" y="526" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">standard version.</text>
+  <text x="56" y="560" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="584" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The American dice banking game where you bet on which numbers will come up on</text>
+  <text x="56" y="602" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">three dice.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Foster&apos;s Complete Hoyle (1914)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

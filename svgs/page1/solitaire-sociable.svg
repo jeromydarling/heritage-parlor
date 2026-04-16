@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-weight="bold" fill="#1a1a1a" letter-spacing="2">SOLITAIRE (PEG SOLITAIRE)</text>
+  <text x="408" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#555">Puzzle  ·  1 players  ·  Advanced</text>
+  <line x1="220" y1="126" x2="596" y2="126" stroke="#ccc" stroke-width="0.75"/>
+  <rect x="160" y="182" width="497" height="497" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" rx="2"/>
+  <line x1="160" y1="253" x2="657" y2="253" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="231" y1="182" x2="231" y2="679" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="160" y1="324" x2="657" y2="324" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="302" y1="182" x2="302" y2="679" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="160" y1="395" x2="657" y2="395" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="373" y1="182" x2="373" y2="679" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="160" y1="466" x2="657" y2="466" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="444" y1="182" x2="444" y2="679" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="160" y1="537" x2="657" y2="537" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="515" y1="182" x2="515" y2="679" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="160" y1="608" x2="657" y2="608" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="586" y1="182" x2="586" y2="679" stroke="#1a1a1a" stroke-width="1.5"/>
+  <circle cx="195" cy="217" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="266" cy="217" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="337" cy="217" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="408" cy="217" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="479" cy="217" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="550" cy="217" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="621" cy="217" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="195" cy="288" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="266" cy="288" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="337" cy="288" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="408" cy="288" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="479" cy="288" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="550" cy="288" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="621" cy="288" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="195" cy="359" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="266" cy="359" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="337" cy="359" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="408" cy="359" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="479" cy="359" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="550" cy="359" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="621" cy="359" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="195" cy="430" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="266" cy="430" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="337" cy="430" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="408" cy="430" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="479" cy="430" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="550" cy="430" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="621" cy="430" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="195" cy="501" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="266" cy="501" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="337" cy="501" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="408" cy="501" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="479" cy="501" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="550" cy="501" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="621" cy="501" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="195" cy="572" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="266" cy="572" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="337" cy="572" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="408" cy="572" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="479" cy="572" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="550" cy="572" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="621" cy="572" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="195" cy="643" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="266" cy="643" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="337" cy="643" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="408" cy="643" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="479" cy="643" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="550" cy="643" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <circle cx="621" cy="643" r="16" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="6,4"/>
+  <text x="195" y="174" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">A</text>
+  <text x="266" y="174" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">B</text>
+  <text x="337" y="174" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">C</text>
+  <text x="408" y="174" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">D</text>
+  <text x="479" y="174" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">E</text>
+  <text x="550" y="174" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">F</text>
+  <text x="621" y="174" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">G</text>
+  <text x="148" y="222" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#555">1</text>
+  <text x="148" y="293" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#555">2</text>
+  <text x="148" y="364" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#555">3</text>
+  <text x="148" y="435" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#555">4</text>
+  <text x="148" y="506" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#555">5</text>
+  <text x="148" y="577" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#555">6</text>
+  <text x="148" y="648" text-anchor="end" font-family="Georgia, serif" font-size="13" fill="#555">7</text>
+  <text x="408" y="780" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#555">Fill all 33 holes of the cross-shaped board with pegs, leaving only the center empty.</text>
+  <text x="408" y="804" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">See page 2 for full instructions.</text>
+  <text x="408" y="1014" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#ccc">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>
+</svg>

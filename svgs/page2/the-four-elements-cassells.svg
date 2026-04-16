@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE FOUR ELEMENTS (CASSELLS)</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  ball or knotted cloth</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Players stand in a circle. The center player throws a ball to any player</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">while calling &apos;Earth,&apos; &apos;Air,&apos; or &apos;Water.&apos; The catching player must name a</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">real creature from that element before the thrower counts to ten. Earth =</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">land animals, Air = birds or flying insects, Water = fish or sea creatures.</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">If &apos;Fire&apos; is called, stay completely silent. Any mistake earns a silly</text>
+  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">challenge penalty — tell a joke, do an impression, or sing a line.</text>
+  <text x="56" y="404" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="428" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Natural history classification games were woven into Victorian parlor</text>
+  <text x="56" y="446" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">entertainment because natural history was a respected hobby and academic</text>
+  <text x="56" y="464" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">subject. Charles Darwin&apos;s &apos;On the Origin of Species&apos; (1859) had made animal</text>
+  <text x="56" y="482" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">classification a topic of national conversation.</text>
+  <text x="56" y="516" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="540" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Name a creature belonging to the called element before the count of ten is</text>
+  <text x="56" y="558" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">reached.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Cassell&apos;s Book of In-door Amusements, Card Games, and Fireside Fun (1881)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

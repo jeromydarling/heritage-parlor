@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE MAGIC FUNNEL</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  special double-walled funnel with finger-controlled holes</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: Water flows freely from a funnel, then stops completely at the</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">performer&apos;s command — and flows again on command. Method: the funnel has a</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">hidden air tube running through its interior with a small hole at the top.</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Covering the hole with a fingertip creates a partial vacuum that holds the</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">water suspended — the same principle as pressing your finger on a straw to</text>
+  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">hold liquid inside. Remove the finger and water flows freely. The finger is</text>
+  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">hidden on the back of the handle. This looks completely miraculous. Make a</text>
+  <text x="56" y="405" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">simplified version with a bendy straw to demonstrate the principle.</text>
+  <text x="56" y="446" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="470" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The Magic Funnel demonstrates atmospheric pressure — the same principle</text>
+  <text x="56" y="488" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">prevents liquid from flowing from a covered test tube. Torricelli discovered</text>
+  <text x="56" y="506" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">the principle in 1644 as he invented the barometer, but Victorian conjurers</text>
+  <text x="56" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">exploited it for entertainment long before physics teachers used it for</text>
+  <text x="56" y="542" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">education.</text>
+  <text x="56" y="576" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Water pours freely from a funnel, then stops entirely at the performer&apos;s</text>
+  <text x="56" y="618" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">command — then pours again. A double-walled funnel has small holes in its</text>
+  <text x="56" y="636" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">inner tube; when the performer secretly covers one hole with a finger, air is</text>
+  <text x="56" y="654" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">excluded and water cannot flow. Uncovering the hole allows flow to resume.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Magician&apos;s Own Book (1862)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

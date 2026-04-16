@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">RING THROUGH THE TABLE</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  finger ring</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: A borrowed ring pushes through a solid table and falls into your</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">waiting hand underneath. Method: Before the trick, secretly hold a second</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">ring (or place one in your lap) in your left hand under the table. Borrow a</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">ring, hold it over the table with your right hand, and make a pushing</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">gesture. As you slap the table sharply with your right hand (making a</text>
+  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">convincing thud), simultaneously drop the ring from your left hand hidden</text>
+  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">below — it falls into your cupped palm. The borrowed ring is palmed in your</text>
+  <text x="56" y="405" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">right hand and returned later.</text>
+  <text x="56" y="446" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="470" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Penetration effects (solid through solid) are among the most</text>
+  <text x="56" y="488" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">impossible-looking in magic. Hoffmann notes that with a small amount of</text>
+  <text x="56" y="506" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">preparation, this trick produces a completely convincing effect with everyday</text>
+  <text x="56" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">objects.</text>
+  <text x="56" y="558" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">A borrowed ring visibly penetrates through a solid wooden table and drops</text>
+  <text x="56" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">onto a hand beneath.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

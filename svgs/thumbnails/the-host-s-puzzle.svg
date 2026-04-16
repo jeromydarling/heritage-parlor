@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+<rect width="400" height="400" fill="#faf6f0"/>
+<rect x="20" y="20" width="360" height="360" rx="4" fill="none" stroke="#2a2118" stroke-width="0.5" opacity="0.12"/>
+<rect x="130" y="200" width="30" height="60" rx="2" fill="none" stroke="#2a2118" stroke-width="1" opacity="0.35"/>
+<rect x="131" y="214.87624005693942" width="28" height="45.12375994306058" rx="1" fill="#4a7a9b" opacity="0.15"/>
+<rect x="190" y="215" width="24" height="45" rx="2" fill="none" stroke="#2a2118" stroke-width="1" opacity="0.35"/>
+<rect x="191" y="226.15709707234055" width="22" height="33.84290292765945" rx="1" fill="#4a7a9b" opacity="0.15"/>
+<rect x="250" y="225" width="18" height="35" rx="2" fill="none" stroke="#2a2118" stroke-width="1" opacity="0.35"/>
+<rect x="251" y="233.67767763487063" width="16" height="26.322322365129367" rx="1" fill="#4a7a9b" opacity="0.15"/>
+<circle cx="310" cy="218.6" r="7.800000000000001" fill="#2a2118" opacity="0.6"/>
+<line x1="310" y1="226.4" x2="310" y2="255" stroke="#2a2118" stroke-width="2.6" opacity="0.6" stroke-linecap="round"/>
+<line x1="310" y1="255" x2="302.2" y2="275.8" stroke="#2a2118" stroke-width="2.6" opacity="0.6" stroke-linecap="round"/>
+<line x1="310" y1="255" x2="317.8" y2="275.8" stroke="#2a2118" stroke-width="2.6" opacity="0.6" stroke-linecap="round"/>
+<line x1="310" y1="234.2" x2="299.6" y2="247.2" stroke="#2a2118" stroke-width="1.9500000000000002" opacity="0.6" stroke-linecap="round"/>
+<line x1="310" y1="234.2" x2="325.6" y2="226.4" stroke="#2a2118" stroke-width="1.9500000000000002" opacity="0.6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-weight="bold" fill="#1a1a1a" letter-spacing="2">RED-CAP AND BLACK-CAP</text>
+  <text x="408" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#555">Parlor Game  ·  Any players  ·  Beginner</text>
+  <line x1="220" y1="126" x2="596" y2="126" stroke="#ccc" stroke-width="0.75"/>
+  <rect x="80" y="160" width="656" height="736" rx="4" fill="none" stroke="#1a1a1a" stroke-width="1" opacity="0.15"/>
+  <rect x="90" y="170" width="636" height="716" rx="3" fill="none" stroke="#1a1a1a" stroke-width="0.5" opacity="0.1"/>
+  <text x="408" y="420" text-anchor="middle" font-family="serif" font-size="120" fill="#1a1a1a" opacity="0.08">❧</text>
+  <text x="408" y="500" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1a1a1a">Each player is secretly assigned either Red or Black.</text>
+  <text x="408" y="532" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1a1a1a">The Master points at a player and accuses them.</text>
+  <text x="408" y="564" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1a1a1a">The accused must immediately point to someone of the OTHER color</text>
+  <text x="408" y="588" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1a1a1a">before the Master counts to ten.</text>
+  <text x="408" y="1014" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#ccc">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>
+</svg>

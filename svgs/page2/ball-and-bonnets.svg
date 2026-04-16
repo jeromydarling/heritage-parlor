@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">BALL AND BONNETS</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  ball</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  caps or bonnets</text>
+  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Lay all players&apos; hats or caps in a row near a wall. One player throws a ball</text>
+  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">to land in any cap. The cap&apos;s owner immediately runs — everyone else chases</text>
+  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">them. When caught, that player becomes the next thrower. Accumulate 6 penalty</text>
+  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">tokens in your cap (one each time you&apos;re caught) and you owe a silly penalty</text>
+  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">(like doing a silly dance or telling a joke) — a funny performance or</text>
+  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">challenge set by the group.</text>
+  <text x="56" y="426" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="450" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Variants of this cap-and-ball chasing game appear across Britain, Scotland,</text>
+  <text x="56" y="468" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">and Ireland under many names, suggesting it is one of the oldest continuously</text>
+  <text x="56" y="486" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">played folk games in the British Isles.</text>
+  <text x="56" y="520" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="544" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Players&apos; caps or bonnets are laid in a row. A ball is thrown into one cap</text>
+  <text x="56" y="562" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">from a distance. The owner of that cap must run while all others give chase</text>
+  <text x="56" y="580" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">until he is caught. The caught player then throws the ball. If a player</text>
+  <text x="56" y="598" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">accumulates six penalty stones in their cap, they must suffer &apos;buns&apos; — bumps</text>
+  <text x="56" y="616" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">with the ball against the wall.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. I (1894)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

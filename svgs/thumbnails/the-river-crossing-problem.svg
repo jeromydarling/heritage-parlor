@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <rect width="400" height="400" fill="#faf6f0"/>
+  <line x1="80" y1="140" x2="200" y2="200" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="80" y1="260" x2="200" y2="200" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="200" y1="200" x2="320" y2="140" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="200" y1="200" x2="320" y2="260" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="80" y1="140" x2="320" y2="140" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="80" y1="260" x2="320" y2="260" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="80" y1="140" x2="80" y2="260" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="320" y1="140" x2="320" y2="260" stroke="#1a1a1a" stroke-width="1.5"/>
+  <circle cx="80" cy="140" r="8" fill="#1a1a1a" opacity="0.8"/>
+  <circle cx="80" cy="260" r="8" fill="#1a1a1a" opacity="0.8"/>
+  <circle cx="200" cy="200" r="8" fill="#1a1a1a" opacity="0.8"/>
+  <circle cx="320" cy="140" r="8" fill="#1a1a1a" opacity="0.8"/>
+  <circle cx="320" cy="260" r="8" fill="#1a1a1a" opacity="0.8"/>
+</svg>

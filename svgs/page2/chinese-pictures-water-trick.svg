@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">CHINESE PICTURES (WATER TRICK)</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  rice paper</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  chemical solutions</text>
+  <text x="56" y="254" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="280" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: A completely plain piece of paper is painted with water — and a</text>
+  <text x="56" y="301" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">hidden image appears as if from nowhere. Method: Use wax-resist art: draw a</text>
+  <text x="56" y="322" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">picture with a white wax crayon or candle stub on white paper — invisible</text>
+  <text x="56" y="343" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">against the white background. When you brush watercolor paint over the whole</text>
+  <text x="56" y="364" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">sheet, the paint sticks everywhere EXCEPT where the wax is, making the image</text>
+  <text x="56" y="385" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">appear. Alternatively, pre-treat paper with a design using rubber cement, let</text>
+  <text x="56" y="406" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">dry, and paint over. A lovely activity as much as a trick. You need: white</text>
+  <text x="56" y="427" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">paper, white crayon or candle, and watercolor paint.</text>
+  <text x="56" y="468" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="492" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Wax-resist art (batik) has been practiced in Indonesia and China for</text>
+  <text x="56" y="510" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">centuries. In Victorian England, a similar technique was used as a children&apos;s</text>
+  <text x="56" y="528" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">amusement - drawing with white crayon on white paper, then painting over it</text>
+  <text x="56" y="546" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">with watercolor to reveal the image.</text>
+  <text x="56" y="580" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="604" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Plain water drawn across special paper reveals an invisible painting, as if</text>
+  <text x="56" y="622" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">conjured from nothing.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Modern Magic (1876)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

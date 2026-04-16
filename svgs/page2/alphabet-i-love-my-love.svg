@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">I LOVE MY LOVE WITH AN A</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Players sit in a circle. The first player fills in this sentence using words</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">starting with A: &apos;I love my love with an A because they are [Amusing]; I took</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">them to the sign of the [Anchor] and treated them to [Apricots]; their name</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">is [Agnes] and they come from [Aberdeen].&apos; Player two uses B, player three</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">uses C, and so on through the alphabet. Anyone who hesitates too long,</text>
+  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">repeats a word already used, or uses the wrong letter is out or must do a</text>
+  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">quick penalty. Q, X, and Z are the real tests.</text>
+  <text x="56" y="425" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="449" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">I Love My Love is mentioned in Lewis Carroll&apos;s Alice Through the</text>
+  <text x="56" y="467" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Looking-Glass, where the White Queen plays it using the letter &apos;M&apos; — its</text>
+  <text x="56" y="485" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">inclusion in one of the most beloved Victorian novels made it a must-know</text>
+  <text x="56" y="503" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">parlor game for the era.</text>
+  <text x="56" y="537" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="561" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Each player in turn must complete the sentence &apos;I love my love with an [A]</text>
+  <text x="56" y="579" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">because she is [Adorable]; I took her to the sign of [the Anchor] and treated</text>
+  <text x="56" y="597" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">her to [Almonds]; her name is [Alice] and she comes from [Aberdeen]&apos; — using</text>
+  <text x="56" y="615" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">a new letter of the alphabet for each round, supplying all words with the</text>
+  <text x="56" y="633" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">same letter.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

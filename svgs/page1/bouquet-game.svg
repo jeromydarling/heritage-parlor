@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-weight="bold" fill="#1a1a1a" letter-spacing="2">BOUQUET</text>
+  <text x="408" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#555">Parlor Game  ·  4+ players  ·  Intermediate</text>
+  <line x1="220" y1="126" x2="596" y2="126" stroke="#ccc" stroke-width="0.75"/>
+  <rect x="80" y="160" width="656" height="736" rx="4" fill="none" stroke="#1a1a1a" stroke-width="1" opacity="0.15"/>
+  <rect x="90" y="170" width="636" height="716" rx="3" fill="none" stroke="#1a1a1a" stroke-width="0.5" opacity="0.1"/>
+  <text x="408" y="420" text-anchor="middle" font-family="serif" font-size="120" fill="#1a1a1a" opacity="0.08">❧</text>
+  <text x="408" y="500" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1a1a1a">Each player draws a card naming a flower.</text>
+  <text x="408" y="532" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1a1a1a">Using the Victorian language of flowers — rose means love, violet</text>
+  <text x="408" y="556" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1a1a1a">means modesty, daisy means innocence, forget-me-not means true love —</text>
+  <text x="408" y="580" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1a1a1a">each player composes a short poetic speech describing someone in the</text>
+  <text x="408" y="604" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1a1a1a">group through their flower&apos;s meaning, and presents it as a</text>
+  <text x="408" y="628" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1a1a1a">compliment.</text>
+  <text x="408" y="660" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#1a1a1a">Group members vote for the most graceful or creative bouquet speech.</text>
+  <text x="408" y="712" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#8b4513">You will need:</text>
+  <text x="408" y="736" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#555">real or paper flowers</text>
+  <text x="408" y="758" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#555">cards with flower names</text>
+  <text x="408" y="1014" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#ccc">Heritage Parlor  ·  Page 1 of 2  ·  Turn over for full instructions</text>
+</svg>

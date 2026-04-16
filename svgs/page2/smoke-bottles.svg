@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE SMOKE BOTTLES</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  two glass bottles</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  hartshorn (ammonia) solution</text>
+  <text x="72" y="236" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  salt solution</text>
+  <text x="72" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  corks</text>
+  <text x="56" y="298" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="324" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Prepare one container with ammonia solution and another with hydrochloric</text>
+  <text x="56" y="345" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">acid solution. When their openings are brought close together, the vapors</text>
+  <text x="56" y="366" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">combine instantly: NH₃ + HCl → NH₄Cl, producing a dense white cloud of</text>
+  <text x="56" y="387" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">ammonium chloride. The effect is dramatic and instant. This demonstration</text>
+  <text x="56" y="408" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">requires adult supervision, proper ventilation, eye protection, and careful</text>
+  <text x="56" y="429" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">handling. Both chemicals are irritants — keep away from face. The same</text>
+  <text x="56" y="450" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">reaction is used in theatrical fog effects today.</text>
+  <text x="56" y="491" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="515" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This reaction between ammonia and hydrochloric acid is so visually dramatic</text>
+  <text x="56" y="533" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">that Victorian chemistry demonstrators called it &apos;bottled lightning&apos; — the</text>
+  <text x="56" y="551" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">white smoke appears instantly and fills a large volume. The same reaction is</text>
+  <text x="56" y="569" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">used today in theatrical fog effects.</text>
+  <text x="56" y="603" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="627" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Two bottles are prepared — one containing hartshorn (ammonia) vapors and one</text>
+  <text x="56" y="645" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">containing muriatic acid (hydrochloric acid) fumes. When their corks are</text>
+  <text x="56" y="663" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">removed simultaneously and the bottle mouths brought close together, a dense</text>
+  <text x="56" y="681" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">white cloud of smoke instantly fills the air between them.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Sociable, or One Thousand and One Home Amusements (1858)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

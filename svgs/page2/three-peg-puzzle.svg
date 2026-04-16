@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE THREE PEG PUZZLE</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  10 pegs or counters in two colors</text>
+  <text x="56" y="232" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Place 5 black pegs on the left side of an 11-hole row, leave the center hole</text>
+  <text x="56" y="279" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">empty, and place 5 white pegs on the right. Black pegs move rightward only;</text>
+  <text x="56" y="300" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">white pegs move leftward only. Legal moves: slide one space forward into an</text>
+  <text x="56" y="321" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">empty hole, or jump over one peg of the opposite color into an empty hole.</text>
+  <text x="56" y="342" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Never move backward. Goal: get all blacks to the right side and all whites to</text>
+  <text x="56" y="363" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">the left in 35 moves. Key tip to avoid deadlock: alternate between</text>
+  <text x="56" y="384" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">single-steps and jumps, and never let three same-colored pegs block each</text>
+  <text x="56" y="405" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">other.</text>
+  <text x="56" y="446" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="470" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">The Leapfrog Puzzle (as it&apos;s also called) is mathematically equivalent to</text>
+  <text x="56" y="488" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">sorting algorithms in computer science. The optimal 35-move solution follows</text>
+  <text x="56" y="506" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">a pattern (1 jump, 2 jumps, 3 jumps...5 jumps...5 jumps, 4 jumps...1 jump)</text>
+  <text x="56" y="524" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">that Hoffmann found &apos;pleasing in its mathematical regularity.&apos;</text>
+  <text x="56" y="558" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="582" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Five black and five white pegs are placed in a row of eleven holes with one</text>
+  <text x="56" y="600" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">empty center hole. Black pegs on the left must reach the right side, white</text>
+  <text x="56" y="618" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">pegs must reach the left — by moving forward one step or jumping over one peg</text>
+  <text x="56" y="636" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">of the opposite color. The challenge is to do it in the minimum number of</text>
+  <text x="56" y="654" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">moves.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: Puzzles Old and New (1893)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

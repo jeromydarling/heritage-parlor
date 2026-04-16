@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 1056" width="816" height="1056">
+  <defs>
+    <pattern id="ph2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#1a1a1a" stroke-width="0.3" opacity="0.05"/>
+    </pattern>
+  </defs>
+  <rect width="816" height="1056" fill="#faf6f0"/>
+  <rect width="816" height="1056" fill="url(#ph2)"/>
+  <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
+  <text x="408" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE INFALLIBLE PROPHET</text>
+  <text x="408" y="114" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="134" x2="596" y2="134" stroke="#ccc" stroke-width="0.75"/>
+  <text x="56" y="166" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="72" y="192" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  ring</text>
+  <text x="72" y="214" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  dime</text>
+  <text x="72" y="236" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  key</text>
+  <text x="72" y="258" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">·  small counters or pebbles</text>
+  <text x="56" y="298" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="56" y="324" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Effect: Three spectators each secretly take one of three objects (a ring, a</text>
+  <text x="56" y="345" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">coin, a key). You turn around. On returning, you announce who took what.</text>
+  <text x="56" y="366" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Method: give three spectators three numbered counters (1, 2, 3) and have them</text>
+  <text x="56" y="387" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">hold their counter with their chosen object. The Latin mnemonic &apos;Nunc Iterum</text>
+  <text x="56" y="408" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Vide&apos; codes the answer: the vowels A, E, I in order correspond to positions</text>
+  <text x="56" y="429" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">1, 2, 3 (ring, coin, key). When you see which counter each person holds, read</text>
+  <text x="56" y="450" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">off the vowel at that position in the phrase to identify their object.</text>
+  <text x="56" y="471" font-family="Georgia, serif" font-size="14" fill="#1a1a1a">Practice until decoding is instant and natural.</text>
+  <text x="56" y="512" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="56" y="536" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">This mnemonic system — using Latin vowels as position codes — appears in</text>
+  <text x="56" y="554" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Italian conjuring manuscripts of the 1580s and may be older. The use of Latin</text>
+  <text x="56" y="572" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">gave the trick an aura of ancient mystical knowledge.</text>
+  <text x="56" y="606" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="56" y="630" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">Three spectators each secretly choose one of three articles — a ring, a dime,</text>
+  <text x="56" y="648" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">and a key. While the performer&apos;s back is turned, three counters are</text>
+  <text x="56" y="666" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">distributed. Returning, the performer divines who took what — using the vowel</text>
+  <text x="56" y="684" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">positions in the Latin phrase &apos;Nunc Iterum Vide&apos; as a memory key for counter</text>
+  <text x="56" y="702" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#555">distributions.</text>
+  <line x1="56" y1="992" x2="760" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="56" y="1012" font-family="Georgia, serif" font-size="11" fill="#555">Source: The Magician&apos;s Own Book (1862)</text>
+  <text x="760" y="1012" text-anchor="end" font-family="Georgia, serif" font-size="11" fill="#555">Heritage Parlor  ·  Page 2 of 2</text>
+</svg>

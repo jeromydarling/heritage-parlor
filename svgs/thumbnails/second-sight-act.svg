@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+<rect width="400" height="400" fill="#faf6f0"/>
+<rect x="20" y="20" width="360" height="360" rx="4" fill="none" stroke="#2a2118" stroke-width="0.5" opacity="0.12"/>
+<circle cx="200" cy="189.0" r="12.0" fill="#2a2118" opacity="0.6"/>
+<line x1="200" y1="201.0" x2="200" y2="245" stroke="#2a2118" stroke-width="4.0" opacity="0.6" stroke-linecap="round"/>
+<line x1="200" y1="245" x2="188.0" y2="277.0" stroke="#2a2118" stroke-width="4.0" opacity="0.6" stroke-linecap="round"/>
+<line x1="200" y1="245" x2="212.0" y2="277.0" stroke="#2a2118" stroke-width="4.0" opacity="0.6" stroke-linecap="round"/>
+<line x1="200" y1="213.0" x2="184.0" y2="233.0" stroke="#2a2118" stroke-width="3.0" opacity="0.6" stroke-linecap="round"/>
+<line x1="200" y1="213.0" x2="224.0" y2="201.0" stroke="#2a2118" stroke-width="3.0" opacity="0.6" stroke-linecap="round"/>
+<path d="M186.0,175 A20,20 0 0,1 214.0,175" fill="none" stroke="#8b4513" stroke-width="1" opacity="0.3"/>
+<path d="M177.6,175 A32,32 0 0,1 222.4,175" fill="none" stroke="#8b4513" stroke-width="1" opacity="0.21999999999999997"/>
+<path d="M169.2,175 A44,44 0 0,1 230.8,175" fill="none" stroke="#8b4513" stroke-width="1" opacity="0.13999999999999999"/>
+<ellipse cx="200" cy="150" rx="16.0" ry="10.0" fill="#f5f0e6" stroke="#2a2118" stroke-width="0.8" opacity="0.5"/>
+<text x="200" y="154.0" text-anchor="middle" font-family="Georgia, serif" font-size="11.0" fill="#2a2118" opacity="0.6">✦</text>
+</svg>
