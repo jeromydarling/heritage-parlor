@@ -2,6 +2,14 @@
 (function() {
 'use strict';
 
+var CUT_OUT_GAMES = [
+  'the-cardboard-puzzle', 'the-widow-s-legacy', 'the-spider-and-the-fly',
+  'the-carpenter-s-puzzle', 'the-beanfeast-puzzle', 'the-button-puzzle',
+  'dice-box-puzzle', 'gordian-knot-puzzle'
+];
+
+function notCutOut(e) { return CUT_OUT_GAMES.indexOf(e.id) === -1; }
+
 var PRE_BUILT_KITS = [
   {
     id: 'rainy-day',
@@ -9,7 +17,7 @@ var PRE_BUILT_KITS = [
     icon: '\ud83c\udf27\ufe0f',
     description: '10 indoor parlor games perfect for when you\'re stuck inside.',
     coverImage: 'svgs/covers/rainy-day.png',
-    filter: function(e) { return e.category === 'parlor-game' && e.playability === 'playable_now'; },
+    filter: function(e) { return e.category === 'parlor-game' && e.playability === 'playable_now' && notCutOut(e); },
     count: 10
   },
   {
@@ -19,7 +27,7 @@ var PRE_BUILT_KITS = [
     description: '8 no-equipment games for waiting at restaurants.',
     coverImage: 'svgs/covers/restaurant.png',
     filter: function(e) {
-      return (e.playability === 'playable_now') &&
+      return (e.playability === 'playable_now') && notCutOut(e) &&
         (!e.equipment_needed || e.equipment_needed.length === 0 || (e.equipment_needed.length === 1 && e.equipment_needed[0].toLowerCase().indexOf('none') !== -1));
     },
     count: 8
@@ -30,7 +38,7 @@ var PRE_BUILT_KITS = [
     icon: '\ud83d\ude97',
     description: '10 word and guessing games for the car.',
     coverImage: 'svgs/covers/road-trip.png',
-    filter: function(e) { return (e.category === 'word-game' || e.subcategory === 'guessing-game') && e.playability === 'playable_now'; },
+    filter: function(e) { return (e.category === 'word-game' || e.subcategory === 'guessing-game') && e.playability === 'playable_now' && notCutOut(e); },
     count: 10
   },
   {
@@ -39,7 +47,7 @@ var PRE_BUILT_KITS = [
     icon: '\ud83c\udf84',
     description: '12 group parlor games for holiday gatherings.',
     coverImage: 'svgs/covers/holiday-party.png',
-    filter: function(e) { return e.category === 'parlor-game' && e.players && (e.players.indexOf('+') !== -1 || e.players.indexOf('6') !== -1 || e.players.indexOf('8') !== -1 || e.players.indexOf('10') !== -1); },
+    filter: function(e) { return e.category === 'parlor-game' && notCutOut(e) && e.players && (e.players.indexOf('+') !== -1 || e.players.indexOf('6') !== -1 || e.players.indexOf('8') !== -1 || e.players.indexOf('10') !== -1); },
     count: 12
   },
   {
@@ -48,7 +56,7 @@ var PRE_BUILT_KITS = [
     icon: '\ud83e\udde0',
     description: '10 puzzles and brain-teasers to challenge your mind.',
     coverImage: 'svgs/covers/brain-teaser.png',
-    filter: function(e) { return e.category === 'puzzle' && e.playability === 'playable_now'; },
+    filter: function(e) { return e.category === 'puzzle' && e.playability === 'playable_now' && notCutOut(e); },
     count: 10
   }
 ];
