@@ -8,26 +8,30 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE PIGS OF WIDOW GREEN</text>
-  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  paper</text>
-  <text x="126" y="268" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  pencil</text>
-  <text x="110" y="308" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="334" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Widow Green has a rectangular pen divided into a grid of sections.</text>
-  <text x="110" y="355" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">She wants to arrange her pigs so each row and column has a specific</text>
-  <text x="110" y="376" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">number. This is a constraint-satisfaction puzzle — try different</text>
-  <text x="110" y="397" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">arrangements using trial and adjustment, or set up equations. Draw</text>
-  <text x="110" y="418" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">the grid, label the sections, and work through the constraints one</text>
-  <text x="110" y="439" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">at a time. Multiple valid arrangements may exist.</text>
-  <text x="110" y="480" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="504" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Farm arithmetic puzzles were especially popular in Victorian</text>
-  <text x="110" y="522" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">England when most families had some connection to rural life —</text>
-  <text x="110" y="540" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">pigs, cows, and sheep were familiar mathematical actors.</text>
-  <text x="110" y="574" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="598" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Place pigs in rows so that each of several specific row-sums is</text>
-  <text x="110" y="616" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">satisfied simultaneously.</text>
-  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="256" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">THE PIGS OF WIDOW GREEN</text>
+  <text x="408" y="278" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="298" x2="596" y2="298" stroke="#ccc" stroke-width="0.75"/>
+  <text x="220" y="330" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="236" y="356" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  paper</text>
+  <text x="236" y="378" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  pencil</text>
+  <text x="220" y="418" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="220" y="444" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Widow Green has a rectangular pen divided into a</text>
+  <text x="220" y="465" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">grid of sections. She wants to arrange her pigs</text>
+  <text x="220" y="486" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">so each row and column has a specific number.</text>
+  <text x="220" y="507" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">This is a constraint-satisfaction puzzle — try</text>
+  <text x="220" y="528" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">different arrangements using trial and</text>
+  <text x="220" y="549" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">adjustment, or set up equations. Draw the grid,</text>
+  <text x="220" y="570" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">label the sections, and work through the</text>
+  <text x="220" y="591" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">constraints one at a time. Multiple valid</text>
+  <text x="220" y="612" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">arrangements may exist.</text>
+  <text x="220" y="653" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="220" y="677" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Farm arithmetic puzzles were especially popular</text>
+  <text x="220" y="695" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">in Victorian England when most families had some</text>
+  <text x="220" y="713" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">connection to rural life — pigs, cows, and sheep</text>
+  <text x="220" y="731" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">were familiar mathematical actors.</text>
+  <text x="220" y="765" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="220" y="789" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Place pigs in rows so that each of several</text>
+  <text x="220" y="807" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">specific row-sums is satisfied simultaneously.</text>
+  <line x1="220" y1="992" x2="596" y2="992" stroke="#ccc" stroke-width="0.5"/>
   <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: Amusements in Mathematics (1917)  ·  Heritage Parlor</text>
 </svg>

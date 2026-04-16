@@ -8,35 +8,38 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">SYMPATHETIC OR INVISIBLE INKS</text>
-  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  lemon juice or milk (for heat-revealed)</text>
-  <text x="126" y="268" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  paper</text>
-  <text x="126" y="290" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  candle or heat source</text>
-  <text x="110" y="330" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="356" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Write a secret message using lemon juice (or milk) on plain white</text>
-  <text x="110" y="377" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">paper — dip a toothpick or small brush in the juice and write</text>
-  <text x="110" y="398" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">carefully. Let it dry completely until invisible. To reveal: hold</text>
-  <text x="110" y="419" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">the paper a few inches above a candle or warm light bulb. The</text>
-  <text x="110" y="440" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">organic acids in the lemon juice char at a lower temperature than</text>
-  <text x="110" y="461" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">the paper, making the letters appear in brown. A modern iron on a</text>
-  <text x="110" y="482" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">low setting also works. For extra fun: use different invisible inks</text>
-  <text x="110" y="503" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">that require different developers — lemon juice needs heat, while</text>
-  <text x="110" y="524" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">other formulas need chemical developers.</text>
-  <text x="110" y="565" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="589" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Invisible ink has a serious intelligence history: George</text>
-  <text x="110" y="607" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Washington&apos;s spy network used a silver nitrate formula during the</text>
-  <text x="110" y="625" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">American Revolutionary War, with Hercules Mulligan as a key</text>
-  <text x="110" y="643" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">operative. The formula was invented by James Jay, brother of</text>
-  <text x="110" y="661" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Founding Father John Jay.</text>
-  <text x="110" y="695" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="719" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Various recipes produce invisible writing that can only be revealed</text>
-  <text x="110" y="737" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">by specific treatments: lemon juice or milk revealed by heat, lead</text>
-  <text x="110" y="755" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">acetate made visible by hydrogen sulfide gas, and sulphate of iron</text>
-  <text x="110" y="773" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">revealed by oak galls solution. The book provides multiple formulas</text>
-  <text x="110" y="791" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">for different secret writing scenarios.</text>
-  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="256" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">SYMPATHETIC OR INVISIBLE INKS</text>
+  <text x="408" y="278" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="298" x2="596" y2="298" stroke="#ccc" stroke-width="0.75"/>
+  <text x="220" y="330" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="236" y="356" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  lemon juice or milk (for heat-revealed)</text>
+  <text x="236" y="378" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  paper</text>
+  <text x="236" y="400" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  candle or heat source</text>
+  <text x="220" y="440" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="220" y="466" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Write a secret message using lemon juice (or</text>
+  <text x="220" y="487" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">milk) on plain white paper — dip a toothpick or</text>
+  <text x="220" y="508" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">small brush in the juice and write carefully. Let</text>
+  <text x="220" y="529" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">it dry completely until invisible. To reveal:</text>
+  <text x="220" y="550" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">hold the paper a few inches above a candle or</text>
+  <text x="220" y="571" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">warm light bulb. The organic acids in the lemon</text>
+  <text x="220" y="592" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">juice char at a lower temperature than the paper,</text>
+  <text x="220" y="613" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">making the letters appear in brown. A modern iron</text>
+  <text x="220" y="634" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">on a low setting also works. For extra fun: use</text>
+  <text x="220" y="655" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">different invisible inks that require different</text>
+  <text x="220" y="676" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">developers — lemon juice needs heat, while other</text>
+  <text x="220" y="697" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">formulas need chemical developers.</text>
+  <text x="220" y="738" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="220" y="762" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Invisible ink has a serious intelligence history:</text>
+  <text x="220" y="780" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">George Washington&apos;s spy network used a silver</text>
+  <text x="220" y="798" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">nitrate formula during the American Revolutionary</text>
+  <text x="220" y="816" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">War, with Hercules Mulligan as a key operative.</text>
+  <text x="220" y="834" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">The formula was invented by James Jay, brother of</text>
+  <text x="220" y="852" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Founding Father John Jay.</text>
+  <text x="220" y="886" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="220" y="910" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Various recipes produce invisible writing that</text>
+  <text x="220" y="928" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">can only be revealed by specific treatments:</text>
+  <text x="220" y="946" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">lemon juice or milk revealed by heat, lead</text>
+  <text x="220" y="964" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">acetate made visible by hydrogen sulfide gas, and</text>
+  <line x1="220" y1="992" x2="596" y2="992" stroke="#ccc" stroke-width="0.5"/>
   <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: The Magician&apos;s Own Book (1862)  ·  Heritage Parlor</text>
 </svg>

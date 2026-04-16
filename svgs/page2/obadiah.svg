@@ -8,30 +8,37 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">OBADIAH</text>
-  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
-  <text x="110" y="286" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="312" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">The leader starts a chain: first everyone twiddles their thumbs.</text>
-  <text x="110" y="333" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">The next instruction adds dropping to one knee — everyone does both</text>
-  <text x="110" y="354" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">at once. More actions pile on: lean sideways, stretch one arm out,</text>
-  <text x="110" y="375" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">wiggle your head. Each new instruction must be added while keeping</text>
-  <text x="110" y="396" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">all the previous ones going simultaneously. When the pile is</text>
-  <text x="110" y="417" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">gloriously absurd, the leader leans onto the next person and the</text>
-  <text x="110" y="438" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">whole row collapses in a heap.</text>
-  <text x="110" y="479" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="503" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Obadiah is an East Anglian game named for the distinctly non-heroic</text>
-  <text x="110" y="521" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Old Testament figure, and its cumulative collapse mechanic is</text>
-  <text x="110" y="539" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">closely related to the cumulative songs like &apos;Twelve Days of</text>
-  <text x="110" y="557" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Christmas&apos; in which each verse repeats all that came before.</text>
-  <text x="110" y="591" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="615" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Players stand in a row. The head child says in a sing-song manner:</text>
-  <text x="110" y="633" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">&apos;My son Obadiah is going to be married, twiddle your thumbs!&apos; All</text>
-  <text x="110" y="651" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">twiddle. The next adds &apos;Fall on one knee!&apos; — all comply while still</text>
-  <text x="110" y="669" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">twiddling. Head adds &apos;Do as you see me.&apos; As the last child repeats,</text>
-  <text x="110" y="687" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">the head falls onto the next, and all collapse like ninepins.</text>
-  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="256" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">OBADIAH</text>
+  <text x="408" y="278" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="298" x2="596" y2="298" stroke="#ccc" stroke-width="0.75"/>
+  <text x="220" y="330" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="236" y="356" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Nothing special — just the game board on page 1.</text>
+  <text x="220" y="396" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="220" y="422" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">The leader starts a chain: first everyone</text>
+  <text x="220" y="443" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">twiddles their thumbs. The next instruction adds</text>
+  <text x="220" y="464" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">dropping to one knee — everyone does both at</text>
+  <text x="220" y="485" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">once. More actions pile on: lean sideways,</text>
+  <text x="220" y="506" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">stretch one arm out, wiggle your head. Each new</text>
+  <text x="220" y="527" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">instruction must be added while keeping all the</text>
+  <text x="220" y="548" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">previous ones going simultaneously. When the pile</text>
+  <text x="220" y="569" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">is gloriously absurd, the leader leans onto the</text>
+  <text x="220" y="590" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">next person and the whole row collapses in a</text>
+  <text x="220" y="611" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">heap.</text>
+  <text x="220" y="652" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="220" y="676" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Obadiah is an East Anglian game named for the</text>
+  <text x="220" y="694" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">distinctly non-heroic Old Testament figure, and</text>
+  <text x="220" y="712" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">its cumulative collapse mechanic is closely</text>
+  <text x="220" y="730" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">related to the cumulative songs like &apos;Twelve Days</text>
+  <text x="220" y="748" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">of Christmas&apos; in which each verse repeats all</text>
+  <text x="220" y="766" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">that came before.</text>
+  <text x="220" y="800" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="220" y="824" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Players stand in a row. The head child says in a</text>
+  <text x="220" y="842" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">sing-song manner: &apos;My son Obadiah is going to be</text>
+  <text x="220" y="860" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">married, twiddle your thumbs!&apos; All twiddle. The</text>
+  <text x="220" y="878" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">next adds &apos;Fall on one knee!&apos; — all comply while</text>
+  <text x="220" y="896" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">still twiddling. Head adds &apos;Do as you see me.&apos; As</text>
+  <text x="220" y="914" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">the last child repeats, the head falls onto the</text>
+  <text x="220" y="932" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">next, and all collapse like ninepins.</text>
+  <line x1="220" y1="992" x2="596" y2="992" stroke="#ccc" stroke-width="0.5"/>
   <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. II (1898)  ·  Heritage Parlor</text>
 </svg>

@@ -8,29 +8,34 @@
   <rect width="816" height="1056" fill="#faf6f0"/>
   <rect width="816" height="1056" fill="url(#ph2)"/>
   <rect x="24" y="24" width="768" height="1008" rx="2" fill="none" stroke="#1a1a1a" stroke-width="0.75" opacity="0.2"/>
-  <text x="408" y="146" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">BRIDGEBOARD</text>
-  <text x="408" y="168" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
-  <line x1="220" y1="188" x2="596" y2="188" stroke="#ccc" stroke-width="0.75"/>
-  <text x="110" y="220" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
-  <text x="126" y="246" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  wooden board with arched holes</text>
-  <text x="126" y="268" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  marbles</text>
-  <text x="110" y="308" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
-  <text x="110" y="334" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Set up a wooden board with arched holes cut along its base against</text>
-  <text x="110" y="355" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">a wall. Each arch has a number above it — but the highest numbers</text>
-  <text x="110" y="376" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">sit above the smallest, hardest-to-reach arches. Players take turns</text>
-  <text x="110" y="397" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">rolling marbles from an agreed line, trying to thread a marble</text>
-  <text x="110" y="418" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">through an arch. Success wins you that many marbles from the bank.</text>
-  <text x="110" y="439" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">A miss means you lose your marble to the bank. You can make a board</text>
-  <text x="110" y="460" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">from cardboard.</text>
-  <text x="110" y="501" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
-  <text x="110" y="525" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Bridgeboard was a commercially popular carnival game as well as a</text>
-  <text x="110" y="543" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">children&apos;s folk game, with various board vendors setting up at</text>
-  <text x="110" y="561" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">fairs and markets where children could try their luck.</text>
-  <text x="110" y="595" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
-  <text x="110" y="619" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">A board about a foot wide and four inches tall has numbered squares</text>
-  <text x="110" y="637" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">or holes along its ground edge, with numbers placed irregularly.</text>
-  <text x="110" y="655" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Players bowl marbles through the holes to win the number written</text>
-  <text x="110" y="673" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">above. A miss means the marble is lost to the board&apos;s owner.</text>
-  <line x1="110" y1="992" x2="706" y2="992" stroke="#ccc" stroke-width="0.5"/>
+  <text x="408" y="256" text-anchor="middle" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="22" font-weight="bold" fill="#1a1a1a" letter-spacing="2">BRIDGEBOARD</text>
+  <text x="408" y="278" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="12" fill="#555">Instructions</text>
+  <line x1="220" y1="298" x2="596" y2="298" stroke="#ccc" stroke-width="0.75"/>
+  <text x="220" y="330" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">What You Need</text>
+  <text x="236" y="356" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  wooden board with arched holes</text>
+  <text x="236" y="378" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">·  marbles</text>
+  <text x="220" y="418" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">How to Play</text>
+  <text x="220" y="444" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">Set up a wooden board with arched holes cut along</text>
+  <text x="220" y="465" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">its base against a wall. Each arch has a number</text>
+  <text x="220" y="486" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">above it — but the highest numbers sit above the</text>
+  <text x="220" y="507" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">smallest, hardest-to-reach arches. Players take</text>
+  <text x="220" y="528" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">turns rolling marbles from an agreed line, trying</text>
+  <text x="220" y="549" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">to thread a marble through an arch. Success wins</text>
+  <text x="220" y="570" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">you that many marbles from the bank. A miss means</text>
+  <text x="220" y="591" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">you lose your marble to the bank. You can make a</text>
+  <text x="220" y="612" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="14" fill="#1a1a1a">board from cardboard.</text>
+  <text x="220" y="653" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#8b4513">Did You Know?</text>
+  <text x="220" y="677" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">Bridgeboard was a commercially popular carnival</text>
+  <text x="220" y="695" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">game as well as a children&apos;s folk game, with</text>
+  <text x="220" y="713" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">various board vendors setting up at fairs and</text>
+  <text x="220" y="731" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">markets where children could try their luck.</text>
+  <text x="220" y="765" font-family="&apos;Playfair Display&apos;, Georgia, serif" font-size="17" font-weight="bold" fill="#1a1a1a">Original Victorian Description</text>
+  <text x="220" y="789" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">A board about a foot wide and four inches tall</text>
+  <text x="220" y="807" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">has numbered squares or holes along its ground</text>
+  <text x="220" y="825" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">edge, with numbers placed irregularly. Players</text>
+  <text x="220" y="843" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">bowl marbles through the holes to win the number</text>
+  <text x="220" y="861" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">written above. A miss means the marble is lost to</text>
+  <text x="220" y="879" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="13" font-style="italic" fill="#555">the board&apos;s owner.</text>
+  <line x1="220" y1="992" x2="596" y2="992" stroke="#ccc" stroke-width="0.5"/>
   <text x="408" y="1012" text-anchor="middle" font-family="&apos;Source Sans 3&apos;, Georgia, sans-serif" font-size="11" fill="#555">Source: The Traditional Games of England, Scotland, and Ireland, Vol. I (1894)  ·  Heritage Parlor</text>
 </svg>

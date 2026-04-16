@@ -350,6 +350,7 @@ function printMultipleGames(gameIds, title, coverImage) {
     /* Game pages wrapper */
     '.game-page { }' +
     '.game-page img { width: 100%; height: 100%; object-fit: contain; }' +
+    '.game-page svg { width: 100%; height: 100%; display: block; }' +
 
     /* Page number footer */
     '.page-num { position: absolute; bottom: 0.45in; left: 0; right: 0; text-align: center; font: 300 9px "Source Sans 3", sans-serif; color: #999; letter-spacing: 1px; }' +
@@ -416,56 +417,65 @@ function printMultipleGames(gameIds, title, coverImage) {
       '<div class="page-num"><span>' + currentPage + '</span></div>' +
     '</div>';
 
-  // Game pages
-  games.forEach(function(game, idx) {
-    // Page 1 — game board / diagram
-    currentPage++;
-    html +=
-      '<div class="page game-page">' +
-        '<img src="svgs/page1/' + game.id + '.svg" alt="' + game.title + ' \u2014 Game Board" />' +
-        '<div class="page-num"><span>' + currentPage + '</span></div>' +
-      '</div>';
-
-    // Page 2 — instructions
-    currentPage++;
-    html +=
-      '<div class="page game-page">' +
-        '<img src="svgs/page2/' + game.id + '.svg" alt="' + game.title + ' \u2014 Instructions" />' +
-        '<div class="page-num"><span>' + currentPage + '</span></div>' +
-      '</div>';
+  // Fetch all SVGs inline (so fonts from parent document apply)
+  var svgFetches = [];
+  games.forEach(function(game) {
+    svgFetches.push(fetch('svgs/page1/' + game.id + '.svg').then(function(r) { return r.text(); }));
+    svgFetches.push(fetch('svgs/page2/' + game.id + '.svg').then(function(r) { return r.text(); }));
   });
 
-  // Back cover
-  currentPage++;
-  // Collect unique source books
-  var sourceBooks = {};
-  games.forEach(function(g) { sourceBooks[g.source_book + ' (' + g.source_year + ')'] = true; });
-  var bookList = Object.keys(sourceBooks).sort().join(' &middot; ');
+  Promise.all(svgFetches).then(function(svgTexts) {
+    // Game pages — svgTexts alternates: page1, page2, page1, page2...
+    games.forEach(function(game, idx) {
+      var p1Svg = svgTexts[idx * 2];
+      var p2Svg = svgTexts[idx * 2 + 1];
 
-  html +=
-    '<div class="page back">' +
-      borderFrame +
-      '<div style="margin-bottom:0.4in;">' + ornamentLine + '</div>' +
-      '<div class="back__brand">Heritage Parlor</div>' +
-      '<div class="back__tagline">502 parlor games, magic tricks, puzzles &amp; amusements from thirteen classic Victorian-era books \u2014 all in the public domain and free forever.</div>' +
-      '<div class="back__url">HERITAGEPARLOR.COM</div>' +
-      '<div style="margin-bottom:0.4in;">' + ornamentLine + '</div>' +
-      '<div class="back__legal">This collection is drawn entirely from public domain works. No copyright is claimed. Print, share, and enjoy freely.</div>' +
-      '<div class="back__books">Sources: ' + bookList + '</div>' +
-    '</div>';
+      currentPage++;
+      html +=
+        '<div class="page game-page">' +
+          p1Svg +
+          '<div class="page-num"><span>' + currentPage + '</span></div>' +
+        '</div>';
 
-  w.document.write('<!DOCTYPE html><html><head>' +
-    '<base href="' + base + '">' +
-    '<meta charset="UTF-8">' +
-    '<title>' + title + ' \u2014 Heritage Parlor</title>' +
-    '<style>' + css + '</style>' +
-    '</head><body>' +
-    '<div class="no-print"><strong>' + title + '</strong> &mdash; ' + games.length + ' games, ' + currentPage + ' pages ' +
-    '<button onclick="window.print()">Print Booklet</button>' +
-    '<button onclick="window.close()">Close</button></div>' +
-    html +
-    '</body></html>');
-  w.document.close();
+      currentPage++;
+      html +=
+        '<div class="page game-page">' +
+          p2Svg +
+          '<div class="page-num"><span>' + currentPage + '</span></div>' +
+        '</div>';
+    });
+
+    // Back cover
+    currentPage++;
+    var sourceBooks = {};
+    games.forEach(function(g) { sourceBooks[g.source_book + ' (' + g.source_year + ')'] = true; });
+    var bookList = Object.keys(sourceBooks).sort().join(' &middot; ');
+
+    html +=
+      '<div class="page back">' +
+        borderFrame +
+        '<div style="margin-bottom:0.4in;">' + ornamentLine + '</div>' +
+        '<div class="back__brand">Heritage Parlor</div>' +
+        '<div class="back__tagline">502 parlor games, magic tricks, puzzles &amp; amusements from thirteen classic Victorian-era books \u2014 all in the public domain and free forever.</div>' +
+        '<div class="back__url">HERITAGEPARLOR.COM</div>' +
+        '<div style="margin-bottom:0.4in;">' + ornamentLine + '</div>' +
+        '<div class="back__legal">This collection is drawn entirely from public domain works. No copyright is claimed. Print, share, and enjoy freely.</div>' +
+        '<div class="back__books">Sources: ' + bookList + '</div>' +
+      '</div>';
+
+    w.document.write('<!DOCTYPE html><html><head>' +
+      '<base href="' + base + '">' +
+      '<meta charset="UTF-8">' +
+      '<title>' + title + ' \u2014 Heritage Parlor</title>' +
+      '<style>' + css + '</style>' +
+      '</head><body>' +
+      '<div class="no-print"><strong>' + title + '</strong> &mdash; ' + games.length + ' games, ' + currentPage + ' pages ' +
+      '<button onclick="window.print()">Print Booklet</button>' +
+      '<button onclick="window.close()">Close</button></div>' +
+      html +
+      '</body></html>');
+    w.document.close();
+  });
 }
 
 function showOrderConfirmation(kitTitle, gameIds) {

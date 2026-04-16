@@ -20,7 +20,7 @@ board_dark = "#d4c5a9"   # darker cream for alternating squares
 def esc(text):
     return str(text).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace("'", '&apos;').replace('"', '&quot;')
 
-def wrap_text(text, max_chars=68):
+def wrap_text(text, max_chars=50):
     words = str(text).split()
     lines, current = [], ''
     for word in words:
@@ -72,8 +72,7 @@ def page1_shell(entry, W=816, H=1056):
 
 def page2_content(entry, W=816, H=1056):
     """Generate page 2 instructions. Returns SVG string."""
-    m = 110
-    content_w = W - 2 * m
+    m = 220
     heading = "&apos;Playfair Display&apos;, Georgia, serif"
     body = "&apos;Source Sans 3&apos;, Georgia, sans-serif"
     parts = [f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">
@@ -94,7 +93,7 @@ def page2_content(entry, W=816, H=1056):
     parts.append(f'  <text x="{W//2}" y="{y}" text-anchor="middle" font-family="{heading}" font-size="22" font-weight="bold" fill="{ink}" letter-spacing="2">{esc(title)}</text>')
     parts.append(f'  <text x="{W//2}" y="{y + 22}" text-anchor="middle" font-family="{body}" font-size="12" fill="{light}">Instructions</text>')
     y += 42
-    parts.append(f'  <line x1="220" y1="{y}" x2="{W-220}" y2="{y}" stroke="{rule}" stroke-width="0.75"/>')
+    parts.append(f'  <line x1="{m}" y1="{y}" x2="{W-m}" y2="{y}" stroke="{rule}" stroke-width="0.75"/>')
     y += 32
     
     # What You Need
