@@ -8,6 +8,7 @@ var PRE_BUILT_KITS = [
     title: 'Rainy Day Kit',
     icon: '\ud83c\udf27\ufe0f',
     description: '10 indoor parlor games perfect for when you\'re stuck inside.',
+    coverImage: 'svgs/covers/rainy-day.png',
     filter: function(e) { return e.category === 'parlor-game' && e.playability === 'playable_now'; },
     count: 10
   },
@@ -16,6 +17,7 @@ var PRE_BUILT_KITS = [
     title: 'Restaurant Kit',
     icon: '\ud83c\udf7d\ufe0f',
     description: '8 no-equipment games for waiting at restaurants.',
+    coverImage: 'svgs/covers/restaurant.png',
     filter: function(e) {
       return (e.playability === 'playable_now') &&
         (!e.equipment_needed || e.equipment_needed.length === 0 || (e.equipment_needed.length === 1 && e.equipment_needed[0].toLowerCase().indexOf('none') !== -1));
@@ -27,6 +29,7 @@ var PRE_BUILT_KITS = [
     title: 'Road Trip Kit',
     icon: '\ud83d\ude97',
     description: '10 word and guessing games for the car.',
+    coverImage: 'svgs/covers/road-trip.png',
     filter: function(e) { return (e.category === 'word-game' || e.subcategory === 'guessing-game') && e.playability === 'playable_now'; },
     count: 10
   },
@@ -35,6 +38,7 @@ var PRE_BUILT_KITS = [
     title: 'Holiday Party Kit',
     icon: '\ud83c\udf84',
     description: '12 group parlor games for holiday gatherings.',
+    coverImage: 'svgs/covers/holiday-party.png',
     filter: function(e) { return e.category === 'parlor-game' && e.players && (e.players.indexOf('+') !== -1 || e.players.indexOf('6') !== -1 || e.players.indexOf('8') !== -1 || e.players.indexOf('10') !== -1); },
     count: 12
   },
@@ -43,6 +47,7 @@ var PRE_BUILT_KITS = [
     title: 'Brain Teaser Kit',
     icon: '\ud83e\udde0',
     description: '10 puzzles and brain-teasers to challenge your mind.',
+    coverImage: 'svgs/covers/brain-teaser.png',
     filter: function(e) { return e.category === 'puzzle' && e.playability === 'playable_now'; },
     count: 10
   }
@@ -242,25 +247,25 @@ window.orderKit = function(kitId) {
   var kit = PRE_BUILT_KITS.find(function(k) { return k.id === kitId; });
   if (!kit) return;
   var games = window.ENTRIES.filter(kit.filter).slice(0, kit.count);
-  showOrderConfirmation(kit.title, games.map(function(g) { return g.id; }));
+  showOrderConfirmation(kit.title, games.map(function(g) { return g.id; }), kit.coverImage);
 };
 
 window.orderCustomKit = function() {
-  showOrderConfirmation('Custom Kit', Array.from(customKitGames));
+  showOrderConfirmation('Custom Kit', Array.from(customKitGames), null);
 };
 
 window.downloadKit = function(kitId) {
   var kit = PRE_BUILT_KITS.find(function(k) { return k.id === kitId; });
   if (!kit) return;
   var games = window.ENTRIES.filter(kit.filter).slice(0, kit.count);
-  printMultipleGames(games.map(function(g) { return g.id; }), kit.title);
+  printMultipleGames(games.map(function(g) { return g.id; }), kit.title, kit.coverImage);
 };
 
 window.downloadCustomKit = function() {
-  printMultipleGames(Array.from(customKitGames), 'Custom Kit');
+  printMultipleGames(Array.from(customKitGames), 'Custom Kit', null);
 };
 
-function printMultipleGames(gameIds, title) {
+function printMultipleGames(gameIds, title, coverImage) {
   var w = window.open('', '_blank');
   if (!w) {
     var toast = document.createElement('div');
@@ -321,11 +326,14 @@ function printMultipleGames(gameIds, title) {
     /* Cover page */
     '.cover { display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 1.5in; }' +
     '.cover__ornament-top { margin-bottom: 0.4in; }' +
-    '.cover__brand { font: 300 11px "Source Sans 3", sans-serif; letter-spacing: 6px; text-transform: uppercase; color: #8b4513; margin-bottom: 0.3in; }' +
-    '.cover__title { font: 700 42px/1.1 "Playfair Display", Georgia, serif; color: #1a1a1a; margin-bottom: 0.15in; letter-spacing: 1px; }' +
-    '.cover__subtitle { font: 300 16px/1.5 "Source Sans 3", sans-serif; color: #555; margin-bottom: 0.5in; max-width: 4in; }' +
-    '.cover__meta { font: 400 13px "Source Sans 3", sans-serif; color: #8b4513; letter-spacing: 1px; }' +
-    '.cover__ornament-bottom { margin-top: 0.5in; }' +
+    '.cover__brand { font: 300 11px "Source Sans 3", sans-serif; letter-spacing: 6px; text-transform: uppercase; color: #8b4513; margin-bottom: 0.2in; }' +
+    '.cover__illustration { width: 5in; height: 5in; border-radius: 8px; object-fit: cover; border: 2px solid rgba(139,69,19,0.15); box-shadow: 0 4px 20px rgba(0,0,0,0.08); margin-bottom: 0.25in; }' +
+    '.cover__title { font: 700 38px/1.1 "Playfair Display", Georgia, serif; color: #1a1a1a; margin-bottom: 0.1in; letter-spacing: 1px; }' +
+    '.cover--illustrated .cover__title { font-size: 32px; }' +
+    '.cover__subtitle { font: 300 14px/1.5 "Source Sans 3", sans-serif; color: #555; margin-bottom: 0.35in; max-width: 4in; }' +
+    '.cover--illustrated .cover__subtitle { font-size: 12px; margin-bottom: 0.2in; }' +
+    '.cover__meta { font: 400 12px "Source Sans 3", sans-serif; color: #8b4513; letter-spacing: 1px; }' +
+    '.cover__ornament-bottom { margin-top: 0.3in; }' +
     '.cover__footer { position: absolute; bottom: 0.8in; left: 0; right: 0; text-align: center; font: 300 10px "Source Sans 3", sans-serif; color: #999; letter-spacing: 2px; }' +
 
     /* Table of contents */
@@ -367,14 +375,18 @@ function printMultipleGames(gameIds, title) {
 
   // Cover page
   currentPage++;
+  var hasIllustration = !!coverImage;
   html +=
-    '<div class="page cover">' +
+    '<div class="page cover' + (hasIllustration ? ' cover--illustrated' : '') + '">' +
       borderFrame +
       '<div class="cover__ornament-top">' + ornamentLine + '</div>' +
       '<div class="cover__brand">HERITAGE PARLOR</div>' +
+      (hasIllustration
+        ? '<img class="cover__illustration" src="' + coverImage + '" alt="' + title + ' illustration" />'
+        : '') +
       '<div class="cover__title">' + title + '</div>' +
       '<div class="cover__subtitle">' + games.length + ' Victorian-era games, tricks &amp; puzzles curated from public domain books published between 1857 and 1917.</div>' +
-      '<div class="cover__ornament-bottom">' + ornamentLine + '</div>' +
+      (hasIllustration ? '' : '<div class="cover__ornament-bottom">' + ornamentLine + '</div>') +
       '<div class="cover__meta">' + games.length + ' Games &middot; ' + (games.length * 2) + ' Pages</div>' +
       '<div class="cover__footer">ALL PUBLIC DOMAIN &middot; FREE FOREVER</div>' +
     '</div>';
