@@ -131,27 +131,27 @@ var KITS = [
   {
     id: 'rainy-day',
     title: 'Rainy Day Kit',
-    prompt: 'Victorian parlor interior illustration, warm sepia and brown ink-and-watercolor style on aged cream paper. A family of four — a father, mother, and two children — gathered around a round table by a tall rain-streaked window, oil lamp glowing, playing a card game together. Patterned wallpaper, heavy curtains, potted fern. Cozy and intimate atmosphere. Style of 1880s book illustration. Ornate decorative border with corner flourishes. No text or letters.'
+    prompt: 'Hand-painted watercolor and ink illustration in the style of an 1880s book plate. NOT a photograph. Warm sepia, brown, and ochre tones on aged cream paper with visible brushstrokes and ink linework. A family of four — a father, mother, and two children — gathered around a round table by a tall rain-streaked window, oil lamp glowing, playing a card game together. Patterned wallpaper, heavy curtains, potted fern. Cozy and intimate atmosphere. Ornate hand-drawn decorative border with corner flourishes. No text or letters.'
   },
   {
     id: 'restaurant',
     title: 'Restaurant Kit',
-    prompt: 'Victorian restaurant illustration, warm sepia and brown ink-and-watercolor style on aged cream paper. A family — father, mother, and a young child — seated at a round table with white tablecloth, candle, and teacups, playing a word game together while waiting for dinner. Tiled floor, arched window, potted palm. Style of 1890s magazine illustration. Ornate decorative border with corner flourishes. No text or letters.'
+    prompt: 'Hand-painted watercolor and ink illustration in the style of an 1890s magazine plate. NOT a photograph. Warm sepia, brown, and ochre tones on aged cream paper with visible brushstrokes and ink linework. A family — father, mother, and a young child — seated at a round table with white tablecloth, candle, and teacups, playing a word game together while waiting for dinner. Victorian restaurant with tiled floor, arched window, potted palm. Ornate hand-drawn decorative border with corner flourishes. No text or letters.'
   },
   {
     id: 'road-trip',
     title: 'Road Trip Kit',
-    prompt: 'Victorian travel illustration, warm sepia and brown ink-and-watercolor style on aged cream paper. Family inside an ornate railway carriage compartment, passing countryside through the window. Mother and children playing guessing games, father consulting a folded map. Luggage on overhead rack. Style of 1870s travel book illustration. Ornate decorative border with corner flourishes. No text or letters.'
+    prompt: 'Hand-painted watercolor and ink illustration in the style of an 1870s travel book plate. NOT a photograph. Warm sepia, brown, and ochre tones on aged cream paper with visible brushstrokes and ink linework. A family inside an ornate Victorian railway carriage compartment, passing countryside through the window. Mother and children playing guessing games, father consulting a folded map. Luggage on overhead rack. Ornate hand-drawn decorative border with corner flourishes. No text or letters.'
   },
   {
     id: 'holiday-party',
     title: 'Holiday Party Kit',
-    prompt: 'Victorian Christmas parlor illustration, warm sepia and brown ink-and-watercolor style on aged cream paper. Grand parlor with roaring fireplace, evergreen garlands and wreath, candles on mantelpiece. A large multigenerational family — grandparents, parents, and children of various ages — in festive dress playing parlor games together, laughing warmly. Christmas tree in corner. Style of 1880s holiday book illustration. Ornate decorative border with corner flourishes. No text or letters.'
+    prompt: 'Hand-painted watercolor and ink illustration in the style of an 1880s holiday book plate. NOT a photograph. Warm sepia, brown, and ochre tones on aged cream paper with visible brushstrokes and ink linework. Grand Victorian parlor with roaring fireplace, evergreen garlands and wreath, candles on mantelpiece. A large multigenerational family — grandparents, parents, and children of various ages — in festive dress playing parlor games together, laughing warmly. Christmas tree in corner. Ornate hand-drawn decorative border with corner flourishes. No text or letters.'
   },
   {
     id: 'brain-teaser',
     title: 'Brain Teaser Kit',
-    prompt: 'Victorian scientific illustration, warm sepia and brown ink-and-watercolor style on aged cream paper. A study desk with geometric puzzles: tangram pieces, a compass and protractor, nested wooden boxes, an astrolabe, scattered puzzle cards, and a magnifying glass. Bookshelf in background. Style of 1890s scientific journal frontispiece. Ornate decorative border with corner flourishes. No text or letters.'
+    prompt: 'Hand-painted watercolor and ink illustration in the style of an 1890s scientific journal frontispiece. NOT a photograph. Warm sepia, brown, and ochre tones on aged cream paper with visible brushstrokes and ink linework. A Victorian study desk with geometric puzzles: tangram pieces, a compass and protractor, nested wooden boxes, an astrolabe, scattered puzzle cards, and a magnifying glass. Bookshelf in background. Ornate hand-drawn decorative border with corner flourishes. No text or letters.'
   }
 ];
 
@@ -227,7 +227,8 @@ async function generateOne(kit, key) {
       },
       body: JSON.stringify({
         prompt: kit.prompt,
-        style: 'realistic_image',
+        style: 'digital_illustration',
+        substyle: 'hand_drawn',
         model: 'recraftv3',
         size: '1024x1024',
         response_format: 'url'
